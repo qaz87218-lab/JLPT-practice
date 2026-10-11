@@ -1,0 +1,26 @@
+{
+  "name": "jlpt-deep-practice-app",
+  "version": "0.3.5",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start:preview": "npx serve out",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "verify:data": "node scripts/verify-data.mjs"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}

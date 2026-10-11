@@ -1,0 +1,5515 @@
+[
+  {
+    "id": "JLPT-N2-TRY-001",
+    "pattern": "～につき",
+    "meaningZh": "因為～／每～",
+    "connection": "名詞＋につき",
+    "explanation": "多用於通知、告示，說明原因；也可表示「每一單位」的計算基準。語氣比「ので」正式。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "多見公告與告示，不能當成普通因果「から」所有情況的替代。",
+    "similarGrammar": "～ので：普通理由；～につき：公告正式理由／每單位。",
+    "examples": [
+      {
+        "ja": "本日は工事につき休業します。",
+        "reading": "ほんじつはこうじにつききゅうぎょうします。",
+        "zh": "本日因施工暫停營業。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "チケットは一人につき二枚までです。",
+        "reading": "チケットはひとりにつきにまいまでです。",
+        "zh": "門票每人限購兩張。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "オープンにつき",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 1,
+    "sourceBookPage": 19,
+    "sourcePdfPage": 30,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第1章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-002",
+    "pattern": "～を問わず",
+    "meaningZh": "不論～",
+    "connection": "名詞＋を問わず",
+    "explanation": "表示某一條件或分類不影響結論，常見於招募或規定；後接同樣適用的待遇或結果。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "固定用於不以該項條件區分對象，例如國籍、年齡、性別等。",
+    "similarGrammar": "～にかかわらず：與條件無關；～を問わず：不問某一區分。",
+    "examples": [
+      {
+        "ja": "経験の有無を問わず応募できます。",
+        "reading": "けいけんのうむをとわずおうぼできます。",
+        "zh": "無論有沒有經驗都能應徵。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "年齢を問わず参加できます。",
+        "reading": "ねんれいをとわずさんかできます。",
+        "zh": "不分年齡皆可參加。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "国籍を問わず",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 1,
+    "sourceBookPage": 19,
+    "sourcePdfPage": 30,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第1章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-003",
+    "pattern": "～に限り",
+    "meaningZh": "僅限～",
+    "connection": "名詞＋に限り",
+    "explanation": "限定對象、日期或條件，在公告中常見。與「に限って」的特別情況語感不同。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「N2レベル以上の方に限り」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～に限り：特定對象限定；～に限って：偏偏在某情況下。",
+    "examples": [
+      {
+        "ja": "学生に限り入場料が無料です。",
+        "reading": "がくせいにかぎりにゅうじょうりょうがむりょうです。",
+        "zh": "僅限學生免入場費。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "本日に限り一割引きです。",
+        "reading": "ほんじつにかぎりいちわりびきです。",
+        "zh": "僅限今天打九折。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "N2レベル以上の方に限り",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 1,
+    "sourceBookPage": 20,
+    "sourcePdfPage": 31,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第1章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-004",
+    "pattern": "～に応じて",
+    "meaningZh": "依照～；隨～而",
+    "connection": "名詞＋に応じて",
+    "explanation": "依條件、需求或能力差異調整做法，重點在「對應變化」，不是單純依據資料作判斷。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "「に応じて」強調根據條件調整，不能直接替代「根據資料」的「に基づいて」。",
+    "similarGrammar": "～によって：依據、原因等較廣泛；～に応じて：隨條件調整。",
+    "examples": [
+      {
+        "ja": "経験に応じて給料が変わります。",
+        "reading": "けいけんにおうじてきゅうりょうがかわります。",
+        "zh": "薪資依經驗而不同。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "希望に応じて時間を調整します。",
+        "reading": "きぼうにおうじてじかんをちょうせいします。",
+        "zh": "依需求調整時間。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "経験年数に応じ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 1,
+    "sourceBookPage": 21,
+    "sourcePdfPage": 32,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第1章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-005",
+    "pattern": "～にかかわらず",
+    "meaningZh": "不管～；無論是否～",
+    "connection": "名詞＋にかかわらず／普通形＋かどうかにかかわらず",
+    "explanation": "表示前項條件不影響後項成立。正式規章常用，與表逆接「にもかかわらず」不同。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "「にかかわらず」表示條件不影響結果，「にもかかわらず」表示逆接，不可混同。",
+    "similarGrammar": "～にもかかわらず：儘管～卻～；～にかかわらず：不論～。",
+    "examples": [
+      {
+        "ja": "天候にかかわらず試合を行います。",
+        "reading": "てんこうにかかわらずしあいをおこないます。",
+        "zh": "無論天氣如何都舉行比賽。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "結果にかかわらずご連絡します。",
+        "reading": "けっかにかかわらずごれんらくします。",
+        "zh": "無論結果如何都會通知您。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "採否にかかわらず",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 1,
+    "sourceBookPage": 22,
+    "sourcePdfPage": 33,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第1章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-006",
+    "pattern": "～において",
+    "meaningZh": "在～場合、領域／地點",
+    "connection": "名詞＋において／における＋名詞",
+    "explanation": "正式說明某事件發生的場所、時間或領域；比「で」書面。修飾名詞用「における」。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "「における」只能用在修飾名詞時；「において」用於句子述語前。",
+    "similarGrammar": "～で：一般地點；～において：正式、領域或場合。",
+    "examples": [
+      {
+        "ja": "会議は東京において開かれます。",
+        "reading": "かいぎはとうきょうにおいてひらかれます。",
+        "zh": "會議將在東京召開。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "教育における課題を考えます。",
+        "reading": "きょういくにおけるかだいをかんがえます。",
+        "zh": "思考教育領域的課題。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "当店において",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 1,
+    "sourceBookPage": 23,
+    "sourcePdfPage": 34,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第1章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-007",
+    "pattern": "～際に",
+    "meaningZh": "在～之際",
+    "connection": "名詞＋の際に／動詞辭書形・た形＋際に",
+    "explanation": "正式表達特定時機，常用於服務說明或手續通知。與平常的「とき」相比較鄭重。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "「際」常見公文規章；日常對話一般使用「とき」。",
+    "similarGrammar": "～に際して：重要或正式場合；～とき：一般時間。",
+    "examples": [
+      {
+        "ja": "入場の際に券を見せてください。",
+        "reading": "にゅうじょうのさいにけんをみせてください。",
+        "zh": "入場時請出示票券。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "申し込む際には住所が必要です。",
+        "reading": "もうしこむさいにはじゅうしょがひつようです。",
+        "zh": "申請時需要地址。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "面接の際に",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 1,
+    "sourceBookPage": 24,
+    "sourcePdfPage": 35,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第1章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-008",
+    "pattern": "～こと",
+    "meaningZh": "必須～（規定）",
+    "connection": "動詞辭書形・ない形＋こと",
+    "explanation": "句尾以「こと」表示指示、禁止或規定，多見於校規、注意事項；不是一般名詞化句子的用法。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「履歴書持参のこと」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～こと：規章式義務；～なければならない：口語／文章中的明確義務。",
+    "examples": [
+      {
+        "ja": "教室では静かにすること。",
+        "reading": "きょうしつではしずかにすること。",
+        "zh": "教室內須保持安靜。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "申込書は金曜日までに出すこと。",
+        "reading": "もうしこみしょはきんようびまでにだすこと。",
+        "zh": "申請書須於週五前繳交。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "履歴書持参のこと",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 1,
+    "sourceBookPage": 25,
+    "sourcePdfPage": 36,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第1章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-009",
+    "pattern": "～以来",
+    "meaningZh": "自從～以來",
+    "connection": "動詞て形＋以来／名詞＋以来",
+    "explanation": "以過去某事件為起點，描述一直延續到現在的狀態。與只指起點的「から」相比，持續性更明確。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「入社して以来」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～以来：從某時起持續；～てから：從某時點以後，不必表示持續。",
+    "examples": [
+      {
+        "ja": "日本に来て以来、毎日日本語を使っています。",
+        "reading": "にほんにきていらい、まいにちにほんごをつかっています。",
+        "zh": "來日本後一直每天使用日語。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "卒業以来、彼に会っていません。",
+        "reading": "そつぎょういらい、かれにあっていません。",
+        "zh": "畢業以來就沒見過他。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "入社して以来",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 30,
+    "sourcePdfPage": 41,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-010",
+    "pattern": "～をはじめ",
+    "meaningZh": "以～為首",
+    "connection": "名詞＋をはじめ（として）",
+    "explanation": "以代表性的例子帶出同類事物或人物，並非單純表示事情的開始。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「部長をはじめ」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～をはじめ：舉出代表性例子；～など：一般列舉。",
+    "examples": [
+      {
+        "ja": "社長をはじめ、社員全員が参加しました。",
+        "reading": "しゃちょうをはじめ、しゃいんぜんいんがさんかしました。",
+        "zh": "以社長為首，全體員工都參加了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "京都をはじめ多くの都市を訪れました。",
+        "reading": "きょうとをはじめおおくのとしをおとずれました。",
+        "zh": "造訪了以京都為首的許多城市。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "部長をはじめ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 31,
+    "sourcePdfPage": 42,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-011",
+    "pattern": "～のもとで",
+    "meaningZh": "在～指導或條件之下",
+    "connection": "名詞＋のもとで／のもとに",
+    "explanation": "表示在指導、管理、方針或某條件下進行行動；不表示實際空間上的物品下方。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「先輩方のご指導のもとで」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～のもとで：在指導、條件之下；～に基づいて：依據某項準則。",
+    "examples": [
+      {
+        "ja": "先生の指導のもとで研究しています。",
+        "reading": "せんせいのしどうのもとでけんきゅうしています。",
+        "zh": "在老師指導下進行研究。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "新しい制度のもとで働いています。",
+        "reading": "あたらしいせいどのもとではたらいています。",
+        "zh": "在新制度下工作。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "先輩方のご指導のもとで",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 32,
+    "sourcePdfPage": 43,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-012",
+    "pattern": "～はもとより",
+    "meaningZh": "不用說～；不僅～",
+    "connection": "名詞＋はもとより",
+    "explanation": "先提出理所當然的項目，再擴及其他項目；語氣比「だけでなく」正式。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「仕事の進め方はもとより」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～はもとより：不用說 A，B 也成立；～だけでなく：不只 A 還有 B。",
+    "examples": [
+      {
+        "ja": "彼は英語はもとより中国語も話せます。",
+        "reading": "かれはえいごはもとよりちゅうごくごもはなせます。",
+        "zh": "他不只會英語，也會說中文。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "品質はもとより価格も重要です。",
+        "reading": "ひんしつはもとよりかかくもじゅうようです。",
+        "zh": "品質不用說，價格也很重要。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "仕事の進め方はもとより",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 33,
+    "sourcePdfPage": 44,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-013",
+    "pattern": "～ものだ",
+    "meaningZh": "本來就～；往往～",
+    "connection": "普通形＋ものだ",
+    "explanation": "陳述一般常理、經驗法則或帶感慨的看法；若是回想過去習慣，意思不同。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "「ものだ」有一般常理、忠告和回憶等不同用法，不能全部當成「本來就」。",
+    "similarGrammar": "～べきだ：應做的義務；～ものだ：一般原則／常理。",
+    "examples": [
+      {
+        "ja": "人は失敗から学ぶものです。",
+        "reading": "ひとはしっぱいからまなぶものです。",
+        "zh": "人往往從失敗中學習。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "努力すれば少しずつ上達するものです。",
+        "reading": "どりょくすればすこしずつじょうたつするものです。",
+        "zh": "持續努力總會慢慢進步。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "人は失敗から学ぶものだ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 34,
+    "sourcePdfPage": 45,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-014",
+    "pattern": "～上で",
+    "meaningZh": "在做～時；～方面",
+    "connection": "動詞辭書形＋上で／名詞＋の上で",
+    "explanation": "指出完成某行動或考慮某問題時的重要條件。要與「た上で」（做完之後）區分。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "此處「上で」表示進行某事時的考量，另有「た上で」表示做完再做。",
+    "similarGrammar": "～た上で：先完成A再B；～る上で：做A時的必要條件。",
+    "examples": [
+      {
+        "ja": "仕事をする上で信頼は大切です。",
+        "reading": "しごとをするうえでしんらいはたいせつです。",
+        "zh": "工作時信任很重要。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "生活する上で水は欠かせません。",
+        "reading": "せいかつするうえでみずはかかせません。",
+        "zh": "生活中水不可或缺。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "仕事をする上で",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 34,
+    "sourcePdfPage": 45,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-015",
+    "pattern": "～ながら（も）",
+    "meaningZh": "雖然～但是～",
+    "connection": "動詞ます形／い形容詞／な形容詞語幹／名詞＋ながら（も）",
+    "explanation": "表示與預期不一致的逆接；不是表示同時進行兩項動作的「ながら」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "接續依詞性略有差異，不能只套「ます形」。",
+    "similarGrammar": "～にもかかわらず：正式逆接；～ながら（も）：帶轉折的敘述。",
+    "examples": [
+      {
+        "ja": "小さいながらも人気のある店です。",
+        "reading": "ちいさいながらもにんきのあるみせです。",
+        "zh": "雖然店很小，卻很受歡迎。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "残念ながら参加できません。",
+        "reading": "ざんねんながらさんかできません。",
+        "zh": "很遺憾無法參加。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "残念ながら",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 35,
+    "sourcePdfPage": 46,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-016",
+    "pattern": "～を目的として",
+    "meaningZh": "以～為目的",
+    "connection": "名詞＋を目的として／を目的とした＋名詞",
+    "explanation": "以行動目標作為說明焦點，常見於企畫、研究或政策說明。與單純表示用途的「ために」相比書面。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「輸出拡大を目的としたプロジェクト」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～を目的として：以 A 為目的；～のために：為了 A，較一般。",
+    "examples": [
+      {
+        "ja": "交流を目的としてイベントを開きます。",
+        "reading": "こうりゅうをもくてきとしてイベントをひらきます。",
+        "zh": "以交流為目的舉辦活動。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "安全を目的とした研修です。",
+        "reading": "あんぜんをもくてきとしたけんしゅうです。",
+        "zh": "這是以安全為目標的培訓。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "輸出拡大を目的としたプロジェクト",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 38,
+    "sourcePdfPage": 49,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-017",
+    "pattern": "～をきっかけに",
+    "meaningZh": "以～為契機",
+    "connection": "名詞＋をきっかけに／として",
+    "explanation": "某件事促成後來的改變或行動，契機本身不必是直接原因。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「この転勤をきっかけに」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～をきっかけに：某事件成為起因；～を契機に：較正式的重大轉機。",
+    "examples": [
+      {
+        "ja": "留学をきっかけに考え方が変わりました。",
+        "reading": "りゅうがくをきっかけにかんがえかたがかわりました。",
+        "zh": "以留學為契機，想法改變了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "友人の紹介をきっかけに知り合いました。",
+        "reading": "ゆうじんのしょうかいをきっかけにしりあいました。",
+        "zh": "因朋友介紹而結識。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "この転勤をきっかけに",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 39,
+    "sourcePdfPage": 50,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-018",
+    "pattern": "～からには",
+    "meaningZh": "既然～就～",
+    "connection": "動詞・形容詞普通形＋からには／名詞・な形容詞＋であるからには",
+    "explanation": "既然已作出決定或處在某立場，後項就應負起責任或採取相應行動。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "和條件「～たら」不同，前項為已作出的決定或既成事實。",
+    "similarGrammar": "～以上は／～上は：既然如此；～からには：決心、責任。",
+    "examples": [
+      {
+        "ja": "引き受けたからには最後までやります。",
+        "reading": "ひきうけたからにはさいごまでやります。",
+        "zh": "既然接下了就會做到最後。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "参加するからには全力を尽くします。",
+        "reading": "さんかするからにはぜんりょくをつくします。",
+        "zh": "既然參加就會全力以赴。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "やるからには",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 40,
+    "sourcePdfPage": 51,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-019",
+    "pattern": "～わけではない",
+    "meaningZh": "並非～；不代表～",
+    "connection": "普通形＋わけではない",
+    "explanation": "否定某種過度概括或推斷，而非把整個命題完全否定。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "表部分否定，不代表「完全否定」。",
+    "similarGrammar": "～わけがない：絕無可能；～わけではない：並非一定。",
+    "examples": [
+      {
+        "ja": "嫌いなわけではありません。",
+        "reading": "きらいなわけではありません。",
+        "zh": "並不是討厭。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "高いものが必ずいいわけではない。",
+        "reading": "たかいものがかならずいいわけではない。",
+        "zh": "昂貴的東西不一定好。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "なくなるというわけではありません",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 42,
+    "sourcePdfPage": 53,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-020",
+    "pattern": "～ことなく",
+    "meaningZh": "不～而～",
+    "connection": "動詞辭書形＋ことなく",
+    "explanation": "表示未進行前項動作，直接進行後項，書面語相當於「ないで」。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「これまでと変わることなく」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～ことなく：不做 A 而做 B；～ないで：較口語的「不～就～」。",
+    "examples": [
+      {
+        "ja": "彼は休むことなく働き続けました。",
+        "reading": "かれはやすむことなくはたらきつづけました。",
+        "zh": "他沒有休息地持續工作。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "何も言うことなく部屋を出ました。",
+        "reading": "なにもいうことなくへやをでました。",
+        "zh": "什麼都沒說就走出了房間。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "これまでと変わることなく",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 43,
+    "sourcePdfPage": 54,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-021",
+    "pattern": "～にもかかわらず",
+    "meaningZh": "儘管～卻～",
+    "connection": "名詞／普通形＋にもかかわらず",
+    "explanation": "前項本應導出某種結果，實際卻相反；比「のに」正式，也可接名詞。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「雨にもかかわらず」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～にもかかわらず：雖然 A 卻 B；～にかかわらず：無論 A 都 B。",
+    "examples": [
+      {
+        "ja": "雨にもかかわらず大会は開かれました。",
+        "reading": "あめにもかかわらずたいかいはひらかれました。",
+        "zh": "儘管下雨，大會仍照常舉行。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "努力したにもかかわらず失敗しました。",
+        "reading": "どりょくしたにもかかわらずしっぱいしました。",
+        "zh": "儘管努力了，還是失敗了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "雨にもかかわらず",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 44,
+    "sourcePdfPage": 55,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-022",
+    "pattern": "～として",
+    "meaningZh": "作為～",
+    "connection": "名詞＋として／としての＋名詞",
+    "explanation": "以身分、資格或角色定位人物與事物；「としての」後面修飾名詞。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「スタッフとしての心構え」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～として：身分／角色；～について：關於某主題。",
+    "examples": [
+      {
+        "ja": "私は通訳として働いています。",
+        "reading": "わたしはつうやくとしてはたらいています。",
+        "zh": "我以口譯員身分工作。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "親としての責任を考えます。",
+        "reading": "おやとしてのせきにんをかんがえます。",
+        "zh": "思考身為父母的責任。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "スタッフとしての心構え",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 3,
+    "sourceBookPage": 51,
+    "sourcePdfPage": 62,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第3章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-023",
+    "pattern": "～限り",
+    "meaningZh": "只要～；在～期間",
+    "connection": "動詞普通形＋限り／名詞＋である限り",
+    "explanation": "前項持續成立的期間內，後項也成立；另有表示「據所知」等不同用法，不可混淆。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「仕事を続ける限り」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～限り：在條件或期間持續下；～間：只表示時間。",
+    "examples": [
+      {
+        "ja": "元気な限り仕事を続けたいです。",
+        "reading": "げんきなかぎりしごとをつづけたいです。",
+        "zh": "只要健康就想繼續工作。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "約束した限りは守らなければなりません。",
+        "reading": "やくそくしたかぎりはまもらなければなりません。",
+        "zh": "既然約定了就必須遵守。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "仕事を続ける限り",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 3,
+    "sourceBookPage": 51,
+    "sourcePdfPage": 62,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第3章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-024",
+    "pattern": "～ざるを得ない",
+    "meaningZh": "不得不～",
+    "connection": "動詞ない形去ない＋ざるを得ない（する→せざるを得ない）",
+    "explanation": "雖然不願意，但因情勢不得不做，含有別無選擇的語感。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "「する」的變化是「せざるを得ない」，不可寫成「しざるを得ない」。",
+    "similarGrammar": "～しかない：只能；～ざるを得ない：不得已。",
+    "examples": [
+      {
+        "ja": "予定を変更せざるを得ません。",
+        "reading": "よていをへんこうせざるをえません。",
+        "zh": "不得不變更計畫。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "雨なので試合を中止せざるを得ない。",
+        "reading": "あめなのでしあいをちゅうしせざるをえない。",
+        "zh": "因為下雨不得不中止比賽。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "対応せざるを得ない",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 3,
+    "sourceBookPage": 53,
+    "sourcePdfPage": 64,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第3章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-025",
+    "pattern": "～というものではない",
+    "meaningZh": "不是只要～就好",
+    "connection": "普通形＋というものではない",
+    "explanation": "反駁對方把事情過度簡化的看法，表示不能僅以單一條件判斷。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "常否定過度簡化的判斷，不是單純否認前一事件。",
+    "similarGrammar": "～わけではない：並非；～というものではない：不能一概而論。",
+    "examples": [
+      {
+        "ja": "謝ればいいというものではありません。",
+        "reading": "あやまればいいというものではありません。",
+        "zh": "不是道歉就能了事。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "安ければ売れるというものではない。",
+        "reading": "やすければうれるというものではない。",
+        "zh": "不是便宜就一定賣得出去。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "謝ればいいというものではありません",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 3,
+    "sourceBookPage": 53,
+    "sourcePdfPage": 64,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第3章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-026",
+    "pattern": "～はともかくとして",
+    "meaningZh": "姑且不論～",
+    "connection": "名詞＋はともかく（として）",
+    "explanation": "先把某議題擱置，改強調後面的核心觀點；不表示前項完全不重要。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「正当なものかどうかはともかくとして」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～はともかく：把 A 暫放一邊；～はさておき：更明顯轉移議題。",
+    "examples": [
+      {
+        "ja": "結果はともかく努力を認めます。",
+        "reading": "けっかはともかくどりょくをみとめます。",
+        "zh": "結果姑且不論，我肯定他的努力。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "味はともかく値段が高すぎます。",
+        "reading": "あじはともかくねだんがたかすぎます。",
+        "zh": "味道先不談，價格實在太高。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "正当なものかどうかはともかくとして",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 3,
+    "sourceBookPage": 54,
+    "sourcePdfPage": 65,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第3章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-027",
+    "pattern": "～かねない",
+    "meaningZh": "恐怕會～；可能導致不良結果",
+    "connection": "動詞ます形去ます＋かねない",
+    "explanation": "說明可能發生令人擔心的事態，通常用於負面結果；不等於「不會做」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "常接不良結果，不是一般中性的可能性；「かねる」則表示難以。",
+    "similarGrammar": "～かねる：難以做；～かねない：可能導致壞結果。",
+    "examples": [
+      {
+        "ja": "このままでは事故が起こりかねません。",
+        "reading": "このままではじこがおこりかねません。",
+        "zh": "這樣下去恐怕會發生事故。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "誤解を招きかねない表現です。",
+        "reading": "ごかいをまねきかねないひょうげんです。",
+        "zh": "這是可能引發誤解的說法。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "信頼を失いかねません",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 3,
+    "sourceBookPage": 55,
+    "sourcePdfPage": 66,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第3章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-028",
+    "pattern": "～というより",
+    "meaningZh": "與其說～不如說～",
+    "connection": "普通形＋というより",
+    "explanation": "修正前面不夠精確的稱呼或評價，提出更貼切的說法。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「お客様というより」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～というより：修正原先表述；～ではなく：直接否定替換。",
+    "examples": [
+      {
+        "ja": "彼は上司というより友達のようです。",
+        "reading": "かれはじょうしというよりともだちのようです。",
+        "zh": "他與其說是上司，更像朋友。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "寒いというより痛いくらいです。",
+        "reading": "さむいというよりいたいくらいです。",
+        "zh": "與其說冷，簡直是冷到痛。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "お客様というより",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 3,
+    "sourceBookPage": 56,
+    "sourcePdfPage": 67,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第3章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-029",
+    "pattern": "～てはいられない",
+    "meaningZh": "不能再一直～",
+    "connection": "動詞て形＋はいられない",
+    "explanation": "因時間緊迫或情勢改變，表示不能再維持原有行動或狀態；常有必須行動的語氣。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「安心してはいられません」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～てはいられない：不能再繼續現狀；～わけにはいかない：道義上不能。",
+    "examples": [
+      {
+        "ja": "もう待ってはいられません。",
+        "reading": "もうまってはいられません。",
+        "zh": "已經不能再等了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "試験前だから遊んではいられない。",
+        "reading": "しけんまえだからあそんではいられない。",
+        "zh": "考試在即，不能再玩了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "安心してはいられません",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 3,
+    "sourceBookPage": 57,
+    "sourcePdfPage": 68,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第3章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-030",
+    "pattern": "～つつ",
+    "meaningZh": "一邊～一邊～；雖然～",
+    "connection": "動詞ます形去ます＋つつ",
+    "explanation": "書面語，表示兩動作同時進行；另有逆接用法，需以文脈判斷。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "「つつ」也可表示明知故犯的逆接，應由語境判斷。",
+    "similarGrammar": "～ながら：常見同時進行；～つつ：書面、也有逆接。",
+    "examples": [
+      {
+        "ja": "将来を考えつつ働いています。",
+        "reading": "しょうらいをかんがえつつはたらいています。",
+        "zh": "一面工作一面思考未來。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "地図を見つつ目的地へ進みました。",
+        "reading": "ちずをみつつもくてきちへすすみました。",
+        "zh": "邊看地圖邊前往目的地。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "速度を速めつつ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 4,
+    "sourceBookPage": 63,
+    "sourcePdfPage": 74,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第4章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-031",
+    "pattern": "～にわたって",
+    "meaningZh": "遍及～；長達～",
+    "connection": "數量・場所・期間名詞＋にわたって",
+    "explanation": "強調範圍之廣或持續時間之長，常見於新聞報導。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「広範囲にわたって」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～にわたって：涵蓋整段時間或區域；～にかけて：從 A 到 B 的大致範圍。",
+    "examples": [
+      {
+        "ja": "全国にわたって雨が降りました。",
+        "reading": "ぜんこくにわたってあめがふりました。",
+        "zh": "全國各地都下雨了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "三日間にわたって会議が開かれました。",
+        "reading": "みっかかんにわたってかいぎがひらかれました。",
+        "zh": "會議連續舉行了三天。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "広範囲にわたって",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 4,
+    "sourceBookPage": 63,
+    "sourcePdfPage": 74,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第4章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-032",
+    "pattern": "～から～にかけて",
+    "meaningZh": "從～到～一帶",
+    "connection": "名詞＋から＋名詞＋にかけて",
+    "explanation": "指不精確的空間或時間範圍；與端點明確的「から～まで」不同。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「九州沿岸から四国にかけて」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～から～にかけて：大致跨越範圍；～から～まで：明確起訖。",
+    "examples": [
+      {
+        "ja": "朝から昼にかけて雨が降ります。",
+        "reading": "あさからひるにかけてあめがふります。",
+        "zh": "從早上到中午這段時間會下雨。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "関東から東北にかけて雪が降りました。",
+        "reading": "かんとうからとうほくにかけてゆきがふりました。",
+        "zh": "關東到東北一帶下了雪。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "九州沿岸から四国にかけて",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 4,
+    "sourceBookPage": 64,
+    "sourcePdfPage": 75,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第4章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-033",
+    "pattern": "～に伴い",
+    "meaningZh": "隨著～；伴隨～",
+    "connection": "名詞＋に伴って／動詞辭書形＋に伴って",
+    "explanation": "表示一種變化與另一現象相伴產生，偏向客觀變動或連動。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「台風の接近にともない」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～に伴って：伴隨某個變化；～につれて：兩個事物同步變化。",
+    "examples": [
+      {
+        "ja": "人口の増加に伴って交通量も増えました。",
+        "reading": "じんこうのぞうかにともなってこうつうりょうもふえました。",
+        "zh": "人口增加的同時交通量也增加了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "気温が下がるに伴って雪が増えます。",
+        "reading": "きおんがさがるにともなってゆきがふえます。",
+        "zh": "隨著氣溫下降，降雪量會增加。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "台風の接近にともない",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 4,
+    "sourceBookPage": 65,
+    "sourcePdfPage": 76,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第4章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-034",
+    "pattern": "～おそれがある",
+    "meaningZh": "有～之虞",
+    "connection": "動詞辭書形／名詞＋の＋おそれがある",
+    "explanation": "正式表達不好的結果有可能發生，常用於風險提醒。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「雨が降るおそれがあります」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～おそれがある：有壞事發生的風險；～かもしれない：中性可能性。",
+    "examples": [
+      {
+        "ja": "大雨で川があふれるおそれがあります。",
+        "reading": "おおあめでかわがあふれるおそれがあります。",
+        "zh": "大雨可能造成河水氾濫。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "台風の影響で欠航のおそれがあります。",
+        "reading": "たいふうのえいきょうでけっこうのおそれがあります。",
+        "zh": "受颱風影響可能停航。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "雨が降るおそれがあります",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 4,
+    "sourceBookPage": 66,
+    "sourcePdfPage": 77,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第4章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-035",
+    "pattern": "～とともに",
+    "meaningZh": "隨～一起；同時～",
+    "connection": "名詞＋とともに／動詞辭書形＋とともに",
+    "explanation": "可表示共同伴隨、同步變化或兩事件同時發生；依搭配而有不同解釋。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "「とともに」可表示同行或同步變化，不同接續分別理解。",
+    "similarGrammar": "～に伴って：伴隨變化；～とともに：一起／同時。",
+    "examples": [
+      {
+        "ja": "年齢とともに体力が変わります。",
+        "reading": "ねんれいとともにたいりょくがかわります。",
+        "zh": "隨著年齡增長，體力會改變。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "家族とともに新年を迎えました。",
+        "reading": "かぞくとともにしんねんをむかえました。",
+        "zh": "與家人一同迎接新年。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "強風とともに",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 4,
+    "sourceBookPage": 66,
+    "sourcePdfPage": 77,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第4章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-036",
+    "pattern": "～次第",
+    "meaningZh": "一～就立即～",
+    "connection": "動詞ます形去ます＋次第",
+    "explanation": "前項完成後立刻進行後項，常用於工作安排與正式聯絡；不等於名詞「次第」的依據用法。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "不可誤解為名詞「次第」（依…而定）；本項指動作完成後立即進行。",
+    "similarGrammar": "～次第で：取決於；～次第：一完成就。",
+    "examples": [
+      {
+        "ja": "結果が分かり次第連絡します。",
+        "reading": "けっかがわかりしだいれんらくします。",
+        "zh": "結果一出來就會聯絡。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "準備ができ次第出発します。",
+        "reading": "じゅんびができしだいしゅっぱつします。",
+        "zh": "準備好就出發。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "中継がつながり次第",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 4,
+    "sourceBookPage": 67,
+    "sourcePdfPage": 78,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第4章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-037",
+    "pattern": "～きり",
+    "meaningZh": "自從～之後一直沒～",
+    "connection": "動詞た形＋きり",
+    "explanation": "某件事完成後，預期的後續行動沒有發生，常搭配否定或持續狀態。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「京都に行ったきり」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～たきり：從某事件後維持原樣；～て以来：從事件起一直如此。",
+    "examples": [
+      {
+        "ja": "友達は出かけたきり戻りません。",
+        "reading": "ともだちはでかけたきりもどりません。",
+        "zh": "朋友出門後就沒回來。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "彼とは卒業してから会ったきりです。",
+        "reading": "かれとはそつぎょうしてからあったきりです。",
+        "zh": "畢業後只見過他那一次。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "京都に行ったきり",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 5,
+    "sourceBookPage": 72,
+    "sourcePdfPage": 83,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第5章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-038",
+    "pattern": "～どころではない",
+    "meaningZh": "哪裡還有心情～",
+    "connection": "名詞＋どころではない／動詞辭書形＋どころではない",
+    "explanation": "當下情況不容許做某事，語氣比「できない」更強，含忙亂或緊迫感。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「旅行どころじゃない」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～どころではない：沒餘力做 A；～どころか：非但不是 A 反而 B。",
+    "examples": [
+      {
+        "ja": "忙しくて旅行どころではありません。",
+        "reading": "いそがしくてりょこうどころではありません。",
+        "zh": "忙得根本沒空旅行。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "熱が高くて勉強どころではない。",
+        "reading": "ねつがたかくてべんきょうどころではない。",
+        "zh": "高燒到根本無法學習。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "旅行どころじゃない",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 5,
+    "sourceBookPage": 74,
+    "sourcePdfPage": 85,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第5章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-039",
+    "pattern": "～ものの",
+    "meaningZh": "雖然～但是～",
+    "connection": "普通形＋ものの",
+    "explanation": "正式逆接，承認前項事實成立，但後項與預期不同，常接未達成或保留結果。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "書面轉折句；不可誤當作名詞「もの」。",
+    "similarGrammar": "～けれども：一般逆接；～ものの：書面，雖然～但～。",
+    "examples": [
+      {
+        "ja": "説明を聞いたもののよく分かりません。",
+        "reading": "せつめいをきいたもののよくわかりません。",
+        "zh": "雖然聽了說明卻不太懂。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "買ったもののまだ使っていません。",
+        "reading": "かったもののまだつかっていません。",
+        "zh": "買了卻還沒使用。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "情報は集めているものの",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 5,
+    "sourceBookPage": 74,
+    "sourcePdfPage": 85,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第5章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-040",
+    "pattern": "～ことに",
+    "meaningZh": "令人～的是",
+    "connection": "動詞た形／い形容詞／な形容詞＋な＋ことに",
+    "explanation": "表示說話者對整件事的主觀評價，常接驚訝、遺憾或高興等感情。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「困ったことに」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～ことに：說話者對整件事的情緒評價；～そうだ：外觀／傳聞。",
+    "examples": [
+      {
+        "ja": "驚いたことに全員が合格しました。",
+        "reading": "おどろいたことにぜんいんがごうかくしました。",
+        "zh": "令人驚訝的是所有人都及格了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "残念なことに試合は中止になりました。",
+        "reading": "ざんねんなことにしあいはちゅうしになりました。",
+        "zh": "遺憾的是比賽取消了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "困ったことに",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 5,
+    "sourceBookPage": 75,
+    "sourcePdfPage": 86,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第5章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-041",
+    "pattern": "～にしては",
+    "meaningZh": "以～而言卻～",
+    "connection": "名詞＋にしては／普通形＋にしては",
+    "explanation": "以前項的身分、狀況作判斷標準，指出實際結果與一般預期不同。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「人気の業界にしては」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～にしては：和標準或期待不符；～のわりに：與比例或一般預期不同。",
+    "examples": [
+      {
+        "ja": "新人にしては仕事が早いですね。",
+        "reading": "しんじんにしてはしごとがはやいですね。",
+        "zh": "以新人來說，工作速度真快。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "冬にしては暖かい日です。",
+        "reading": "ふゆにしてはあたたかいひです。",
+        "zh": "以冬天而言，今天算暖和。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "人気の業界にしては",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 5,
+    "sourceBookPage": 76,
+    "sourcePdfPage": 87,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第5章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-042",
+    "pattern": "～ことか",
+    "meaningZh": "多麼～啊",
+    "connection": "普通形＋ことか／疑問詞＋普通形＋ことか",
+    "explanation": "表示強烈感情，常搭配「どんなに／何度／どれほど」；不是提出真正的疑問。",
+    "nuance": "口語中情緒色彩較強。",
+    "usageCautions": "通常搭配疑問詞與強烈感情，重點不是詢問。",
+    "similarGrammar": "～ことか：感嘆；～かどうか：是否疑問。",
+    "examples": [
+      {
+        "ja": "どれほど心配したことか。",
+        "reading": "どれほどしんぱいしたことか。",
+        "zh": "不知道有多擔心啊。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "この日を何度夢に見たことか。",
+        "reading": "このひをなんどゆめにみたことか。",
+        "zh": "不知夢想過這一天多少次。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "何回書いたことか",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 5,
+    "sourceBookPage": 76,
+    "sourcePdfPage": 87,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第5章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-043",
+    "pattern": "～さえ～ば",
+    "meaningZh": "只要連～都～",
+    "connection": "名詞＋さえ＋條件形（ば・たら）",
+    "explanation": "提出某項最低必要條件，表示只要它成立就能達成後項；「さえ」凸顯該條件的重要性。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「やる気さえあれば」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～さえ～ば：唯一關鍵條件；～だけで：只憑某行動便可。",
+    "examples": [
+      {
+        "ja": "時間さえあれば旅行したいです。",
+        "reading": "じかんさえあればりょこうしたいです。",
+        "zh": "只要有時間就想旅行。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "名前さえ分かれば調べられます。",
+        "reading": "なまえさえわかればしらべられます。",
+        "zh": "只要知道名字就能查詢。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "やる気さえあれば",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 5,
+    "sourceBookPage": 78,
+    "sourcePdfPage": 89,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第5章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-044",
+    "pattern": "～ようがない",
+    "meaningZh": "沒有辦法～",
+    "connection": "動詞ます形去ます＋ようがない",
+    "explanation": "表示連採取行動的方法都不存在，故無法達成；通常比單純「できない」更強調手段欠缺。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「がんばりようがない」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～ようがない：根本沒有方法做；～にくい：做得到但較難。",
+    "examples": [
+      {
+        "ja": "住所が分からないので送りようがない。",
+        "reading": "じゅうしょがわからないのでおくりようがない。",
+        "zh": "不知道地址，所以根本無法寄送。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "証拠がなくて説明のしようがありません。",
+        "reading": "しょうこがなくてせつめいのしようがありません。",
+        "zh": "沒有證據，根本無從說明。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "がんばりようがない",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 5,
+    "sourceBookPage": 79,
+    "sourcePdfPage": 90,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第5章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-045",
+    "pattern": "～あげく",
+    "meaningZh": "折騰一番後，結果～",
+    "connection": "動詞た形／名詞＋の＋あげく",
+    "explanation": "表示經過長時間努力、猶豫或折騰，最後出現常帶負面或令人失望的結果。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "多用於歷經煩惱／努力後的不理想結果，但也可中性敘述。",
+    "similarGrammar": "～末に：經過一番…最後…；～あげく：常含負面結果。",
+    "examples": [
+      {
+        "ja": "長い間悩んだあげく退職しました。",
+        "reading": "ながいあいだなやんだあげくたいしょくしました。",
+        "zh": "煩惱許久之後終於辭職。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "何度も相談したあげく計画を中止しました。",
+        "reading": "なんどもそうだんしたあげくけいかくをちゅうししました。",
+        "zh": "反覆討論之後決定取消計畫。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "苦労したあげく",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 5,
+    "sourceBookPage": 80,
+    "sourcePdfPage": 91,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第5章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-046",
+    "pattern": "～ものではない",
+    "meaningZh": "不應該～（常識、忠告）",
+    "connection": "動詞辭書形＋ものではない",
+    "explanation": "依一般常識、禮節提出勸告或禁止；與否定斷定「わけではない」不同。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "不是一般事實否定，而是道德性忠告。",
+    "similarGrammar": "～ことではない：單純否定；～ものではない：應當避免。",
+    "examples": [
+      {
+        "ja": "人の悪口を言うものではありません。",
+        "reading": "ひとのわるぐちをいうものではありません。",
+        "zh": "不應該說別人的壞話。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "約束を簡単に破るものではない。",
+        "reading": "やくそくをかんたんにやぶるものではない。",
+        "zh": "不應輕易違反約定。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "そんなこと考えるもんじゃない",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 5,
+    "sourceBookPage": 81,
+    "sourcePdfPage": 92,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第5章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-047",
+    "pattern": "～だけ～する",
+    "meaningZh": "能做多少就先做多少",
+    "connection": "動詞辭書形＋だけ＋同一動詞",
+    "explanation": "重複同一動詞，表示達到能力或情況容許的最大限度。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "前後重複動詞，強調達到一定限度；不等於「只有」。",
+    "similarGrammar": "～だけ：僅僅；～だけ～する：盡其所能或先做夠。",
+    "examples": [
+      {
+        "ja": "言いたいことは言うだけ言いました。",
+        "reading": "いいたいことはいうだけいいました。",
+        "zh": "想說的都已經說完了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "できるだけやってみます。",
+        "reading": "できるだけやってみます。",
+        "zh": "我會盡可能試試看。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "出すだけ出してみる",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 5,
+    "sourceBookPage": 81,
+    "sourcePdfPage": 92,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第5章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-048",
+    "pattern": "～ばかりに",
+    "meaningZh": "只因為～便～（不良結果）",
+    "connection": "普通形＋ばかりに",
+    "explanation": "表示某個原因導致不理想的結果，常帶後悔或責怪的感情；名詞、な形容詞常用「であるばかりに」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "常有「就因為這一點而招致負面結果」的遺憾。",
+    "similarGrammar": "～から：一般原因；～ばかりに：單一原因招致不良後果。",
+    "examples": [
+      {
+        "ja": "一言多かったばかりにけんかになりました。",
+        "reading": "ひとことおおかったばかりにけんかになりました。",
+        "zh": "只因多說一句話就吵起來。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "急いだばかりに忘れ物をしました。",
+        "reading": "いそいだばかりにわすれものをしました。",
+        "zh": "只因太趕而忘了帶東西。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "経験がなかったばかりに",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 6,
+    "sourceBookPage": 86,
+    "sourcePdfPage": 97,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第6章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-049",
+    "pattern": "～ことはない",
+    "meaningZh": "不必～",
+    "connection": "動詞辭書形＋ことはない",
+    "explanation": "表示沒有做某事的必要，常用以安慰、勸告；不等於「未曾做過」的「たことがない」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「あきらめることはない」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～ことはない：沒有必要；～わけにはいかない：道義或情況不允許。",
+    "examples": [
+      {
+        "ja": "そんなに心配することはありません。",
+        "reading": "そんなにしんぱいすることはありません。",
+        "zh": "不必那麼擔心。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "無理して買うことはないよ。",
+        "reading": "むりしてかうことはないよ。",
+        "zh": "不用勉強買啦。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "あきらめることはない",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 6,
+    "sourceBookPage": 87,
+    "sourcePdfPage": 98,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第6章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-050",
+    "pattern": "～に比べて",
+    "meaningZh": "與～相比",
+    "connection": "名詞＋に比べて",
+    "explanation": "以另一事物作比較基準，說明相對差異；可接「に比べると」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「同期の人に比べて」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～に比べて：比較兩個對象；～より：一般比較。",
+    "examples": [
+      {
+        "ja": "去年に比べて売上が増えました。",
+        "reading": "きょねんにくらべてうりあげがふえました。",
+        "zh": "與去年相比營業額增加了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "兄に比べて弟は静かです。",
+        "reading": "あににくらべておとうとはしずかです。",
+        "zh": "和哥哥比起來弟弟比較安靜。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "同期の人に比べて",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 6,
+    "sourceBookPage": 88,
+    "sourcePdfPage": 99,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第6章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-051",
+    "pattern": "～ものか",
+    "meaningZh": "怎麼可能～；才不要～",
+    "connection": "動詞辭書形＋ものか／名詞・な形容詞＋なものか",
+    "explanation": "以強烈情緒否定某件事或表達拒絕，較口語、有時粗魯。",
+    "nuance": "口語中情緒色彩較強。",
+    "usageCautions": "說話者拒絕或強烈否定，不是中性推測。",
+    "similarGrammar": "～わけがない：不可能；～ものか：情緒性拒絕。",
+    "examples": [
+      {
+        "ja": "あんな店には二度と行くものか。",
+        "reading": "あんなみせにはにどといくものか。",
+        "zh": "那種店我絕對不會再去。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "こんなところで負けるものか。",
+        "reading": "こんなところでまけるものか。",
+        "zh": "怎麼能在這裡輸掉。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "負けるものか",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 6,
+    "sourceBookPage": 89,
+    "sourcePdfPage": 100,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第6章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-052",
+    "pattern": "～というものだ",
+    "meaningZh": "這才叫～",
+    "connection": "普通形＋というものだ",
+    "explanation": "對某件事提出說話者的評價，表示「這才稱得上…」，常有理所當然或感慨的語氣。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「それが上司というものよ」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～というものだ：對事態或本質作評價；～ものだ：一般原則。",
+    "examples": [
+      {
+        "ja": "人の話を聞くのが礼儀というものです。",
+        "reading": "ひとのはなしをきくのがれいぎというものです。",
+        "zh": "聽別人說話才叫有禮貌。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "それは無理というものだ。",
+        "reading": "それはむりというものだ。",
+        "zh": "那根本就是強人所難。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "それが上司というものよ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 6,
+    "sourceBookPage": 90,
+    "sourcePdfPage": 101,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第6章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-053",
+    "pattern": "～ばこそ",
+    "meaningZh": "正因為～才～",
+    "connection": "條件形＋こそ（例：思えばこそ）",
+    "explanation": "強調前項的真切原因或動機，使後項行動的理由更強烈，語體較正式。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "「ばこそ」用於特別強調真正原因，常帶情感。",
+    "similarGrammar": "～からこそ：正因為；～ばこそ：條件形強調其理由。",
+    "examples": [
+      {
+        "ja": "大切に思えばこそ厳しく注意します。",
+        "reading": "たいせつにおもえばこそきびしくちゅういします。",
+        "zh": "正因為重視才嚴格提醒。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "信じればこそ待ち続けます。",
+        "reading": "しんじればこそまちつづけます。",
+        "zh": "正因為相信才一直等待。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "ぼくのことを思えばこそ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 6,
+    "sourceBookPage": 92,
+    "sourcePdfPage": 103,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第6章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-054",
+    "pattern": "～ないことはない",
+    "meaningZh": "並不是不能～",
+    "connection": "動詞ない形＋ことはない",
+    "explanation": "雙重否定，表示仍有可能或在某條件下可以，但語氣保留。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "雙重否定常表示「有可能」，但不保證必然。",
+    "similarGrammar": "～わけではない：部分否定；～ないことはない：不是完全不行。",
+    "examples": [
+      {
+        "ja": "食べられないことはありません。",
+        "reading": "たべられないことはありません。",
+        "zh": "也不是不能吃。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "時間があれば行かないこともないです。",
+        "reading": "じかんがあればいかないこともないです。",
+        "zh": "有時間的話，也不是不會去。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "わからないことはなかった",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 6,
+    "sourceBookPage": 93,
+    "sourcePdfPage": 104,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第6章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-055",
+    "pattern": "～だけ～",
+    "meaningZh": "盡可能～",
+    "connection": "動詞可能形＋だけ＋同一可能形／動詞辭書形＋だけ",
+    "explanation": "表示把某行動做到可達成的極限，常有積極努力的意味。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「がんばれるだけがんばろう」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～できるだけ：盡可能；～だけ～：以同一動詞重複強調程度。",
+    "examples": [
+      {
+        "ja": "やれるだけやってみよう。",
+        "reading": "やれるだけやってみよう。",
+        "zh": "盡可能做做看吧。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "使えるだけの時間を使いました。",
+        "reading": "つかえるだけのじかんをつかいました。",
+        "zh": "把能用的時間都用上了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "がんばれるだけがんばろう",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 6,
+    "sourceBookPage": 94,
+    "sourcePdfPage": 105,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第6章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-056",
+    "pattern": "～もの／もん",
+    "meaningZh": "因為嘛～（辯解）",
+    "connection": "普通形＋もの／もん",
+    "explanation": "口語中以主觀理由辯解、撒嬌或強調感受，成人正式場合宜避免。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「努力してたんだもん」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～もの／もん：口語辯解；～から：較中性的原因。",
+    "examples": [
+      {
+        "ja": "だって疲れたんだもん。",
+        "reading": "だってつかれたんだもん。",
+        "zh": "因為我真的累了嘛。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "まだ終わっていないんだもの。",
+        "reading": "まだおわっていないんだもの。",
+        "zh": "因為還沒結束嘛。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "努力してたんだもん",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 6,
+    "sourceBookPage": 95,
+    "sourcePdfPage": 106,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第6章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-057",
+    "pattern": "～わけにはいかない",
+    "meaningZh": "不能～（道義、責任）",
+    "connection": "動詞辭書形／ない形＋わけにはいかない",
+    "explanation": "雖然物理上能做，但基於責任、社會規範或情況不能這麼做；非能力上的不可能。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "道義或情勢使人無法做某事，也可表示不能不做。",
+    "similarGrammar": "～ざるを得ない：被迫做；～わけにはいかない：基於責任不能做／不能不做。",
+    "examples": [
+      {
+        "ja": "大事な会議なので休むわけにはいきません。",
+        "reading": "だいじなかいぎなのでやすむわけにはいきません。",
+        "zh": "因為是重要會議，不能請假。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "秘密を話すわけにはいかない。",
+        "reading": "ひみつをはなすわけにはいかない。",
+        "zh": "不能洩漏秘密。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "失敗するわけにはいかない",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 6,
+    "sourceBookPage": 96,
+    "sourcePdfPage": 107,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第6章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-058",
+    "pattern": "～のみ",
+    "meaningZh": "唯有～；只能～",
+    "connection": "動詞辭書形＋のみ（だ）／名詞＋のみ",
+    "explanation": "正式、堅定地表示只有一種行動或選項，書面用法多。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「自分を信じて進むのみだ」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～のみ：僅限或只能；～だけ：更一般常用。",
+    "examples": [
+      {
+        "ja": "今は結果を待つのみです。",
+        "reading": "いまはけっかをまつのみです。",
+        "zh": "現在只能等待結果。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "合格を信じて進むのみだ。",
+        "reading": "ごうかくをしんじてすすむのみだ。",
+        "zh": "唯有相信能考上並繼續前進。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "自分を信じて進むのみだ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 6,
+    "sourceBookPage": 97,
+    "sourcePdfPage": 108,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第6章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-059",
+    "pattern": "～つもりで",
+    "meaningZh": "假裝～；當作～",
+    "connection": "普通形＋つもりで／名詞＋のつもりで",
+    "explanation": "把尚未實現或不是真實的情況當成既定情況來行動、想像。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「スターになったつもりで」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～つもりで：以某種假設心情行動；～ふりをする：假裝給他人看。",
+    "examples": [
+      {
+        "ja": "旅行に行ったつもりで貯金します。",
+        "reading": "りょこうにいったつもりでちょきんします。",
+        "zh": "就當作去了旅行，把錢存起來。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "先生になったつもりで説明してください。",
+        "reading": "せんせいになったつもりでせつめいしてください。",
+        "zh": "請把自己當成老師來說明。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "スターになったつもりで",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 6,
+    "sourceBookPage": 97,
+    "sourcePdfPage": 108,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第6章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-060",
+    "pattern": "～から見ると",
+    "meaningZh": "從～觀點來看",
+    "connection": "名詞＋から見ると／から見れば／から見て",
+    "explanation": "明示判斷者的立場或觀察角度，後面常接評價或推測。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "觀點、立場，不是來源引用。",
+    "similarGrammar": "～からいうと：以標準評價；～から見ると：站在特定視角判斷。",
+    "examples": [
+      {
+        "ja": "私から見ると彼の案は現実的です。",
+        "reading": "わたしからみるとかれのあんはげんじつてきです。",
+        "zh": "在我看來他的方案很實際。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "専門家から見れば問題は複雑です。",
+        "reading": "せんもんかからみればもんだいはふくざつです。",
+        "zh": "從專家角度看問題很複雜。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "人間の立場から見ると",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 103,
+    "sourcePdfPage": 114,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-061",
+    "pattern": "～一方で",
+    "meaningZh": "另一方面～",
+    "connection": "普通形＋一方で／名詞＋である一方で",
+    "explanation": "對照同一事物的兩面特徵，或兩件同時存在的不同情況。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "用來對照兩個面向，與「一方だ」（單向變化）不同。",
+    "similarGrammar": "～一方だ：持續單方向變化；～一方で：另一方面。",
+    "examples": [
+      {
+        "ja": "この仕事は大変な一方でやりがいもあります。",
+        "reading": "このしごとはたいへんないっぽうでやりがいもあります。",
+        "zh": "這工作辛苦，但另一方面也有成就感。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "都市は便利な一方で家賃が高いです。",
+        "reading": "としはべんりないっぽうでやちんがたかいです。",
+        "zh": "都市很方便，但另一方面房租很高。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "その一方で",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 105,
+    "sourcePdfPage": 116,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-062",
+    "pattern": "～ことから",
+    "meaningZh": "由～可知；因為～而",
+    "connection": "普通形＋ことから／名詞＋であることから",
+    "explanation": "用可觀察的事實推導命名、判斷或事件原因，書面論述常見。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「絶滅したことから」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～ことから：由觀察現象作判斷／命名；～ので：一般因果說明。",
+    "examples": [
+      {
+        "ja": "声が似ていることから兄弟だと分かりました。",
+        "reading": "こえがにていることからきょうだいだとわかりました。",
+        "zh": "從聲音相似判斷他們是兄弟。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "形が星に似ていることから名付けられました。",
+        "reading": "かたちがほしににていることからなづけられました。",
+        "zh": "因形狀像星星而得名。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "絶滅したことから",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 106,
+    "sourcePdfPage": 117,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-063",
+    "pattern": "～のみならず",
+    "meaningZh": "不僅～而且～",
+    "connection": "普通形／名詞＋のみならず",
+    "explanation": "正式列舉前項之外還有後項，後面常搭「も」。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「被害を与えたのみならず」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～のみならず：不僅 A 還 B，書面；～だけでなく：日常常用。",
+    "examples": [
+      {
+        "ja": "彼は日本語のみならず英語も話せます。",
+        "reading": "かれはにほんごのみならずえいごもはなせます。",
+        "zh": "他不僅會日語，也會英語。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "この制度は学生のみならず社会人にも役立ちます。",
+        "reading": "このせいどはがくせいのみならずしゃかいじんにもやくだちます。",
+        "zh": "這制度不僅有益於學生，也對社會人士有幫助。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "被害を与えたのみならず",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 107,
+    "sourcePdfPage": 118,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-064",
+    "pattern": "～といった",
+    "meaningZh": "～之類的；例如～",
+    "connection": "名詞＋といった＋名詞",
+    "explanation": "舉出具代表性的例子來說明同一類別，常與「など」相近。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「ネズミやビーバーといった」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～といった：舉出具體代表例；～など：一般舉例。",
+    "examples": [
+      {
+        "ja": "犬や猫といった動物が好きです。",
+        "reading": "いぬやねこといったどうぶつがすきです。",
+        "zh": "我喜歡狗、貓之類的動物。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "京都や奈良といった古い町を訪れました。",
+        "reading": "きょうとやならといったふるいまちをおとずれました。",
+        "zh": "造訪了京都、奈良等古老城鎮。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "ネズミやビーバーといった",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 108,
+    "sourcePdfPage": 119,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-065",
+    "pattern": "～にしたがって",
+    "meaningZh": "隨著～而～",
+    "connection": "動詞辭書形／名詞＋にしたがって",
+    "explanation": "兩種變化沿同一方向逐漸進行；也有「按照指示」用法，但此處以變化為主。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "可用於連動變化或遵守順序，須依例句分辨。",
+    "similarGrammar": "～につれて：自然連動變化；～にしたがって：也可依從指示。",
+    "examples": [
+      {
+        "ja": "年齢が上がるにしたがって考え方も変わります。",
+        "reading": "ねんれいがあがるにしたがってかんがえかたもかわります。",
+        "zh": "隨年齡增長，想法也改變。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "時間がたつにしたがって不安が消えました。",
+        "reading": "じかんがたつにしたがってふあんがきえました。",
+        "zh": "隨著時間過去，不安漸漸消失。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "数が増えるにしたがって",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 108,
+    "sourcePdfPage": 119,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-066",
+    "pattern": "～得る",
+    "meaningZh": "能夠～；有可能～",
+    "connection": "動詞ます形去ます＋得る／得ない",
+    "explanation": "表示在理論、條件或情況上可能發生，不同於一般技能的「できる」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "「得る」在「あり得る」有「あリエる／ありうる」兩種常見讀法；不能以所有動詞任意接續。",
+    "similarGrammar": "～かもしれない：可能性；～得る：具備發生／實現可能。",
+    "examples": [
+      {
+        "ja": "それは十分起こり得る問題です。",
+        "reading": "それはじゅうぶんおこりうるもんだいです。",
+        "zh": "那是完全可能發生的問題。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "誰にも予想し得ない結果でした。",
+        "reading": "だれにもよそうしえないけっかでした。",
+        "zh": "那是任何人都無法預料的結果。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "回復させ得る",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 112,
+    "sourcePdfPage": 123,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-067",
+    "pattern": "～に反して",
+    "meaningZh": "與～預期相反",
+    "connection": "名詞＋に反して",
+    "explanation": "與期待、規定或意圖反向，後項往往出乎意料。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "表與預期相反，不同於名詞「反面」。",
+    "similarGrammar": "～反面：一方面…另一方面…；～に反して：違反預想。",
+    "examples": [
+      {
+        "ja": "予想に反して試合は簡単に終わりました。",
+        "reading": "よそうにはんしてしあいはかんたんにおわりました。",
+        "zh": "與預料相反，比賽很快結束。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "本人の希望に反して転勤が決まりました。",
+        "reading": "ほんにんのきぼうにはんしててんきんがきまりました。",
+        "zh": "違反本人意願而決定調職。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "期待に反して",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 112,
+    "sourcePdfPage": 123,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-068",
+    "pattern": "～に関して",
+    "meaningZh": "關於～",
+    "connection": "名詞＋に関して／に関する＋名詞",
+    "explanation": "設定討論、報告或調查的主題，較「について」正式。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「連れてくることに関して」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～に関して：關於主題，正式；～について：較一般。",
+    "examples": [
+      {
+        "ja": "契約に関して質問があります。",
+        "reading": "けいやくにかんしてしつもんがあります。",
+        "zh": "我有關於合約的問題。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "環境に関する調査を続けます。",
+        "reading": "かんきょうにかんするちょうさをつづけます。",
+        "zh": "繼續進行環境相關調查。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "連れてくることに関して",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 113,
+    "sourcePdfPage": 124,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-069",
+    "pattern": "～反面",
+    "meaningZh": "另一方面卻～",
+    "connection": "普通形＋反面／名詞＋である反面",
+    "explanation": "指出同一事物存在相反的兩面，常見正反優缺點並列。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「成果が期待される反面」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～反面：呈現一體兩面；～一方で：兩面情況並列，不一定相反。",
+    "examples": [
+      {
+        "ja": "便利な反面費用が高くなります。",
+        "reading": "べんりなはんめんひようがたかくなります。",
+        "zh": "方便是方便，但另一方面費用會提高。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "自由な反面責任も重いです。",
+        "reading": "じゆうなはんめんせきにんもおもいです。",
+        "zh": "自由的另一面是責任也重。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "成果が期待される反面",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 114,
+    "sourcePdfPage": 125,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-070",
+    "pattern": "～上（じょう）",
+    "meaningZh": "就～而言（某層面）",
+    "connection": "名詞＋上（じょう）",
+    "explanation": "指從制度、理論、法律、形式等層面作判斷；「上」讀「じょう」，非位置詞。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「理論上は」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～上（じょう）：在某制度／學科層面上；～について：關於一事，未限定層面。",
+    "examples": [
+      {
+        "ja": "法律上は問題ありません。",
+        "reading": "ほうりつじょうはもんだいありません。",
+        "zh": "法律上沒有問題。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "理論上は可能です。",
+        "reading": "りろんじょうはかのうです。",
+        "zh": "理論上可行。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "理論上は",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 114,
+    "sourcePdfPage": 125,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-071",
+    "pattern": "～つつある",
+    "meaningZh": "正在逐漸～",
+    "connection": "動詞ます形去ます＋つつある",
+    "explanation": "表示變化持續進行中，常接增加、減少、恢復等變動，書面語。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "表示進行中的變化，語氣較書面。",
+    "similarGrammar": "～一方だ：單方向持續；～つつある：正處於進展中。",
+    "examples": [
+      {
+        "ja": "人口が減りつつあります。",
+        "reading": "じんこうがへりつつあります。",
+        "zh": "人口正逐漸減少。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "環境は改善しつつあります。",
+        "reading": "かんきょうはかいぜんしつつあります。",
+        "zh": "環境正在改善。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "増加しつつある",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 115,
+    "sourcePdfPage": 126,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-072",
+    "pattern": "～に限らず",
+    "meaningZh": "不僅限於～",
+    "connection": "名詞＋に限らず",
+    "explanation": "將適用範圍從前項擴及其他對象，常接「も」表補充。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「アメリカに限らず」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～に限らず：不只限於 A；～だけでなく：不只 A 也 B。",
+    "examples": [
+      {
+        "ja": "日本に限らず世界中で人気があります。",
+        "reading": "にほんにかぎらずせかいじゅうでにんきがあります。",
+        "zh": "不只日本，在全世界都很受歡迎。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "若者に限らず高齢者も利用しています。",
+        "reading": "わかものにかぎらずこうれいしゃもりようしています。",
+        "zh": "不僅年輕人，老年人也會使用。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "アメリカに限らず",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 116,
+    "sourcePdfPage": 127,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-073",
+    "pattern": "尊敬語：お～になる",
+    "meaningZh": "（尊敬）來到、在場",
+    "connection": "お＋動詞ます形去ます＋になる／お見えになる",
+    "explanation": "敬語中抬高對方或第三者的行為；「お見えになる」特指尊敬對象來訪。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "「お見えになる」是尊敬語，不能用於謙稱自己的到來。",
+    "similarGrammar": "参る：謙讓語；お見えになる：尊敬語。",
+    "examples": [
+      {
+        "ja": "先生はもうお見えになりました。",
+        "reading": "せんせいはもうおみえになりました。",
+        "zh": "老師已經到了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "社長はこちらにお座りになります。",
+        "reading": "しゃちょうはこちらにおすわりになります。",
+        "zh": "社長會坐在這裡。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "佐々木様がお見えになりました",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 8,
+    "sourceBookPage": 123,
+    "sourcePdfPage": 134,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第8章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-074",
+    "pattern": "ご～願えますか",
+    "meaningZh": "能否麻煩您～",
+    "connection": "ご／お＋動詞ます形去ます＋願えますか",
+    "explanation": "向對方提出有禮貌的請求，常見於商務會話；並非單純表願望。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "適用對上司或客戶的請求；動詞前常用お／ご搭配。",
+    "similarGrammar": "～てください：一般要求；～願えますか：敬重請求。",
+    "examples": [
+      {
+        "ja": "こちらをご確認願えますか。",
+        "reading": "こちらをごかくにんねがえますか。",
+        "zh": "能否請您確認這邊？",
+        "origin": "editorial"
+      },
+      {
+        "ja": "少々お待ち願えますでしょうか。",
+        "reading": "しょうしょうおまちねがえますでしょうか。",
+        "zh": "能否麻煩您稍候？",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "ご確認願えますでしょうか",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 8,
+    "sourceBookPage": 124,
+    "sourcePdfPage": 135,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第8章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-075",
+    "pattern": "謙譲語：お／ご～申し上げる",
+    "meaningZh": "（謙讓）向您說明／報告",
+    "connection": "お／ご＋動詞ます形去ます＋申し上げる",
+    "explanation": "降低自己的行為以尊敬聽話者或受益者，典型商務謙讓表現。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "謙讓形式是提高對方而謙低自身，不能稱呼對方的動作。",
+    "similarGrammar": "～申し上げる：謙讓；～なさる：尊敬。",
+    "examples": [
+      {
+        "ja": "結果をご報告申し上げます。",
+        "reading": "けっかをごほうこくもうしあげます。",
+        "zh": "謹向您報告結果。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "改めてお礼申し上げます。",
+        "reading": "あらためておれいもうしあげます。",
+        "zh": "再次向您致謝。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "ご説明申し上げたい",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 8,
+    "sourceBookPage": 125,
+    "sourcePdfPage": 136,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第8章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-076",
+    "pattern": "～ていただければと思います",
+    "meaningZh": "希望您能～",
+    "connection": "動詞て形＋いただければと思います",
+    "explanation": "以條件與希望間接提出請求，減弱直接命令感，常用於郵件。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「ご連絡いただければと思います」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～ていただければと思います：委婉請求；～てください：直接要求。",
+    "examples": [
+      {
+        "ja": "資料を送っていただければと思います。",
+        "reading": "しりょうをおくっていただければとおもいます。",
+        "zh": "希望您能寄送資料。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "明日までにご返事いただければと思います。",
+        "reading": "あしたまでにごへんじいただければとおもいます。",
+        "zh": "希望您能在明天前回覆。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "ご連絡いただければと思います",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 8,
+    "sourceBookPage": 125,
+    "sourcePdfPage": 136,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第8章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-077",
+    "pattern": "～につきましては",
+    "meaningZh": "關於～（禮貌說法）",
+    "connection": "名詞＋につきましては",
+    "explanation": "「については」的敬體正式說法，常用於商務聯絡的話題提示。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「日程につきましては」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～につきましては：～については的敬語書面說法；～に関しては：正式但不必然是敬語。",
+    "examples": [
+      {
+        "ja": "日程につきましては後ほどご連絡します。",
+        "reading": "にっていにつきましてはのちほどごれんらくします。",
+        "zh": "關於日程，稍後會再聯絡。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "料金につきましては資料をご覧ください。",
+        "reading": "りょうきんにつきましてはしりょうをごらんください。",
+        "zh": "有關費用請參閱資料。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "日程につきましては",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 8,
+    "sourceBookPage": 126,
+    "sourcePdfPage": 137,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第8章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-078",
+    "pattern": "～のなんのって",
+    "meaningZh": "～得不得了（強烈感嘆）",
+    "connection": "普通形＋のなんのって",
+    "explanation": "口語強調程度非常高，常帶驚訝、抱怨或稱讚；不適用正式文件。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "為口語情緒放大，通常不要用於正式報告。",
+    "similarGrammar": "～てたまらない：難以忍受；～のなんのって：強烈口語感嘆。",
+    "examples": [
+      {
+        "ja": "昨日は寒いのなんのって。",
+        "reading": "きのうはさむいのなんのって。",
+        "zh": "昨天真是冷得不得了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "料理がおいしいのなんのって。",
+        "reading": "りょうりがおいしいのなんのって。",
+        "zh": "料理簡直好吃極了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "メニューが多いのなんのって",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 131,
+    "sourcePdfPage": 142,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-079",
+    "pattern": "～たて",
+    "meaningZh": "剛完成～；新鮮的～",
+    "connection": "動詞ます形去ます＋たて",
+    "explanation": "表示某物剛完成、剛製成或新形成，常搭特定動詞如焼く、作る、入る。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "通常指剛完成的狀態；與「たて」其他名詞連用需注意詞彙習慣。",
+    "similarGrammar": "～たばかり：剛做完；～たて：剛完成的產品／狀態。",
+    "examples": [
+      {
+        "ja": "焼きたてのパンはおいしいです。",
+        "reading": "やきたてのパンはおいしいです。",
+        "zh": "剛烤好的麵包很好吃。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "入社したてでまだ慣れていません。",
+        "reading": "にゅうしゃしたてでまだなれていません。",
+        "zh": "剛進公司還沒習慣。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "できたて",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 132,
+    "sourcePdfPage": 143,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-080",
+    "pattern": "～ったら",
+    "meaningZh": "說到～真是～（感情）",
+    "connection": "名詞＋ったら",
+    "explanation": "帶親近或抱怨的口語話題提示，有時針對某人的行為表達情緒。",
+    "nuance": "口語中情緒色彩較強。",
+    "usageCautions": "常向親密對象表不滿；不適用正式場域。",
+    "similarGrammar": "～ってば：抱怨或催促；～ったら：親暱評論。",
+    "examples": [
+      {
+        "ja": "弟ったらまた宿題を忘れたの。",
+        "reading": "おとうとったらまたしゅくだいをわすれたの。",
+        "zh": "我弟弟真是的，又忘記寫作業。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "あの人ったらいつも遅れるんだから。",
+        "reading": "あのひとったらいつもおくれるんだから。",
+        "zh": "那個人真是的，老是遲到。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "小林君ったら",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 133,
+    "sourcePdfPage": 144,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-081",
+    "pattern": "～ようになっている",
+    "meaningZh": "變成會～的狀態／被設計成～",
+    "connection": "動詞辭書形／ない形＋ようになっている",
+    "explanation": "說明設備、制度或情況被設定成會自然發生某種結果；不同於個人能力改變的「ようになる」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「変わるようになっている」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～ようになっている：機制設計／安排的結果；～ようにする：主觀努力使其實現。",
+    "examples": [
+      {
+        "ja": "このボタンを押すと電気がつくようになっています。",
+        "reading": "このボタンをおすとでんきがつくようになっています。",
+        "zh": "這按鈕按下去就會亮燈。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "この道は夜になると閉まるようになっています。",
+        "reading": "このみちはよるになるとしまるようになっています。",
+        "zh": "這條路被設定在夜間關閉。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "変わるようになっている",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 133,
+    "sourcePdfPage": 144,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-082",
+    "pattern": "～わけだ",
+    "meaningZh": "難怪～；原來如此",
+    "connection": "普通形＋わけだ",
+    "explanation": "根據前述原因，得到合理結論，語氣像終於明白事情的來龍去脈。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「食べられなかったわけだ」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～わけだ：基於已知理由自然理解結果；～はずだ：依據推斷應該如此。",
+    "examples": [
+      {
+        "ja": "電車が止まっていたのか。遅れたわけだ。",
+        "reading": "でんしゃがとまっていたのか。おくれたわけだ。",
+        "zh": "原來電車停駛，難怪遲到了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "毎日練習しているんですね。上手なわけです。",
+        "reading": "まいにちれんしゅうしているんですね。じょうずなわけです。",
+        "zh": "原來每天都練習，難怪這麼厲害。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "食べられなかったわけだ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 134,
+    "sourcePdfPage": 145,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-083",
+    "pattern": "～どころか",
+    "meaningZh": "豈止～；不但沒有～反而～",
+    "connection": "名詞／動詞辭書形＋どころか",
+    "explanation": "否定或強化前項的預期，指出實際情況相差甚遠。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "表示實際狀態遠比前述更極端，通常帶出乎意料的反差。",
+    "similarGrammar": "～ばかりか：不但；～どころか：哪裡是，反而。",
+    "examples": [
+      {
+        "ja": "休むどころか徹夜で働きました。",
+        "reading": "やすむどころかてつやではたらきました。",
+        "zh": "不但沒休息，還熬夜工作。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "英語どころか日本語も話せません。",
+        "reading": "えいごどころかにほんごもはなせません。",
+        "zh": "別說英語，連日語都不會。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "たくさん食べるどころか",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 135,
+    "sourcePdfPage": 146,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-084",
+    "pattern": "～ようでは",
+    "meaningZh": "如果這樣下去就～",
+    "connection": "普通形＋ようでは／名詞・な形容詞＋であるようでは",
+    "explanation": "對當前不理想情況提出批評，推斷將無法取得良好結果。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「そんなことも知らないようじゃ」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～ようでは：如果持續這樣將有問題；～たら：一般條件。",
+    "examples": [
+      {
+        "ja": "毎日遅刻するようでは信用されません。",
+        "reading": "まいにちちこくするようではしんようされません。",
+        "zh": "每天都遲到的話就無法獲得信任。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "そんなことであきらめるようでは成功できません。",
+        "reading": "そんなことであきらめるようではせいこうできません。",
+        "zh": "遇到那點事就放棄的話不可能成功。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "そんなことも知らないようじゃ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 136,
+    "sourcePdfPage": 147,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-085",
+    "pattern": "～ぶる",
+    "meaningZh": "裝作～樣子",
+    "connection": "名詞／い形容詞語幹／な形容詞語幹＋ぶる",
+    "explanation": "外表上裝出某種態度或身分，常帶批評；常見「大人ぶる」「知ったかぶる」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「上品ぶってもしようがない」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～ぶる：做作地擺出某特質；～ように見える：看似如此，不必是故意。",
+    "examples": [
+      {
+        "ja": "彼は大人ぶって話しています。",
+        "reading": "かれはおとなぶってはなしています。",
+        "zh": "他裝成大人的樣子說話。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "知らないのに知ったかぶりをしています。",
+        "reading": "しらないのにしったかぶりをしています。",
+        "zh": "明明不知道卻裝懂。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "上品ぶってもしようがない",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 139,
+    "sourcePdfPage": 150,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-086",
+    "pattern": "～に限って",
+    "meaningZh": "偏偏～；尤其～的時候",
+    "connection": "名詞＋に限って",
+    "explanation": "指出在某個特別時候，反常的事偏偏發生；也可表對特定對象的信任。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "強調偏偏在特定時刻發生意外，不是「僅限於」。",
+    "similarGrammar": "～に限り：僅限；～に限って：偏偏。",
+    "examples": [
+      {
+        "ja": "忙しい日に限って電話が多いです。",
+        "reading": "いそがしいひにかぎってでんわがおおいです。",
+        "zh": "偏偏忙的日子電話特別多。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "急いでいるときに限って電車が遅れます。",
+        "reading": "いそいでいるときにかぎってでんしゃがおくれます。",
+        "zh": "偏偏趕時間時電車會誤點。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "初心者に限って",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 139,
+    "sourcePdfPage": 150,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-087",
+    "pattern": "～ことだ",
+    "meaningZh": "應該～（勸告）",
+    "connection": "動詞辭書形／ない形＋ことだ",
+    "explanation": "說話者針對問題提出建議，語氣較直接，長輩對晚輩常用。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「食べ続けることだよ」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～ことだ：給予建議；～べきだ：帶有更強規範性。",
+    "examples": [
+      {
+        "ja": "健康になりたいなら早く寝ることです。",
+        "reading": "けんこうになりたいならはやくねることです。",
+        "zh": "想要健康就該早睡。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "試験前は無理をしないことだ。",
+        "reading": "しけんまえはむりをしないことだ。",
+        "zh": "考試前不要太勉強。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "食べ続けることだよ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 140,
+    "sourcePdfPage": 151,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-088",
+    "pattern": "～という～",
+    "meaningZh": "所有稱得上～的都～",
+    "connection": "名詞＋という＋同一名詞",
+    "explanation": "以重複的名詞強調同類對象無一例外，通常後面接「全部」「みんな」等。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「食べ放題という食べ放題」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～という～：凡是稱作 A 的全部 A；～など：列出幾例而已。",
+    "examples": [
+      {
+        "ja": "店という店が閉まっていました。",
+        "reading": "みせというみせがしまっていました。",
+        "zh": "所有店家都關門了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "道という道が雪で埋まりました。",
+        "reading": "みちというみちがゆきでうまりました。",
+        "zh": "所有道路都被雪覆蓋了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "食べ放題という食べ放題",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 140,
+    "sourcePdfPage": 151,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-089",
+    "pattern": "～ところだった",
+    "meaningZh": "差點就～",
+    "connection": "動詞辭書形＋ところだった",
+    "explanation": "表示不理想的事幾乎發生，最後卻沒有發生；常與「もう少しで」同用。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "表示幸好最後沒有發生，常與もう少しで、あやうく搭配。",
+    "similarGrammar": "～ところだった：差點發生；～たところ：已做完後的情況。",
+    "examples": [
+      {
+        "ja": "もう少しで転ぶところでした。",
+        "reading": "もうすこしでころぶところでした。",
+        "zh": "差一點就跌倒了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "寝坊して飛行機に乗り遅れるところでした。",
+        "reading": "ねぼうしてひこうきにのりおくれるところでした。",
+        "zh": "因睡過頭差點趕不上飛機。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "罰金を払わされるところだった",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 141,
+    "sourcePdfPage": 152,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-090",
+    "pattern": "～くらいなら",
+    "meaningZh": "與其～倒不如～",
+    "connection": "動詞辭書形＋くらいなら",
+    "explanation": "比較兩個不理想選項，選擇相對可接受的後項；常含強烈厭惡前項的心情。",
+    "nuance": "口語中情緒色彩較強。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「罰金払うくらいなら」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～くらいなら：寧可選後項；～より：只是比較。",
+    "examples": [
+      {
+        "ja": "嘘をつくくらいなら正直に話します。",
+        "reading": "うそをつくくらいならしょうじきにはなします。",
+        "zh": "與其說謊，不如坦白說。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "待つくらいなら歩いて帰ります。",
+        "reading": "まつくらいならあるいてかえります。",
+        "zh": "與其等下去，不如走路回家。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "罰金払うくらいなら",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 142,
+    "sourcePdfPage": 153,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-091",
+    "pattern": "～ほうがましだ",
+    "meaningZh": "～還比較好",
+    "connection": "普通形＋ほうがましだ",
+    "explanation": "兩種選擇都不太滿意，但後者更能接受，帶消極比較的心情。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「がんばったほうがずっとましだ」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～ほうがましだ：兩個不佳選項中選較好；～ほうがいい：一般推薦。",
+    "examples": [
+      {
+        "ja": "何もしないより挑戦したほうがましです。",
+        "reading": "なにもしないよりちょうせんしたほうがましです。",
+        "zh": "與其什麼都不做，挑戰還比較好。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "ここで待つより歩いたほうがましだ。",
+        "reading": "ここでまつよりあるいたほうがましだ。",
+        "zh": "與其在這裡等，不如用走的還比較好。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "がんばったほうがずっとましだ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 143,
+    "sourcePdfPage": 154,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-092",
+    "pattern": "～ものがある",
+    "meaningZh": "有種～感受",
+    "connection": "動詞／い形容詞普通形＋ものがある",
+    "explanation": "表示某事物內含值得感受的情緒或特質，常與「感慨深い」「考えさせられる」等搭配。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「つらいものがある」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～ものがある：令人感受到特別性質；～と感じる：直接陳述感覺。",
+    "examples": [
+      {
+        "ja": "彼の演説には心を動かすものがあります。",
+        "reading": "かれのえんぜつにはこころをうごかすものがあります。",
+        "zh": "他的演說有打動人心之處。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "この映画には考えさせられるものがある。",
+        "reading": "このえいがにはかんがえさせられるものがある。",
+        "zh": "這部電影有發人深省的地方。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "つらいものがある",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 10,
+    "sourceBookPage": 148,
+    "sourcePdfPage": 159,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第10章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-093",
+    "pattern": "～まい",
+    "meaningZh": "大概不會～／絕不～",
+    "connection": "動詞辭書形＋まい（する→するまい／すまい）",
+    "explanation": "表示否定推測，或說話者強烈的不做某事意志；語體較書面。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "「まい」可表否定推測或否定意志；需判斷主語及語境。",
+    "similarGrammar": "～ないだろう：較普通的否定推測；～まい：書面或強烈決心。",
+    "examples": [
+      {
+        "ja": "彼はもう戻るまい。",
+        "reading": "かれはもうもどるまい。",
+        "zh": "他大概不會再回來了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "同じ失敗は二度とするまい。",
+        "reading": "おなじしっぱいはにどとするまい。",
+        "zh": "絕不再犯相同錯誤。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "ストレスを感じない人はいるまい",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 10,
+    "sourceBookPage": 149,
+    "sourcePdfPage": 160,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第10章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-094",
+    "pattern": "～につけ",
+    "meaningZh": "每當看到／聽到～都～",
+    "connection": "動詞辭書形／名詞＋につけ",
+    "explanation": "某刺激使說話者反覆產生情感或想法，常見「見るにつけ」「聞くにつけ」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "每逢接觸某物就引發固定感想，通常不是單次事件。",
+    "similarGrammar": "～たびに：每當；～につけ：觸景生情。",
+    "examples": [
+      {
+        "ja": "この写真を見るにつけ故郷を思い出します。",
+        "reading": "このしゃしんをみるにつけこきょうをおもいだします。",
+        "zh": "每次看這張照片就想起故鄉。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "その話を聞くにつけ悲しくなります。",
+        "reading": "そのはなしをきくにつけかなしくなります。",
+        "zh": "每次聽到那件事就感到難過。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "乗客を見るにつけ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 10,
+    "sourceBookPage": 150,
+    "sourcePdfPage": 161,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第10章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-095",
+    "pattern": "～わりに",
+    "meaningZh": "雖然～但出乎意料",
+    "connection": "普通形＋わりに（は）／名詞＋のわりに",
+    "explanation": "以某標準作比較，指出實際程度和預期不符；較「にしては」口語自然。",
+    "nuance": "口語中情緒色彩較強。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「混んでいるわりには」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～わりに：相較於條件，結果出乎預期；～にしては：偏重與特定對象標準不合。",
+    "examples": [
+      {
+        "ja": "この店は安いわりにおいしいです。",
+        "reading": "このみせはやすいわりにおいしいです。",
+        "zh": "這家店雖然便宜卻很好吃。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "練習したわりには上手にできませんでした。",
+        "reading": "れんしゅうしたわりにはじょうずにできませんでした。",
+        "zh": "練了那麼多，卻沒有做得很好。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "混んでいるわりには",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 10,
+    "sourceBookPage": 151,
+    "sourcePdfPage": 162,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第10章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-096",
+    "pattern": "～か～ないかのうちに",
+    "meaningZh": "剛～就～",
+    "connection": "動詞辭書形＋か＋ない形＋かのうちに",
+    "explanation": "前一動作幾乎尚未結束，下一事件便發生，強調時間間隔非常短。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "必須重複同一動詞的肯定／否定形式。",
+    "similarGrammar": "～たとたん：一～就～；～か～ないかのうちに：幾乎同時。",
+    "examples": [
+      {
+        "ja": "家に着くか着かないかのうちに雨が降りました。",
+        "reading": "いえにつくかつかないかのうちにあめがふりました。",
+        "zh": "才剛到家就下雨了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "座るか座らないかのうちに名前を呼ばれました。",
+        "reading": "すわるかすわらないかのうちになまえをよばれました。",
+        "zh": "才剛要坐下就被叫名字。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "立つか立たないかのうちに",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 10,
+    "sourceBookPage": 153,
+    "sourcePdfPage": 164,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第10章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-097",
+    "pattern": "～げ",
+    "meaningZh": "看起來很～的樣子",
+    "connection": "い形容詞去い／な形容詞語幹＋げ",
+    "explanation": "將外顯的情緒或樣態轉為「～げ」，常修飾人或動作；不等同所有形容詞都能任意接。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "「げ」不是隨便接所有形容詞，具有詞彙搭配限制。",
+    "similarGrammar": "～そう：外觀推測；～げ：呈現某情緒神態。",
+    "examples": [
+      {
+        "ja": "彼女は悲しげに笑いました。",
+        "reading": "かのじょはかなしげにわらいました。",
+        "zh": "她帶著悲傷的神情笑了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "子どもが楽しげに話しています。",
+        "reading": "こどもがたのしげにはなしています。",
+        "zh": "孩子愉快地說著話。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "楽しげにおしゃべりしている",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 10,
+    "sourceBookPage": 154,
+    "sourcePdfPage": 165,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第10章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-098",
+    "pattern": "～やら～やら",
+    "meaningZh": "又～又～，不知如何是好",
+    "connection": "名詞／動詞／形容詞普通形＋やら＋名詞／動詞／形容詞普通形＋やら",
+    "explanation": "並列多種混雜、難以整理的情緒或狀況，通常帶困惑、忙亂或強烈感慨。",
+    "nuance": "口語中情緒色彩較強。",
+    "usageCautions": "列舉多種情緒／情況，不只是中性的 A 及 B。",
+    "similarGrammar": "～たり～たり：列舉動作；～やら～やら：情緒混雜／繁雜。",
+    "examples": [
+      {
+        "ja": "うれしいやら恥ずかしいやら複雑です。",
+        "reading": "うれしいやらはずかしいやらふくざつです。",
+        "zh": "既高興又害羞，心情很複雜。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "泣くやら笑うやら大騒ぎでした。",
+        "reading": "なくやらわらうやらおおさわぎでした。",
+        "zh": "又哭又笑，鬧得不可開交。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "くやしいやらうらやましいやら",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 10,
+    "sourceBookPage": 155,
+    "sourcePdfPage": 166,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第10章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-099",
+    "pattern": "～かと思うと",
+    "meaningZh": "剛～就～",
+    "connection": "動詞た形＋かと思うと／かと思ったら",
+    "explanation": "前件剛發生後件便立刻發生，常帶出乎預料的變化；一般不接刻意控制的同一主語行動。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "常出現令人意外的緊接變化；通常描述第三者或自然現象。",
+    "similarGrammar": "～たとたん：一～就～；～かと思うと：剛認為～轉眼卻～。",
+    "examples": [
+      {
+        "ja": "空が暗くなったかと思うと雨が降りました。",
+        "reading": "そらがくらくなったかとおもうとあめがふりました。",
+        "zh": "天空才剛暗下來就下雨了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "赤ちゃんは泣いたかと思うとすぐ笑いました。",
+        "reading": "あかちゃんはないたかとおもうとすぐわらいました。",
+        "zh": "嬰兒剛哭又立刻笑了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "乗客が降りたかと思うと",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 10,
+    "sourceBookPage": 155,
+    "sourcePdfPage": 166,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第10章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-100",
+    "pattern": "～にほかならない",
+    "meaningZh": "正是～；無非就是～",
+    "connection": "名詞＋にほかならない",
+    "explanation": "強調前項事實的真正身分、原因或本質，書面語，排除其他解釋。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「日本料理にほかならない」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～にほかならない：強烈斷定本質；～にすぎない：貶低或限制程度。",
+    "examples": [
+      {
+        "ja": "成功は日々の努力の結果にほかなりません。",
+        "reading": "せいこうはひびのどりょくのけっかにほかなりません。",
+        "zh": "成功正是每日努力的結果。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "彼の発言は責任逃れにほかならない。",
+        "reading": "かれのはつげんはせきにんのがれにほかならない。",
+        "zh": "他的發言無非是逃避責任。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "日本料理にほかならない",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 11,
+    "sourceBookPage": 161,
+    "sourcePdfPage": 172,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第11章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-101",
+    "pattern": "～にすぎない",
+    "meaningZh": "只不過是～",
+    "connection": "名詞＋にすぎない／普通形＋にすぎない",
+    "explanation": "表示程度、數量或性質僅限於某一範圍，帶有限定或淡化的語氣。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「空腹を満たすものにすぎなかった」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～にすぎない：僅止於某程度；～だけだ：較中性的限定。",
+    "examples": [
+      {
+        "ja": "これは私の意見にすぎません。",
+        "reading": "これはわたしのいけんにすぎません。",
+        "zh": "這只不過是我的意見。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "まだ計画を立てたにすぎない。",
+        "reading": "まだけいかくをたてたにすぎない。",
+        "zh": "目前不過只是訂出了計畫。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "空腹を満たすものにすぎなかった",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 11,
+    "sourceBookPage": 161,
+    "sourcePdfPage": 172,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第11章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-102",
+    "pattern": "～上に",
+    "meaningZh": "而且～；除此之外還～",
+    "connection": "普通形＋上に／名詞・な形容詞＋である上に",
+    "explanation": "對前項特點進一步追加同方向的優點或缺點，與表示動作前後的「上で」不同。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「工夫ができる上に」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～上に：再加上一項加強訊息；～だけでなく：不僅如此，範圍更廣。",
+    "examples": [
+      {
+        "ja": "この店は安い上に駅から近いです。",
+        "reading": "このみせはやすいうえにえきからちかいです。",
+        "zh": "這家店不只便宜，離車站也近。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "彼は親切な上に説明も上手です。",
+        "reading": "かれはしんせつなうえにせつめいもじょうずです。",
+        "zh": "他不僅親切，也很會說明。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "工夫ができる上に",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 11,
+    "sourceBookPage": 162,
+    "sourcePdfPage": 173,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第11章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-103",
+    "pattern": "～といっても",
+    "meaningZh": "雖說～，其實～",
+    "connection": "名詞／普通形＋といっても",
+    "explanation": "對剛提出的稱呼或情況加以限制、修正，指出實際程度沒有想像中那麼大。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「ラーメンといっても」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～といっても：雖說如此，實際程度不同；～けれども：一般逆接。",
+    "examples": [
+      {
+        "ja": "旅行といっても日帰りです。",
+        "reading": "りょこうといってもひがえりです。",
+        "zh": "雖說是旅行，其實當天就往返。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "料理ができるといっても簡単なものだけです。",
+        "reading": "りょうりができるといってもかんたんなものだけです。",
+        "zh": "雖說會做菜，其實只會簡單的。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "ラーメンといっても",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 11,
+    "sourceBookPage": 163,
+    "sourcePdfPage": 174,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第11章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-104",
+    "pattern": "～に限る",
+    "meaningZh": "～最好；首推～",
+    "connection": "名詞／動詞辭書形＋に限る",
+    "explanation": "主觀判斷某選項最好，與限定資格的「に限り」不同。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「ラーメンはしょうゆ味に限る」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～に限る：此時／這方面最好；～に限り：僅限對象。",
+    "examples": [
+      {
+        "ja": "暑い日は冷たいお茶に限ります。",
+        "reading": "あついひはつめたいおちゃにかぎります。",
+        "zh": "炎熱的日子還是冷茶最好。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "疲れたときは早く寝るに限る。",
+        "reading": "つかれたときははやくねるにかぎる。",
+        "zh": "累的時候早點睡最好。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "ラーメンはしょうゆ味に限る",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 11,
+    "sourceBookPage": 164,
+    "sourcePdfPage": 175,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第11章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-105",
+    "pattern": "～だけあって",
+    "meaningZh": "不愧是～；正因為～",
+    "connection": "普通形＋だけあって／名詞＋だけあって",
+    "explanation": "前項身分、經驗或期待與後項良好結果相稱，常帶讚賞。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「人気店だけあって」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～だけあって：不愧有其名，符合期待；～だけに：正因為此原因而結果更甚。",
+    "examples": [
+      {
+        "ja": "有名な店だけあって料理がおいしいです。",
+        "reading": "ゆうめいなみせだけあってりょうりがおいしいです。",
+        "zh": "不愧是名店，料理很好吃。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "毎日練習しているだけあって上手ですね。",
+        "reading": "まいにちれんしゅうしているだけあってじょうずですね。",
+        "zh": "不愧每天練習，真厲害。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "人気店だけあって",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 11,
+    "sourceBookPage": 165,
+    "sourcePdfPage": 176,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第11章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-106",
+    "pattern": "～にしろ～にしろ",
+    "meaningZh": "不論是～還是～",
+    "connection": "名詞＋にしろ＋名詞＋にしろ",
+    "explanation": "列舉兩種情況都成立的共同結論；較「でも～でも」正式。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「スープにしろ具にしろ」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～にしろ～にしろ：不管 A 還是 B；～ても～ても：即使兩種動作皆發生。",
+    "examples": [
+      {
+        "ja": "電車にしろバスにしろ時間がかかります。",
+        "reading": "でんしゃにしろバスにしろじかんがかかります。",
+        "zh": "不論搭電車或公車都要花時間。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "仕事にしろ勉強にしろ計画が必要です。",
+        "reading": "しごとにしろべんきょうにしろけいかくがひつようです。",
+        "zh": "不論工作或學習都需要計畫。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "スープにしろ具にしろ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 11,
+    "sourceBookPage": 166,
+    "sourcePdfPage": 177,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第11章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-107",
+    "pattern": "～とか",
+    "meaningZh": "聽說～之類的",
+    "connection": "普通形＋とか",
+    "explanation": "口語中表示不確定的傳聞，通常未充分確認，不應當成已查證事實。",
+    "nuance": "口語中情緒色彩較強。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「発売されるとか」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～とか：傳聞的不確定說法；～そうだ：傳聞形式但說明較清楚。",
+    "examples": [
+      {
+        "ja": "来月新しい店ができるとか。",
+        "reading": "らいげつあたらしいみせができるとか。",
+        "zh": "聽說下個月會開新店。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "彼は会社を辞めるとか聞きました。",
+        "reading": "かれはかいしゃをやめるとかききました。",
+        "zh": "我聽說他好像要辭職。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "発売されるとか",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 172,
+    "sourcePdfPage": 183,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-108",
+    "pattern": "～に沿って",
+    "meaningZh": "沿著～；按照～方向",
+    "connection": "名詞＋に沿って／に沿う＋名詞",
+    "explanation": "可指實際沿著路線，也能比喻遵循方針或需求；重點在不偏離既定線索。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「業界の流れにそって」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～に沿って：沿線路或方針進行；～に従って：可表示服從／隨變化。",
+    "examples": [
+      {
+        "ja": "川に沿って歩きました。",
+        "reading": "かわにそってあるきました。",
+        "zh": "沿著河流走。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "方針に沿って計画を進めます。",
+        "reading": "ほうしんにそってけいかくをすすめます。",
+        "zh": "按照方針推進計畫。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "業界の流れにそって",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 174,
+    "sourcePdfPage": 185,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-109",
+    "pattern": "～にかけては",
+    "meaningZh": "論～方面（最擅長）",
+    "connection": "名詞＋にかけては",
+    "explanation": "指出某人或某機構在特定技能、領域中特別出色，後面多接高度評價。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「ウォーキングシューズにかけては」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～にかけては：在某技術領域最優；～については：一般提及領域。",
+    "examples": [
+      {
+        "ja": "料理の腕にかけては彼が一番です。",
+        "reading": "りょうりのうでにかけてはかれがいちばんです。",
+        "zh": "論廚藝，他是第一名。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "品質にかけては自信があります。",
+        "reading": "ひんしつにかけてはじしんがあります。",
+        "zh": "論品質，我們很有自信。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "ウォーキングシューズにかけては",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 174,
+    "sourcePdfPage": 185,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-110",
+    "pattern": "～ないことには",
+    "meaningZh": "若不先～就無法～",
+    "connection": "動詞ない形＋ことには",
+    "explanation": "前項被視為必要先決條件，若未達成後項就無法展開。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "常否定沒有完成前項就能做判斷的可能性。",
+    "similarGrammar": "～ないと：普通條件；～ないことには：不先～就無法。",
+    "examples": [
+      {
+        "ja": "実際に見ないことには判断できません。",
+        "reading": "じっさいにみないことにははんだんできません。",
+        "zh": "不親眼看就無法判斷。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "話してみないことには分かりません。",
+        "reading": "はなしてみないことにはわかりません。",
+        "zh": "不談談看就不會知道。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "開発しないことには",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 175,
+    "sourcePdfPage": 186,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-111",
+    "pattern": "～がち",
+    "meaningZh": "容易～；動不動就～（負面傾向）",
+    "connection": "動詞ます形去ます＋がち／名詞＋がち",
+    "explanation": "指出某人或某狀況容易反覆出現不理想傾向，常見「忘れがち」「病気がち」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "通常表示負面習慣傾向，與「やすい」（容易操作）不同。",
+    "similarGrammar": "～やすい：容易做；～がち：傾向常發生。",
+    "examples": [
+      {
+        "ja": "忙しいと朝食を抜きがちです。",
+        "reading": "いそがしいとちょうしょくをぬきがちです。",
+        "zh": "忙的時候容易不吃早餐。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "彼は最近遅刻しがちです。",
+        "reading": "かれはさいきんちこくしがちです。",
+        "zh": "他最近動不動就遲到。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "歩きやすさを重視しがちです",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 176,
+    "sourcePdfPage": 187,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-112",
+    "pattern": "～つつ（も）",
+    "meaningZh": "雖然～，但～（心知卻反向）",
+    "connection": "動詞ます形去ます＋つつ（も）",
+    "explanation": "知道前項事實卻仍做相反的行為，常帶懊悔；是書面逆接而非同時動作。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "此為帶遺憾的逆接「明知卻」，不是同時進行的「つつ」。",
+    "similarGrammar": "～ながらも：雖然；～つつも：明知～卻～。",
+    "examples": [
+      {
+        "ja": "体に悪いと思いつつ夜更かししてしまいます。",
+        "reading": "からだにわるいとおもいつつよふかししてしまいます。",
+        "zh": "雖然知道傷身，卻還是熬夜。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "無理だと知りつつ挑戦しました。",
+        "reading": "むりだとしりつつちょうせんしました。",
+        "zh": "明知困難仍挑戰了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "ほしいと思いつつも",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 177,
+    "sourcePdfPage": 188,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-113",
+    "pattern": "～ようとしたら",
+    "meaningZh": "正想要～時～",
+    "connection": "動詞意向形＋としたら／としたところ",
+    "explanation": "表示正要開始某動作時，發生了另外一件事；不同於假設「としたら」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "正要開始的瞬間另一事情發生，不等於做完之後。",
+    "similarGrammar": "～ようとする：正打算；～ようとしたら：正要時。",
+    "examples": [
+      {
+        "ja": "家を出ようとしたら電話が鳴りました。",
+        "reading": "いえをでようとしたらでんわがなりました。",
+        "zh": "正要出門時電話響了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "寝ようとしたら友達が来ました。",
+        "reading": "ねようとしたらともだちがきました。",
+        "zh": "正要睡時朋友來了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "新商品を作ろうとしたら",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 179,
+    "sourcePdfPage": 190,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-114",
+    "pattern": "～次第で",
+    "meaningZh": "取決於～",
+    "connection": "名詞＋次第で／次第では",
+    "explanation": "指出後項結果隨前項因素而異；不同於動詞ます形後表示「一～就」的「次第」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "「次第で」由名詞決定結果，與「次第」（一…就…）不同。",
+    "similarGrammar": "～によって：原因或依據；～次第で：結果全看某條件。",
+    "examples": [
+      {
+        "ja": "努力次第で結果は変わります。",
+        "reading": "どりょくしだいでけっかはかわります。",
+        "zh": "結果會隨努力程度改變。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "天気次第では予定を変更します。",
+        "reading": "てんきしだいではよていをへんこうします。",
+        "zh": "視天氣情況可能變更計畫。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "デザイン次第で",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 180,
+    "sourcePdfPage": 191,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-115",
+    "pattern": "～一方だ",
+    "meaningZh": "只會不斷～；越來越～",
+    "connection": "動詞辭書形＋一方だ",
+    "explanation": "表示某種傾向單方向持續加深，多見於增加、減少、惡化等變動。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "朝單一方向不斷變化，多為不利變化，但不必然。",
+    "similarGrammar": "～つつある：正在改變；～一方だ：只會持續。",
+    "examples": [
+      {
+        "ja": "物価は上がる一方です。",
+        "reading": "ぶっかはあがるいっぽうです。",
+        "zh": "物價不斷上漲。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "彼の病状は悪くなる一方でした。",
+        "reading": "かれのびょうじょうはわるくなるいっぽうでした。",
+        "zh": "他的病情一直惡化。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "厳しくなる一方です",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 181,
+    "sourcePdfPage": 192,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-116",
+    "pattern": "～に先立って",
+    "meaningZh": "在～之前",
+    "connection": "名詞＋に先立って／動詞辭書形＋に先立って",
+    "explanation": "正式表示重大行動或活動開始前先行準備，常接開業、舉行、實施等。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "通常接正式活動的開始，在此前進行準備或致詞。",
+    "similarGrammar": "～にあたって：值此之際；～に先立って：開始之前。",
+    "examples": [
+      {
+        "ja": "開会に先立って挨拶があります。",
+        "reading": "かいかいにさきだってあいさつがあります。",
+        "zh": "開會前先致詞。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "工事に先立って説明会を開きます。",
+        "reading": "こうじにさきだってせつめいかいをひらきます。",
+        "zh": "施工前先開說明會。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "開発に先立って",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 182,
+    "sourcePdfPage": 193,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-117",
+    "pattern": "～た上で",
+    "meaningZh": "做完～之後再～",
+    "connection": "動詞た形＋上で／名詞＋の上で",
+    "explanation": "強調前項完成或充分考慮後才進行後項；與辭書形「上で」表過程條件不同。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "此處為事先完成前一動作；與「する上で」做某事時的條件不同。",
+    "similarGrammar": "～る上で：做～時；～た上で：做完～後。",
+    "examples": [
+      {
+        "ja": "資料を確認した上で署名してください。",
+        "reading": "しりょうをかくにんしたうえでしょめいしてください。",
+        "zh": "確認資料之後再簽名。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "家族と相談した上で決めます。",
+        "reading": "かぞくとそうだんしたうえできめます。",
+        "zh": "與家人商量後再決定。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "市場調査をした上で",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 182,
+    "sourcePdfPage": 193,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-118",
+    "pattern": "～にこたえて",
+    "meaningZh": "回應～；符合～",
+    "connection": "名詞＋にこたえて／にこたえる＋名詞",
+    "explanation": "表示回應期待、要求或需求而採取措施，重點在對外界期待的積極反應。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「社会人の声にこたえた」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～にこたえて：回應期待、要求；～に応じて：依具體條件調整。",
+    "examples": [
+      {
+        "ja": "皆さんの期待にこたえて頑張ります。",
+        "reading": "みなさんのきたいにこたえてがんばります。",
+        "zh": "為回應大家期待而努力。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "利用者の要望にこたえて営業時間を延ばしました。",
+        "reading": "りようしゃのようぼうにこたえてえいぎょうじかんをのばしました。",
+        "zh": "回應使用者需求而延長營業時間。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "社会人の声にこたえた",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 183,
+    "sourcePdfPage": 194,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-119",
+    "pattern": "～ことにする",
+    "meaningZh": "當作～沒發生",
+    "connection": "普通形＋ことにする／名詞＋ということにする",
+    "explanation": "原本可表示自行決定；本條依原文指把已發生的事當作沒有發生，屬刻意設定處理方式。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "本句常是將事情視為某狀態，而不一定表示真的沒有發生。",
+    "similarGrammar": "～ようにする：努力做到；～ことにする：主觀決定／視為。",
+    "examples": [
+      {
+        "ja": "昨日のけんかはなかったことにしましょう。",
+        "reading": "きのうのけんかはなかったことにしましょう。",
+        "zh": "昨天的爭吵就當作沒發生吧。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "その話は聞かなかったことにします。",
+        "reading": "そのはなしはきかなかったことにします。",
+        "zh": "那件事就當作我沒聽過。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "昇進の話はなかったことにする",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 189,
+    "sourcePdfPage": 200,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-120",
+    "pattern": "～つもりだった",
+    "meaningZh": "主觀認為～；原以為～",
+    "connection": "動詞辭書形・た形・ている形／名詞＋の＋つもり",
+    "explanation": "用來表達當事者心中的評價或認知，而不保證符合客觀事實。也可用於自己以為已做好某件事的情況。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「がんばったつもりだった」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～たつもりだった：以為自己完成了；～たはずだ：依據記憶覺得應該完成。",
+    "examples": [
+      {
+        "ja": "きちんと説明したつもりでしたが、伝わっていませんでした。",
+        "reading": "きちんとせつめいしたつもりでしたが、つたわっていませんでした。",
+        "zh": "我以為已經說明清楚，但對方沒有理解。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "彼は冗談のつもりで言ったそうです。",
+        "reading": "かれはじょうだんのつもりでいったそうです。",
+        "zh": "聽說他是把那當玩笑說的。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "がんばったつもりだった",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 190,
+    "sourcePdfPage": 201,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-121",
+    "pattern": "～てならない",
+    "meaningZh": "～得不得了（強烈情緒）",
+    "connection": "動詞て形＋ならない／い形容詞くて＋ならない／な形容詞で＋ならない",
+    "explanation": "表示喜怒哀樂或生理感受等自然湧現、難以抑制；不適用任何客觀動作。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "多用於自然而強烈的情感；不屬於主觀選擇。",
+    "similarGrammar": "～てたまらない：難以忍受；～てならない：自然湧出的強烈情感。",
+    "examples": [
+      {
+        "ja": "試験の結果が気になってなりません。",
+        "reading": "しけんのけっかがきになってなりません。",
+        "zh": "非常在意考試結果。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "故郷が恋しくてなりません。",
+        "reading": "こきょうがこいしくてなりません。",
+        "zh": "想故鄉想得不得了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "つらくてならなかった",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 190,
+    "sourcePdfPage": 201,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-122",
+    "pattern": "～ものなら",
+    "meaningZh": "如果可能的話～",
+    "connection": "動詞可能形＋ものなら",
+    "explanation": "表示雖然難以實現，仍有想做的事情，常搭配「できるものなら」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "「ものなら」通常帶實現困難的假設，並非普通容易達成條件。",
+    "similarGrammar": "～たら：一般假設；～ものなら：如果能實現就好了。",
+    "examples": [
+      {
+        "ja": "戻れるものなら学生時代に戻りたい。",
+        "reading": "もどれるものならがくせいじだいにもどりたい。",
+        "zh": "如果回得去，真想回到學生時代。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "会えるものならもう一度会いたい。",
+        "reading": "あえるものならもういちどあいたい。",
+        "zh": "如果能見面，真想再見一次。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "できるものなら",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 191,
+    "sourcePdfPage": 202,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-123",
+    "pattern": "～か～まいか",
+    "meaningZh": "要～還是不要～",
+    "connection": "動詞意向形＋か＋動詞辭書形＋まいか",
+    "explanation": "面對兩難選擇時的自問自答，常接「迷う」「考える」，語體較書面。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "常搭配「迷う」，表示兩難決定。",
+    "similarGrammar": "～かどうか：是否；～か～まいか：做還是不做。",
+    "examples": [
+      {
+        "ja": "行こうか行くまいか迷っています。",
+        "reading": "いこうかいくまいかまよっています。",
+        "zh": "正猶豫要去還是不去。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "話そうか話すまいか考えました。",
+        "reading": "はなそうかはなすまいかかんがえました。",
+        "zh": "我曾考慮要說還是不說。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "行こうか行くまいか",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 192,
+    "sourcePdfPage": 203,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-124",
+    "pattern": "～た末",
+    "meaningZh": "經過～後終於～",
+    "connection": "動詞た形＋末／名詞＋の末",
+    "explanation": "經過較長時間反覆考慮、討論或努力，最後得出結論；結果可好可壞。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "含經過一番過程後終於得出結論，不只代表時間先後。",
+    "similarGrammar": "～あげく：多帶不理想結果；～末：努力／思考後結果。",
+    "examples": [
+      {
+        "ja": "長く悩んだ末に転職しました。",
+        "reading": "ながくなやんだすえにてんしょくしました。",
+        "zh": "煩惱很久後終於轉職。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "話し合いの末、合意に達しました。",
+        "reading": "はなしあいのすえ、ごういにたっしました。",
+        "zh": "經過討論後達成共識。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "迷った末",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 193,
+    "sourcePdfPage": 204,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-125",
+    "pattern": "たとえ～ても",
+    "meaningZh": "即使～也～",
+    "connection": "たとえ＋動詞・形容詞て形＋も",
+    "explanation": "承認極端條件成立，強調後項依然不變，語氣強於一般「ても」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「たとえどんな事情があっても」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "たとえ～ても：強調不論極端假設也不變；～ても：一般讓步條件。",
+    "examples": [
+      {
+        "ja": "たとえ失敗してもあきらめません。",
+        "reading": "たとえしっぱいしてもあきらめません。",
+        "zh": "即使失敗也不放棄。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "たとえ遠くても会いに行きます。",
+        "reading": "たとえとおくてもあいにいきます。",
+        "zh": "即使很遠也要去見面。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "たとえどんな事情があっても",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 196,
+    "sourcePdfPage": 207,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-126",
+    "pattern": "～がたい",
+    "meaningZh": "難以～；做不到～（心理）",
+    "connection": "動詞ます形去ます＋がたい",
+    "explanation": "情感、價值判斷或心理障礙使人難以從事某行動；與客觀技能上的「にくい」不同。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "表示心理、情感上難以實行，不等於實際技能做不到。",
+    "similarGrammar": "～にくい：操作難；～がたい：心理難以做到。",
+    "examples": [
+      {
+        "ja": "その行為は許しがたいです。",
+        "reading": "そのこういはゆるしがたいです。",
+        "zh": "那種行為難以原諒。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "忘れがたい思い出があります。",
+        "reading": "わすれがたいおもいでがあります。",
+        "zh": "有難以忘懷的回憶。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "許しがたい",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 196,
+    "sourcePdfPage": 207,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-127",
+    "pattern": "～もかまわず",
+    "meaningZh": "不顧～",
+    "connection": "名詞＋もかまわず",
+    "explanation": "不在意某種情況、他人反應或限制，照樣做某事；常用以批評缺乏顧慮。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "常暗示不在乎周圍的感受或條件；有批評色彩。",
+    "similarGrammar": "～にかかわらず：無論條件；～もかまわず：不顧。",
+    "examples": [
+      {
+        "ja": "人目もかまわず泣きました。",
+        "reading": "ひとめもかまわずなきました。",
+        "zh": "不顧旁人眼光哭了起來。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "雨もかまわず走り出しました。",
+        "reading": "あめもかまわずはしりだしました。",
+        "zh": "不顧下雨就跑了出去。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "男が止めるのもかまわず",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 197,
+    "sourcePdfPage": 208,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-128",
+    "pattern": "～あまり",
+    "meaningZh": "由於過度～而～",
+    "connection": "名詞＋のあまり／動詞辭書形＋あまり",
+    "explanation": "因情感或程度過於強烈，導致未預期的結果；不是一般原因說明。",
+    "nuance": "口語中情緒色彩較強。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「恥ずかしさのあまり」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～あまり：情緒或程度過強導致結果；～せいで：歸因於負面原因。",
+    "examples": [
+      {
+        "ja": "緊張のあまり名前を忘れました。",
+        "reading": "きんちょうのあまりなまえをわすれました。",
+        "zh": "因過度緊張而忘了名字。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "うれしさのあまり涙が出ました。",
+        "reading": "うれしさのあまりなみだがでました。",
+        "zh": "高興得流下眼淚。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "恥ずかしさのあまり",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 198,
+    "sourcePdfPage": 209,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-129",
+    "pattern": "～を込めて",
+    "meaningZh": "傾注～（心意）",
+    "connection": "名詞＋を込めて",
+    "explanation": "把感謝、感情、願望等投注於行為或作品，主觀情感較強。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「気持ちを込めて」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～を込めて：傾注心意；～をもとに：以材料或資料為基礎。",
+    "examples": [
+      {
+        "ja": "感謝の気持ちを込めて手紙を書きます。",
+        "reading": "かんしゃのきもちをこめててがみをかきます。",
+        "zh": "懷著感謝之情寫信。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "願いを込めて歌いました。",
+        "reading": "ねがいをこめてうたいました。",
+        "zh": "帶著願望唱了歌。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "気持ちを込めて",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 199,
+    "sourcePdfPage": 210,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-130",
+    "pattern": "～も～ば～も",
+    "meaningZh": "既做～也做～",
+    "connection": "動詞ます形去ます＋もすれば＋同類表現＋もする",
+    "explanation": "列舉同一主體具備或從事的多種活動，表示並列；這裡的「ば」並非條件假設。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "「～もすれば～もする」是列舉多方面，不表示條件句。",
+    "similarGrammar": "～たり～たり：列舉動作；～も～ば～も：並列性質／行為。",
+    "examples": [
+      {
+        "ja": "彼は料理もすれば掃除もします。",
+        "reading": "かれはりょうりもすればそうじもします。",
+        "zh": "他既做飯也打掃。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "この店では本も売れば雑誌も売ります。",
+        "reading": "このみせではほんもうればざっしもうります。",
+        "zh": "這家店既賣書也賣雜誌。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "荷物運びもすれば切符も売る",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 199,
+    "sourcePdfPage": 210,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-131",
+    "pattern": "～抜く",
+    "meaningZh": "堅持做到底～",
+    "connection": "動詞ます形去ます＋抜く",
+    "explanation": "表示面對困難仍努力把行動堅持到完成；不同於簡單的「終わる」。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「やりぬくぞ」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～抜く：即使艱困也堅持到底；～終える：單純完成。",
+    "examples": [
+      {
+        "ja": "最後まで走り抜きました。",
+        "reading": "さいごまではしりぬきました。",
+        "zh": "一路跑到了終點。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "彼は困難を乗り越えてやり抜きました。",
+        "reading": "かれはこんなんをのりこえてやりぬきました。",
+        "zh": "他克服困難堅持完成了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "やりぬくぞ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 13,
+    "sourceBookPage": 200,
+    "sourcePdfPage": 211,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第13章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-132",
+    "pattern": "～ものだ（回想）",
+    "meaningZh": "從前常常～（回想）",
+    "connection": "動詞た形＋ものだ",
+    "explanation": "懷念過去反覆發生的習慣或情景，語氣常帶感慨；與現在的一般常理「ものだ」不同。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "為回憶往事「たものだ」，不同於一般常理「ものだ」。",
+    "similarGrammar": "～たものだ：從前常常；～ものだ：普遍道理。",
+    "examples": [
+      {
+        "ja": "子どものころよく川で遊んだものです。",
+        "reading": "こどものころよくかわであそんだものです。",
+        "zh": "小時候常常在河邊玩。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "昔は毎晩星を眺めたものだ。",
+        "reading": "むかしはまいばんほしをながめたものだ。",
+        "zh": "以前經常每晚看星星。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "国を挙げて喜んだものだ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 14,
+    "sourceBookPage": 206,
+    "sourcePdfPage": 217,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第14章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-133",
+    "pattern": "～をめぐって",
+    "meaningZh": "圍繞～（議題）",
+    "connection": "名詞＋をめぐって／をめぐる＋名詞",
+    "explanation": "多方人士針對同一問題發生討論、爭議或動作，常見社會議題。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「開催をめぐって」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～をめぐって：圍繞同一爭議由多方行動；～について：一般有關話題。",
+    "examples": [
+      {
+        "ja": "新しい法律をめぐって議論が続いています。",
+        "reading": "あたらしいほうりつをめぐってぎろんがつづいています。",
+        "zh": "圍繞新法的討論仍在持續。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "土地をめぐる争いが起きました。",
+        "reading": "とちをめぐるあらそいがおきました。",
+        "zh": "發生了土地相關的爭議。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "開催をめぐって",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 14,
+    "sourceBookPage": 207,
+    "sourcePdfPage": 218,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第14章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-134",
+    "pattern": "～わけだ",
+    "meaningZh": "原來如此；難怪會～",
+    "connection": "普通形＋わけだ（名詞・な形容詞＋な／だ＋わけだ，視句型而定）",
+    "explanation": "根據已知理由或事情發展，推導出某結果是理所當然的。這項在原書第207頁著重「說明原因後，解釋為何自然會變成那樣」，不是單純外部決定。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "此處表示外部決定或情勢發展後的結論，與「ことにする」不同。",
+    "similarGrammar": "～ことにする：自己決定；～ことになる：外部決定／結果。",
+    "examples": [
+      {
+        "ja": "新しい規則ができたのか。みんなが戸惑うわけだ。",
+        "reading": "あたらしいきそくができたのか。みんながとまどうわけだ。",
+        "zh": "原來有了新規定，難怪大家困惑。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "値段が二倍になったのだから抗議が起こるわけです。",
+        "reading": "ねだんがにばいになったのだからこうぎがおこるわけです。",
+        "zh": "既然價格翻倍，難怪會出現抗議。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "抗議の声が上がることになるわけだ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 14,
+    "sourceBookPage": 207,
+    "sourcePdfPage": 218,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第14章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-135",
+    "pattern": "～にあたって",
+    "meaningZh": "值此～之際",
+    "connection": "動詞辭書形／名詞＋にあたって",
+    "explanation": "正式表示開始重要工作或面臨重要場合之時，常伴隨準備、態度與注意事項。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「オリンピック開催にあたって」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～にあたって：重要時機採取態度或準備；～に際して：正式活動發生當時。",
+    "examples": [
+      {
+        "ja": "出発にあたって注意点を説明します。",
+        "reading": "しゅっぱつにあたってちゅういてんをせつめいします。",
+        "zh": "出發之際先說明注意事項。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "開業にあたり皆様に感謝します。",
+        "reading": "かいぎょうにあたりみなさまにかんしゃします。",
+        "zh": "值此開業之際，感謝各位。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "オリンピック開催にあたって",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 14,
+    "sourceBookPage": 208,
+    "sourcePdfPage": 219,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第14章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-136",
+    "pattern": "～に加えて",
+    "meaningZh": "加上～；除此之外還～",
+    "connection": "名詞＋に加えて",
+    "explanation": "在既有項目上增加另一項目，單純加算或並列，前後未必是對比關係。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「資金に加えて」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～に加えて：在 A 上添加 B；～だけでなく：不只 A 還 B。",
+    "examples": [
+      {
+        "ja": "家賃に加えて管理費も必要です。",
+        "reading": "やちんにくわえてかんりひもひつようです。",
+        "zh": "除了房租還需要管理費。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "英語に加えて中国語も勉強しています。",
+        "reading": "えいごにくわえてちゅうごくごもべんきょうしています。",
+        "zh": "除了英語也在學中文。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "資金に加えて",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 14,
+    "sourceBookPage": 209,
+    "sourcePdfPage": 220,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第14章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-137",
+    "pattern": "～としても",
+    "meaningZh": "即使假設～也～",
+    "connection": "普通形＋としても／名詞・な形容詞＋だとしても",
+    "explanation": "先假設前項成立，再指出後項仍成立；與引用身分的「として」不同。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "假設前項成立仍有後項；此處與「作為身分」的「として」不同。",
+    "similarGrammar": "～ても：即使；～としても：先假定成立。",
+    "examples": [
+      {
+        "ja": "雨が降ったとしても試合は行います。",
+        "reading": "あめがふったとしてもしあいはおこないます。",
+        "zh": "即使下雨比賽也照常舉行。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "失敗したとしても後悔はしません。",
+        "reading": "しっぱいしたとしてもこうかいはしません。",
+        "zh": "就算失敗也不會後悔。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "用意されたとしても",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 14,
+    "sourceBookPage": 209,
+    "sourcePdfPage": 220,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第14章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-138",
+    "pattern": "～に基づいて",
+    "meaningZh": "以～為基礎／依據",
+    "connection": "名詞＋に基づいて／に基づく＋名詞",
+    "explanation": "根據資料、規則、事實或原則作判斷、創作及行動；書面語，重點是依據。",
+    "nuance": "書面或說明文中常見。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「理念に基づいて」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～に基づいて：依證據、標準採取行動；～をもとに：由原始素材再創作。",
+    "examples": [
+      {
+        "ja": "データに基づいて判断します。",
+        "reading": "データにもとづいてはんだんします。",
+        "zh": "依據數據判斷。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "実話に基づく映画です。",
+        "reading": "じつわにもとづくえいがです。",
+        "zh": "這是根據真實故事改編的電影。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "理念に基づいて",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 14,
+    "sourceBookPage": 210,
+    "sourcePdfPage": 221,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第14章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-139",
+    "pattern": "～てこそ",
+    "meaningZh": "正因～才有意義",
+    "connection": "動詞て形＋こそ",
+    "explanation": "強調只有前項行動或條件成立，後項的重要結果或價值才得以顯現。",
+    "nuance": "須依上下文判定強調的是前項條件、行動還是結果。",
+    "usageCautions": "先核對前接詞形及語境；來源標題「多くの人が賛同してこそ」為課本例句形式，不能直接視為唯一接續。",
+    "similarGrammar": "～てこそ：唯有 A 成立才有 B 的價值；～ば：一般條件。",
+    "examples": [
+      {
+        "ja": "努力してこそ成功の喜びが分かります。",
+        "reading": "どりょくしてこそせいこうのよろこびがわかります。",
+        "zh": "正因付出努力，才懂成功的喜悅。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "話し合ってこそ理解が深まります。",
+        "reading": "はなしあってこそりかいがふかまります。",
+        "zh": "唯有透過討論，理解才能加深。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "多くの人が賛同してこそ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 14,
+    "sourceBookPage": 211,
+    "sourcePdfPage": 222,
+    "itemType": "main",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第14章",
+      "主文法"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-PLUS-01",
+    "pattern": "～に際して",
+    "meaningZh": "在～之際（正式場合）",
+    "connection": "名詞＋に際して／動詞辭書形＋に際して",
+    "explanation": "用於提出申請、付款、簽約等較正式的場合，表示執行某項行動的時機。常見於通知和說明文字，與主文法「～際に」意思相近，但「に際して」更強調正式、重要場合。",
+    "nuance": "公告／通知的鄭重書面語。",
+    "usageCautions": "一般日常小事通常使用「とき」更自然。",
+    "similarGrammar": "～際に：正式的「～時」；～にあたって：開始重要行動前的準備或決心。",
+    "examples": [
+      {
+        "ja": "申し込みに際して、本人確認書類が必要です。",
+        "reading": "もうしこみにさいして、ほんにんかくにんしょるいがひつようです。",
+        "zh": "辦理申請時需要身分確認文件。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "契約に際して、内容を十分確認してください。",
+        "reading": "けいやくにさいして、ないようをじゅうぶんかくにんしてください。",
+        "zh": "簽約之際請充分確認內容。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "～に際して",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 1,
+    "sourceBookPage": 25,
+    "sourcePdfPage": 36,
+    "itemType": "plus",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第1章",
+      "Plus"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-PLUS-02",
+    "pattern": "契機／～を契機に",
+    "meaningZh": "契機；以～為轉機",
+    "connection": "名詞＋を契機に／を契機として",
+    "explanation": "「契機」是表示事情發生或轉變的重要起因、轉折點的名詞。比「きっかけ」正式，常用於企業發展、社會事件、歷史演變等重大變化。",
+    "nuance": "偏社會、歷史或機構的重要轉折。",
+    "usageCautions": "這是原書 Plus 詞語補充，非與主文法完全獨立的單一助詞句型。",
+    "similarGrammar": "～をきっかけに：一般起因；～を契機に：較正式且通常變化顯著。",
+    "examples": [
+      {
+        "ja": "受賞を契機に、彼の作品は広く知られるようになりました。",
+        "reading": "じゅしょうをけいきに、かれのさくひんはひろくしられるようになりました。",
+        "zh": "以獲獎為契機，他的作品逐漸廣為人知。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "今回の改革を契機として、新しい制度が始まりました。",
+        "reading": "こんかいのかいかくをけいきとして、あたらしいせいどがはじまりました。",
+        "zh": "以此次改革為契機，開始施行新制度。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "契機",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 40,
+    "sourcePdfPage": 51,
+    "itemType": "plus",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "Plus"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-PLUS-03",
+    "pattern": "～以上は",
+    "meaningZh": "既然～就應～",
+    "connection": "動詞／形容詞普通形＋以上（は）；名詞・な形容詞＋である以上（は）",
+    "explanation": "表示前提既已成立，就理應承擔後續責任、義務或自然推論。強調既定事實與後續決心的邏輯關係，口語和正式表達皆可。",
+    "nuance": "帶有責任感、應盡義務的語氣。",
+    "usageCautions": "不能誤解成單純數量的「以上」（如 18 歳以上）。",
+    "similarGrammar": "～からには：既然～，責任／決心較直接；～上は：更正式。",
+    "examples": [
+      {
+        "ja": "約束した以上は、必ず守らなければなりません。",
+        "reading": "やくそくしたいじょうは、かならずまもらなければなりません。",
+        "zh": "既然答應了，就一定要遵守。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "代表になった以上は、最後まで責任を持ちます。",
+        "reading": "だいひょうになったいじょうは、さいごまでせきにんをもちます。",
+        "zh": "既然成為代表，就會負責到底。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "～以上は",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 41,
+    "sourcePdfPage": 52,
+    "itemType": "plus",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "Plus"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-PLUS-04",
+    "pattern": "～上は",
+    "meaningZh": "既然～就～（鄭重）",
+    "connection": "動詞普通形＋上は（うえは）",
+    "explanation": "確認前項事實後，強調後項必須貫徹的決心、義務或相應措施，屬略帶鄭重的表達。與「～からには」「～以上は」相近。",
+    "nuance": "決心、責任較強，常見書面或正式發言。",
+    "usageCautions": "此處「上は」讀作「うえは」，不同於方位名詞「うえ」。",
+    "similarGrammar": "～以上は：已成立的條件；～からには：常用於直接承諾、決心。",
+    "examples": [
+      {
+        "ja": "引き受けた上は、途中で投げ出しません。",
+        "reading": "ひきうけたうえは、とちゅうでなげだしません。",
+        "zh": "既然承接了，就不會半途而廢。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "参加する上は、規則を守ってください。",
+        "reading": "さんかするうえは、きそくをまもってください。",
+        "zh": "既然要參加，請遵守規定。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "～上は",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 2,
+    "sourceBookPage": 42,
+    "sourcePdfPage": 53,
+    "itemType": "plus",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第2章",
+      "Plus"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-PLUS-05",
+    "pattern": "～からいうと／～からいえば／～からいって",
+    "meaningZh": "從～角度來說",
+    "connection": "名詞＋からいうと／からいえば／からいって",
+    "explanation": "以特定立場、分類或衡量標準做評價和判斷。「～からいえば」偏於提出評價準則；「～からいって」可以表達強烈依據某個面向的結論。",
+    "nuance": "先指定「評估基準」，再表達意見。",
+    "usageCautions": "不要與單純引用來源「～によると」混淆。",
+    "similarGrammar": "～から見ると：以觀點判斷；～からすると：以條件或立場推測。",
+    "examples": [
+      {
+        "ja": "安全性からいうと、この方法が一番いいです。",
+        "reading": "あんぜんせいからいうと、このほうほうがいちばんいいです。",
+        "zh": "從安全性而言，這個方法最好。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "費用の面からいえば、今の計画は難しいでしょう。",
+        "reading": "ひようのめんからいえば、いまのけいかくはむずかしいでしょう。",
+        "zh": "從費用方面來說，目前的計畫恐怕很難。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "～からいうと／～からいえば／～からいって",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 104,
+    "sourcePdfPage": 115,
+    "itemType": "plus",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "Plus"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-PLUS-06",
+    "pattern": "～からすると／～からすれば／～からして",
+    "meaningZh": "從～立場／根據～看來",
+    "connection": "名詞＋からすると／からすれば／からして",
+    "explanation": "以某人的立場、某種現象或判斷材料來評價事物。「～からして」也能以最基礎的一點作為例證，暗示其他部分也可推知。",
+    "nuance": "判斷往往帶有立場或推測性。",
+    "usageCautions": "「からして」除了觀點，也能表示「單從～就」；用法要看前後文。",
+    "similarGrammar": "～からいうと：評估準則；～からすると：從某立場推斷。",
+    "examples": [
+      {
+        "ja": "親の立場からすれば、子どもの安全が第一です。",
+        "reading": "おやのたちばからすれば、こどものあんぜんがだいいちです。",
+        "zh": "從父母的立場來看，孩子的安全最重要。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "声の様子からすると、まだ疲れているようです。",
+        "reading": "こえのようすからすると、まだつかれているようです。",
+        "zh": "從聲音的狀態判斷，他似乎還很疲倦。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "～からすると／～からすれば／～からして",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 105,
+    "sourcePdfPage": 116,
+    "itemType": "plus",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "Plus"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-PLUS-07",
+    "pattern": "～につれて／～につれ",
+    "meaningZh": "隨著～（持續變化）",
+    "connection": "動詞辭書形／表示變化的名詞＋につれて／につれ",
+    "explanation": "前項逐漸變化時，後項也同步改變。和「～にしたがって」相似，但「～につれて」常見於非意志性、自然發生的連動變化。",
+    "nuance": "兩項事物隨時間或條件相互變化。",
+    "usageCautions": "通常不接一次性指示、命令或刻意的個人意志行動。",
+    "similarGrammar": "～にしたがって：也可表示服從規則；～につれて：主要是連動變化。",
+    "examples": [
+      {
+        "ja": "日本語を勉強するにつれて、新聞も読めるようになりました。",
+        "reading": "にほんごをべんきょうするにつれて、しんぶんもよめるようになりました。",
+        "zh": "隨著學習日文，逐漸也能讀報紙了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "年を取るにつれ、健康の大切さを感じます。",
+        "reading": "としをとるにつれ、けんこうのたいせつさをかんじます。",
+        "zh": "隨著年齡增長，愈發體會健康的重要。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "～につれて／～につれ",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 7,
+    "sourceBookPage": 109,
+    "sourcePdfPage": 120,
+    "itemType": "plus",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第7章",
+      "Plus"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-PLUS-08",
+    "pattern": "～ってば",
+    "meaningZh": "真是的，說到～（親密抱怨）",
+    "connection": "名詞＋ってば",
+    "explanation": "口語中點出親近的人、重申話題並表達不滿、責備或無奈。語氣親密而隨意，不用於正式場合。",
+    "nuance": "親暱地抱怨或責備，不宜對上司、陌生人使用。",
+    "usageCautions": "與「～と言えば」的話題轉換不同。",
+    "similarGrammar": "～ったら：親暱批評；～ってば：也常用於催促對方注意。",
+    "examples": [
+      {
+        "ja": "お兄ちゃんってば、また私の本を勝手に読んだの。",
+        "reading": "おにいちゃんってば、またわたしのほんをかってによんだの。",
+        "zh": "哥哥真是的，又擅自看我的書。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "もう、田中さんってば、冗談ばかり言うんだから。",
+        "reading": "もう、たなかさんってば、じょうだんばかりいうんだから。",
+        "zh": "真是的，田中先生老是開玩笑。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "～ってば",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 9,
+    "sourceBookPage": 133,
+    "sourcePdfPage": 144,
+    "itemType": "plus",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第9章",
+      "Plus"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-PLUS-09",
+    "pattern": "～ばかり（変化の進行）",
+    "meaningZh": "只會不斷～／愈來愈～",
+    "connection": "動詞辭書形＋ばかり（だ）",
+    "explanation": "前項變化持續朝一個方向發展，表示情況愈來愈嚴重、擴大或增減而沒有逆轉傾向。書中列為「～一方だ」的 Plus 同義形式。",
+    "nuance": "常用於令人擔心的單向變化，重點不是「只做某事」。",
+    "usageCautions": "與「食べてばかりいる」（老是在吃）以及「来たばかり」（剛來）不同。",
+    "similarGrammar": "～一方だ：持續朝一方向；～ばかりだ：相似，書面上也常見。",
+    "examples": [
+      {
+        "ja": "工事が遅れて、費用は増えるばかりです。",
+        "reading": "こうじがおくれて、ひようはふえるばかりです。",
+        "zh": "因工程延誤，費用只會持續增加。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "景気が悪くなるばかりで、心配しています。",
+        "reading": "けいきがわるくなるばかりで、しんぱいしています。",
+        "zh": "景氣不斷惡化，令人擔憂。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "～ばかり",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 12,
+    "sourceBookPage": 181,
+    "sourcePdfPage": 192,
+    "itemType": "plus",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第12章",
+      "Plus"
+    ],
+    "reviewStatus": "needs_review"
+  },
+  {
+    "id": "JLPT-N2-TRY-PLUS-10",
+    "pattern": "～をもとに／～をもとにして",
+    "meaningZh": "以～為原始素材／基礎",
+    "connection": "名詞＋をもとに／をもとにして／をもとにした＋名詞",
+    "explanation": "以某項資料、原型、事件、故事為基礎進行創作、改編或規劃。原始素材可以經過加工轉變，與「～に基づいて」強調依循證據、標準不同。",
+    "nuance": "常見於創作、研究、企劃、產品開發。",
+    "usageCautions": "「もとに」強調出發素材，不表示完全照抄或毫無改動。",
+    "similarGrammar": "～に基づいて：依據規則／數據；～をもとに：由原始素材發展。",
+    "examples": [
+      {
+        "ja": "実際の事件をもとに映画が作られました。",
+        "reading": "じっさいのじけんをもとにえいががつくられました。",
+        "zh": "這部電影以真實事件為基礎製作。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "調査結果をもとにして新しい計画を立てます。",
+        "reading": "ちょうさけっかをもとにしてあたらしいけいかくをたてます。",
+        "zh": "根據調查結果制定新計畫。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "～をもとに／～をもとにして",
+    "sourceId": "TRY_N2_CN_SCAN_2013",
+    "chapterNumber": 14,
+    "sourceBookPage": 211,
+    "sourcePdfPage": 222,
+    "itemType": "plus",
+    "provenance": "原書目錄標題及頁碼經掃描核對；接續、中文解說及例句均由助理另行編寫，尚未經日語教師逐條審核。",
+    "tags": [
+      "TRY! N2",
+      "第14章",
+      "Plus"
+    ],
+    "reviewStatus": "needs_review"
+  }
+]

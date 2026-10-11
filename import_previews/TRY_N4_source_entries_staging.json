@@ -1,0 +1,4617 @@
+{
+  "notice": "ONLY staging preview. None of these entries is verified or published; no examples invented. Review and deduplicate before assigning canonical material_id.",
+  "source": {
+    "id": "TRY_N4_CN_2015",
+    "title": "TRY！新日语能力考试N4语法必备",
+    "language": "zh",
+    "edition": "2015 中譯本",
+    "publisher": null,
+    "isbn": null,
+    "jlpt_level": "N4",
+    "file_name": "TRY！新日语能力考试N4语法必备.pdf",
+    "page_count": 271
+  },
+  "chapters": [
+    {
+      "id": "TRY_N4_CN_2015-CH01",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_code": "01",
+      "title_ja": "あいさつの言葉",
+      "title_zh": "寒暄用語",
+      "book_page": 16,
+      "pdf_page": 24
+    },
+    {
+      "id": "TRY_N4_CN_2015-CH02",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_code": "02",
+      "title_ja": "おかし作り",
+      "title_zh": "製作糕點",
+      "book_page": 18,
+      "pdf_page": 26
+    },
+    {
+      "id": "TRY_N4_CN_2015-CH03",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_code": "03",
+      "title_ja": "けっこん式",
+      "title_zh": "婚禮",
+      "book_page": 36,
+      "pdf_page": 44
+    },
+    {
+      "id": "TRY_N4_CN_2015-CH04",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_code": "04",
+      "title_ja": "私の町ハノイ",
+      "title_zh": "我的家鄉河內",
+      "book_page": 50,
+      "pdf_page": 58
+    },
+    {
+      "id": "TRY_N4_CN_2015-CH05",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_code": "05",
+      "title_ja": "ハイキングの計画",
+      "title_zh": "徒步旅行計畫",
+      "book_page": 68,
+      "pdf_page": 76
+    },
+    {
+      "id": "TRY_N4_CN_2015-CH06",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_code": "06",
+      "title_ja": "木の上の子ねこ",
+      "title_zh": "樹上的小貓",
+      "book_page": 85,
+      "pdf_page": 93
+    },
+    {
+      "id": "TRY_N4_CN_2015-CH07",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_code": "07",
+      "title_ja": "大好きなピアノ",
+      "title_zh": "我最喜歡的鋼琴",
+      "book_page": 102,
+      "pdf_page": 110
+    },
+    {
+      "id": "TRY_N4_CN_2015-CH08",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_code": "08",
+      "title_ja": "旅館のよやく",
+      "title_zh": "預約旅館",
+      "book_page": 120,
+      "pdf_page": 128
+    },
+    {
+      "id": "TRY_N4_CN_2015-CH09",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_code": "09",
+      "title_ja": "ゆうしょうインタビュー",
+      "title_zh": "採訪獲勝者",
+      "book_page": 134,
+      "pdf_page": 142
+    },
+    {
+      "id": "TRY_N4_CN_2015-CH10",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_code": "10",
+      "title_ja": "アルバイトのめんせつ",
+      "title_zh": "兼職面試",
+      "book_page": 150,
+      "pdf_page": 158
+    },
+    {
+      "id": "TRY_N4_CN_2015-CH11",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_code": "11",
+      "title_ja": "便利な言葉",
+      "title_zh": "便利詞語",
+      "book_page": 163,
+      "pdf_page": 171
+    }
+  ],
+  "source_entries": [
+    {
+      "id": "TRY-N4-G001",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH02",
+      "source_entry_key": "grammar:001",
+      "source_kind": "grammar",
+      "source_title": "食べてみてください",
+      "book_page": 18,
+      "pdf_page": 26,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-001",
+        "editorial_pattern_not_original": "Vてみる",
+        "editorial_meaning_zh_tw_not_original": "試著做～",
+        "editorial_explanation_zh_tw_not_original": "表示嘗試進行某個動作，看看結果如何。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G002",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH02",
+      "source_entry_key": "grammar:002",
+      "source_kind": "grammar",
+      "source_title": "おいしそうですね",
+      "book_page": 19,
+      "pdf_page": 27,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-002",
+        "editorial_pattern_not_original": "Aそうだ（樣態）",
+        "editorial_meaning_zh_tw_not_original": "看起來～",
+        "editorial_explanation_zh_tw_not_original": "由外觀、聲音或當下觀察推測事物的狀態；與傳聞用法不同。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G003",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH02",
+      "source_entry_key": "grammar:003",
+      "source_kind": "grammar",
+      "source_title": "作ったんですか",
+      "book_page": 21,
+      "pdf_page": 29,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-003",
+        "editorial_pattern_not_original": "～んです／～んですか",
+        "editorial_meaning_zh_tw_not_original": "原來是～／是～嗎",
+        "editorial_explanation_zh_tw_not_original": "用來說明背景、尋求解釋或確認某件事情的原因或情況。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G004",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH02",
+      "source_entry_key": "grammar:004",
+      "source_kind": "grammar",
+      "source_title": "作り方",
+      "book_page": 22,
+      "pdf_page": 30,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-004",
+        "editorial_pattern_not_original": "Vます形去ます＋方",
+        "editorial_meaning_zh_tw_not_original": "～的方法",
+        "editorial_explanation_zh_tw_not_original": "接在動詞ます形去ます之後，表示某個動作的做法。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G005",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH02",
+      "source_entry_key": "grammar:005",
+      "source_kind": "grammar",
+      "source_title": "作り方を習ったので",
+      "book_page": 23,
+      "pdf_page": 31,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-005",
+        "editorial_pattern_not_original": "普通形＋ので",
+        "editorial_meaning_zh_tw_not_original": "因為～",
+        "editorial_explanation_zh_tw_not_original": "提出原因與理由，通常比「から」語氣較柔和。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G006",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH02",
+      "source_entry_key": "grammar:006",
+      "source_kind": "grammar",
+      "source_title": "作ることができる",
+      "book_page": 24,
+      "pdf_page": 32,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-006",
+        "editorial_pattern_not_original": "V辭書形＋ことができる",
+        "editorial_meaning_zh_tw_not_original": "能夠～",
+        "editorial_explanation_zh_tw_not_original": "表示能力、可能性或特定條件下可以做某事。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G007",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH02",
+      "source_entry_key": "grammar:007",
+      "source_kind": "grammar",
+      "source_title": "おいしいかどうか",
+      "book_page": 25,
+      "pdf_page": 33,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-007",
+        "editorial_pattern_not_original": "普通形＋かどうか",
+        "editorial_meaning_zh_tw_not_original": "是否～",
+        "editorial_explanation_zh_tw_not_original": "把是非疑問嵌入句中，表示不知道是否成立。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G008",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH02",
+      "source_entry_key": "grammar:008",
+      "source_kind": "grammar",
+      "source_title": "このフルーツソースをかけて",
+      "book_page": 26,
+      "pdf_page": 34,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-008",
+        "editorial_pattern_not_original": "Vて、…",
+        "editorial_meaning_zh_tw_not_original": "做～，然後～",
+        "editorial_explanation_zh_tw_not_original": "連接依序發生的動作，或描述前後相接的行為。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G009",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH02",
+      "source_entry_key": "grammar:009",
+      "source_kind": "grammar",
+      "source_title": "かわをむかないで",
+      "book_page": 27,
+      "pdf_page": 35,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-009",
+        "editorial_pattern_not_original": "Vないで",
+        "editorial_meaning_zh_tw_not_original": "不做～而～",
+        "editorial_explanation_zh_tw_not_original": "不進行前項動作，直接進行後項動作。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G010",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH02",
+      "source_entry_key": "grammar:010",
+      "source_kind": "grammar",
+      "source_title": "全部食べてしまった",
+      "book_page": 28,
+      "pdf_page": 36,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-010",
+        "editorial_pattern_not_original": "Vてしまう",
+        "editorial_meaning_zh_tw_not_original": "做完了～／不小心～",
+        "editorial_explanation_zh_tw_not_original": "可表示動作完成，也可帶遺憾、後悔或非預期的語氣。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G011",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH02",
+      "source_entry_key": "grammar:011",
+      "source_kind": "grammar",
+      "source_title": "時間があったら",
+      "book_page": 29,
+      "pdf_page": 37,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-011",
+        "editorial_pattern_not_original": "普通形た形＋ら",
+        "editorial_meaning_zh_tw_not_original": "如果～的話／～之後",
+        "editorial_explanation_zh_tw_not_original": "表示條件或某個動作完成之後的情況。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G012",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH02",
+      "source_entry_key": "grammar:012",
+      "source_kind": "grammar",
+      "source_title": "かんたんに作れます",
+      "book_page": 31,
+      "pdf_page": 39,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-012",
+        "editorial_pattern_not_original": "動詞可能形",
+        "editorial_meaning_zh_tw_not_original": "能～／會～",
+        "editorial_explanation_zh_tw_not_original": "用可能形表達能力或客觀情況允許某動作發生。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G013",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH03",
+      "source_entry_key": "grammar:013",
+      "source_kind": "grammar",
+      "source_title": "名前という意味です",
+      "book_page": 37,
+      "pdf_page": 45,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-013",
+        "editorial_pattern_not_original": "～という意味",
+        "editorial_meaning_zh_tw_not_original": "意思是～",
+        "editorial_explanation_zh_tw_not_original": "解釋字詞、名稱或符號所代表的意思。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G014",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH03",
+      "source_entry_key": "grammar:014",
+      "source_kind": "grammar",
+      "source_title": "けっこん式にしょうたいされた",
+      "book_page": 38,
+      "pdf_page": 46,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-014",
+        "editorial_pattern_not_original": "動詞受身形",
+        "editorial_meaning_zh_tw_not_original": "被～",
+        "editorial_explanation_zh_tw_not_original": "表示承受別人的行為；也能用於陳述事件或作品。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G015",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH03",
+      "source_entry_key": "grammar:015",
+      "source_kind": "grammar",
+      "source_title": "けっこん式は6月なのに",
+      "book_page": 39,
+      "pdf_page": 47,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-015",
+        "editorial_pattern_not_original": "普通形＋のに",
+        "editorial_meaning_zh_tw_not_original": "明明～卻～",
+        "editorial_explanation_zh_tw_not_original": "表示與預期相反的事實，常包含意外、不滿或遺憾。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G016",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH03",
+      "source_entry_key": "grammar:016",
+      "source_kind": "grammar",
+      "source_title": "席を決めなければなりません",
+      "book_page": 40,
+      "pdf_page": 48,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-016",
+        "editorial_pattern_not_original": "Vなければならない",
+        "editorial_meaning_zh_tw_not_original": "必須～",
+        "editorial_explanation_zh_tw_not_original": "表示義務或不得不做某事；另有近義型「なくてはならない」。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G017",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH03",
+      "source_entry_key": "grammar:017",
+      "source_kind": "grammar",
+      "source_title": "だれが参加してもいい",
+      "book_page": 43,
+      "pdf_page": 51,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-017",
+        "editorial_pattern_not_original": "Vてもいい",
+        "editorial_meaning_zh_tw_not_original": "可以～",
+        "editorial_explanation_zh_tw_not_original": "表示允許與准許；疑問句可用來徵求對方許可。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G018",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH03",
+      "source_entry_key": "grammar:018",
+      "source_kind": "grammar",
+      "source_title": "どんなものをあげるんですか",
+      "book_page": 44,
+      "pdf_page": 52,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-018",
+        "editorial_pattern_not_original": "あげる",
+        "editorial_meaning_zh_tw_not_original": "給予（由我方給別人）",
+        "editorial_explanation_zh_tw_not_original": "依說話者視角描述給予動作；對象與授受方向很重要。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G019",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH03",
+      "source_entry_key": "grammar:019",
+      "source_kind": "grammar",
+      "source_title": "あげなくてもいい",
+      "book_page": 45,
+      "pdf_page": 53,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-019",
+        "editorial_pattern_not_original": "Vなくてもいい",
+        "editorial_meaning_zh_tw_not_original": "不～也可以",
+        "editorial_explanation_zh_tw_not_original": "表示沒有必要進行某動作；不等於「不可以做」。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G020",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH03",
+      "source_entry_key": "grammar:020",
+      "source_kind": "grammar",
+      "source_title": "あげたほうがいい",
+      "book_page": 46,
+      "pdf_page": 54,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-020",
+        "editorial_pattern_not_original": "Vたほうがいい",
+        "editorial_meaning_zh_tw_not_original": "最好～",
+        "editorial_explanation_zh_tw_not_original": "就對方或自己的情況提出建議；否定常用「ないほうがいい」。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G021",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH03",
+      "source_entry_key": "grammar:021",
+      "source_kind": "grammar",
+      "source_title": "あげることにします",
+      "book_page": 47,
+      "pdf_page": 55,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-021",
+        "editorial_pattern_not_original": "Vことにする",
+        "editorial_meaning_zh_tw_not_original": "決定～",
+        "editorial_explanation_zh_tw_not_original": "表示主語經意志判斷作出決定；與外在安排「ことになる」區分。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G022",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH04",
+      "source_entry_key": "grammar:022",
+      "source_kind": "grammar",
+      "source_title": "行ったことがありますか",
+      "book_page": 50,
+      "pdf_page": 58,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-022",
+        "editorial_pattern_not_original": "Vたことがある",
+        "editorial_meaning_zh_tw_not_original": "曾經～",
+        "editorial_explanation_zh_tw_not_original": "表達過去的經驗；常與「一度」「まだ」等搭配。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G023",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH04",
+      "source_entry_key": "grammar:023",
+      "source_kind": "grammar",
+      "source_title": "どんなところか知っていますか",
+      "book_page": 51,
+      "pdf_page": 59,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-023",
+        "editorial_pattern_not_original": "疑問詞＋か",
+        "editorial_meaning_zh_tw_not_original": "～（間接疑問）",
+        "editorial_explanation_zh_tw_not_original": "以疑問詞加「か」將問句作為句子的一部分。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G024",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH04",
+      "source_entry_key": "grammar:024",
+      "source_kind": "grammar",
+      "source_title": "7月になると",
+      "book_page": 52,
+      "pdf_page": 60,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-024",
+        "editorial_pattern_not_original": "普通形＋と",
+        "editorial_meaning_zh_tw_not_original": "一～就～",
+        "editorial_explanation_zh_tw_not_original": "表示自然規律、固定結果或條件成立時隨之發生的事。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G025",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH04",
+      "source_entry_key": "grammar:025",
+      "source_kind": "grammar",
+      "source_title": "ハノイは東京よりずっと小さいです",
+      "book_page": 53,
+      "pdf_page": 61,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-025",
+        "editorial_pattern_not_original": "N1はN2より～",
+        "editorial_meaning_zh_tw_not_original": "N1比N2更～",
+        "editorial_explanation_zh_tw_not_original": "比較兩個事物；「ずっと」可強化差異程度。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G026",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH04",
+      "source_entry_key": "grammar:026",
+      "source_kind": "grammar",
+      "source_title": "その湖のまわり",
+      "book_page": 54,
+      "pdf_page": 62,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-026",
+        "editorial_pattern_not_original": "その／あの／これ／あれ",
+        "editorial_meaning_zh_tw_not_original": "那個／這個",
+        "editorial_explanation_zh_tw_not_original": "依說話者、聽者的距離或共同認知選擇指示詞。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G027",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH04",
+      "source_entry_key": "grammar:027",
+      "source_kind": "grammar",
+      "source_title": "散歩するのが好きです",
+      "book_page": 55,
+      "pdf_page": 63,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-027",
+        "editorial_pattern_not_original": "V辭書形＋のが／のは",
+        "editorial_meaning_zh_tw_not_original": "喜歡做～／做～這件事",
+        "editorial_explanation_zh_tw_not_original": "以「の」把動作名詞化，作為句子的主語或對象。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G028",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH04",
+      "source_entry_key": "grammar:028",
+      "source_kind": "grammar",
+      "source_title": "歩くのに1時間かかりません",
+      "book_page": 58,
+      "pdf_page": 66,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-028",
+        "editorial_pattern_not_original": "V辭書形＋のに",
+        "editorial_meaning_zh_tw_not_original": "為了做～（所需）",
+        "editorial_explanation_zh_tw_not_original": "表示完成某動作所需的時間、金錢或用途；與逆接「のに」不同。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G029",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH04",
+      "source_entry_key": "grammar:029",
+      "source_kind": "grammar",
+      "source_title": "かめがかざられています",
+      "book_page": 59,
+      "pdf_page": 67,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-029",
+        "editorial_pattern_not_original": "動詞受身形＋ている",
+        "editorial_meaning_zh_tw_not_original": "被～著／處於被～的狀態",
+        "editorial_explanation_zh_tw_not_original": "以被動形式描述持續狀態或習慣性的受動情況。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G030",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH04",
+      "source_entry_key": "grammar:030",
+      "source_kind": "grammar",
+      "source_title": "屋台がたくさん並んでいます",
+      "book_page": 61,
+      "pdf_page": 69,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-030",
+        "editorial_pattern_not_original": "Vている",
+        "editorial_meaning_zh_tw_not_original": "正在～／處於～狀態",
+        "editorial_explanation_zh_tw_not_original": "視動詞性質表示進行中或動作後留下的狀態。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G031",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH04",
+      "source_entry_key": "grammar:031",
+      "source_kind": "grammar",
+      "source_title": "いいにおいがします",
+      "book_page": 62,
+      "pdf_page": 70,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-031",
+        "editorial_pattern_not_original": "Nがする",
+        "editorial_meaning_zh_tw_not_original": "有～的感覺／聞到～",
+        "editorial_explanation_zh_tw_not_original": "搭配味道、氣味、聲音等感官名詞。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G032",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH04",
+      "source_entry_key": "grammar:032",
+      "source_kind": "grammar",
+      "source_title": "食べているところです",
+      "book_page": 63,
+      "pdf_page": 71,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-032",
+        "editorial_pattern_not_original": "Vているところだ",
+        "editorial_meaning_zh_tw_not_original": "正好正在～",
+        "editorial_explanation_zh_tw_not_original": "特別凸顯動作目前正在進行的階段。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G033",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH04",
+      "source_entry_key": "grammar:033",
+      "source_kind": "grammar",
+      "source_title": "おいしそうでしょう？",
+      "book_page": 64,
+      "pdf_page": 72,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-033",
+        "editorial_pattern_not_original": "～でしょう／～だろう",
+        "editorial_meaning_zh_tw_not_original": "～吧／應該～",
+        "editorial_explanation_zh_tw_not_original": "推測、確認對方共識，或委婉徵求認同。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G034",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "grammar:034",
+      "source_kind": "grammar",
+      "source_title": "始まったらしいです",
+      "book_page": 69,
+      "pdf_page": 77,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-034",
+        "editorial_pattern_not_original": "普通形＋らしい",
+        "editorial_meaning_zh_tw_not_original": "似乎～／聽說～",
+        "editorial_explanation_zh_tw_not_original": "根據聽聞或間接資訊作出推測。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G035",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "grammar:035",
+      "source_kind": "grammar",
+      "source_title": "きれいだと言っていました",
+      "book_page": 70,
+      "pdf_page": 78,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-035",
+        "editorial_pattern_not_original": "～と言っていた",
+        "editorial_meaning_zh_tw_not_original": "說過～",
+        "editorial_explanation_zh_tw_not_original": "轉述別人先前說過的話；注意引用句的形式。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G036",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "grammar:036",
+      "source_kind": "grammar",
+      "source_title": "連れていってもらいました",
+      "book_page": 70,
+      "pdf_page": 78,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-036",
+        "editorial_pattern_not_original": "Vてもらう",
+        "editorial_meaning_zh_tw_not_original": "請別人幫我～／受惠於～",
+        "editorial_explanation_zh_tw_not_original": "從接受幫助的一方描述某人替自己或相關人做事。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G037",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "grammar:037",
+      "source_kind": "grammar",
+      "source_title": "疲れそうです",
+      "book_page": 72,
+      "pdf_page": 80,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-037",
+        "editorial_pattern_not_original": "Aそうだ（樣態）",
+        "editorial_meaning_zh_tw_not_original": "看起來快～／似乎～",
+        "editorial_explanation_zh_tw_not_original": "依現場徵兆或外觀推測，與第2項同一核心句型但接續可不同。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G038",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "grammar:038",
+      "source_kind": "grammar",
+      "source_title": "ロープウェイを使えば",
+      "book_page": 73,
+      "pdf_page": 81,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-038",
+        "editorial_pattern_not_original": "動詞ば形",
+        "editorial_meaning_zh_tw_not_original": "如果～",
+        "editorial_explanation_zh_tw_not_original": "表示假設條件與其結果；動詞、形容詞各有相應變化。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G039",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "grammar:039",
+      "source_kind": "grammar",
+      "source_title": "道がわからなくなってしまった",
+      "book_page": 75,
+      "pdf_page": 83,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-039",
+        "editorial_pattern_not_original": "Vなくなる＋てしまう",
+        "editorial_meaning_zh_tw_not_original": "變得不再～而且～了",
+        "editorial_explanation_zh_tw_not_original": "結合狀態改變「なくなる」與完成、遺憾的「てしまう」。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G040",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "grammar:040",
+      "source_kind": "grammar",
+      "source_title": "ガイドブックに書いてあります",
+      "book_page": 76,
+      "pdf_page": 84,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-040",
+        "editorial_pattern_not_original": "Vてある",
+        "editorial_meaning_zh_tw_not_original": "～好了／～被保留著",
+        "editorial_explanation_zh_tw_not_original": "描述人為動作後留下的結果狀態；常用他動詞。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G041",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "grammar:041",
+      "source_kind": "grammar",
+      "source_title": "大丈夫でしょう",
+      "book_page": 77,
+      "pdf_page": 85,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-041",
+        "editorial_pattern_not_original": "～でしょう",
+        "editorial_meaning_zh_tw_not_original": "大概～／應該～",
+        "editorial_explanation_zh_tw_not_original": "表達較有把握的推測，視語調也可帶確認意味。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G042",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "grammar:042",
+      "source_kind": "grammar",
+      "source_title": "調べておきます",
+      "book_page": 78,
+      "pdf_page": 86,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-042",
+        "editorial_pattern_not_original": "Vておく",
+        "editorial_meaning_zh_tw_not_original": "先～／預先～",
+        "editorial_explanation_zh_tw_not_original": "表示事前準備或為往後情況做某事。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G043",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "grammar:043",
+      "source_kind": "grammar",
+      "source_title": "いい天気だといいですね",
+      "book_page": 79,
+      "pdf_page": 87,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-043",
+        "editorial_pattern_not_original": "～といい／～たらいい／～ばいい",
+        "editorial_meaning_zh_tw_not_original": "要是～就好了",
+        "editorial_explanation_zh_tw_not_original": "表示願望、期待，或視語境提出建議。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G044",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "grammar:044",
+      "source_kind": "grammar",
+      "source_title": "行きたい人がいるかもしれません",
+      "book_page": 81,
+      "pdf_page": 89,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-044",
+        "editorial_pattern_not_original": "普通形＋かもしれない",
+        "editorial_meaning_zh_tw_not_original": "可能～",
+        "editorial_explanation_zh_tw_not_original": "表達不確定性較高的推測。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G045",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "grammar:045",
+      "source_kind": "grammar",
+      "source_title": "行くことになりました",
+      "book_page": 82,
+      "pdf_page": 90,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-045",
+        "editorial_pattern_not_original": "Vことになる",
+        "editorial_meaning_zh_tw_not_original": "決定為～／變成～",
+        "editorial_explanation_zh_tw_not_original": "說明外在安排、事情演變或非單純個人意志的決定。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G046",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH06",
+      "source_entry_key": "grammar:046",
+      "source_kind": "grammar",
+      "source_title": "どうしたの？",
+      "book_page": 86,
+      "pdf_page": 94,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-046",
+        "editorial_pattern_not_original": "～の／～んだ",
+        "editorial_meaning_zh_tw_not_original": "怎麼了／原來如此",
+        "editorial_explanation_zh_tw_not_original": "口語中用於詢問說明、交代情況或背景。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G047",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH06",
+      "source_entry_key": "grammar:047",
+      "source_kind": "grammar",
+      "source_title": "赤くなっているようだ",
+      "book_page": 86,
+      "pdf_page": 94,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-047",
+        "editorial_pattern_not_original": "普通形＋ようだ",
+        "editorial_meaning_zh_tw_not_original": "好像～",
+        "editorial_explanation_zh_tw_not_original": "根據具體跡象推測情況；名詞和形容動詞接續不同。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G048",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH06",
+      "source_entry_key": "grammar:048",
+      "source_kind": "grammar",
+      "source_title": "行ったほうがいいんじゃない？",
+      "book_page": 87,
+      "pdf_page": 95,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-048",
+        "editorial_pattern_not_original": "～んじゃない？",
+        "editorial_meaning_zh_tw_not_original": "是不是～／～不是比較好嗎",
+        "editorial_explanation_zh_tw_not_original": "以口語形式提出推測、反問或柔和建議。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G049",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH06",
+      "source_entry_key": "grammar:049",
+      "source_kind": "grammar",
+      "source_title": "子ねこにかまれたんだ",
+      "book_page": 88,
+      "pdf_page": 96,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-049",
+        "editorial_pattern_not_original": "動詞受身形＋んだ",
+        "editorial_meaning_zh_tw_not_original": "被～了（說明）",
+        "editorial_explanation_zh_tw_not_original": "被動句與背景說明語氣結合；注意施事者常用「に」。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G050",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH06",
+      "source_entry_key": "grammar:050",
+      "source_kind": "grammar",
+      "source_title": "そのままにしておいた",
+      "book_page": 92,
+      "pdf_page": 100,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-050",
+        "editorial_pattern_not_original": "Vておく",
+        "editorial_meaning_zh_tw_not_original": "保持～／放著不處理",
+        "editorial_explanation_zh_tw_not_original": "「ておく」亦能表維持某個現狀，不只事先準備。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G051",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH06",
+      "source_entry_key": "grammar:051",
+      "source_kind": "grammar",
+      "source_title": "おちそうだった",
+      "book_page": 92,
+      "pdf_page": 100,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-051",
+        "editorial_pattern_not_original": "Vます形去ます＋そうだ（即將發生）",
+        "editorial_meaning_zh_tw_not_original": "眼看就要～",
+        "editorial_explanation_zh_tw_not_original": "表示動作或變化幾乎要發生；「そうだった」可表示過去某一刻差點發生。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G052",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH06",
+      "source_entry_key": "grammar:052",
+      "source_kind": "grammar",
+      "source_title": "手をのばしても",
+      "book_page": 93,
+      "pdf_page": 101,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-052",
+        "editorial_pattern_not_original": "Vても",
+        "editorial_meaning_zh_tw_not_original": "即使～也～",
+        "editorial_explanation_zh_tw_not_original": "逆接假設或讓步，表示前項成立後項仍成立。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G053",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH06",
+      "source_entry_key": "grammar:053",
+      "source_kind": "grammar",
+      "source_title": "けがをしなくて、よかった",
+      "book_page": 95,
+      "pdf_page": 103,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-053",
+        "editorial_pattern_not_original": "Vなくて",
+        "editorial_meaning_zh_tw_not_original": "沒～（因而）",
+        "editorial_explanation_zh_tw_not_original": "以否定て形連接原因、狀態及情緒評價。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G054",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH06",
+      "source_entry_key": "grammar:054",
+      "source_kind": "grammar",
+      "source_title": "やさしすぎる",
+      "book_page": 97,
+      "pdf_page": 105,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-054",
+        "editorial_pattern_not_original": "A語幹／Vます形去ます＋すぎる",
+        "editorial_meaning_zh_tw_not_original": "過於～",
+        "editorial_explanation_zh_tw_not_original": "表示程度或次數超過適當範圍。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G055",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH06",
+      "source_entry_key": "grammar:055",
+      "source_kind": "grammar",
+      "source_title": "悪くならないように",
+      "book_page": 98,
+      "pdf_page": 106,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-055",
+        "editorial_pattern_not_original": "Vない＋ように",
+        "editorial_meaning_zh_tw_not_original": "為了不～／以免～",
+        "editorial_explanation_zh_tw_not_original": "表示努力避免不希望發生的狀態或為達成目標採取措施。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G056",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH06",
+      "source_entry_key": "grammar:056",
+      "source_kind": "grammar",
+      "source_title": "ちょっとかまれただけだし、もう痛くないし",
+      "book_page": 98,
+      "pdf_page": 106,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-056",
+        "editorial_pattern_not_original": "普通形＋し、～し",
+        "editorial_meaning_zh_tw_not_original": "既～又～／因為～",
+        "editorial_explanation_zh_tw_not_original": "並列多個理由或特徵，也可隱含還有其他原因。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G057",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "grammar:057",
+      "source_kind": "grammar",
+      "source_title": "あそびに行くな",
+      "book_page": 103,
+      "pdf_page": 111,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-057",
+        "editorial_pattern_not_original": "V辭書形＋な",
+        "editorial_meaning_zh_tw_not_original": "不准～",
+        "editorial_explanation_zh_tw_not_original": "簡體命令式的禁止表現，語氣強烈。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G058",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "grammar:058",
+      "source_kind": "grammar",
+      "source_title": "練習しろ",
+      "book_page": 104,
+      "pdf_page": 112,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-058",
+        "editorial_pattern_not_original": "動詞命令形",
+        "editorial_meaning_zh_tw_not_original": "去做～！",
+        "editorial_explanation_zh_tw_not_original": "直接下達命令；通常較強硬，需留意使用場合。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G059",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "grammar:059",
+      "source_kind": "grammar",
+      "source_title": "って毎日言われて",
+      "book_page": 105,
+      "pdf_page": 113,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-059",
+        "editorial_pattern_not_original": "～って（引用）",
+        "editorial_meaning_zh_tw_not_original": "說～／聽說～",
+        "editorial_explanation_zh_tw_not_original": "口語引用標記，可替代「と」引用他人言語或內容。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G060",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "grammar:060",
+      "source_kind": "grammar",
+      "source_title": "教えてくれた",
+      "book_page": 106,
+      "pdf_page": 114,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-060",
+        "editorial_pattern_not_original": "Vてくれる",
+        "editorial_meaning_zh_tw_not_original": "（別人）替我～",
+        "editorial_explanation_zh_tw_not_original": "以受惠者為說話者一方的視角描述他人善意動作。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G061",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "grammar:061",
+      "source_kind": "grammar",
+      "source_title": "ひけるようになった",
+      "book_page": 108,
+      "pdf_page": 116,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-061",
+        "editorial_pattern_not_original": "V可能形＋ようになる",
+        "editorial_meaning_zh_tw_not_original": "變得會～／能～",
+        "editorial_explanation_zh_tw_not_original": "表示能力或習慣經過變化而達成。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G062",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "grammar:062",
+      "source_kind": "grammar",
+      "source_title": "ピアノの楽しさ",
+      "book_page": 109,
+      "pdf_page": 117,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-062",
+        "editorial_pattern_not_original": "A語幹＋さ",
+        "editorial_meaning_zh_tw_not_original": "～的程度／～之處",
+        "editorial_explanation_zh_tw_not_original": "將部分形容詞名詞化，表示性質或程度。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G063",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "grammar:063",
+      "source_kind": "grammar",
+      "source_title": "練習しよう",
+      "book_page": 110,
+      "pdf_page": 118,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-063",
+        "editorial_pattern_not_original": "動詞意向形",
+        "editorial_meaning_zh_tw_not_original": "來～吧／打算～",
+        "editorial_explanation_zh_tw_not_original": "表達意志、邀請或提議。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G064",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "grammar:064",
+      "source_kind": "grammar",
+      "source_title": "しようと思っています",
+      "book_page": 111,
+      "pdf_page": 119,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-064",
+        "editorial_pattern_not_original": "V意向形＋と思っている",
+        "editorial_meaning_zh_tw_not_original": "一直打算～",
+        "editorial_explanation_zh_tw_not_original": "表示說話者已有且持續存在的意圖或計畫。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G065",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "grammar:065",
+      "source_kind": "grammar",
+      "source_title": "父のために",
+      "book_page": 112,
+      "pdf_page": 120,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-065",
+        "editorial_pattern_not_original": "Nのために／V辭書形＋ために",
+        "editorial_meaning_zh_tw_not_original": "為了～",
+        "editorial_explanation_zh_tw_not_original": "表示目的或受益對象；與表示原因的「ために」須按語境區分。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G066",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "grammar:066",
+      "source_kind": "grammar",
+      "source_title": "ひくつもりです",
+      "book_page": 113,
+      "pdf_page": 121,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-066",
+        "editorial_pattern_not_original": "V辭書形＋つもりだ",
+        "editorial_meaning_zh_tw_not_original": "打算～",
+        "editorial_explanation_zh_tw_not_original": "表示說話者自己的意圖和計畫。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G067",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "grammar:067",
+      "source_kind": "grammar",
+      "source_title": "子どもに習わせたい",
+      "book_page": 114,
+      "pdf_page": 122,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-067",
+        "editorial_pattern_not_original": "動詞使役形",
+        "editorial_meaning_zh_tw_not_original": "讓～做／使～做",
+        "editorial_explanation_zh_tw_not_original": "表示允許、促使或命令某人做某事。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G068",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH08",
+      "source_entry_key": "grammar:068",
+      "source_kind": "grammar",
+      "source_title": "山下旅館でございます",
+      "book_page": 120,
+      "pdf_page": 128,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-068",
+        "editorial_pattern_not_original": "～でございます",
+        "editorial_meaning_zh_tw_not_original": "是～（鄭重）",
+        "editorial_explanation_zh_tw_not_original": "名詞斷定「です」的鄭重說法，常見於服務場合。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G069",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH08",
+      "source_entry_key": "grammar:069",
+      "source_kind": "grammar",
+      "source_title": "お願いしたいんですが",
+      "book_page": 121,
+      "pdf_page": 129,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-069",
+        "editorial_pattern_not_original": "～んですが",
+        "editorial_meaning_zh_tw_not_original": "那個～，想請問…",
+        "editorial_explanation_zh_tw_not_original": "用來引出請求、說明情況並等待對方回應。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G070",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH08",
+      "source_entry_key": "grammar:070",
+      "source_kind": "grammar",
+      "source_title": "いつでしょうか",
+      "book_page": 122,
+      "pdf_page": 130,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-070",
+        "editorial_pattern_not_original": "～でしょうか",
+        "editorial_meaning_zh_tw_not_original": "請問～呢",
+        "editorial_explanation_zh_tw_not_original": "以禮貌而間接的方式提問。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G071",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH08",
+      "source_entry_key": "grammar:071",
+      "source_kind": "grammar",
+      "source_title": "和室と洋室とどちらがよろしいでしょうか",
+      "book_page": 123,
+      "pdf_page": 131,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-071",
+        "editorial_pattern_not_original": "N1とN2とどちらが～",
+        "editorial_meaning_zh_tw_not_original": "N1與N2哪個比較～",
+        "editorial_explanation_zh_tw_not_original": "就兩個選項詢問比較或偏好。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G072",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH08",
+      "source_entry_key": "grammar:072",
+      "source_kind": "grammar",
+      "source_title": "和室のほうがいい",
+      "book_page": 124,
+      "pdf_page": 132,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-072",
+        "editorial_pattern_not_original": "Nのほうが～",
+        "editorial_meaning_zh_tw_not_original": "～比較好",
+        "editorial_explanation_zh_tw_not_original": "表達選擇與比較結果；可以省略已知比較對象。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G073",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH08",
+      "source_entry_key": "grammar:073",
+      "source_kind": "grammar",
+      "source_title": "洋室より和室のほうが広いです",
+      "book_page": 125,
+      "pdf_page": 133,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-073",
+        "editorial_pattern_not_original": "N1よりN2のほうが～",
+        "editorial_meaning_zh_tw_not_original": "N2比N1更～",
+        "editorial_explanation_zh_tw_not_original": "以「より」指出比較基準，「ほうが」指出程度較高者。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G074",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH08",
+      "source_entry_key": "grammar:074",
+      "source_kind": "grammar",
+      "source_title": "和室にします",
+      "book_page": 126,
+      "pdf_page": 134,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-074",
+        "editorial_pattern_not_original": "Nにする",
+        "editorial_meaning_zh_tw_not_original": "選擇～／決定～",
+        "editorial_explanation_zh_tw_not_original": "在選項中主動作出選擇，與「になる」有所區別。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G075",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH08",
+      "source_entry_key": "grammar:075",
+      "source_kind": "grammar",
+      "source_title": "道はわかりやすいと思う",
+      "book_page": 128,
+      "pdf_page": 136,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-075",
+        "editorial_pattern_not_original": "Vます形去ます＋やすい",
+        "editorial_meaning_zh_tw_not_original": "容易～",
+        "editorial_explanation_zh_tw_not_original": "表示某動作容易進行或容易發生。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G076",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH08",
+      "source_entry_key": "grammar:076",
+      "source_kind": "grammar",
+      "source_title": "わかりにくいかもしれません",
+      "book_page": 128,
+      "pdf_page": 136,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-076",
+        "editorial_pattern_not_original": "Vます形去ます＋にくい",
+        "editorial_meaning_zh_tw_not_original": "難以～",
+        "editorial_explanation_zh_tw_not_original": "表示某動作困難、不易進行。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G077",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH08",
+      "source_entry_key": "grammar:077",
+      "source_kind": "grammar",
+      "source_title": "お待ちしています",
+      "book_page": 129,
+      "pdf_page": 137,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-077",
+        "editorial_pattern_not_original": "お＋Vます形去ます＋する",
+        "editorial_meaning_zh_tw_not_original": "我恭敬地～",
+        "editorial_explanation_zh_tw_not_original": "謙讓語，用於降低自己行為的地位以尊重動作對象。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G078",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH09",
+      "source_entry_key": "grammar:078",
+      "source_kind": "grammar",
+      "source_title": "お気持ち",
+      "book_page": 135,
+      "pdf_page": 143,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-078",
+        "editorial_pattern_not_original": "お／ご＋名詞",
+        "editorial_meaning_zh_tw_not_original": "尊敬的～／禮貌前綴",
+        "editorial_explanation_zh_tw_not_original": "接在部分名詞前，用以表達尊敬或美化語感。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G079",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH09",
+      "source_entry_key": "grammar:079",
+      "source_kind": "grammar",
+      "source_title": "おうえんしていただいた",
+      "book_page": 135,
+      "pdf_page": 143,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-079",
+        "editorial_pattern_not_original": "Vていただく",
+        "editorial_meaning_zh_tw_not_original": "承蒙～幫忙",
+        "editorial_explanation_zh_tw_not_original": "「てもらう」的謙讓表現，表示接受對方善意行為。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G080",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH09",
+      "source_entry_key": "grammar:080",
+      "source_kind": "grammar",
+      "source_title": "いんたいされる",
+      "book_page": 136,
+      "pdf_page": 144,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-080",
+        "editorial_pattern_not_original": "尊敬用法的受身形",
+        "editorial_meaning_zh_tw_not_original": "（尊敬地）～",
+        "editorial_explanation_zh_tw_not_original": "使用被動形對動作主體表示尊敬，不一定具有被害意義。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G081",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH09",
+      "source_entry_key": "grammar:081",
+      "source_kind": "grammar",
+      "source_title": "いんたいされるそうです",
+      "book_page": 138,
+      "pdf_page": 146,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-081",
+        "editorial_pattern_not_original": "普通形＋そうだ（傳聞）",
+        "editorial_meaning_zh_tw_not_original": "聽說～",
+        "editorial_explanation_zh_tw_not_original": "將聽來的資訊轉述；此項與第51項使用同類型傳聞句型。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G082",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH09",
+      "source_entry_key": "grammar:082",
+      "source_kind": "grammar",
+      "source_title": "試合中",
+      "book_page": 139,
+      "pdf_page": 147,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-082",
+        "editorial_pattern_not_original": "N中",
+        "editorial_meaning_zh_tw_not_original": "～當中／正在～",
+        "editorial_explanation_zh_tw_not_original": "接在名詞後表示某活動或期間正在進行。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G083",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH09",
+      "source_entry_key": "grammar:083",
+      "source_kind": "grammar",
+      "source_title": "考えていらっしゃいました",
+      "book_page": 140,
+      "pdf_page": 148,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-083",
+        "editorial_pattern_not_original": "Vていらっしゃる",
+        "editorial_meaning_zh_tw_not_original": "（尊敬地）正在～",
+        "editorial_explanation_zh_tw_not_original": "「ている」的尊敬形式；常與其他尊敬語併用。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G084",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH09",
+      "source_entry_key": "grammar:084",
+      "source_kind": "grammar",
+      "source_title": "せんしゅ生活で何がいちばんよかったですか",
+      "book_page": 143,
+      "pdf_page": 151,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-084",
+        "editorial_pattern_not_original": "疑問詞＋がいちばん～",
+        "editorial_meaning_zh_tw_not_original": "～之中哪個最～",
+        "editorial_explanation_zh_tw_not_original": "從多個對象中詢問最高程度、最佳或最多。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G085",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH09",
+      "source_entry_key": "grammar:085",
+      "source_kind": "grammar",
+      "source_title": "プレーするようになりました",
+      "book_page": 143,
+      "pdf_page": 151,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-085",
+        "editorial_pattern_not_original": "V辭書形＋ようになる",
+        "editorial_meaning_zh_tw_not_original": "變得開始～／養成～",
+        "editorial_explanation_zh_tw_not_original": "表示行為、習慣或狀態發生變化。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G086",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH09",
+      "source_entry_key": "grammar:086",
+      "source_kind": "grammar",
+      "source_title": "教えることになっています",
+      "book_page": 144,
+      "pdf_page": 152,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-086",
+        "editorial_pattern_not_original": "Vことになっている",
+        "editorial_meaning_zh_tw_not_original": "規定～／安排為～",
+        "editorial_explanation_zh_tw_not_original": "表示既定規則、計畫或制度性安排。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G087",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH09",
+      "source_entry_key": "grammar:087",
+      "source_kind": "grammar",
+      "source_title": "ゆっくりお休みになって",
+      "book_page": 145,
+      "pdf_page": 153,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-087",
+        "editorial_pattern_not_original": "お＋Vます形去ます＋になる",
+        "editorial_meaning_zh_tw_not_original": "（尊敬地）做～",
+        "editorial_explanation_zh_tw_not_original": "尊敬語，以較高的敬意描述他人的動作。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G088",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH10",
+      "source_entry_key": "grammar:088",
+      "source_kind": "grammar",
+      "source_title": "お入りください",
+      "book_page": 151,
+      "pdf_page": 159,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-088",
+        "editorial_pattern_not_original": "お＋Vます形去ます＋ください",
+        "editorial_meaning_zh_tw_not_original": "請～（尊敬）",
+        "editorial_explanation_zh_tw_not_original": "禮貌地請對方採取動作；部分動詞有專門敬語。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G089",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH10",
+      "source_entry_key": "grammar:089",
+      "source_kind": "grammar",
+      "source_title": "アメリカからまいりました",
+      "book_page": 153,
+      "pdf_page": 161,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-089",
+        "editorial_pattern_not_original": "参る／まいります",
+        "editorial_meaning_zh_tw_not_original": "來／去（謙讓）",
+        "editorial_explanation_zh_tw_not_original": "「行く」「来る」的謙讓語，常用在正式自我介紹。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G090",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH10",
+      "source_entry_key": "grammar:090",
+      "source_kind": "grammar",
+      "source_title": "TOEFLのクラスなら大丈夫",
+      "book_page": 154,
+      "pdf_page": 162,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-090",
+        "editorial_pattern_not_original": "Nなら",
+        "editorial_meaning_zh_tw_not_original": "如果是～／說到～",
+        "editorial_explanation_zh_tw_not_original": "針對對方提到的主題提出條件、意見或建議。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G091",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH10",
+      "source_entry_key": "grammar:091",
+      "source_kind": "grammar",
+      "source_title": "使ってはいけない",
+      "book_page": 156,
+      "pdf_page": 164,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-091",
+        "editorial_pattern_not_original": "Vてはいけない",
+        "editorial_meaning_zh_tw_not_original": "不可以～",
+        "editorial_explanation_zh_tw_not_original": "表達禁止或規則上不允許某行為。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G092",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH10",
+      "source_entry_key": "grammar:092",
+      "source_kind": "grammar",
+      "source_title": "話さないようにします",
+      "book_page": 158,
+      "pdf_page": 166,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-092",
+        "editorial_pattern_not_original": "Vない＋ようにする",
+        "editorial_meaning_zh_tw_not_original": "盡量不～／注意不要～",
+        "editorial_explanation_zh_tw_not_original": "表示有意識地為達成目標改變或控制自己的行為。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-G093",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH10",
+      "source_entry_key": "grammar:093",
+      "source_kind": "grammar",
+      "source_title": "来てほしい",
+      "book_page": 159,
+      "pdf_page": 167,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-093",
+        "editorial_pattern_not_original": "Vてほしい",
+        "editorial_meaning_zh_tw_not_original": "希望別人～",
+        "editorial_explanation_zh_tw_not_original": "表達希望別人採取某動作的願望。",
+        "example_ja": null,
+        "example_kana": null
+      }
+    },
+    {
+      "id": "TRY-N4-P016",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH03",
+      "source_entry_key": "plus:016",
+      "source_kind": "plus",
+      "source_title": "～なくてはならない／いけない",
+      "book_page": 40,
+      "pdf_page": 48,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-P016",
+        "linked_grammar_id": "JLPT-N4-TRY-016",
+        "editorial_meaning_zh_tw_not_original": "必須～"
+      }
+    },
+    {
+      "id": "TRY-N4-P018",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH03",
+      "source_entry_key": "plus:018",
+      "source_kind": "plus",
+      "source_title": "～てあげる",
+      "book_page": 44,
+      "pdf_page": 52,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-P018",
+        "linked_grammar_id": "JLPT-N4-TRY-018",
+        "editorial_meaning_zh_tw_not_original": "替別人做～"
+      }
+    },
+    {
+      "id": "TRY-N4-P036",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "plus:036",
+      "source_kind": "plus",
+      "source_title": "～をもらう",
+      "book_page": 70,
+      "pdf_page": 78,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-P036",
+        "linked_grammar_id": "JLPT-N4-TRY-036",
+        "editorial_meaning_zh_tw_not_original": "從～收到～"
+      }
+    },
+    {
+      "id": "TRY-N4-P043",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH05",
+      "source_entry_key": "plus:043",
+      "source_kind": "plus",
+      "source_title": "～たら／～ばいい",
+      "book_page": 79,
+      "pdf_page": 87,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-P043",
+        "linked_grammar_id": "JLPT-N4-TRY-043",
+        "editorial_meaning_zh_tw_not_original": "要是～就好／做～就可以"
+      }
+    },
+    {
+      "id": "TRY-N4-P058",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "plus:058",
+      "source_kind": "plus",
+      "source_title": "～なさい",
+      "book_page": 104,
+      "pdf_page": 112,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-P058",
+        "linked_grammar_id": "JLPT-N4-TRY-058",
+        "editorial_meaning_zh_tw_not_original": "請做～／給我做～"
+      }
+    },
+    {
+      "id": "TRY-N4-P060",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH07",
+      "source_entry_key": "plus:060",
+      "source_kind": "plus",
+      "source_title": "～をくれる／くださる",
+      "book_page": 106,
+      "pdf_page": 114,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-P060",
+        "linked_grammar_id": "JLPT-N4-TRY-060",
+        "editorial_meaning_zh_tw_not_original": "（他人）給我方～"
+      }
+    },
+    {
+      "id": "TRY-N4-P068",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": "TRY_N4_CN_2015-CH08",
+      "source_entry_key": "plus:068",
+      "source_kind": "plus",
+      "source_title": "～ございます",
+      "book_page": 120,
+      "pdf_page": 128,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "original_grammar_id": "JLPT-N4-TRY-P068",
+        "linked_grammar_id": "JLPT-N4-TRY-068",
+        "editorial_meaning_zh_tw_not_original": "有／是（鄭重語）"
+      }
+    },
+    {
+      "id": "TRY-N4-I001",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:001",
+      "source_kind": "pattern_index",
+      "source_title": "あげる",
+      "book_page": 44,
+      "pdf_page": 52,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-018",
+        "book_page_original": "44",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I002",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:002",
+      "source_kind": "pattern_index",
+      "source_title": "あの",
+      "book_page": 54,
+      "pdf_page": 62,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-026",
+        "book_page_original": "54",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I003",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:003",
+      "source_kind": "pattern_index",
+      "source_title": "あれ",
+      "book_page": 54,
+      "pdf_page": 62,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-026",
+        "book_page_original": "54",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I004",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:004",
+      "source_kind": "pattern_index",
+      "source_title": "[意向形] V-よう",
+      "book_page": 110,
+      "pdf_page": 118,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-063",
+        "book_page_original": "110",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I005",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:005",
+      "source_kind": "pattern_index",
+      "source_title": "いたします*",
+      "book_page": 153,
+      "pdf_page": 161,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-089",
+        "book_page_original": "153",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I006",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:006",
+      "source_kind": "pattern_index",
+      "source_title": "いただく",
+      "book_page": null,
+      "pdf_page": 143,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-079",
+        "book_page_original": "135,153",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I007",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:007",
+      "source_kind": "pattern_index",
+      "source_title": "いらっしゃる",
+      "book_page": 140,
+      "pdf_page": 148,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-083",
+        "book_page_original": "140",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I008",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:008",
+      "source_kind": "pattern_index",
+      "source_title": "うかがう",
+      "book_page": 153,
+      "pdf_page": 161,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-089",
+        "book_page_original": "153",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I009",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:009",
+      "source_kind": "pattern_index",
+      "source_title": "[受身形] V-られる①",
+      "book_page": 38,
+      "pdf_page": 46,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-014",
+        "book_page_original": "38",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I010",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:010",
+      "source_kind": "pattern_index",
+      "source_title": "[受身形] V-られる②",
+      "book_page": 59,
+      "pdf_page": 67,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-029",
+        "book_page_original": "59",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I011",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:011",
+      "source_kind": "pattern_index",
+      "source_title": "[受身形] V-られる③",
+      "book_page": 88,
+      "pdf_page": 96,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-049",
+        "book_page_original": "88",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I012",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:012",
+      "source_kind": "pattern_index",
+      "source_title": "お～",
+      "book_page": 135,
+      "pdf_page": 143,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-078",
+        "book_page_original": "135",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I013",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:013",
+      "source_kind": "pattern_index",
+      "source_title": "お～いたします*",
+      "book_page": 129,
+      "pdf_page": 137,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-077",
+        "book_page_original": "129",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I014",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:014",
+      "source_kind": "pattern_index",
+      "source_title": "お～ください",
+      "book_page": 151,
+      "pdf_page": 159,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-088",
+        "book_page_original": "151",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I015",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:015",
+      "source_kind": "pattern_index",
+      "source_title": "お～する",
+      "book_page": 129,
+      "pdf_page": 137,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-077",
+        "book_page_original": "129",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I016",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:016",
+      "source_kind": "pattern_index",
+      "source_title": "おっしゃる",
+      "book_page": 140,
+      "pdf_page": 148,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-083",
+        "book_page_original": "140",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I017",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:017",
+      "source_kind": "pattern_index",
+      "source_title": "おVになる",
+      "book_page": 145,
+      "pdf_page": 153,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-087",
+        "book_page_original": "145",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I018",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:018",
+      "source_kind": "pattern_index",
+      "source_title": "お目にかかる",
+      "book_page": 153,
+      "pdf_page": 161,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-089",
+        "book_page_original": "153",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I019",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:019",
+      "source_kind": "pattern_index",
+      "source_title": "お休みになる",
+      "book_page": 140,
+      "pdf_page": 148,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-083",
+        "book_page_original": "140",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I020",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:020",
+      "source_kind": "pattern_index",
+      "source_title": "おります*",
+      "book_page": 153,
+      "pdf_page": 161,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-089",
+        "book_page_original": "153",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I021",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:021",
+      "source_kind": "pattern_index",
+      "source_title": "[疑問詞] ～か",
+      "book_page": 51,
+      "pdf_page": 59,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-023",
+        "book_page_original": "51",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I022",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:022",
+      "source_kind": "pattern_index",
+      "source_title": "～がいちばん…",
+      "book_page": 143,
+      "pdf_page": 151,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-084",
+        "book_page_original": "143",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I023",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:023",
+      "source_kind": "pattern_index",
+      "source_title": "Nがする",
+      "book_page": 62,
+      "pdf_page": 70,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-031",
+        "book_page_original": "62",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I024",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:024",
+      "source_kind": "pattern_index",
+      "source_title": "V方",
+      "book_page": 22,
+      "pdf_page": 30,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-004",
+        "book_page_original": "22",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I025",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:025",
+      "source_kind": "pattern_index",
+      "source_title": "～かどうか",
+      "book_page": 25,
+      "pdf_page": 33,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-007",
+        "book_page_original": "25",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I026",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:026",
+      "source_kind": "pattern_index",
+      "source_title": "[可能形] V-できる",
+      "book_page": 31,
+      "pdf_page": 39,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-012",
+        "book_page_original": "31",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I027",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:027",
+      "source_kind": "pattern_index",
+      "source_title": "～かもしれない",
+      "book_page": 81,
+      "pdf_page": 89,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-044",
+        "book_page_original": "81",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I028",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:028",
+      "source_kind": "pattern_index",
+      "source_title": "聞こえる",
+      "book_page": 31,
+      "pdf_page": 39,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-012",
+        "book_page_original": "31",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I029",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:029",
+      "source_kind": "pattern_index",
+      "source_title": "くださる",
+      "book_page": null,
+      "pdf_page": 114,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-060",
+        "book_page_original": "106,140",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I030",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:030",
+      "source_kind": "pattern_index",
+      "source_title": "くれる",
+      "book_page": 106,
+      "pdf_page": 114,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-060",
+        "book_page_original": "106",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I031",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:031",
+      "source_kind": "pattern_index",
+      "source_title": "ご～",
+      "book_page": 135,
+      "pdf_page": 143,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-078",
+        "book_page_original": "135",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I032",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:032",
+      "source_kind": "pattern_index",
+      "source_title": "ご～いたします*",
+      "book_page": 129,
+      "pdf_page": 137,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-077",
+        "book_page_original": "129",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I033",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:033",
+      "source_kind": "pattern_index",
+      "source_title": "ご～ください",
+      "book_page": 151,
+      "pdf_page": 159,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-088",
+        "book_page_original": "151",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I034",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:034",
+      "source_kind": "pattern_index",
+      "source_title": "ございます*",
+      "book_page": 120,
+      "pdf_page": 128,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-068",
+        "book_page_original": "120",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I035",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:035",
+      "source_kind": "pattern_index",
+      "source_title": "ご～する",
+      "book_page": 129,
+      "pdf_page": 137,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-077",
+        "book_page_original": "129",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I036",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:036",
+      "source_kind": "pattern_index",
+      "source_title": "ご存じだ",
+      "book_page": 140,
+      "pdf_page": 148,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-083",
+        "book_page_original": "140",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I037",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:037",
+      "source_kind": "pattern_index",
+      "source_title": "Vことができる",
+      "book_page": 24,
+      "pdf_page": 32,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-006",
+        "book_page_original": "24",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I038",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:038",
+      "source_kind": "pattern_index",
+      "source_title": "Vことにする",
+      "book_page": 47,
+      "pdf_page": 55,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-021",
+        "book_page_original": "47",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I039",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:039",
+      "source_kind": "pattern_index",
+      "source_title": "Vことになっている",
+      "book_page": 144,
+      "pdf_page": 152,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-086",
+        "book_page_original": "144",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I040",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:040",
+      "source_kind": "pattern_index",
+      "source_title": "Vことになる",
+      "book_page": 82,
+      "pdf_page": 90,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-045",
+        "book_page_original": "82",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I041",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:041",
+      "source_kind": "pattern_index",
+      "source_title": "ご覧になる",
+      "book_page": 140,
+      "pdf_page": 148,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-083",
+        "book_page_original": "140",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I042",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:042",
+      "source_kind": "pattern_index",
+      "source_title": "Aさ",
+      "book_page": 109,
+      "pdf_page": 117,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-062",
+        "book_page_original": "109",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I043",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:043",
+      "source_kind": "pattern_index",
+      "source_title": "さしあげる",
+      "book_page": null,
+      "pdf_page": 52,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-018",
+        "book_page_original": "44,153",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I044",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:044",
+      "source_kind": "pattern_index",
+      "source_title": "～し、～し",
+      "book_page": 98,
+      "pdf_page": 106,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-056",
+        "book_page_original": "98",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I045",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:045",
+      "source_kind": "pattern_index",
+      "source_title": "[使役形] V-させる",
+      "book_page": 114,
+      "pdf_page": 122,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-067",
+        "book_page_original": "114",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I046",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:046",
+      "source_kind": "pattern_index",
+      "source_title": "N中",
+      "book_page": 139,
+      "pdf_page": 147,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-082",
+        "book_page_original": "139",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I047",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:047",
+      "source_kind": "pattern_index",
+      "source_title": "[条件形] V-ば",
+      "book_page": 73,
+      "pdf_page": 81,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-038",
+        "book_page_original": "73",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I048",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:048",
+      "source_kind": "pattern_index",
+      "source_title": "～すぎ",
+      "book_page": 97,
+      "pdf_page": 105,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-054",
+        "book_page_original": "97",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I049",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:049",
+      "source_kind": "pattern_index",
+      "source_title": "～すぎる",
+      "book_page": 97,
+      "pdf_page": 105,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-054",
+        "book_page_original": "97",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I050",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:050",
+      "source_kind": "pattern_index",
+      "source_title": "～そうだ①",
+      "book_page": 19,
+      "pdf_page": 27,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-002",
+        "book_page_original": "19",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I051",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:051",
+      "source_kind": "pattern_index",
+      "source_title": "～そうだ②",
+      "book_page": 72,
+      "pdf_page": 80,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-037",
+        "book_page_original": "72",
+        "source_index_printed_page": 202
+      }
+    },
+    {
+      "id": "TRY-N4-I052",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:052",
+      "source_kind": "pattern_index",
+      "source_title": "～そうだ③",
+      "book_page": 92,
+      "pdf_page": 100,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-051",
+        "book_page_original": "92",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I053",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:053",
+      "source_kind": "pattern_index",
+      "source_title": "～そうだ④",
+      "book_page": 138,
+      "pdf_page": 146,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-081",
+        "book_page_original": "138",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I054",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:054",
+      "source_kind": "pattern_index",
+      "source_title": "その",
+      "book_page": 54,
+      "pdf_page": 62,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-026",
+        "book_page_original": "54",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I055",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:055",
+      "source_kind": "pattern_index",
+      "source_title": "それ",
+      "book_page": 54,
+      "pdf_page": 62,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-026",
+        "book_page_original": "54",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I056",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:056",
+      "source_kind": "pattern_index",
+      "source_title": "[尊敬形] V-られる",
+      "book_page": 136,
+      "pdf_page": 144,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-080",
+        "book_page_original": "136",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I057",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:057",
+      "source_kind": "pattern_index",
+      "source_title": "存じております*",
+      "book_page": 153,
+      "pdf_page": 161,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-089",
+        "book_page_original": "153",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I058",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:058",
+      "source_kind": "pattern_index",
+      "source_title": "存じません*",
+      "book_page": 153,
+      "pdf_page": 161,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-089",
+        "book_page_original": "153",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I059",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:059",
+      "source_kind": "pattern_index",
+      "source_title": "Vたことがある",
+      "book_page": 50,
+      "pdf_page": 58,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-022",
+        "book_page_original": "50",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I060",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:060",
+      "source_kind": "pattern_index",
+      "source_title": "Vたほうがいい",
+      "book_page": 46,
+      "pdf_page": 54,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-020",
+        "book_page_original": "46",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I061",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:061",
+      "source_kind": "pattern_index",
+      "source_title": "～ために",
+      "book_page": 112,
+      "pdf_page": 120,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-065",
+        "book_page_original": "112",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I062",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:062",
+      "source_kind": "pattern_index",
+      "source_title": "～たら、…",
+      "book_page": 29,
+      "pdf_page": 37,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-011",
+        "book_page_original": "29",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I063",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:063",
+      "source_kind": "pattern_index",
+      "source_title": "～たらいい",
+      "book_page": 79,
+      "pdf_page": 87,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-043",
+        "book_page_original": "79",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I064",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:064",
+      "source_kind": "pattern_index",
+      "source_title": "～だろう？",
+      "book_page": 64,
+      "pdf_page": 72,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-033",
+        "book_page_original": "64",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I065",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:065",
+      "source_kind": "pattern_index",
+      "source_title": "N中",
+      "book_page": 139,
+      "pdf_page": 147,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-082",
+        "book_page_original": "139",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I066",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:066",
+      "source_kind": "pattern_index",
+      "source_title": "～って",
+      "book_page": 105,
+      "pdf_page": 113,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-059",
+        "book_page_original": "105",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I067",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:067",
+      "source_kind": "pattern_index",
+      "source_title": "Vつもりだ",
+      "book_page": 113,
+      "pdf_page": 121,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-066",
+        "book_page_original": "113",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I068",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:068",
+      "source_kind": "pattern_index",
+      "source_title": "Vて、…①",
+      "book_page": 26,
+      "pdf_page": 34,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-008",
+        "book_page_original": "26",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I069",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:069",
+      "source_kind": "pattern_index",
+      "source_title": "～て、…②",
+      "book_page": 95,
+      "pdf_page": 103,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-053",
+        "book_page_original": "95",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I070",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:070",
+      "source_kind": "pattern_index",
+      "source_title": "Vてあげる",
+      "book_page": 44,
+      "pdf_page": 52,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-018",
+        "book_page_original": "44",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I071",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:071",
+      "source_kind": "pattern_index",
+      "source_title": "Vてある",
+      "book_page": 76,
+      "pdf_page": 84,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-040",
+        "book_page_original": "76",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I072",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:072",
+      "source_kind": "pattern_index",
+      "source_title": "Vていただく",
+      "book_page": null,
+      "pdf_page": 122,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-079",
+        "book_page_original": "114,135",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I073",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:073",
+      "source_kind": "pattern_index",
+      "source_title": "Vていらっしゃる",
+      "book_page": 140,
+      "pdf_page": 148,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-083",
+        "book_page_original": "140",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I074",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:074",
+      "source_kind": "pattern_index",
+      "source_title": "Vている",
+      "book_page": 61,
+      "pdf_page": 69,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-030",
+        "book_page_original": "61",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I075",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:075",
+      "source_kind": "pattern_index",
+      "source_title": "Vておく①",
+      "book_page": 78,
+      "pdf_page": 86,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-042",
+        "book_page_original": "78",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I076",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:076",
+      "source_kind": "pattern_index",
+      "source_title": "Vておく②",
+      "book_page": 92,
+      "pdf_page": 100,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-050",
+        "book_page_original": "92",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I077",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:077",
+      "source_kind": "pattern_index",
+      "source_title": "Vております*",
+      "book_page": 153,
+      "pdf_page": 161,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-089",
+        "book_page_original": "153",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I078",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:078",
+      "source_kind": "pattern_index",
+      "source_title": "Vてくださる",
+      "book_page": 106,
+      "pdf_page": 114,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-060",
+        "book_page_original": "106",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I079",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:079",
+      "source_kind": "pattern_index",
+      "source_title": "Vてくれる",
+      "book_page": 106,
+      "pdf_page": 114,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-060",
+        "book_page_original": "106",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I080",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:080",
+      "source_kind": "pattern_index",
+      "source_title": "Nでございます*",
+      "book_page": 120,
+      "pdf_page": 128,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-068",
+        "book_page_original": "120",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I081",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:081",
+      "source_kind": "pattern_index",
+      "source_title": "Vてしまう①",
+      "book_page": 28,
+      "pdf_page": 36,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-010",
+        "book_page_original": "28",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I082",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:082",
+      "source_kind": "pattern_index",
+      "source_title": "Vてしまう②",
+      "book_page": 75,
+      "pdf_page": 83,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-039",
+        "book_page_original": "75",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I083",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:083",
+      "source_kind": "pattern_index",
+      "source_title": "～でしょう",
+      "book_page": 77,
+      "pdf_page": 85,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-041",
+        "book_page_original": "77",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I084",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:084",
+      "source_kind": "pattern_index",
+      "source_title": "～でしょう？",
+      "book_page": 64,
+      "pdf_page": 72,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-033",
+        "book_page_original": "64",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I085",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:085",
+      "source_kind": "pattern_index",
+      "source_title": "～でしょうか",
+      "book_page": 122,
+      "pdf_page": 130,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-070",
+        "book_page_original": "122",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I086",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:086",
+      "source_kind": "pattern_index",
+      "source_title": "Vてはいけない",
+      "book_page": 156,
+      "pdf_page": 164,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-091",
+        "book_page_original": "156",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I087",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:087",
+      "source_kind": "pattern_index",
+      "source_title": "Vてほしい",
+      "book_page": 159,
+      "pdf_page": 167,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-093",
+        "book_page_original": "159",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I088",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:088",
+      "source_kind": "pattern_index",
+      "source_title": "Vてみる",
+      "book_page": 18,
+      "pdf_page": 26,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-001",
+        "book_page_original": "18",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I089",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:089",
+      "source_kind": "pattern_index",
+      "source_title": "[疑問詞] ～ても",
+      "book_page": 93,
+      "pdf_page": 101,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-052",
+        "book_page_original": "93",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I090",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:090",
+      "source_kind": "pattern_index",
+      "source_title": "～ても、…",
+      "book_page": 93,
+      "pdf_page": 101,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-052",
+        "book_page_original": "93",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I091",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:091",
+      "source_kind": "pattern_index",
+      "source_title": "Vてもいい",
+      "book_page": 43,
+      "pdf_page": 51,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-017",
+        "book_page_original": "43",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I092",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:092",
+      "source_kind": "pattern_index",
+      "source_title": "Vてもよろしい",
+      "book_page": 43,
+      "pdf_page": 51,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-017",
+        "book_page_original": "43",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I093",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:093",
+      "source_kind": "pattern_index",
+      "source_title": "Vてもらう",
+      "book_page": 70,
+      "pdf_page": 78,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-036",
+        "book_page_original": "70",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I094",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:094",
+      "source_kind": "pattern_index",
+      "source_title": "Vてもらえる",
+      "book_page": 70,
+      "pdf_page": 78,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-036",
+        "book_page_original": "70",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I095",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:095",
+      "source_kind": "pattern_index",
+      "source_title": "～と、…",
+      "book_page": 52,
+      "pdf_page": 60,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-024",
+        "book_page_original": "52",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I096",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:096",
+      "source_kind": "pattern_index",
+      "source_title": "～といい",
+      "book_page": 79,
+      "pdf_page": 87,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-043",
+        "book_page_original": "79",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I097",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:097",
+      "source_kind": "pattern_index",
+      "source_title": "～という意味",
+      "book_page": 37,
+      "pdf_page": 45,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-013",
+        "book_page_original": "37",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I098",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:098",
+      "source_kind": "pattern_index",
+      "source_title": "～と言っていた",
+      "book_page": 70,
+      "pdf_page": 78,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-035",
+        "book_page_original": "70",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I099",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:099",
+      "source_kind": "pattern_index",
+      "source_title": "Vところだ",
+      "book_page": 63,
+      "pdf_page": 71,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-032",
+        "book_page_original": "63",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I100",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:100",
+      "source_kind": "pattern_index",
+      "source_title": "N1とN2と、どちらが～か",
+      "book_page": 123,
+      "pdf_page": 131,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-071",
+        "book_page_original": "123",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I101",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:101",
+      "source_kind": "pattern_index",
+      "source_title": "Vな",
+      "book_page": 103,
+      "pdf_page": 111,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-057",
+        "book_page_original": "103",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I102",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:102",
+      "source_kind": "pattern_index",
+      "source_title": "Vないで、…",
+      "book_page": 27,
+      "pdf_page": 35,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-009",
+        "book_page_original": "27",
+        "source_index_printed_page": 203
+      }
+    },
+    {
+      "id": "TRY-N4-I103",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:103",
+      "source_kind": "pattern_index",
+      "source_title": "～なくて、…",
+      "book_page": 95,
+      "pdf_page": 103,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-053",
+        "book_page_original": "95",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I104",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:104",
+      "source_kind": "pattern_index",
+      "source_title": "Vなくてはいけない",
+      "book_page": 40,
+      "pdf_page": 48,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-016",
+        "book_page_original": "40",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I105",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:105",
+      "source_kind": "pattern_index",
+      "source_title": "Vなくてはならない",
+      "book_page": 40,
+      "pdf_page": 48,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-016",
+        "book_page_original": "40",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I106",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:106",
+      "source_kind": "pattern_index",
+      "source_title": "Vなくてもいい",
+      "book_page": 45,
+      "pdf_page": 53,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-019",
+        "book_page_original": "45",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I107",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:107",
+      "source_kind": "pattern_index",
+      "source_title": "Vなくてもかまわない",
+      "book_page": 45,
+      "pdf_page": 53,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-019",
+        "book_page_original": "45",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I108",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:108",
+      "source_kind": "pattern_index",
+      "source_title": "Vなくなる",
+      "book_page": 143,
+      "pdf_page": 151,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-085",
+        "book_page_original": "143",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I109",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:109",
+      "source_kind": "pattern_index",
+      "source_title": "Vなければならない",
+      "book_page": 40,
+      "pdf_page": 48,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-016",
+        "book_page_original": "40",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I110",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:110",
+      "source_kind": "pattern_index",
+      "source_title": "Vなさい",
+      "book_page": 104,
+      "pdf_page": 112,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-058",
+        "book_page_original": "104",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I111",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:111",
+      "source_kind": "pattern_index",
+      "source_title": "なさる",
+      "book_page": 140,
+      "pdf_page": 148,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-083",
+        "book_page_original": "140",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I112",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:112",
+      "source_kind": "pattern_index",
+      "source_title": "Nなら、…",
+      "book_page": 154,
+      "pdf_page": 162,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-090",
+        "book_page_original": "154",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I113",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:113",
+      "source_kind": "pattern_index",
+      "source_title": "Vにくい",
+      "book_page": 128,
+      "pdf_page": 136,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-076",
+        "book_page_original": "128",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I114",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:114",
+      "source_kind": "pattern_index",
+      "source_title": "Nにする",
+      "book_page": 126,
+      "pdf_page": 134,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-074",
+        "book_page_original": "126",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I115",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:115",
+      "source_kind": "pattern_index",
+      "source_title": "～の",
+      "book_page": 86,
+      "pdf_page": 94,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-046",
+        "book_page_original": "86",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I116",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:116",
+      "source_kind": "pattern_index",
+      "source_title": "～のが",
+      "book_page": 55,
+      "pdf_page": 63,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-027",
+        "book_page_original": "55",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I117",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:117",
+      "source_kind": "pattern_index",
+      "source_title": "～ので、…",
+      "book_page": 23,
+      "pdf_page": 31,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-005",
+        "book_page_original": "23",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I118",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:118",
+      "source_kind": "pattern_index",
+      "source_title": "～のに、…",
+      "book_page": null,
+      "pdf_page": 47,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-015",
+        "book_page_original": "39,95",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I119",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:119",
+      "source_kind": "pattern_index",
+      "source_title": "Vのに",
+      "book_page": 58,
+      "pdf_page": 66,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-028",
+        "book_page_original": "58",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I120",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:120",
+      "source_kind": "pattern_index",
+      "source_title": "～のは",
+      "book_page": 55,
+      "pdf_page": 63,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-027",
+        "book_page_original": "55",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I121",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:121",
+      "source_kind": "pattern_index",
+      "source_title": "Nのほうが",
+      "book_page": 124,
+      "pdf_page": 132,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-072",
+        "book_page_original": "124",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I122",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:122",
+      "source_kind": "pattern_index",
+      "source_title": "～ば、…",
+      "book_page": 73,
+      "pdf_page": 81,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-038",
+        "book_page_original": "73",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I123",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:123",
+      "source_kind": "pattern_index",
+      "source_title": "～ばいい",
+      "book_page": 79,
+      "pdf_page": 87,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-043",
+        "book_page_original": "79",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I124",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:124",
+      "source_kind": "pattern_index",
+      "source_title": "拝見する",
+      "book_page": 153,
+      "pdf_page": 161,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-089",
+        "book_page_original": "153",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I125",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:125",
+      "source_kind": "pattern_index",
+      "source_title": "N1はN2より～",
+      "book_page": 53,
+      "pdf_page": 61,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-025",
+        "book_page_original": "53",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I126",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:126",
+      "source_kind": "pattern_index",
+      "source_title": "まいります*",
+      "book_page": 153,
+      "pdf_page": 161,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-089",
+        "book_page_original": "153",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I127",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:127",
+      "source_kind": "pattern_index",
+      "source_title": "見える",
+      "book_page": 31,
+      "pdf_page": 39,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-012",
+        "book_page_original": "31",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I128",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:128",
+      "source_kind": "pattern_index",
+      "source_title": "[命令形] V-しろ",
+      "book_page": 104,
+      "pdf_page": 112,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-058",
+        "book_page_original": "104",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I129",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:129",
+      "source_kind": "pattern_index",
+      "source_title": "召し上がる",
+      "book_page": 140,
+      "pdf_page": 148,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-083",
+        "book_page_original": "140",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I130",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:130",
+      "source_kind": "pattern_index",
+      "source_title": "申し上げる",
+      "book_page": 153,
+      "pdf_page": 161,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-089",
+        "book_page_original": "153",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I131",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:131",
+      "source_kind": "pattern_index",
+      "source_title": "申します*",
+      "book_page": 153,
+      "pdf_page": 161,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-089",
+        "book_page_original": "153",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I132",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:132",
+      "source_kind": "pattern_index",
+      "source_title": "もらう",
+      "book_page": 70,
+      "pdf_page": 78,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-036",
+        "book_page_original": "70",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I133",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:133",
+      "source_kind": "pattern_index",
+      "source_title": "Vやすい",
+      "book_page": 128,
+      "pdf_page": 136,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-075",
+        "book_page_original": "128",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I134",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:134",
+      "source_kind": "pattern_index",
+      "source_title": "やる",
+      "book_page": 44,
+      "pdf_page": 52,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-018",
+        "book_page_original": "44",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I135",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:135",
+      "source_kind": "pattern_index",
+      "source_title": "～ようだ",
+      "book_page": 86,
+      "pdf_page": 94,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-047",
+        "book_page_original": "86",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I136",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:136",
+      "source_kind": "pattern_index",
+      "source_title": "Vようと思っている",
+      "book_page": 111,
+      "pdf_page": 119,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-064",
+        "book_page_original": "111",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I137",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:137",
+      "source_kind": "pattern_index",
+      "source_title": "Vように",
+      "book_page": null,
+      "pdf_page": 106,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-055",
+        "book_page_original": "98,113",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I138",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:138",
+      "source_kind": "pattern_index",
+      "source_title": "Vようにしている",
+      "book_page": 158,
+      "pdf_page": 166,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-092",
+        "book_page_original": "158",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I139",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:139",
+      "source_kind": "pattern_index",
+      "source_title": "Vようにしてください",
+      "book_page": 158,
+      "pdf_page": 166,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-092",
+        "book_page_original": "158",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I140",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:140",
+      "source_kind": "pattern_index",
+      "source_title": "Vようにする",
+      "book_page": 158,
+      "pdf_page": 166,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-092",
+        "book_page_original": "158",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I141",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:141",
+      "source_kind": "pattern_index",
+      "source_title": "Vようになる①",
+      "book_page": 109,
+      "pdf_page": 117,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-061",
+        "book_page_original": "109",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I142",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:142",
+      "source_kind": "pattern_index",
+      "source_title": "Vようになる②",
+      "book_page": 143,
+      "pdf_page": 151,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-085",
+        "book_page_original": "143",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I143",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:143",
+      "source_kind": "pattern_index",
+      "source_title": "N1よりN2のほうが",
+      "book_page": 125,
+      "pdf_page": 133,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-073",
+        "book_page_original": "125",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I144",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:144",
+      "source_kind": "pattern_index",
+      "source_title": "～らしい",
+      "book_page": 69,
+      "pdf_page": 77,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-034",
+        "book_page_original": "69",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I145",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:145",
+      "source_kind": "pattern_index",
+      "source_title": "～んじゃない？",
+      "book_page": 87,
+      "pdf_page": 95,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-048",
+        "book_page_original": "87",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I146",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:146",
+      "source_kind": "pattern_index",
+      "source_title": "～んだ",
+      "book_page": 86,
+      "pdf_page": 94,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-046",
+        "book_page_original": "86",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I147",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:147",
+      "source_kind": "pattern_index",
+      "source_title": "～んです",
+      "book_page": 21,
+      "pdf_page": 29,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-003",
+        "book_page_original": "21",
+        "source_index_printed_page": 204
+      }
+    },
+    {
+      "id": "TRY-N4-I148",
+      "source_id": "TRY_N4_CN_2015",
+      "chapter_id": null,
+      "source_entry_key": "pattern:148",
+      "source_kind": "pattern_index",
+      "source_title": "～んですが",
+      "book_page": 121,
+      "pdf_page": 129,
+      "material_id": null,
+      "record_status": "index_only",
+      "import_payload": {
+        "linked_grammar_id": "JLPT-N4-TRY-069",
+        "book_page_original": "121",
+        "source_index_printed_page": 204
+      }
+    }
+  ],
+  "counts": {
+    "grammar_entries": 93,
+    "plus_entries": 7,
+    "pattern_index_entries": 148
+  }
+}

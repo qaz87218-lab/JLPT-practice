@@ -1,0 +1,2975 @@
+{
+  "notice": "原書目錄及主要文法形式來自掃描教材；自編解說、例句、讀音和中文翻譯待人工審校，禁止自動公開。",
+  "source": {
+    "id": "TRY_N2_CN_SCAN_2013",
+    "title": "TRY！新日语能力考试N2 语法必备",
+    "language": "zh",
+    "edition": "中譯掃描版",
+    "publisher": null,
+    "isbn": null,
+    "jlpt_level": "N2",
+    "file_name": "TRY！新日语能力考试N2 语法必备.pdf",
+    "page_count": 262
+  },
+  "chapters": [
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH01",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "01",
+      "title_ja": "スタッフ募集のお知らせ",
+      "title_zh": "",
+      "book_page": 18,
+      "pdf_page": 29
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "02",
+      "title_ja": "転任のあいさつ",
+      "title_zh": "",
+      "book_page": 30,
+      "pdf_page": 41
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH03",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "03",
+      "title_ja": "ホテルの仕事",
+      "title_zh": "",
+      "book_page": 50,
+      "pdf_page": 61
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH04",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "04",
+      "title_ja": "台風情報",
+      "title_zh": "",
+      "book_page": 62,
+      "pdf_page": 73
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH05",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "05",
+      "title_ja": "就職活動",
+      "title_zh": "",
+      "book_page": 72,
+      "pdf_page": 83
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "06",
+      "title_ja": "苦労した5年間",
+      "title_zh": "",
+      "book_page": 86,
+      "pdf_page": 97
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "07",
+      "title_ja": "オオカミと生態系",
+      "title_zh": "",
+      "book_page": 103,
+      "pdf_page": 114
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH08",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "08",
+      "title_ja": "取引先で",
+      "title_zh": "",
+      "book_page": 122,
+      "pdf_page": 133
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "09",
+      "title_ja": "食べ放題",
+      "title_zh": "",
+      "book_page": 131,
+      "pdf_page": 142
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH10",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "10",
+      "title_ja": "満員電車",
+      "title_zh": "",
+      "book_page": 148,
+      "pdf_page": 159
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH11",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "11",
+      "title_ja": "ラーメンの紹介",
+      "title_zh": "",
+      "book_page": 160,
+      "pdf_page": 171
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "12",
+      "title_ja": "ウォーキングシューズの開発",
+      "title_zh": "",
+      "book_page": 172,
+      "pdf_page": 183
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "13",
+      "title_ja": "人生の転機",
+      "title_zh": "",
+      "book_page": 188,
+      "pdf_page": 199
+    },
+    {
+      "id": "TRY_N2_CN_SCAN_2013-CH14",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_code": "14",
+      "title_ja": "オリンピックの開催について",
+      "title_zh": "",
+      "book_page": 205,
+      "pdf_page": 216
+    }
+  ],
+  "source_entries": [
+    {
+      "id": "TRY-N2-G001",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH01",
+      "source_entry_key": "main:001",
+      "source_kind": "grammar",
+      "source_title": "オープンにつき",
+      "book_page": 19,
+      "pdf_page": 30,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-001",
+        "editorial_pattern_not_original": "～につき",
+        "editorial_meaning_zh_tw_not_original": "因為～／每～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G002",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH01",
+      "source_entry_key": "main:002",
+      "source_kind": "grammar",
+      "source_title": "国籍を問わず",
+      "book_page": 19,
+      "pdf_page": 30,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-002",
+        "editorial_pattern_not_original": "～を問わず",
+        "editorial_meaning_zh_tw_not_original": "不論～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G003",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH01",
+      "source_entry_key": "main:003",
+      "source_kind": "grammar",
+      "source_title": "N2レベル以上の方に限り",
+      "book_page": 20,
+      "pdf_page": 31,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-003",
+        "editorial_pattern_not_original": "～に限り",
+        "editorial_meaning_zh_tw_not_original": "僅限～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G004",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH01",
+      "source_entry_key": "main:004",
+      "source_kind": "grammar",
+      "source_title": "経験年数に応じ",
+      "book_page": 21,
+      "pdf_page": 32,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-004",
+        "editorial_pattern_not_original": "～に応じて",
+        "editorial_meaning_zh_tw_not_original": "依照～；隨～而",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G005",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH01",
+      "source_entry_key": "main:005",
+      "source_kind": "grammar",
+      "source_title": "採否にかかわらず",
+      "book_page": 22,
+      "pdf_page": 33,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-005",
+        "editorial_pattern_not_original": "～にかかわらず",
+        "editorial_meaning_zh_tw_not_original": "不管～；無論是否～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G006",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH01",
+      "source_entry_key": "main:006",
+      "source_kind": "grammar",
+      "source_title": "当店において",
+      "book_page": 23,
+      "pdf_page": 34,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-006",
+        "editorial_pattern_not_original": "～において",
+        "editorial_meaning_zh_tw_not_original": "在～場合、領域／地點",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G007",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH01",
+      "source_entry_key": "main:007",
+      "source_kind": "grammar",
+      "source_title": "面接の際に",
+      "book_page": 24,
+      "pdf_page": 35,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-007",
+        "editorial_pattern_not_original": "～際に",
+        "editorial_meaning_zh_tw_not_original": "在～之際",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G008",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH01",
+      "source_entry_key": "main:008",
+      "source_kind": "grammar",
+      "source_title": "履歴書持参のこと",
+      "book_page": 25,
+      "pdf_page": 36,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-008",
+        "editorial_pattern_not_original": "～こと",
+        "editorial_meaning_zh_tw_not_original": "必須～（規定）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G009",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:009",
+      "source_kind": "grammar",
+      "source_title": "入社して以来",
+      "book_page": 30,
+      "pdf_page": 41,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-009",
+        "editorial_pattern_not_original": "～以来",
+        "editorial_meaning_zh_tw_not_original": "自從～以來",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G010",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:010",
+      "source_kind": "grammar",
+      "source_title": "部長をはじめ",
+      "book_page": 31,
+      "pdf_page": 42,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-010",
+        "editorial_pattern_not_original": "～をはじめ",
+        "editorial_meaning_zh_tw_not_original": "以～為首",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G011",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:011",
+      "source_kind": "grammar",
+      "source_title": "先輩方のご指導のもとで",
+      "book_page": 32,
+      "pdf_page": 43,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-011",
+        "editorial_pattern_not_original": "～のもとで",
+        "editorial_meaning_zh_tw_not_original": "在～指導或條件之下",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G012",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:012",
+      "source_kind": "grammar",
+      "source_title": "仕事の進め方はもとより",
+      "book_page": 33,
+      "pdf_page": 44,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-012",
+        "editorial_pattern_not_original": "～はもとより",
+        "editorial_meaning_zh_tw_not_original": "不用說～；不僅～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G013",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:013",
+      "source_kind": "grammar",
+      "source_title": "人は失敗から学ぶものだ",
+      "book_page": 34,
+      "pdf_page": 45,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-013",
+        "editorial_pattern_not_original": "～ものだ",
+        "editorial_meaning_zh_tw_not_original": "本來就～；往往～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G014",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:014",
+      "source_kind": "grammar",
+      "source_title": "仕事をする上で",
+      "book_page": 34,
+      "pdf_page": 45,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-014",
+        "editorial_pattern_not_original": "～上で",
+        "editorial_meaning_zh_tw_not_original": "在做～時；～方面",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G015",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:015",
+      "source_kind": "grammar",
+      "source_title": "残念ながら",
+      "book_page": 35,
+      "pdf_page": 46,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-015",
+        "editorial_pattern_not_original": "～ながら（も）",
+        "editorial_meaning_zh_tw_not_original": "雖然～但是～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G016",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:016",
+      "source_kind": "grammar",
+      "source_title": "輸出拡大を目的としたプロジェクト",
+      "book_page": 38,
+      "pdf_page": 49,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-016",
+        "editorial_pattern_not_original": "～を目的として",
+        "editorial_meaning_zh_tw_not_original": "以～為目的",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G017",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:017",
+      "source_kind": "grammar",
+      "source_title": "この転勤をきっかけに",
+      "book_page": 39,
+      "pdf_page": 50,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-017",
+        "editorial_pattern_not_original": "～をきっかけに",
+        "editorial_meaning_zh_tw_not_original": "以～為契機",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G018",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:018",
+      "source_kind": "grammar",
+      "source_title": "やるからには",
+      "book_page": 40,
+      "pdf_page": 51,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-018",
+        "editorial_pattern_not_original": "～からには",
+        "editorial_meaning_zh_tw_not_original": "既然～就～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G019",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:019",
+      "source_kind": "grammar",
+      "source_title": "なくなるというわけではありません",
+      "book_page": 42,
+      "pdf_page": 53,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-019",
+        "editorial_pattern_not_original": "～わけではない",
+        "editorial_meaning_zh_tw_not_original": "並非～；不代表～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G020",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:020",
+      "source_kind": "grammar",
+      "source_title": "これまでと変わることなく",
+      "book_page": 43,
+      "pdf_page": 54,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-020",
+        "editorial_pattern_not_original": "～ことなく",
+        "editorial_meaning_zh_tw_not_original": "不～而～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G021",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "main:021",
+      "source_kind": "grammar",
+      "source_title": "雨にもかかわらず",
+      "book_page": 44,
+      "pdf_page": 55,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-021",
+        "editorial_pattern_not_original": "～にもかかわらず",
+        "editorial_meaning_zh_tw_not_original": "儘管～卻～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G022",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH03",
+      "source_entry_key": "main:022",
+      "source_kind": "grammar",
+      "source_title": "スタッフとしての心構え",
+      "book_page": 51,
+      "pdf_page": 62,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-022",
+        "editorial_pattern_not_original": "～として",
+        "editorial_meaning_zh_tw_not_original": "作為～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G023",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH03",
+      "source_entry_key": "main:023",
+      "source_kind": "grammar",
+      "source_title": "仕事を続ける限り",
+      "book_page": 51,
+      "pdf_page": 62,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-023",
+        "editorial_pattern_not_original": "～限り",
+        "editorial_meaning_zh_tw_not_original": "只要～；在～期間",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G024",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH03",
+      "source_entry_key": "main:024",
+      "source_kind": "grammar",
+      "source_title": "対応せざるを得ない",
+      "book_page": 53,
+      "pdf_page": 64,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-024",
+        "editorial_pattern_not_original": "～ざるを得ない",
+        "editorial_meaning_zh_tw_not_original": "不得不～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G025",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH03",
+      "source_entry_key": "main:025",
+      "source_kind": "grammar",
+      "source_title": "謝ればいいというものではありません",
+      "book_page": 53,
+      "pdf_page": 64,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-025",
+        "editorial_pattern_not_original": "～というものではない",
+        "editorial_meaning_zh_tw_not_original": "不是只要～就好",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G026",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH03",
+      "source_entry_key": "main:026",
+      "source_kind": "grammar",
+      "source_title": "正当なものかどうかはともかくとして",
+      "book_page": 54,
+      "pdf_page": 65,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-026",
+        "editorial_pattern_not_original": "～はともかくとして",
+        "editorial_meaning_zh_tw_not_original": "姑且不論～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G027",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH03",
+      "source_entry_key": "main:027",
+      "source_kind": "grammar",
+      "source_title": "信頼を失いかねません",
+      "book_page": 55,
+      "pdf_page": 66,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-027",
+        "editorial_pattern_not_original": "～かねない",
+        "editorial_meaning_zh_tw_not_original": "恐怕會～；可能導致不良結果",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G028",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH03",
+      "source_entry_key": "main:028",
+      "source_kind": "grammar",
+      "source_title": "お客様というより",
+      "book_page": 56,
+      "pdf_page": 67,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-028",
+        "editorial_pattern_not_original": "～というより",
+        "editorial_meaning_zh_tw_not_original": "與其說～不如說～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G029",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH03",
+      "source_entry_key": "main:029",
+      "source_kind": "grammar",
+      "source_title": "安心してはいられません",
+      "book_page": 57,
+      "pdf_page": 68,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-029",
+        "editorial_pattern_not_original": "～てはいられない",
+        "editorial_meaning_zh_tw_not_original": "不能再一直～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G030",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH04",
+      "source_entry_key": "main:030",
+      "source_kind": "grammar",
+      "source_title": "速度を速めつつ",
+      "book_page": 63,
+      "pdf_page": 74,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-030",
+        "editorial_pattern_not_original": "～つつ",
+        "editorial_meaning_zh_tw_not_original": "一邊～一邊～；雖然～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G031",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH04",
+      "source_entry_key": "main:031",
+      "source_kind": "grammar",
+      "source_title": "広範囲にわたって",
+      "book_page": 63,
+      "pdf_page": 74,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-031",
+        "editorial_pattern_not_original": "～にわたって",
+        "editorial_meaning_zh_tw_not_original": "遍及～；長達～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G032",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH04",
+      "source_entry_key": "main:032",
+      "source_kind": "grammar",
+      "source_title": "九州沿岸から四国にかけて",
+      "book_page": 64,
+      "pdf_page": 75,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-032",
+        "editorial_pattern_not_original": "～から～にかけて",
+        "editorial_meaning_zh_tw_not_original": "從～到～一帶",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G033",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH04",
+      "source_entry_key": "main:033",
+      "source_kind": "grammar",
+      "source_title": "台風の接近にともない",
+      "book_page": 65,
+      "pdf_page": 76,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-033",
+        "editorial_pattern_not_original": "～に伴い",
+        "editorial_meaning_zh_tw_not_original": "隨著～；伴隨～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G034",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH04",
+      "source_entry_key": "main:034",
+      "source_kind": "grammar",
+      "source_title": "雨が降るおそれがあります",
+      "book_page": 66,
+      "pdf_page": 77,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-034",
+        "editorial_pattern_not_original": "～おそれがある",
+        "editorial_meaning_zh_tw_not_original": "有～之虞",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G035",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH04",
+      "source_entry_key": "main:035",
+      "source_kind": "grammar",
+      "source_title": "強風とともに",
+      "book_page": 66,
+      "pdf_page": 77,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-035",
+        "editorial_pattern_not_original": "～とともに",
+        "editorial_meaning_zh_tw_not_original": "隨～一起；同時～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G036",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH04",
+      "source_entry_key": "main:036",
+      "source_kind": "grammar",
+      "source_title": "中継がつながり次第",
+      "book_page": 67,
+      "pdf_page": 78,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-036",
+        "editorial_pattern_not_original": "～次第",
+        "editorial_meaning_zh_tw_not_original": "一～就立即～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G037",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH05",
+      "source_entry_key": "main:037",
+      "source_kind": "grammar",
+      "source_title": "京都に行ったきり",
+      "book_page": 72,
+      "pdf_page": 83,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-037",
+        "editorial_pattern_not_original": "～きり",
+        "editorial_meaning_zh_tw_not_original": "自從～之後一直沒～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G038",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH05",
+      "source_entry_key": "main:038",
+      "source_kind": "grammar",
+      "source_title": "旅行どころじゃない",
+      "book_page": 74,
+      "pdf_page": 85,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-038",
+        "editorial_pattern_not_original": "～どころではない",
+        "editorial_meaning_zh_tw_not_original": "哪裡還有心情～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G039",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH05",
+      "source_entry_key": "main:039",
+      "source_kind": "grammar",
+      "source_title": "情報は集めているものの",
+      "book_page": 74,
+      "pdf_page": 85,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-039",
+        "editorial_pattern_not_original": "～ものの",
+        "editorial_meaning_zh_tw_not_original": "雖然～但是～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G040",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH05",
+      "source_entry_key": "main:040",
+      "source_kind": "grammar",
+      "source_title": "困ったことに",
+      "book_page": 75,
+      "pdf_page": 86,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-040",
+        "editorial_pattern_not_original": "～ことに",
+        "editorial_meaning_zh_tw_not_original": "令人～的是",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G041",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH05",
+      "source_entry_key": "main:041",
+      "source_kind": "grammar",
+      "source_title": "人気の業界にしては",
+      "book_page": 76,
+      "pdf_page": 87,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-041",
+        "editorial_pattern_not_original": "～にしては",
+        "editorial_meaning_zh_tw_not_original": "以～而言卻～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G042",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH05",
+      "source_entry_key": "main:042",
+      "source_kind": "grammar",
+      "source_title": "何回書いたことか",
+      "book_page": 76,
+      "pdf_page": 87,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-042",
+        "editorial_pattern_not_original": "～ことか",
+        "editorial_meaning_zh_tw_not_original": "多麼～啊",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G043",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH05",
+      "source_entry_key": "main:043",
+      "source_kind": "grammar",
+      "source_title": "やる気さえあれば",
+      "book_page": 78,
+      "pdf_page": 89,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-043",
+        "editorial_pattern_not_original": "～さえ～ば",
+        "editorial_meaning_zh_tw_not_original": "只要連～都～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G044",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH05",
+      "source_entry_key": "main:044",
+      "source_kind": "grammar",
+      "source_title": "がんばりようがない",
+      "book_page": 79,
+      "pdf_page": 90,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-044",
+        "editorial_pattern_not_original": "～ようがない",
+        "editorial_meaning_zh_tw_not_original": "沒有辦法～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G045",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH05",
+      "source_entry_key": "main:045",
+      "source_kind": "grammar",
+      "source_title": "苦労したあげく",
+      "book_page": 80,
+      "pdf_page": 91,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-045",
+        "editorial_pattern_not_original": "～あげく",
+        "editorial_meaning_zh_tw_not_original": "折騰一番後，結果～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G046",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH05",
+      "source_entry_key": "main:046",
+      "source_kind": "grammar",
+      "source_title": "そんなこと考えるもんじゃない",
+      "book_page": 81,
+      "pdf_page": 92,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-046",
+        "editorial_pattern_not_original": "～ものではない",
+        "editorial_meaning_zh_tw_not_original": "不應該～（常識、忠告）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G047",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH05",
+      "source_entry_key": "main:047",
+      "source_kind": "grammar",
+      "source_title": "出すだけ出してみる",
+      "book_page": 81,
+      "pdf_page": 92,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-047",
+        "editorial_pattern_not_original": "～だけ～する",
+        "editorial_meaning_zh_tw_not_original": "能做多少就先做多少",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G048",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_entry_key": "main:048",
+      "source_kind": "grammar",
+      "source_title": "経験がなかったばかりに",
+      "book_page": 86,
+      "pdf_page": 97,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-048",
+        "editorial_pattern_not_original": "～ばかりに",
+        "editorial_meaning_zh_tw_not_original": "只因為～便～（不良結果）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G049",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_entry_key": "main:049",
+      "source_kind": "grammar",
+      "source_title": "あきらめることはない",
+      "book_page": 87,
+      "pdf_page": 98,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-049",
+        "editorial_pattern_not_original": "～ことはない",
+        "editorial_meaning_zh_tw_not_original": "不必～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G050",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_entry_key": "main:050",
+      "source_kind": "grammar",
+      "source_title": "同期の人に比べて",
+      "book_page": 88,
+      "pdf_page": 99,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-050",
+        "editorial_pattern_not_original": "～に比べて",
+        "editorial_meaning_zh_tw_not_original": "與～相比",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G051",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_entry_key": "main:051",
+      "source_kind": "grammar",
+      "source_title": "負けるものか",
+      "book_page": 89,
+      "pdf_page": 100,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-051",
+        "editorial_pattern_not_original": "～ものか",
+        "editorial_meaning_zh_tw_not_original": "怎麼可能～；才不要～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G052",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_entry_key": "main:052",
+      "source_kind": "grammar",
+      "source_title": "それが上司というものよ",
+      "book_page": 90,
+      "pdf_page": 101,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-052",
+        "editorial_pattern_not_original": "～というものだ",
+        "editorial_meaning_zh_tw_not_original": "這才叫～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G053",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_entry_key": "main:053",
+      "source_kind": "grammar",
+      "source_title": "ぼくのことを思えばこそ",
+      "book_page": 92,
+      "pdf_page": 103,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-053",
+        "editorial_pattern_not_original": "～ばこそ",
+        "editorial_meaning_zh_tw_not_original": "正因為～才～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G054",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_entry_key": "main:054",
+      "source_kind": "grammar",
+      "source_title": "わからないことはなかった",
+      "book_page": 93,
+      "pdf_page": 104,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-054",
+        "editorial_pattern_not_original": "～ないことはない",
+        "editorial_meaning_zh_tw_not_original": "並不是不能～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G055",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_entry_key": "main:055",
+      "source_kind": "grammar",
+      "source_title": "がんばれるだけがんばろう",
+      "book_page": 94,
+      "pdf_page": 105,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-055",
+        "editorial_pattern_not_original": "～だけ～",
+        "editorial_meaning_zh_tw_not_original": "盡可能～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G056",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_entry_key": "main:056",
+      "source_kind": "grammar",
+      "source_title": "努力してたんだもん",
+      "book_page": 95,
+      "pdf_page": 106,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-056",
+        "editorial_pattern_not_original": "～もの／もん",
+        "editorial_meaning_zh_tw_not_original": "因為嘛～（辯解）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G057",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_entry_key": "main:057",
+      "source_kind": "grammar",
+      "source_title": "失敗するわけにはいかない",
+      "book_page": 96,
+      "pdf_page": 107,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-057",
+        "editorial_pattern_not_original": "～わけにはいかない",
+        "editorial_meaning_zh_tw_not_original": "不能～（道義、責任）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G058",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_entry_key": "main:058",
+      "source_kind": "grammar",
+      "source_title": "自分を信じて進むのみだ",
+      "book_page": 97,
+      "pdf_page": 108,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-058",
+        "editorial_pattern_not_original": "～のみ",
+        "editorial_meaning_zh_tw_not_original": "唯有～；只能～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G059",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH06",
+      "source_entry_key": "main:059",
+      "source_kind": "grammar",
+      "source_title": "スターになったつもりで",
+      "book_page": 97,
+      "pdf_page": 108,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-059",
+        "editorial_pattern_not_original": "～つもりで",
+        "editorial_meaning_zh_tw_not_original": "假裝～；當作～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G060",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:060",
+      "source_kind": "grammar",
+      "source_title": "人間の立場から見ると",
+      "book_page": 103,
+      "pdf_page": 114,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-060",
+        "editorial_pattern_not_original": "～から見ると",
+        "editorial_meaning_zh_tw_not_original": "從～觀點來看",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G061",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:061",
+      "source_kind": "grammar",
+      "source_title": "その一方で",
+      "book_page": 105,
+      "pdf_page": 116,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-061",
+        "editorial_pattern_not_original": "～一方で",
+        "editorial_meaning_zh_tw_not_original": "另一方面～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G062",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:062",
+      "source_kind": "grammar",
+      "source_title": "絶滅したことから",
+      "book_page": 106,
+      "pdf_page": 117,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-062",
+        "editorial_pattern_not_original": "～ことから",
+        "editorial_meaning_zh_tw_not_original": "由～可知；因為～而",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G063",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:063",
+      "source_kind": "grammar",
+      "source_title": "被害を与えたのみならず",
+      "book_page": 107,
+      "pdf_page": 118,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-063",
+        "editorial_pattern_not_original": "～のみならず",
+        "editorial_meaning_zh_tw_not_original": "不僅～而且～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G064",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:064",
+      "source_kind": "grammar",
+      "source_title": "ネズミやビーバーといった",
+      "book_page": 108,
+      "pdf_page": 119,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-064",
+        "editorial_pattern_not_original": "～といった",
+        "editorial_meaning_zh_tw_not_original": "～之類的；例如～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G065",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:065",
+      "source_kind": "grammar",
+      "source_title": "数が増えるにしたがって",
+      "book_page": 108,
+      "pdf_page": 119,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-065",
+        "editorial_pattern_not_original": "～にしたがって",
+        "editorial_meaning_zh_tw_not_original": "隨著～而～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G066",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:066",
+      "source_kind": "grammar",
+      "source_title": "回復させ得る",
+      "book_page": 112,
+      "pdf_page": 123,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-066",
+        "editorial_pattern_not_original": "～得る",
+        "editorial_meaning_zh_tw_not_original": "能夠～；有可能～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G067",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:067",
+      "source_kind": "grammar",
+      "source_title": "期待に反して",
+      "book_page": 112,
+      "pdf_page": 123,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-067",
+        "editorial_pattern_not_original": "～に反して",
+        "editorial_meaning_zh_tw_not_original": "與～預期相反",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G068",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:068",
+      "source_kind": "grammar",
+      "source_title": "連れてくることに関して",
+      "book_page": 113,
+      "pdf_page": 124,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-068",
+        "editorial_pattern_not_original": "～に関して",
+        "editorial_meaning_zh_tw_not_original": "關於～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G069",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:069",
+      "source_kind": "grammar",
+      "source_title": "成果が期待される反面",
+      "book_page": 114,
+      "pdf_page": 125,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-069",
+        "editorial_pattern_not_original": "～反面",
+        "editorial_meaning_zh_tw_not_original": "另一方面卻～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G070",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:070",
+      "source_kind": "grammar",
+      "source_title": "理論上は",
+      "book_page": 114,
+      "pdf_page": 125,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-070",
+        "editorial_pattern_not_original": "～上（じょう）",
+        "editorial_meaning_zh_tw_not_original": "就～而言（某層面）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G071",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:071",
+      "source_kind": "grammar",
+      "source_title": "増加しつつある",
+      "book_page": 115,
+      "pdf_page": 126,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-071",
+        "editorial_pattern_not_original": "～つつある",
+        "editorial_meaning_zh_tw_not_original": "正在逐漸～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G072",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "main:072",
+      "source_kind": "grammar",
+      "source_title": "アメリカに限らず",
+      "book_page": 116,
+      "pdf_page": 127,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-072",
+        "editorial_pattern_not_original": "～に限らず",
+        "editorial_meaning_zh_tw_not_original": "不僅限於～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G073",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH08",
+      "source_entry_key": "main:073",
+      "source_kind": "grammar",
+      "source_title": "佐々木様がお見えになりました",
+      "book_page": 123,
+      "pdf_page": 134,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-073",
+        "editorial_pattern_not_original": "尊敬語：お～になる",
+        "editorial_meaning_zh_tw_not_original": "（尊敬）來到、在場",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G074",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH08",
+      "source_entry_key": "main:074",
+      "source_kind": "grammar",
+      "source_title": "ご確認願えますでしょうか",
+      "book_page": 124,
+      "pdf_page": 135,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-074",
+        "editorial_pattern_not_original": "ご～願えますか",
+        "editorial_meaning_zh_tw_not_original": "能否麻煩您～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G075",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH08",
+      "source_entry_key": "main:075",
+      "source_kind": "grammar",
+      "source_title": "ご説明申し上げたい",
+      "book_page": 125,
+      "pdf_page": 136,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-075",
+        "editorial_pattern_not_original": "謙譲語：お／ご～申し上げる",
+        "editorial_meaning_zh_tw_not_original": "（謙讓）向您說明／報告",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G076",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH08",
+      "source_entry_key": "main:076",
+      "source_kind": "grammar",
+      "source_title": "ご連絡いただければと思います",
+      "book_page": 125,
+      "pdf_page": 136,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-076",
+        "editorial_pattern_not_original": "～ていただければと思います",
+        "editorial_meaning_zh_tw_not_original": "希望您能～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G077",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH08",
+      "source_entry_key": "main:077",
+      "source_kind": "grammar",
+      "source_title": "日程につきましては",
+      "book_page": 126,
+      "pdf_page": 137,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-077",
+        "editorial_pattern_not_original": "～につきましては",
+        "editorial_meaning_zh_tw_not_original": "關於～（禮貌說法）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G078",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:078",
+      "source_kind": "grammar",
+      "source_title": "メニューが多いのなんのって",
+      "book_page": 131,
+      "pdf_page": 142,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-078",
+        "editorial_pattern_not_original": "～のなんのって",
+        "editorial_meaning_zh_tw_not_original": "～得不得了（強烈感嘆）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G079",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:079",
+      "source_kind": "grammar",
+      "source_title": "できたて",
+      "book_page": 132,
+      "pdf_page": 143,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-079",
+        "editorial_pattern_not_original": "～たて",
+        "editorial_meaning_zh_tw_not_original": "剛完成～；新鮮的～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G080",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:080",
+      "source_kind": "grammar",
+      "source_title": "小林君ったら",
+      "book_page": 133,
+      "pdf_page": 144,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-080",
+        "editorial_pattern_not_original": "～ったら",
+        "editorial_meaning_zh_tw_not_original": "說到～真是～（感情）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G081",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:081",
+      "source_kind": "grammar",
+      "source_title": "変わるようになっている",
+      "book_page": 133,
+      "pdf_page": 144,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-081",
+        "editorial_pattern_not_original": "～ようになっている",
+        "editorial_meaning_zh_tw_not_original": "變成會～的狀態／被設計成～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G082",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:082",
+      "source_kind": "grammar",
+      "source_title": "食べられなかったわけだ",
+      "book_page": 134,
+      "pdf_page": 145,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-082",
+        "editorial_pattern_not_original": "～わけだ",
+        "editorial_meaning_zh_tw_not_original": "難怪～；原來如此",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G083",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:083",
+      "source_kind": "grammar",
+      "source_title": "たくさん食べるどころか",
+      "book_page": 135,
+      "pdf_page": 146,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-083",
+        "editorial_pattern_not_original": "～どころか",
+        "editorial_meaning_zh_tw_not_original": "豈止～；不但沒有～反而～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G084",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:084",
+      "source_kind": "grammar",
+      "source_title": "そんなことも知らないようじゃ",
+      "book_page": 136,
+      "pdf_page": 147,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-084",
+        "editorial_pattern_not_original": "～ようでは",
+        "editorial_meaning_zh_tw_not_original": "如果這樣下去就～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G085",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:085",
+      "source_kind": "grammar",
+      "source_title": "上品ぶってもしようがない",
+      "book_page": 139,
+      "pdf_page": 150,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-085",
+        "editorial_pattern_not_original": "～ぶる",
+        "editorial_meaning_zh_tw_not_original": "裝作～樣子",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G086",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:086",
+      "source_kind": "grammar",
+      "source_title": "初心者に限って",
+      "book_page": 139,
+      "pdf_page": 150,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-086",
+        "editorial_pattern_not_original": "～に限って",
+        "editorial_meaning_zh_tw_not_original": "偏偏～；尤其～的時候",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G087",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:087",
+      "source_kind": "grammar",
+      "source_title": "食べ続けることだよ",
+      "book_page": 140,
+      "pdf_page": 151,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-087",
+        "editorial_pattern_not_original": "～ことだ",
+        "editorial_meaning_zh_tw_not_original": "應該～（勸告）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G088",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:088",
+      "source_kind": "grammar",
+      "source_title": "食べ放題という食べ放題",
+      "book_page": 140,
+      "pdf_page": 151,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-088",
+        "editorial_pattern_not_original": "～という～",
+        "editorial_meaning_zh_tw_not_original": "所有稱得上～的都～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G089",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:089",
+      "source_kind": "grammar",
+      "source_title": "罰金を払わされるところだった",
+      "book_page": 141,
+      "pdf_page": 152,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-089",
+        "editorial_pattern_not_original": "～ところだった",
+        "editorial_meaning_zh_tw_not_original": "差點就～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G090",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:090",
+      "source_kind": "grammar",
+      "source_title": "罰金払うくらいなら",
+      "book_page": 142,
+      "pdf_page": 153,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-090",
+        "editorial_pattern_not_original": "～くらいなら",
+        "editorial_meaning_zh_tw_not_original": "與其～倒不如～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G091",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "main:091",
+      "source_kind": "grammar",
+      "source_title": "がんばったほうがずっとましだ",
+      "book_page": 143,
+      "pdf_page": 154,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-091",
+        "editorial_pattern_not_original": "～ほうがましだ",
+        "editorial_meaning_zh_tw_not_original": "～還比較好",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G092",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH10",
+      "source_entry_key": "main:092",
+      "source_kind": "grammar",
+      "source_title": "つらいものがある",
+      "book_page": 148,
+      "pdf_page": 159,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-092",
+        "editorial_pattern_not_original": "～ものがある",
+        "editorial_meaning_zh_tw_not_original": "有種～感受",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G093",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH10",
+      "source_entry_key": "main:093",
+      "source_kind": "grammar",
+      "source_title": "ストレスを感じない人はいるまい",
+      "book_page": 149,
+      "pdf_page": 160,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-093",
+        "editorial_pattern_not_original": "～まい",
+        "editorial_meaning_zh_tw_not_original": "大概不會～／絕不～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G094",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH10",
+      "source_entry_key": "main:094",
+      "source_kind": "grammar",
+      "source_title": "乗客を見るにつけ",
+      "book_page": 150,
+      "pdf_page": 161,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-094",
+        "editorial_pattern_not_original": "～につけ",
+        "editorial_meaning_zh_tw_not_original": "每當看到／聽到～都～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G095",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH10",
+      "source_entry_key": "main:095",
+      "source_kind": "grammar",
+      "source_title": "混んでいるわりには",
+      "book_page": 151,
+      "pdf_page": 162,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-095",
+        "editorial_pattern_not_original": "～わりに",
+        "editorial_meaning_zh_tw_not_original": "雖然～但出乎意料",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G096",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH10",
+      "source_entry_key": "main:096",
+      "source_kind": "grammar",
+      "source_title": "立つか立たないかのうちに",
+      "book_page": 153,
+      "pdf_page": 164,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-096",
+        "editorial_pattern_not_original": "～か～ないかのうちに",
+        "editorial_meaning_zh_tw_not_original": "剛～就～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G097",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH10",
+      "source_entry_key": "main:097",
+      "source_kind": "grammar",
+      "source_title": "楽しげにおしゃべりしている",
+      "book_page": 154,
+      "pdf_page": 165,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-097",
+        "editorial_pattern_not_original": "～げ",
+        "editorial_meaning_zh_tw_not_original": "看起來很～的樣子",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G098",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH10",
+      "source_entry_key": "main:098",
+      "source_kind": "grammar",
+      "source_title": "くやしいやらうらやましいやら",
+      "book_page": 155,
+      "pdf_page": 166,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-098",
+        "editorial_pattern_not_original": "～やら～やら",
+        "editorial_meaning_zh_tw_not_original": "又～又～，不知如何是好",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G099",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH10",
+      "source_entry_key": "main:099",
+      "source_kind": "grammar",
+      "source_title": "乗客が降りたかと思うと",
+      "book_page": 155,
+      "pdf_page": 166,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-099",
+        "editorial_pattern_not_original": "～かと思うと",
+        "editorial_meaning_zh_tw_not_original": "剛～就～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G100",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH11",
+      "source_entry_key": "main:100",
+      "source_kind": "grammar",
+      "source_title": "日本料理にほかならない",
+      "book_page": 161,
+      "pdf_page": 172,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-100",
+        "editorial_pattern_not_original": "～にほかならない",
+        "editorial_meaning_zh_tw_not_original": "正是～；無非就是～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G101",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH11",
+      "source_entry_key": "main:101",
+      "source_kind": "grammar",
+      "source_title": "空腹を満たすものにすぎなかった",
+      "book_page": 161,
+      "pdf_page": 172,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-101",
+        "editorial_pattern_not_original": "～にすぎない",
+        "editorial_meaning_zh_tw_not_original": "只不過是～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G102",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH11",
+      "source_entry_key": "main:102",
+      "source_kind": "grammar",
+      "source_title": "工夫ができる上に",
+      "book_page": 162,
+      "pdf_page": 173,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-102",
+        "editorial_pattern_not_original": "～上に",
+        "editorial_meaning_zh_tw_not_original": "而且～；除此之外還～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G103",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH11",
+      "source_entry_key": "main:103",
+      "source_kind": "grammar",
+      "source_title": "ラーメンといっても",
+      "book_page": 163,
+      "pdf_page": 174,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-103",
+        "editorial_pattern_not_original": "～といっても",
+        "editorial_meaning_zh_tw_not_original": "雖說～，其實～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G104",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH11",
+      "source_entry_key": "main:104",
+      "source_kind": "grammar",
+      "source_title": "ラーメンはしょうゆ味に限る",
+      "book_page": 164,
+      "pdf_page": 175,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-104",
+        "editorial_pattern_not_original": "～に限る",
+        "editorial_meaning_zh_tw_not_original": "～最好；首推～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G105",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH11",
+      "source_entry_key": "main:105",
+      "source_kind": "grammar",
+      "source_title": "人気店だけあって",
+      "book_page": 165,
+      "pdf_page": 176,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-105",
+        "editorial_pattern_not_original": "～だけあって",
+        "editorial_meaning_zh_tw_not_original": "不愧是～；正因為～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G106",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH11",
+      "source_entry_key": "main:106",
+      "source_kind": "grammar",
+      "source_title": "スープにしろ具にしろ",
+      "book_page": 166,
+      "pdf_page": 177,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-106",
+        "editorial_pattern_not_original": "～にしろ～にしろ",
+        "editorial_meaning_zh_tw_not_original": "不論是～還是～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G107",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "main:107",
+      "source_kind": "grammar",
+      "source_title": "発売されるとか",
+      "book_page": 172,
+      "pdf_page": 183,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-107",
+        "editorial_pattern_not_original": "～とか",
+        "editorial_meaning_zh_tw_not_original": "聽說～之類的",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G108",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "main:108",
+      "source_kind": "grammar",
+      "source_title": "業界の流れにそって",
+      "book_page": 174,
+      "pdf_page": 185,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-108",
+        "editorial_pattern_not_original": "～に沿って",
+        "editorial_meaning_zh_tw_not_original": "沿著～；按照～方向",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G109",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "main:109",
+      "source_kind": "grammar",
+      "source_title": "ウォーキングシューズにかけては",
+      "book_page": 174,
+      "pdf_page": 185,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-109",
+        "editorial_pattern_not_original": "～にかけては",
+        "editorial_meaning_zh_tw_not_original": "論～方面（最擅長）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G110",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "main:110",
+      "source_kind": "grammar",
+      "source_title": "開発しないことには",
+      "book_page": 175,
+      "pdf_page": 186,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-110",
+        "editorial_pattern_not_original": "～ないことには",
+        "editorial_meaning_zh_tw_not_original": "若不先～就無法～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G111",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "main:111",
+      "source_kind": "grammar",
+      "source_title": "歩きやすさを重視しがちです",
+      "book_page": 176,
+      "pdf_page": 187,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-111",
+        "editorial_pattern_not_original": "～がち",
+        "editorial_meaning_zh_tw_not_original": "容易～；動不動就～（負面傾向）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G112",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "main:112",
+      "source_kind": "grammar",
+      "source_title": "ほしいと思いつつも",
+      "book_page": 177,
+      "pdf_page": 188,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-112",
+        "editorial_pattern_not_original": "～つつ（も）",
+        "editorial_meaning_zh_tw_not_original": "雖然～，但～（心知卻反向）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G113",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "main:113",
+      "source_kind": "grammar",
+      "source_title": "新商品を作ろうとしたら",
+      "book_page": 179,
+      "pdf_page": 190,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-113",
+        "editorial_pattern_not_original": "～ようとしたら",
+        "editorial_meaning_zh_tw_not_original": "正想要～時～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G114",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "main:114",
+      "source_kind": "grammar",
+      "source_title": "デザイン次第で",
+      "book_page": 180,
+      "pdf_page": 191,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-114",
+        "editorial_pattern_not_original": "～次第で",
+        "editorial_meaning_zh_tw_not_original": "取決於～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G115",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "main:115",
+      "source_kind": "grammar",
+      "source_title": "厳しくなる一方です",
+      "book_page": 181,
+      "pdf_page": 192,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-115",
+        "editorial_pattern_not_original": "～一方だ",
+        "editorial_meaning_zh_tw_not_original": "只會不斷～；越來越～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G116",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "main:116",
+      "source_kind": "grammar",
+      "source_title": "開発に先立って",
+      "book_page": 182,
+      "pdf_page": 193,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-116",
+        "editorial_pattern_not_original": "～に先立って",
+        "editorial_meaning_zh_tw_not_original": "在～之前",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G117",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "main:117",
+      "source_kind": "grammar",
+      "source_title": "市場調査をした上で",
+      "book_page": 182,
+      "pdf_page": 193,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-117",
+        "editorial_pattern_not_original": "～た上で",
+        "editorial_meaning_zh_tw_not_original": "做完～之後再～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G118",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "main:118",
+      "source_kind": "grammar",
+      "source_title": "社会人の声にこたえた",
+      "book_page": 183,
+      "pdf_page": 194,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-118",
+        "editorial_pattern_not_original": "～にこたえて",
+        "editorial_meaning_zh_tw_not_original": "回應～；符合～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G119",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:119",
+      "source_kind": "grammar",
+      "source_title": "昇進の話はなかったことにする",
+      "book_page": 189,
+      "pdf_page": 200,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-119",
+        "editorial_pattern_not_original": "～ことにする",
+        "editorial_meaning_zh_tw_not_original": "當作～沒發生",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G120",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:120",
+      "source_kind": "grammar",
+      "source_title": "がんばったつもりだった",
+      "book_page": 190,
+      "pdf_page": 201,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-120",
+        "editorial_pattern_not_original": "～つもりだった",
+        "editorial_meaning_zh_tw_not_original": "主觀認為～；原以為～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G121",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:121",
+      "source_kind": "grammar",
+      "source_title": "つらくてならなかった",
+      "book_page": 190,
+      "pdf_page": 201,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-121",
+        "editorial_pattern_not_original": "～てならない",
+        "editorial_meaning_zh_tw_not_original": "～得不得了（強烈情緒）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G122",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:122",
+      "source_kind": "grammar",
+      "source_title": "できるものなら",
+      "book_page": 191,
+      "pdf_page": 202,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-122",
+        "editorial_pattern_not_original": "～ものなら",
+        "editorial_meaning_zh_tw_not_original": "如果可能的話～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G123",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:123",
+      "source_kind": "grammar",
+      "source_title": "行こうか行くまいか",
+      "book_page": 192,
+      "pdf_page": 203,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-123",
+        "editorial_pattern_not_original": "～か～まいか",
+        "editorial_meaning_zh_tw_not_original": "要～還是不要～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G124",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:124",
+      "source_kind": "grammar",
+      "source_title": "迷った末",
+      "book_page": 193,
+      "pdf_page": 204,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-124",
+        "editorial_pattern_not_original": "～た末",
+        "editorial_meaning_zh_tw_not_original": "經過～後終於～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G125",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:125",
+      "source_kind": "grammar",
+      "source_title": "たとえどんな事情があっても",
+      "book_page": 196,
+      "pdf_page": 207,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-125",
+        "editorial_pattern_not_original": "たとえ～ても",
+        "editorial_meaning_zh_tw_not_original": "即使～也～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G126",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:126",
+      "source_kind": "grammar",
+      "source_title": "許しがたい",
+      "book_page": 196,
+      "pdf_page": 207,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-126",
+        "editorial_pattern_not_original": "～がたい",
+        "editorial_meaning_zh_tw_not_original": "難以～；做不到～（心理）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G127",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:127",
+      "source_kind": "grammar",
+      "source_title": "男が止めるのもかまわず",
+      "book_page": 197,
+      "pdf_page": 208,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-127",
+        "editorial_pattern_not_original": "～もかまわず",
+        "editorial_meaning_zh_tw_not_original": "不顧～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G128",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:128",
+      "source_kind": "grammar",
+      "source_title": "恥ずかしさのあまり",
+      "book_page": 198,
+      "pdf_page": 209,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-128",
+        "editorial_pattern_not_original": "～あまり",
+        "editorial_meaning_zh_tw_not_original": "由於過度～而～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G129",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:129",
+      "source_kind": "grammar",
+      "source_title": "気持ちを込めて",
+      "book_page": 199,
+      "pdf_page": 210,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-129",
+        "editorial_pattern_not_original": "～を込めて",
+        "editorial_meaning_zh_tw_not_original": "傾注～（心意）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G130",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:130",
+      "source_kind": "grammar",
+      "source_title": "荷物運びもすれば切符も売る",
+      "book_page": 199,
+      "pdf_page": 210,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-130",
+        "editorial_pattern_not_original": "～も～ば～も",
+        "editorial_meaning_zh_tw_not_original": "既做～也做～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G131",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH13",
+      "source_entry_key": "main:131",
+      "source_kind": "grammar",
+      "source_title": "やりぬくぞ",
+      "book_page": 200,
+      "pdf_page": 211,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-131",
+        "editorial_pattern_not_original": "～抜く",
+        "editorial_meaning_zh_tw_not_original": "堅持做到底～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G132",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH14",
+      "source_entry_key": "main:132",
+      "source_kind": "grammar",
+      "source_title": "国を挙げて喜んだものだ",
+      "book_page": 206,
+      "pdf_page": 217,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-132",
+        "editorial_pattern_not_original": "～ものだ（回想）",
+        "editorial_meaning_zh_tw_not_original": "從前常常～（回想）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G133",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH14",
+      "source_entry_key": "main:133",
+      "source_kind": "grammar",
+      "source_title": "開催をめぐって",
+      "book_page": 207,
+      "pdf_page": 218,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-133",
+        "editorial_pattern_not_original": "～をめぐって",
+        "editorial_meaning_zh_tw_not_original": "圍繞～（議題）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G134",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH14",
+      "source_entry_key": "main:134",
+      "source_kind": "grammar",
+      "source_title": "抗議の声が上がることになるわけだ",
+      "book_page": 207,
+      "pdf_page": 218,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-134",
+        "editorial_pattern_not_original": "～わけだ",
+        "editorial_meaning_zh_tw_not_original": "原來如此；難怪會～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G135",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH14",
+      "source_entry_key": "main:135",
+      "source_kind": "grammar",
+      "source_title": "オリンピック開催にあたって",
+      "book_page": 208,
+      "pdf_page": 219,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-135",
+        "editorial_pattern_not_original": "～にあたって",
+        "editorial_meaning_zh_tw_not_original": "值此～之際",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G136",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH14",
+      "source_entry_key": "main:136",
+      "source_kind": "grammar",
+      "source_title": "資金に加えて",
+      "book_page": 209,
+      "pdf_page": 220,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-136",
+        "editorial_pattern_not_original": "～に加えて",
+        "editorial_meaning_zh_tw_not_original": "加上～；除此之外還～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G137",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH14",
+      "source_entry_key": "main:137",
+      "source_kind": "grammar",
+      "source_title": "用意されたとしても",
+      "book_page": 209,
+      "pdf_page": 220,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-137",
+        "editorial_pattern_not_original": "～としても",
+        "editorial_meaning_zh_tw_not_original": "即使假設～也～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G138",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH14",
+      "source_entry_key": "main:138",
+      "source_kind": "grammar",
+      "source_title": "理念に基づいて",
+      "book_page": 210,
+      "pdf_page": 221,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-138",
+        "editorial_pattern_not_original": "～に基づいて",
+        "editorial_meaning_zh_tw_not_original": "以～為基礎／依據",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-G139",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH14",
+      "source_entry_key": "main:139",
+      "source_kind": "grammar",
+      "source_title": "多くの人が賛同してこそ",
+      "book_page": 211,
+      "pdf_page": 222,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-139",
+        "editorial_pattern_not_original": "～てこそ",
+        "editorial_meaning_zh_tw_not_original": "正因～才有意義",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-P001",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH01",
+      "source_entry_key": "plus:140",
+      "source_kind": "plus",
+      "source_title": "～に際して",
+      "book_page": 25,
+      "pdf_page": 36,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-PLUS-01",
+        "editorial_pattern_not_original": "～に際して",
+        "editorial_meaning_zh_tw_not_original": "在～之際（正式場合）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-P002",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "plus:141",
+      "source_kind": "plus",
+      "source_title": "契機",
+      "book_page": 40,
+      "pdf_page": 51,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-PLUS-02",
+        "editorial_pattern_not_original": "契機／～を契機に",
+        "editorial_meaning_zh_tw_not_original": "契機；以～為轉機",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-P003",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "plus:142",
+      "source_kind": "plus",
+      "source_title": "～以上は",
+      "book_page": 41,
+      "pdf_page": 52,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-PLUS-03",
+        "editorial_pattern_not_original": "～以上は",
+        "editorial_meaning_zh_tw_not_original": "既然～就應～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-P004",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH02",
+      "source_entry_key": "plus:143",
+      "source_kind": "plus",
+      "source_title": "～上は",
+      "book_page": 42,
+      "pdf_page": 53,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-PLUS-04",
+        "editorial_pattern_not_original": "～上は",
+        "editorial_meaning_zh_tw_not_original": "既然～就～（鄭重）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-P005",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "plus:144",
+      "source_kind": "plus",
+      "source_title": "～からいうと／～からいえば／～からいって",
+      "book_page": 104,
+      "pdf_page": 115,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-PLUS-05",
+        "editorial_pattern_not_original": "～からいうと／～からいえば／～からいって",
+        "editorial_meaning_zh_tw_not_original": "從～角度來說",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-P006",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "plus:145",
+      "source_kind": "plus",
+      "source_title": "～からすると／～からすれば／～からして",
+      "book_page": 105,
+      "pdf_page": 116,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-PLUS-06",
+        "editorial_pattern_not_original": "～からすると／～からすれば／～からして",
+        "editorial_meaning_zh_tw_not_original": "從～立場／根據～看來",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-P007",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH07",
+      "source_entry_key": "plus:146",
+      "source_kind": "plus",
+      "source_title": "～につれて／～につれ",
+      "book_page": 109,
+      "pdf_page": 120,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-PLUS-07",
+        "editorial_pattern_not_original": "～につれて／～につれ",
+        "editorial_meaning_zh_tw_not_original": "隨著～（持續變化）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-P008",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH09",
+      "source_entry_key": "plus:147",
+      "source_kind": "plus",
+      "source_title": "～ってば",
+      "book_page": 133,
+      "pdf_page": 144,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-PLUS-08",
+        "editorial_pattern_not_original": "～ってば",
+        "editorial_meaning_zh_tw_not_original": "真是的，說到～（親密抱怨）",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-P009",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH12",
+      "source_entry_key": "plus:148",
+      "source_kind": "plus",
+      "source_title": "～ばかり",
+      "book_page": 181,
+      "pdf_page": 192,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-PLUS-09",
+        "editorial_pattern_not_original": "～ばかり（変化の進行）",
+        "editorial_meaning_zh_tw_not_original": "只會不斷～／愈來愈～",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    },
+    {
+      "id": "TRY-N2-P010",
+      "source_id": "TRY_N2_CN_SCAN_2013",
+      "chapter_id": "TRY_N2_CN_SCAN_2013-CH14",
+      "source_entry_key": "plus:149",
+      "source_kind": "plus",
+      "source_title": "～をもとに／～をもとにして",
+      "book_page": 211,
+      "pdf_page": 222,
+      "record_status": "needs_review",
+      "material_id": null,
+      "import_payload": {
+        "original_grammar_id": "JLPT-N2-TRY-PLUS-10",
+        "editorial_pattern_not_original": "～をもとに／～をもとにして",
+        "editorial_meaning_zh_tw_not_original": "以～為原始素材／基礎",
+        "editorial_study_data_present": true,
+        "example_count": 2
+      }
+    }
+  ]
+}
