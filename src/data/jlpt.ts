@@ -4,6 +4,7 @@ import tryN4Grammar from './try-n4-grammar.json'
 import tryN3Grammar from './try-n3-grammar.json'
 import tryN2Grammar from './try-n2-grammar.json'
 import tryN1Grammar from './try-n1-grammar.json'
+import { N2_2018_07_READING } from '@/lib/reading-exams'
 
 export const JLPT_LEVELS: JlptLevel[] = ['N5', 'N4', 'N3', 'N2', 'N1']
 
@@ -20,7 +21,7 @@ export const JLPT_SECTION_META: Record<JlptSection, { title: string; description
   },
   reading: {
     title: '文章',
-    description: '閱讀文章、逐段理解、題目與完整解析',
+    description: '歷年讀解題、原文掃描、逐題判分與選項詳解',
     icon: '読',
   },
   listening: {
@@ -35,7 +36,7 @@ export const JLPT_SECTION_META: Record<JlptSection, { title: string; description
   },
   mock: {
     title: '模擬試題',
-    description: '按級別管理整回模擬試題與成績紀錄',
+    description: '完整模擬考或已收錄的歷年考試分項練習',
     icon: '試',
   },
 }
@@ -64,6 +65,8 @@ export const JLPT_DATA: Record<JlptLevel, JlptLevelData> = {
 
 export function getSectionCount(level: JlptLevel, section: JlptSection) {
   const data = JLPT_DATA[level]
+  if (section === 'reading' && level === 'N2') return N2_2018_07_READING.questions.length
+  if (section === 'mock' && level === 'N2') return 1 // 僅含2018/07讀解題組，並非完整模擬考
   if (section === 'mock') return data.mockTests.length
   return data[section].length
 }

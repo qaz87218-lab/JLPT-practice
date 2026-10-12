@@ -6,6 +6,8 @@ import { JLPT_DATA,JLPT_SECTION_META,isJlptLevel,isJlptSection } from '@/data/jl
 import { recordKey,setLocalNote,setLocalStatus,toggleLocalBookmark,useLocalStudy } from '@/lib/local-store'
 import type { GrammarItem,JlptLevel,JlptSection } from '@/lib/types'
 import VocabularyClient from './VocabularyClient'
+import ReadingPracticeClient from './ReadingPracticeClient'
+import ExamIndexClient from './ExamIndexClient'
 
 type FilterMode='all'|'bookmarked'|'wrong'|'mastered'
 function getItems(level:JlptLevel,section:JlptSection) {
@@ -53,5 +55,8 @@ function OtherSectionClient() {
 
 export default function SectionClient() {
  const params=useParams<{level:string;section:string}>()
+ const level=(params.level??'').toUpperCase()
+ if(level==='N2' && params.section==='reading') return <ReadingPracticeClient/>
+ if(level==='N2' && params.section==='mock') return <ExamIndexClient/>
  return params.section==='vocabulary'?<VocabularyClient/>:<OtherSectionClient/>
 }

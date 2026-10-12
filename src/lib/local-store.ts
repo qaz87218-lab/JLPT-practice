@@ -14,14 +14,20 @@ export type LocalProgress = {
   wrong_count: number
   updated_at: string
 }
+export type LocalReadingAnswer = {
+  choiceIndex: number // 0-based
+  correct: boolean
+  submittedAt: string
+}
 export type LocalStudyState = {
   schemaVersion: 1
   progress: Record<string, LocalProgress>
   bookmarks: Record<string, boolean>
   notes: Record<string, string>
+  readingAnswers: Record<string, LocalReadingAnswer>
 }
 export function emptyState(): LocalStudyState {
-  return { schemaVersion: 1, progress: {}, bookmarks: {}, notes: {} }
+  return { schemaVersion: 1, progress: {}, bookmarks: {}, notes: {}, readingAnswers: {} }
 }
 export function recordKey(level: JlptLevel, section: JlptSection, id: string) {
   return `${level}:${section}:${id}`
@@ -38,6 +44,7 @@ function validateState(raw: unknown): LocalStudyState {
   const progress: LocalStudyState['progress'] = {}
   const bookmarks: LocalStudyState['bookmarks'] = {}
   const notes: LocalStudyState['notes'] = {}
+  const readingAnswers: LocalStudyState['readingAnswers'] = {}
   if (Object.keys(raw.progress).length > 200000) throw new Error('學習紀錄筆數異常。')
   for (const [key, value] of Object.entries(raw.progress)) {
     if (!isRecord(value)) throw new Error('學習進度格式不正確。')
@@ -55,7 +62,18 @@ function validateState(raw: unknown): LocalStudyState {
   for (const [key, value] of Object.entries(raw.notes)) {
     if (key.length < 512 && typeof value === 'string') notes[key] = value.slice(0, 20000)
   }
-  return { schemaVersion:1, progress, bookmarks, notes }
+  // v0.3.5-v0.3.7 備份不含 readingAnswers；匯入時視為空資料，不影響舊紀錄。
+  if (raw.readingAnswers !== undefined) {
+    if (!isRecord(raw.readingAnswers)) throw new Error('讀解作答紀錄格式不正確。')
+    if (Object.keys(raw.readingAnswers).length > 200000) throw new Error('讀解作答紀錄筆數異常。')
+    for (const [key, value] of Object.entries(raw.readingAnswers)) {
+      if (!isRecord(value) || !key.startsWith('N2:reading:') || key.length > 512 || typeof value.choiceIndex !== 'number' || !Number.isInteger(value.choiceIndex) || value.choiceIndex < 0 || value.choiceIndex > 3 || typeof value.correct !== 'boolean' || typeof value.submittedAt !== 'string') {
+        throw new Error('讀解作答紀錄格式不正確。')
+      }
+      readingAnswers[key] = {choiceIndex:value.choiceIndex as number,correct:value.correct,submittedAt:value.submittedAt}
+    }
+  }
+  return { schemaVersion:1, progress, bookmarks, notes, readingAnswers }
 }
 export function readLocalState(): LocalStudyState {
   if (typeof window === 'undefined') return emptyState()
@@ -88,6 +106,32 @@ export function setLocalStatus(level: JlptLevel, section: JlptSection, itemId: s
     } } }
   })
 }
+/** 讀解每次正式提交計入一次作答；保留最新答案供錯題複習。 */
+export function recordLocalReadingAnswer(level: JlptLevel, questionId: string, choiceIndex: number, answerIndex: number) {
+  if (!Number.isInteger(choiceIndex) || choiceIndex < 0 || choiceIndex > 3 || !Number.isInteger(answerIndex) || answerIndex < 1 || answerIndex > 4) {
+    throw new Error('選項資料不正確。')
+  }
+  const correct = choiceIndex === answerIndex - 1
+  const now = new Date().toISOString()
+  updateLocalStudy(prev => {
+    const key = recordKey(level, 'reading', questionId)
+    const prior = prev.progress[key]
+    const reading = {choiceIndex,correct,submittedAt:now}
+    return { ...prev,
+      readingAnswers: {...prev.readingAnswers,[key]:reading},
+      progress: {...prev.progress,[key]:{
+        level,section:'reading' as const,item_id:questionId,
+        status:correct?'learning' as const:'learning' as const,
+        mastery:correct?Math.min(5,(prior?.mastery??0)+1):Math.max(0,(prior?.mastery??0)-1),
+        correct_count:(prior?.correct_count??0)+(correct?1:0),
+        wrong_count:(prior?.wrong_count??0)+(correct?0:1),
+        updated_at:now,
+      }},
+    }
+  })
+  return correct
+}
+
 export function toggleLocalBookmark(level: JlptLevel, section: JlptSection, itemId: string) {
   return updateLocalStudy(prev => {
     const key = recordKey(level,section,itemId)

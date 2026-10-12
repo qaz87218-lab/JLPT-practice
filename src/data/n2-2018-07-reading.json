@@ -1,0 +1,1227 @@
+{
+  "schema_version": "1.0",
+  "exam": {
+    "exam_id": "JLPT-N2-2018-07",
+    "level": "N2",
+    "year": 2018,
+    "month": 7,
+    "section": "読解",
+    "source_name": "2018年07月.pdf",
+    "source_credit": "使用者上傳之「斉禾日語」整理版試題，試題來源／官方授權未查證",
+    "source_type": "user_supplied_third_party_compilation",
+    "source_verified_official": false,
+    "scope": "問題10～14、55～75（含答案與自撰繁體中文詳解）",
+    "question_pages_pdf": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "answer_page_pdf": 35,
+    "existing_explanation_pages_pdf": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "content_review_status": "draft_manually_checked_answer_key",
+    "notes": "原試題文字、選項為掃描頁人工辨讀；供內部教學使用，原文頁圖應一併開啟核對。解說與錯誤選項分析為另外撰寫，不代表原出版者見解。"
+  },
+  "passages": [
+    {
+      "id": "P10-1",
+      "section": "問題10",
+      "sub": "(1)",
+      "title": "旅行社估價更改電子郵件",
+      "pages": [
+        7
+      ],
+      "questions": [
+        55
+      ],
+      "summary": "大學向旅行社要求將8月6日的出發日延後至8月20日；旅行費用不可超過既有估價，飯店可以調整，但仍維持一晚兩天。",
+      "focus": "條件限制與允許變更項目",
+      "vocab": [
+        [
+          "見積書",
+          "みつもりしょ",
+          "估價單"
+        ],
+        [
+          "出発日",
+          "しゅっぱつび",
+          "出發日期"
+        ],
+        [
+          "超える",
+          "こえる",
+          "超出"
+        ],
+        [
+          "一泊二日",
+          "いっぱくふつか",
+          "一夜兩天"
+        ]
+      ]
+    },
+    {
+      "id": "P10-2",
+      "section": "問題10",
+      "sub": "(2)",
+      "title": "與他人溝通時的目線高度",
+      "pages": [
+        7
+      ],
+      "questions": [
+        56
+      ],
+      "summary": "居高臨下容易觀察全場，但聽者反應會變得遲鈍；相同高度對話雖無法看清全場，反而能交流更活躍。",
+      "focus": "對比關係：高處／同一高度",
+      "vocab": [
+        [
+          "目線",
+          "めせん",
+          "視線高度"
+        ],
+        [
+          "鋭い",
+          "するどい",
+          "敏銳的"
+        ],
+        [
+          "鈍い",
+          "にぶい",
+          "遲鈍的"
+        ],
+        [
+          "意見交換",
+          "いけんこうかん",
+          "意見交流"
+        ]
+      ]
+    },
+    {
+      "id": "P10-3",
+      "section": "問題10",
+      "sub": "(3)",
+      "title": "在行動中修正思考",
+      "pages": [
+        7,
+        8
+      ],
+      "questions": [
+        57
+      ],
+      "summary": "作者不提倡一直停下來深思。行動及變化會加速思考並帶來改進，即使存在風險，也可能更快找到答案。",
+      "focus": "作者主張與反向敘述",
+      "vocab": [
+        [
+          "思考",
+          "しこう",
+          "思考"
+        ],
+        [
+          "競争相手",
+          "きょうそうあいて",
+          "競爭對手"
+        ],
+        [
+          "加速",
+          "かそく",
+          "加速"
+        ],
+        [
+          "実践",
+          "じっせん",
+          "實踐"
+        ]
+      ]
+    },
+    {
+      "id": "P10-4",
+      "section": "問題10",
+      "sub": "(4)",
+      "title": "公司健康檢查通知",
+      "pages": [
+        8
+      ],
+      "questions": [
+        58
+      ],
+      "summary": "自今年起，員工自行在指定醫療機構中選擇就診處所，並在4月到翌年3月間自行安排日期預約；檢查項目維持不變。",
+      "focus": "制度變更：執行者、場所、日期",
+      "vocab": [
+        [
+          "定期健康診断",
+          "ていきけんこうしんだん",
+          "定期健康檢查"
+        ],
+        [
+          "受診",
+          "じゅしん",
+          "接受檢查或看診"
+        ],
+        [
+          "医療機関",
+          "いりょうきかん",
+          "醫療機構"
+        ],
+        [
+          "検査項目",
+          "けんさこうもく",
+          "檢查項目"
+        ]
+      ]
+    },
+    {
+      "id": "P10-5",
+      "section": "問題10",
+      "sub": "(5)",
+      "title": "向成功者學習",
+      "pages": [
+        8
+      ],
+      "questions": [
+        59
+      ],
+      "summary": "單純模仿成功者表面方式，甚至抄襲都無助於成長；應參考別人的優點，再自行設計改進方法。",
+      "focus": "否定模仿、肯定參考並創新",
+      "vocab": [
+        [
+          "成功例",
+          "せいこうれい",
+          "成功案例"
+        ],
+        [
+          "模倣",
+          "もほう",
+          "模仿"
+        ],
+        [
+          "工夫",
+          "くふう",
+          "構思、設法改進"
+        ],
+        [
+          "学ぶ",
+          "まなぶ",
+          "學習"
+        ]
+      ]
+    },
+    {
+      "id": "P11-1",
+      "section": "問題11",
+      "sub": "(1)",
+      "title": "先入觀與誤解",
+      "pages": [
+        8,
+        9
+      ],
+      "questions": [
+        60,
+        61,
+        62
+      ],
+      "summary": "人人都會因對職業、他人的先入為主印象而產生誤解；轉述時省略資訊會引發新的誤解，但不同理解亦可能帶來思想多樣性。",
+      "focus": "段落整合、因果、正反評價",
+      "vocab": [
+        [
+          "先入観",
+          "せんにゅうかん",
+          "先入為主的印象"
+        ],
+        [
+          "省略",
+          "しょうりゃく",
+          "省略"
+        ],
+        [
+          "誤解",
+          "ごかい",
+          "誤解"
+        ],
+        [
+          "多様性",
+          "たようせい",
+          "多樣性"
+        ]
+      ]
+    },
+    {
+      "id": "P11-2",
+      "section": "問題11",
+      "sub": "(2)",
+      "title": "旅行中的過程與目的地",
+      "pages": [
+        9,
+        10
+      ],
+      "questions": [
+        63,
+        64,
+        65
+      ],
+      "summary": "以往旅行者重視沿途車窗景色；現在的乘客經常在車內娛樂，抵達後才認為旅程開始。作者認為目的地之前的過程，也是人生與旅程的重要部分。",
+      "focus": "時間對比及作者核心價值",
+      "vocab": [
+        [
+          "目的地主義",
+          "もくてきちしゅぎ",
+          "目的地中心主義"
+        ],
+        [
+          "道中",
+          "どうちゅう",
+          "途中、旅途"
+        ],
+        [
+          "車窓",
+          "しゃそう",
+          "車窗"
+        ],
+        [
+          "軽視",
+          "けいし",
+          "輕視"
+        ]
+      ]
+    },
+    {
+      "id": "P11-3",
+      "section": "問題11",
+      "sub": "(3)",
+      "title": "設計者的社會願景",
+      "pages": [
+        10,
+        11
+      ],
+      "questions": [
+        66,
+        67,
+        68
+      ],
+      "summary": "人工物會產生超出設計者原先預想的影響，因此設計要考慮未來的生活與社會，也必須研究消費需求，在理念與市場間取得共通處。",
+      "focus": "例子功能、主張、條件關係",
+      "vocab": [
+        [
+          "人工物",
+          "じんこうぶつ",
+          "人造物"
+        ],
+        [
+          "予想",
+          "よそう",
+          "預測"
+        ],
+        [
+          "価値観",
+          "かちかん",
+          "價值觀"
+        ],
+        [
+          "共通性",
+          "きょうつうせい",
+          "共通性"
+        ]
+      ]
+    },
+    {
+      "id": "P12-AB",
+      "section": "問題12",
+      "sub": "A・B",
+      "title": "兩種唱歌觀念的比較",
+      "pages": [
+        11
+      ],
+      "questions": [
+        69,
+        70
+      ],
+      "summary": "A認為理解歌詞、記住旋律才能有自信唱歌；B也重視理解歌詞，但更重視抓住歌曲的情感與傳達想強調的意思，而非字字不差。",
+      "focus": "雙文本共同點與差異",
+      "vocab": [
+        [
+          "歌詞",
+          "かし",
+          "歌詞"
+        ],
+        [
+          "覚える",
+          "おぼえる",
+          "記住"
+        ],
+        [
+          "強調",
+          "きょうちょう",
+          "強調"
+        ],
+        [
+          "気持ち",
+          "きもち",
+          "心情、感情"
+        ]
+      ]
+    },
+    {
+      "id": "P13",
+      "section": "問題13",
+      "sub": "-",
+      "title": "求職落選與公司內部評價",
+      "pages": [
+        12
+      ],
+      "questions": [
+        71,
+        72,
+        73
+      ],
+      "summary": "作者強調評價本質上是相對比較；求職落選未必表示能力低下，進入公司後也應觀察同事與上司標準，才能了解如何改善自身表現。",
+      "focus": "指示語、指稱、具體建議",
+      "vocab": [
+        [
+          "志願",
+          "しがん",
+          "志願、申請"
+        ],
+        [
+          "不採用",
+          "ふさいよう",
+          "不錄取"
+        ],
+        [
+          "相対的",
+          "そうたいてき",
+          "相對的"
+        ],
+        [
+          "同僚",
+          "どうりょう",
+          "同事"
+        ]
+      ]
+    },
+    {
+      "id": "P14",
+      "section": "問題14",
+      "sub": "-",
+      "title": "國際中心文章寫作輔導公告",
+      "pages": [
+        12,
+        13
+      ],
+      "questions": [
+        74,
+        75
+      ],
+      "summary": "表列四位學生的文書種類與可來中心的日子；公告限定日語學術文章，排除履歷與翻譯文；預約限上課前兩週起至前一天中午、一次一節，並攜帶列印文件。",
+      "focus": "表格交叉比對、細則排除",
+      "vocab": [
+        [
+          "対象",
+          "たいしょう",
+          "適用對象"
+        ],
+        [
+          "履歴書",
+          "りれきしょ",
+          "履歷"
+        ],
+        [
+          "予約",
+          "よやく",
+          "預約"
+        ],
+        [
+          "添付",
+          "てんぷ",
+          "附加、夾帶"
+        ]
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "JLPT-N2-2018-07-READING-Q055",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題10",
+      "passage_id": "P10-1",
+      "number": 55,
+      "question_jp": "見積書について、このメールで依頼していることは何か。",
+      "question_zh": "這封郵件要求旅行社對估價單做什麼調整？",
+      "options_jp": [
+        "料金が上がってもいいので、出発日を変更してほしい。",
+        "料金を上げずに、出発日を変更してほしい。",
+        "宿泊先は変わってもいいので、出発日と日数を変更してほしい。",
+        "宿泊先は変えずに、出発日と日数を変更してほしい。"
+      ],
+      "answer_index": 2,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "出発日を８月２０日（月）に変更して、再度見積書を作成していただけないでしょうか。料金は今回の見積書の金額を超えないようにお願いいたします。",
+      "explanation_zh": "寄件者原本預定8月6日出發，後因活動安排變更而要求延至8月20日；但費用不得超過原估價。同時可更換飯店，行程維持「1泊2日」。因此只有②完整滿足「改出發日、不加價」兩項必要條件。",
+      "choices_explanation_zh": [
+        "錯：明確說明費用不得超過現有金額。",
+        "正確：出發日須修改，且總費用不能提高。",
+        "錯：可更換住宿地點，但天數仍固定1晚2天。",
+        "錯：住宿地點不是必須維持不變，且天數也不變。"
+      ],
+      "reading_skill": "條件判斷：必要條件與可選條件",
+      "related_vocabulary": [
+        "見積書",
+        "超える",
+        "一泊二日"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 7,
+      "secondary_explanation_pdf_page": 30,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q056",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題10",
+      "passage_id": "P10-2",
+      "number": 56,
+      "question_jp": "話すときの高さについて、筆者の考えに合うのはどれか。",
+      "question_zh": "作者對於說話時所處的高度有何看法？",
+      "options_jp": [
+        "高い場所から話すと、聞き手の反応が見にくい。",
+        "高い場所から話すと、聞き手が反対意見を言いやすくなる。",
+        "同じ高さで話すと、聞き手が反応しにくい。",
+        "同じ高さで話すと、聞き手が発言しやすくなる。"
+      ],
+      "answer_index": 4,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "同一の目線で話しかけると、活発な意見交換が期待できる。",
+      "explanation_zh": "作者比較「站得比對方高」與「同一視線高度」。高處有利於看清場內各處，但聽者反應會鈍化；用平等高度說話較容易促進熱烈的意見交流，因此④正確。",
+      "choices_explanation_zh": [
+        "錯：高處反而能看到場內各角落，問題在反應變鈍。",
+        "錯：高處讓聽眾反應變得遲鈍，並非更易提出反對意見。",
+        "錯：同等高度促進交流，不是讓聽者難以反應。",
+        "正確：同一高度更容易讓聽者發言和交換意見。"
+      ],
+      "reading_skill": "對比題：比較兩個條件下的結果",
+      "related_vocabulary": [
+        "目線",
+        "反応",
+        "意見交換"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 7,
+      "secondary_explanation_pdf_page": 30,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q057",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題10",
+      "passage_id": "P10-3",
+      "number": 57,
+      "question_jp": "筆者の考えに合うのはどれか。",
+      "question_zh": "何者符合作者的主張？",
+      "options_jp": [
+        "行動を止めずに考えつづけることで、思考はより加速する。",
+        "行動を止めて、深く思考することも必要だ。",
+        "変化する状況の中で、行動を加速することが大切だ。",
+        "考えつづけていれば、さらに勇気が持てるようになる。"
+      ],
+      "answer_index": 1,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "行動し、変化する状況の中で考えつづけることを実践するのはかなり勇気が要るだろう。しかし、そうすることで最速の思考が生み出されるのだ。",
+      "explanation_zh": "主張在於「不停止行動，邊行動邊繼續思考」會使思考加速。③偷換了主語，把加速「思考」改成加速「行動」；④則誤把需要勇氣改寫成會產生勇氣。",
+      "choices_explanation_zh": [
+        "正確：行動不中斷，並在變化中持續思考。",
+        "錯：作者明確不鼓勵停下行動才開始思考。",
+        "錯：應加速的是思考，不是行動速度。",
+        "錯：原文說實踐需要勇氣，並非思考越多勇氣越多。"
+      ],
+      "reading_skill": "抓作者主張、避免概念替換",
+      "related_vocabulary": [
+        "思考",
+        "実践",
+        "加速"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 8,
+      "secondary_explanation_pdf_page": 30,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q058",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題10",
+      "passage_id": "P10-4",
+      "number": 58,
+      "question_jp": "この知らせによると、定期健康診断の受け方はどのように変わったか。",
+      "question_zh": "通知指出定期健康檢查的安排如何改變？",
+      "options_jp": [
+        "アラキ医療センターに各自で予約を入れ、受診するようになった。",
+        "アラキ医療センターで４月から翌年３月までの指定日に受診するようになった。",
+        "各自で医療機関と日を決めて予約し、受診するようになった。",
+        "各自で医療機関と日と検査項目を決めて予約し、受診するようになった。"
+      ],
+      "answer_index": 3,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "今年度より各自で指定の医療機関の中から選んで受診していただくことになりました。４月から翌年３月までの間で受診日を決め、直接医療機関に予約を入れて受診するようにしてください。なお、検査項目につきましては、これまで通りです。",
+      "explanation_zh": "「指定醫療機構中自行選擇」與「4月至翌年3月期間自行選日期並預約」是今年的變更。檢查內容仍與以前相同。③的意思與通知一致；但應補充：不是可隨意選所有醫院，而是從公司指定的醫療機構中選。",
+      "choices_explanation_zh": [
+        "錯：不再限定原本的荒木醫療中心。",
+        "錯：不再由單一中心指定日期，員工自行選擇。",
+        "正確：從指定機構中自選醫院及日期，並直接預約。",
+        "錯：檢查項目不變，不能自行決定。"
+      ],
+      "reading_skill": "公告題：區分改變事項與不變事項",
+      "related_vocabulary": [
+        "医療機関",
+        "受診",
+        "検査項目"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 8,
+      "secondary_explanation_pdf_page": 30,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q059",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題10",
+      "passage_id": "P10-5",
+      "number": 59,
+      "question_jp": "筆者の考えに合うのはどれか。",
+      "question_zh": "下列何者符合作者向成功者學習的看法？",
+      "options_jp": [
+        "成功するためには何も考えずに努力することが大切だ。",
+        "人の成功例は参考にしないほうがいい。",
+        "人の真似を続けていけば、必ず成功できる。",
+        "人のいいところを見て工夫すれば、成功につながる。"
+      ],
+      "answer_index": 4,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "人のいいところを参考にして、自分なりの方法を工夫して努力していくのは、まともな人のすることである。",
+      "explanation_zh": "作者反對無思考地模仿、抄襲成功者，但認同觀察他人的優點並加以改進。④同時包含「參考他人」與「自己想方法」；只讀到「真似」就選③會忽略作者的否定語氣。",
+      "choices_explanation_zh": [
+        "錯：無思考地照做不是作者贊成的態度。",
+        "錯：作者肯定借鏡優秀之處。",
+        "錯：模仿不代表必然成功，原文甚至批評全面模仿。",
+        "正確：借鏡優點並設法改進，增加成功機會。"
+      ],
+      "reading_skill": "否定句＋轉折後真正主張",
+      "related_vocabulary": [
+        "模倣",
+        "工夫",
+        "参考"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 8,
+      "secondary_explanation_pdf_page": 30,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q060",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題11",
+      "passage_id": "P11-1",
+      "number": 60,
+      "question_jp": "大学の先生の例を挙げて、筆者が述べていることは何か。",
+      "question_zh": "作者舉大學教授的例子想說明什麼？",
+      "options_jp": [
+        "職業の一般的なイメージは実態と合っている。",
+        "周囲と違うイメージを持つと誤解が生まれる。",
+        "思い込みから誤解が生まれる。",
+        "誰でも誤解をしてしまうことがある。"
+      ],
+      "answer_index": 3,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "私たちはどうしても先入観を持ってしまうため、それが誤解を生む原因なのだ。",
+      "explanation_zh": "教授只是例子：旁人容易用「理系、穿白袍、難接近」等職業印象想像所有教授，並據此推論，因此導致誤解。作者重點在於「先入觀造成誤解」，不是特別討論職業真實狀況。",
+      "choices_explanation_zh": [
+        "錯：職業印象與真實面貌未必一致。",
+        "錯：不一定要與周圍想法不同才會誤解。",
+        "正確：先入為主的成見，是誤解的重要根源。",
+        "不夠精確：雖然人人可能誤解，但例子明確指向先入觀這一成因。"
+      ],
+      "reading_skill": "舉例目的：由例子回推通則",
+      "related_vocabulary": [
+        "先入観",
+        "誤解",
+        "職業"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 9,
+      "secondary_explanation_pdf_page": 30,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q061",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題11",
+      "passage_id": "P11-1",
+      "number": 61,
+      "question_jp": "話す際の省略が誤解を生むのはなぜか。",
+      "question_zh": "為什麼轉述時的省略可能導致誤解？",
+      "options_jp": [
+        "聞いた人の思い込みが強くなりすぎるから。",
+        "聞いた人が省略された内容を補おうとしないから。",
+        "聞いた人が省略された内容があることに気が付かないから。",
+        "聞いた人が省略された内容とは違うことを補って理解するから。"
+      ],
+      "answer_index": 4,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "そうなると相手は自分の意図とは異なる形で補うために誤解につながっていくのだ。",
+      "explanation_zh": "訊息不完整時，聽者會用自己的脈絡「自行補上」缺失部分，而補的內容可能和說話者原意不符。④最完整對應「意圖不同的補足」，並非單純不知道資訊被省略。",
+      "choices_explanation_zh": [
+        "錯：作者分析的是訊息缺口的補足，不是成見必然增強。",
+        "錯：聽者正是會主動補上省略部分。",
+        "錯：誤解的核心是補錯內容，而不是沒有發現省略。",
+        "正確：聽者自行補出與原意不同的資訊而誤解。"
+      ],
+      "reading_skill": "因果追蹤：省略→推補→誤解",
+      "related_vocabulary": [
+        "省略",
+        "補う",
+        "意図"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 9,
+      "secondary_explanation_pdf_page": 30,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q062",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題11",
+      "passage_id": "P11-1",
+      "number": 62,
+      "question_jp": "筆者によると、誤解の良い点はどのようなことか。",
+      "question_zh": "作者認為誤解也可能有什麼正面效果？",
+      "options_jp": [
+        "いろいろな考えが生まれることになる。",
+        "自分の考えの誤りに気付くことができる。",
+        "人に対する間違った見方が変えられる。",
+        "多様な考えを自然に受け入れられるようになる。"
+      ],
+      "answer_index": 1,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "誤解によって人々の考えに自然に多様性が生まれるということだ。",
+      "explanation_zh": "結尾提到，誤解雖通常被當成壞事，卻也會使不同理解自然產生，形成多樣性。不是在談自我修正或容忍他人，而是新的多種想法「產生」。",
+      "choices_explanation_zh": [
+        "正確：誤解可能產生不同意見與思考。",
+        "錯：未提能自我發現錯誤。",
+        "錯：未特別強調改變對人的偏見。",
+        "錯：多樣思考的產生，不等於人人能自然接納它們。"
+      ],
+      "reading_skill": "段落結論：正面觀點的界定",
+      "related_vocabulary": [
+        "多様性",
+        "仕掛け",
+        "生まれる"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 9,
+      "secondary_explanation_pdf_page": 31,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q063",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題11",
+      "passage_id": "P11-2",
+      "number": 63,
+      "question_jp": "遠足や修学旅行の移動のときの中小学生の様子について、筆者はどのように述べているか。",
+      "question_zh": "作者如何描述過去與現在學生遠足、修學旅行的途中表現？",
+      "options_jp": [
+        "昔も今も、歌やゲームを楽しんでいる。",
+        "昔も今も、窓の外の風景に興味を示す。",
+        "昔は歌やゲームを楽しんだが、今は楽しもうとしない。",
+        "昔は窓の外の風景に興味を持ったが、今は興味を示さない。"
+      ],
+      "answer_index": 4,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "昔の小中学生は、車窓の風景を真剣に眺めたものだ。ところが、さいきんの小中学生は、乗り物の窓の外を眺めようとはせず……。",
+      "explanation_zh": "作者用「昔／ところが／最近」建立對比：過去會專注車窗外的景色，近來卻在車內唱歌、玩遊戲而不看外面的景色。因此選④。",
+      "choices_explanation_zh": [
+        "錯：唱歌、遊戲是文中描寫近期學生的狀態。",
+        "錯：現在的學生不太看窗外。",
+        "錯：原文沒有說現在學生不享受歌或遊戲。",
+        "正確：從關心窗外景色轉為車內活動。"
+      ],
+      "reading_skill": "對比標記：昔／ところが／最近",
+      "related_vocabulary": [
+        "車窓",
+        "遠足",
+        "風景"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 10,
+      "secondary_explanation_pdf_page": 31,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q064",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題11",
+      "passage_id": "P11-2",
+      "number": 64,
+      "question_jp": "「目的地主義」とはどのようなことか。",
+      "question_zh": "「目的地主義」是指什麼？",
+      "options_jp": [
+        "旅は早く目的地に着くことが大事だと考える。",
+        "目的地に着いてからの時間が旅だと考える。",
+        "目的地に着くまでの旅の時間を楽しもうと考える。",
+        "目的地を決めることから旅ははじまると考える。"
+      ],
+      "answer_index": 2,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "最近の人々の考えでは、旅は目的地に着いてからはじまる。目的地に到着するまでの移動の時間は、どうも無駄な時間に感じられる。",
+      "explanation_zh": "「目的地主義」不只是想快點抵達，而是把「抵達之後才是真正旅行」當作定義，並將途中移動視為無用。②完整描述這一觀點。",
+      "choices_explanation_zh": [
+        "片面：只談速度，未說明旅程從何時開始。",
+        "正確：真正的旅程從抵達目的地才開始。",
+        "相反：強調沿途享受是作者要捍衛的價值。",
+        "錯：是否決定目的地不是作者所稱的主義。"
+      ],
+      "reading_skill": "抽象名詞定義：找下文的同義改寫",
+      "related_vocabulary": [
+        "目的地",
+        "移動",
+        "無駄"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 10,
+      "secondary_explanation_pdf_page": 31,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q065",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題11",
+      "passage_id": "P11-2",
+      "number": 65,
+      "question_jp": "筆者が言いたいことは何か。",
+      "question_zh": "作者最想傳達的理念是什麼？",
+      "options_jp": [
+        "人生は目標に至る過程を大切にしなければならない。",
+        "人生は目標を達成した後に、どうするかが大事だ。",
+        "人生は目標を明確に決めてしまうと寂しいものになる。",
+        "目的地を決めることから旅ははじまると考える。"
+      ],
+      "answer_index": 1,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "人生は「道中」が大事だ。高校生であれば、高校の三年間の毎日を大切にせねばならない。",
+      "explanation_zh": "文章將旅行「沿途」延伸為人生「目標達成前的過程」，提醒讀者重視求學、工作、人生途中的每日經驗。①是由旅程比喻上升到人生觀的結論。",
+      "choices_explanation_zh": [
+        "正確：重視抵達目標之前的過程及日常。",
+        "錯：不是強調完成目標之後才重要。",
+        "錯：沒有否定訂定目標本身。",
+        "錯：該說法是目的地主義，不是作者的主張。"
+      ],
+      "reading_skill": "由具體例子推論中心思想",
+      "related_vocabulary": [
+        "道中",
+        "目的地",
+        "大切"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 10,
+      "secondary_explanation_pdf_page": 31,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q066",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題11",
+      "passage_id": "P11-3",
+      "number": 66,
+      "question_jp": "コンピューターの例を挙げて、筆者が述べていることは何か。",
+      "question_zh": "作者舉電腦的例子，意圖說明什麼？",
+      "options_jp": [
+        "人工物が設計者の意図に反した使われ方をされている。",
+        "人工物が設計者の予想以上に社会に影響を与えている。",
+        "人工物が人間を補助することで社会が成り立っている。",
+        "人工物の便利さに社会は大きな影響を与えている。"
+      ],
+      "answer_index": 2,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "設計者の予想を越える場合があり……当初は計算を行う機器として製作されたが、現在ではデータベースやコミュニケーションなど、さまざまな用途に用いられ、生活環境を大きく変えてきている。",
+      "explanation_zh": "例子指出電腦起初為計算而設計，後來擴展至資訊、通訊等用途，對生活造成超出設計者預想的變化。②同時具備「出乎預想」與「社會影響」兩個核心。",
+      "choices_explanation_zh": [
+        "錯：超越預期不必然等於違背設計者意圖。",
+        "正確：人工物的社會影響可能超出設計者原先預測。",
+        "錯：文章沒有以社會運作全靠人工物為中心。",
+        "錯：因果方向顛倒，應是人工物影響社會。"
+      ],
+      "reading_skill": "舉例功能：分辨論點與例證",
+      "related_vocabulary": [
+        "人工物",
+        "予想",
+        "影響"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 11,
+      "secondary_explanation_pdf_page": 31,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q067",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題11",
+      "passage_id": "P11-3",
+      "number": 67,
+      "question_jp": "筆者によると、設計者が人工物を設計する時に必要なことは何か。",
+      "question_zh": "作者認為設計人造物時應該考慮什麼？",
+      "options_jp": [
+        "将来の生活や社会に望むことを人工物に反映させること。",
+        "人々の価値観を変えるような人工物を考えること。",
+        "一つの人工物にさまざまな用途をもたせること。",
+        "現代の最も進んだ科学技術を取り入れること。"
+      ],
+      "answer_index": 1,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "いったい、これからわたしたち一人一人がどんな生活を送り、どのような社会を作り上げたいのかというビジョン……人工物にその価値観をもたせることが必要だと思われる。",
+      "explanation_zh": "作者強調先有對未來生活／社會的願景，再把這個價值觀融入設計成果。①含願景與設計反映兩項要素；其餘選項都只是可能的技術或影響，非作者規範。",
+      "choices_explanation_zh": [
+        "正確：讓作品承載人們對未來生活與社會的期待。",
+        "錯：文章不是要求設計者強迫人改變價值觀。",
+        "錯：多功能不是必然的設計核心。",
+        "錯：技術先進與否不是本文必要條件。"
+      ],
+      "reading_skill": "必要條件：ビジョン→価値観→設計",
+      "related_vocabulary": [
+        "価値観",
+        "ビジョン",
+        "反映"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 11,
+      "secondary_explanation_pdf_page": 31,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q068",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題11",
+      "passage_id": "P11-3",
+      "number": 68,
+      "question_jp": "売れる製品を作るために、設計者はどうすればいいか。",
+      "question_zh": "要做出能賣得出去的產品，設計者應如何做？",
+      "options_jp": [
+        "自身の価値観を捨てて、消費者に共通する価値観を優先する。",
+        "社会の状況を調べて、自分の価値観が正しいことを確認する。",
+        "消費者のニーズを調べて、消費者と自身の価値観に共通性をもたせる。",
+        "マーケットニーズの変化を考慮しながらも、自分の価値観を優先させる。"
+      ],
+      "answer_index": 3,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "設計者が自分の価値観をマーケットニーズとうまく調和させるために、設計者の価値観が購買者の価値観との何らかの共通性をもつ必要がある。",
+      "explanation_zh": "作者同時肯定設計者願景與市場需求，要求調查消費者價值並尋找兩者共通性，而不是犧牲其中一方。③完整呈現平衡條件。",
+      "choices_explanation_zh": [
+        "錯：不是完全捨棄自己的設計理念。",
+        "錯：調查市場不是為了證明自己永遠正確。",
+        "正確：調查需要，在消費者和設計者價值觀間建立共識。",
+        "錯：單方面讓個人理念壓倒市場需求，無法保證產品被接受。"
+      ],
+      "reading_skill": "條件題：調和與共通性",
+      "related_vocabulary": [
+        "ニーズ",
+        "調和",
+        "共通性"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 11,
+      "secondary_explanation_pdf_page": 31,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q069",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題12",
+      "passage_id": "P12-AB",
+      "number": 69,
+      "question_jp": "歌を歌う前に歌詞を理解することについて、ＡとＢはどのように考えているか。",
+      "question_zh": "A與B對唱歌前理解歌詞的必要性看法如何？",
+      "options_jp": [
+        "ＡもＢも、必要だと述べている。",
+        "ＡもＢも、あまり必要ではないと述べている。",
+        "Ａは必要だと述べ、Ｂはあまり必要ではないと述べている。",
+        "Ａはあまり必要ではないと述べ、Ｂは必要だと述べている。"
+      ],
+      "answer_index": 1,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "Ａ「まず歌詞を理解して曲を覚えることが必要だ」／Ｂ「歌詞を深く理解することが大切だ」",
+      "explanation_zh": "兩文都明確把「理解歌詞」當成重要或必要。雖然B主張不必拘泥於每個音的正確性，但這不代表不需理解歌詞；①正確。",
+      "choices_explanation_zh": [
+        "正確：A與B都認為理解歌詞重要。",
+        "錯：兩者都明確肯定理解歌詞。",
+        "錯：B並沒有否定理解歌詞的必要性。",
+        "錯：A也明確要求先理解歌詞。"
+      ],
+      "reading_skill": "雙文本比較：共同立場",
+      "related_vocabulary": [
+        "歌詞",
+        "理解",
+        "必要"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 11,
+      "secondary_explanation_pdf_page": 32,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q070",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題12",
+      "passage_id": "P12-AB",
+      "number": 70,
+      "question_jp": "ＡとＢは、歌を上手に歌うために、どのようなことが重要だと述べているか。",
+      "question_zh": "A與B認為唱得好最重要的要素各是什麼？",
+      "options_jp": [
+        "ＡもＢも、歌手のまねをするような気持ちで歌うことだと述べている。",
+        "ＡもＢも、歌の強調したいところを意識して歌うことだと述べている。",
+        "Ａは歌を正確に覚えてから歌うことだと述べ、Ｂは気持ちを伝えるように歌うことだと述べている。",
+        "Ａは自分らしく歌おうとしないことだと述べ、Ｂは自信を持って歌うことだと述べている。"
+      ],
+      "answer_index": 3,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "Ａ「歌詞と曲をしっかり覚えたら……自信を持って歌うことだ」／Ｂ「上手な歌というのは……歌う人の気持ちが伝わってくる歌」",
+      "explanation_zh": "A先重視反覆閱讀理解、準確掌握歌詞與旋律，再有自信唱；B則最重視把情感及想傳達的訊息唱出來，甚至可容忍少量音準錯誤。因此③是兩者主張的準確區分。",
+      "choices_explanation_zh": [
+        "錯：A提醒不要只依自己任意模仿的印象演唱，B也不以模仿為標準。",
+        "錯：不能把B的情感重點直接套在A身上。",
+        "正確：A著重記憶與準確，B著重感情傳達。",
+        "錯：A並未反對自信或個人風格，且B的主要論點是傳情，不只是自信。"
+      ],
+      "reading_skill": "雙文本差異：共同前提、不同核心",
+      "related_vocabulary": [
+        "正確",
+        "気持ち",
+        "伝わる"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 11,
+      "secondary_explanation_pdf_page": 32,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q071",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題13",
+      "passage_id": "P13",
+      "number": 71,
+      "question_jp": "①こういう人とはどのような人か。",
+      "question_zh": "文中的「①こういう人」指哪一種人？",
+      "options_jp": [
+        "不採用になった理由を、何度説明しても納得しない人。",
+        "不採用になった理由を、自分自身で深く考えようとしない人。",
+        "不採用になったのは、評価の仕方がよくないからだと考える人。",
+        "不採用になったのは、自分自身に悪い点があるからだと考える人。"
+      ],
+      "answer_index": 4,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "「なぜ、自分は落ちたのでしょうか」と。……「落ちたのは自分に問題があるから」と考え込んでしまうのでしょう。",
+      "explanation_zh": "「こういう人」前文指求職落選後責怪自己，認為自己有問題才不被錄取的人。作者隨後指出錄取是相對評價，並非只看個人是否優秀。④符合指代。",
+      "choices_explanation_zh": [
+        "錯：文章沒說此人不接受任何說明。",
+        "錯：這類人其實很在意原因，甚至過度自責。",
+        "錯：原文不是指責評價制度，而是怪自己。",
+        "正確：認為落選是因為自己不夠好或有缺點。"
+      ],
+      "reading_skill": "指示語題：從前一句定位指稱",
+      "related_vocabulary": [
+        "志願",
+        "採用",
+        "評価"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 12,
+      "secondary_explanation_pdf_page": 32,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q072",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題13",
+      "passage_id": "P13",
+      "number": 72,
+      "question_jp": "②この事実とあるが、どのようなことか。",
+      "question_zh": "「②この事実」指什麼情況？",
+      "options_jp": [
+        "一定以上の成果を出さなければ、会社では評価されないこと。",
+        "会社の評価は厳しいので、高い評価はめったに得られないこと。",
+        "自分より成果を出した人がいれば、自分の評価が下がること。",
+        "自分の出した成果に満足していると、すぐに他者に追い抜かれること。"
+      ],
+      "answer_index": 3,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "より大きな成果を出した人がいれば、自分の評価が相対的に下がるのは当たり前。",
+      "explanation_zh": "前文說，即使有足夠成果，只要其他人做得更出色，自己的「相對評價」就可能降低。「この事実」回指這個比較原則，③正確。",
+      "choices_explanation_zh": [
+        "錯：文章說的是相對比較，不是固定績效門檻。",
+        "錯：沒有說高評價很罕見。",
+        "正確：別人的成果更大，會使自己的相對名次／評價下降。",
+        "錯：關鍵不在有沒有自滿，而是比較結果。"
+      ],
+      "reading_skill": "前後回指：この事実指前一命題",
+      "related_vocabulary": [
+        "相対的",
+        "成果",
+        "他者"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 12,
+      "secondary_explanation_pdf_page": 32,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q073",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題13",
+      "passage_id": "P13",
+      "number": 73,
+      "question_jp": "筆者によると、会社内で高く評価されるにはどうすればいいか。",
+      "question_zh": "依作者的建議，想在公司得到較高評價應怎麼做？",
+      "options_jp": [
+        "評価の高い同僚をよく観察し、その行動をまねる。",
+        "評価の高い同僚と比べ、自分がすべきことを考える。",
+        "同僚とは比べず、自分の得意分野で高い成果を出す。",
+        "同僚と比べて自分に何が足りないのかを上司から教えてもらう。"
+      ],
+      "answer_index": 2,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "評価の高い同僚と自分を積極的に比較しましょう。そして、上司の視点で自分と比べてみる。",
+      "explanation_zh": "作者勸讀者主動比較高評價同事與自己，從主管角度看差異，思考自身不足與可改進之處。不是單純模仿，也不是請主管直接告訴答案。",
+      "choices_explanation_zh": [
+        "錯：觀察後需要分析自己該做什麼，不是機械式照做。",
+        "正確：主動比較並思考如何改善表現。",
+        "錯：作者明確鼓勵與同事相互比較。",
+        "錯：作者建議以主管視角自行比較，不是由主管直接給答案。"
+      ],
+      "reading_skill": "作者建議：命令句與具體行動",
+      "related_vocabulary": [
+        "比較",
+        "同僚",
+        "視点"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 12,
+      "secondary_explanation_pdf_page": 32,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q074",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題14",
+      "passage_id": "P14",
+      "number": 74,
+      "question_jp": "次の４人は、全員大石大学の留学生であり、文章作成サポートを受けたいと考えている。この中で、このサポートを受けられるのは誰か。",
+      "question_zh": "表中四位學生誰符合寫作支援資格且時間可配合？",
+      "options_jp": [
+        "ミウンさん",
+        "ラウラさん",
+        "ジョンさん",
+        "グエンさん"
+      ],
+      "answer_index": 3,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "対象になる文章：日本語で書かれたアカデミックな文章（例：授業の課題やレポート、卒業論文、研究計画書）／開室曜日：火・木・金／対象にならない：履歴書、外国語を翻訳した日本語文章。",
+      "explanation_zh": "ジョンさん要修改「授業の課題レポート」，屬日文學術文章，且可於週四來訪，符合開放時段。ミウン是求職履歷（排除）；ラウラ雖寫畢業論文但只有週一、週三可到中心（不開放）；グエン屬翻譯成日文的文章（排除）。因此③。",
+      "choices_explanation_zh": [
+        "錯：就職活動用履歷書不在服務範圍。",
+        "錯：畢業論文符合類型，但週一或週三中心不開放。",
+        "正確：課堂作業報告且週四可到訪。",
+        "錯：外語譯為日文的文章屬排除項目。"
+      ],
+      "reading_skill": "表格綜合：文章類型與開放日雙重條件",
+      "related_vocabulary": [
+        "対象",
+        "開室曜日",
+        "履歴書"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 12,
+      "secondary_explanation_pdf_page": 32,
+      "answer_key_pdf_page": 35
+    },
+    {
+      "id": "JLPT-N2-2018-07-READING-Q075",
+      "exam_id": "JLPT-N2-2018-07",
+      "section": "読解",
+      "test_part": "問題14",
+      "passage_id": "P14",
+      "number": 75,
+      "question_jp": "文章作成サポートを利用する際に、注意すべき点はどれか。",
+      "question_zh": "使用文章寫作支援時需要注意什麼？",
+      "options_jp": [
+        "利用したい日の２週間前までに予約しなければならない。",
+        "一度の申し込みで、数回分をまとめて予約することはできない。",
+        "予約の際、支援を受けたい文章をメールに添付して送らなければならない。",
+        "前日までに予約していなければ、空いている時間があっても利用できない。"
+      ],
+      "answer_index": 2,
+      "answer_key_source": "2018年07月.pdf 第35頁 N2 読解答え",
+      "evidence_jp": "一度にできる予約は１回分です。次回の予約ができるのは、予約した回が終了した後になります。／予約の申し込みは実施日の２週間前から前日の昼１２時まで。",
+      "explanation_zh": "規則規定一次只能預約一個時段，完成該次支援後才能預約下一次，因此②正確。其他條件：預約是「從兩週前起至前一天中午」而非「必須提前兩週」；須當日攜帶兩份列印文章而非預約時寄文；無預約時段若有空位，仍可能當天直接使用。",
+      "choices_explanation_zh": [
+        "錯：預約「從兩週前開始」，不是「最晚必須提前兩週」。",
+        "正確：一次限預約一節，無法同時預約多次。",
+        "錯：文章要當天列印兩份攜帶，預約郵件無需附檔。",
+        "錯：空檔可當天直接到現場洽詢使用。"
+      ],
+      "reading_skill": "公告限制：時間窗、一次量與例外",
+      "related_vocabulary": [
+        "申し込み",
+        "前日",
+        "添付"
+      ],
+      "editorial_status": "draft_not_teacher_reviewed",
+      "source_status": "user_upload_not_officially_verified",
+      "source_pdf_page": 13,
+      "secondary_explanation_pdf_page": 33,
+      "answer_key_pdf_page": 35
+    }
+  ],
+  "asset_path_template": "source_pages/page{pdf_page:02d}.jpg",
+  "revision_date": "2026-10-12"
+}
