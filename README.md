@@ -1,3 +1,11 @@
+# JLPT Deep Practice v0.3.7（無 API，單字匯入版）
+
+本版新增 OpenJLPT N5～N1 單字匯入、離線瀏覽與跨級去重。**交付包尚未附上所有單字原始檔，需首次在 App 匯入，或先執行 `npm run import:vocab`。** 繼續保留 v0.3.6 五級文法及本機功能。
+
+詳細操作、範圍、授權與限制參見 [VOCAB_IMPORT_GUIDE_V037.md](VOCAB_IMPORT_GUIDE_V037.md)。
+
+---
+
 # JLPT Deep Practice v0.3.6 — N5～N1 無 API 本機版
 
 新增《TRY！N5》45 主文法＋1 Plus、92 句自編例句，延續 N4～N1 505 項。共有 **551 個文法項目、1,102 組例句**。

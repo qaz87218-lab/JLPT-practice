@@ -1,0 +1,35 @@
+{
+  "source": "OpenJLPT",
+  "url": "https://github.com/evanclan/OpenJLPT",
+  "fields": [
+    "id",
+    "word",
+    "reading",
+    "romaji",
+    "meanings[]",
+    "level",
+    "pos[]",
+    "jmdict_id",
+    "other_forms[]",
+    "examples[].ja",
+    "examples[].furigana",
+    "examples[].en",
+    "examples[].tatoeba_id"
+  ],
+  "normalized_fields": [
+    "levels[]",
+    "meaningZh=null",
+    "sourceRefs[]"
+  ],
+  "dedupe_key": [
+    "word",
+    "reading",
+    "jmdict_id"
+  ],
+  "license": "CC BY-SA 4.0",
+  "not_completed": [
+    "Traditional Chinese translation",
+    "Traditional Chinese sentence translation",
+    "human language review"
+  ]
+}

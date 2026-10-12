@@ -1,0 +1,6 @@
+{
+  "installed": false,
+  "message": "OpenJLPT content not bundled. Import from UI or run npm run import:vocab",
+  "source": "https://github.com/evanclan/OpenJLPT",
+  "license": "CC BY-SA 4.0"
+}

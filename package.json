@@ -1,6 +1,6 @@
 {
   "name": "jlpt-deep-practice-app",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,7 +8,8 @@
     "start:preview": "npx serve out",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
-    "verify:data": "node scripts/verify-data.mjs"
+    "verify:data": "node scripts/verify-data.mjs",
+    "import:vocab": "node scripts/import-openjlpt.mjs"
   },
   "dependencies": {
     "next": "latest",

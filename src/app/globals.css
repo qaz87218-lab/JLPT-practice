@@ -164,3 +164,12 @@ button { color: inherit; }
 .note-editor textarea {padding:12px;border:1px solid #d9dbd6;border-radius:10px;font:inherit;width:100%;resize:vertical;}
 .saved-note {white-space:pre-wrap;background:#f7f6ee;padding:12px;border-radius:10px;}
 @media(max-width:640px){.local-tools {align-items:stretch;flex-direction:column;}.local-tools-actions button {flex:1;}}
+
+/* OpenJLPT vocabulary browser v0.3.7 */
+.vocab-import-panel{padding:20px 23px;margin:4px 0 20px;background:#fff;border:1px solid var(--line);border-radius:16px;display:grid;gap:11px}
+.vocab-import-panel h2{margin:0;font-size:19px}.vocab-import-panel p{line-height:1.7;margin:0}
+.vocab-import-panel a{color:#19689b;text-decoration:underline}
+.vocab-title{font-size:21px;font-weight:750;color:#0f2a4a}.vocab-reading-inline{font-size:15px;color:#607184;font-weight:400}
+.vocab-pagination{margin:20px auto 42px;display:flex;align-items:center;justify-content:center;gap:18px}
+.vocab-pagination button{padding:11px 18px}.vocab-pagination button:disabled{opacity:.42;cursor:not-allowed}
+ruby rt{font-size:10px;color:#737d91;font-weight:400}

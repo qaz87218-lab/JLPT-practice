@@ -1,0 +1,11 @@
+{
+  "app_version": "0.3.7",
+  "source": "OpenJLPT",
+  "full_dataset_downloaded": false,
+  "prebundled_words": 0,
+  "import_tools_ready": true,
+  "translation_zh_complete": false,
+  "network_required_for_first_import": true,
+  "database": "IndexedDB in user browser after import",
+  "note": "Source download blocked in build environment; do not claim that 7811 words are included."
+}

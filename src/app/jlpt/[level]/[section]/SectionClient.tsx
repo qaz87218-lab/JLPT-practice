@@ -5,6 +5,7 @@ import { useParams,useRouter } from 'next/navigation'
 import { JLPT_DATA,JLPT_SECTION_META,isJlptLevel,isJlptSection } from '@/data/jlpt'
 import { recordKey,setLocalNote,setLocalStatus,toggleLocalBookmark,useLocalStudy } from '@/lib/local-store'
 import type { GrammarItem,JlptLevel,JlptSection } from '@/lib/types'
+import VocabularyClient from './VocabularyClient'
 
 type FilterMode='all'|'bookmarked'|'wrong'|'mastered'
 function getItems(level:JlptLevel,section:JlptSection) {
@@ -24,7 +25,7 @@ function GrammarCard({item,level,stateStatus,isBookmarked,note,onError}:{item:Gr
    </div>
  </details></article>
 }
-export default function SectionClient() {
+function OtherSectionClient() {
  const params=useParams<{level:string;section:string}>(),router=useRouter()
  const rawLevel=(params.level??'').toUpperCase(),level=isJlptLevel(rawLevel)?rawLevel:null
  const section=isJlptSection(params.section??'')?params.section as JlptSection:null
@@ -48,4 +49,9 @@ export default function SectionClient() {
  {error&&<p className="form-message" role="alert">{error}</p>}
  {filtered.length===0?<div className="empty-module"><div className="empty-module-icon">{meta.icon}</div><h2>{items.length===0?`${level} ${meta.title}尚未建置`:query?'找不到符合的內容':filter==='wrong'?'目前沒有錯題紀錄':filter==='bookmarked'?'沒有收藏項目':filter==='mastered'?'尚無已掌握項目':'尚無內容'}</h2><p>{items.length===0?'這一模組尚未有教材；未虛構任何內容。':filter==='wrong'?'目前尚未建置自動判分題目，因此不會產生新的錯題紀錄。':'請調整篩選條件。'}</p></div>:<div className="content-list">{filtered.map(item=>section==='grammar'&&'pattern' in item?<GrammarCard key={item.id} item={item as GrammarItem} level={level} stateStatus={state.progress[recordKey(level,section,item.id)]?.status??'new'} isBookmarked={Boolean(state.bookmarks[recordKey(level,section,item.id)])} note={state.notes[recordKey(level,section,item.id)]??''} onError={setError}/>:<article className="content-card" key={item.id}><pre>{JSON.stringify(item,null,2)}</pre></article>)}</div>}
  </section></main>
+}
+
+export default function SectionClient() {
+ const params=useParams<{level:string;section:string}>()
+ return params.section==='vocabulary'?<VocabularyClient/>:<OtherSectionClient/>
 }

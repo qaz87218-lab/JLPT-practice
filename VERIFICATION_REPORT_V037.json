@@ -1,0 +1,46 @@
+{
+  "version": "v0.3.7",
+  "source_version": "v0.3.6_NO_API",
+  "grammar_unchanged": {
+    "N5": {
+      "records": 46,
+      "examples": 92,
+      "sha256": "bd1456d90adec7caaec42d8a8df01a8a6dbaf8a5f64382a978c9dc0601fec255"
+    },
+    "N4": {
+      "records": 100,
+      "examples": 200,
+      "sha256": "98fd200987ed189f571f22b75849a0cdf6a720dd72032b3e510341764efd0844"
+    },
+    "N3": {
+      "records": 127,
+      "examples": 254,
+      "sha256": "3a6d59027e8c46bcbf4db7eeba2ea5922fa283ad805b985886f27ad3663f48a2"
+    },
+    "N2": {
+      "records": 149,
+      "examples": 298,
+      "sha256": "e3d61725b718324469286cbb3134d596bb16060f7d3f59f58919ca912bd6c353"
+    },
+    "N1": {
+      "records": 129,
+      "examples": 258,
+      "sha256": "7d4d7e3f93dbf7ab1cbf85177d88a5c1146a58907fcfe3b1376cc8f9042df537"
+    }
+  },
+  "code_checks": {
+    "local_store_unchanged": true,
+    "no_supabase_dependency_in_src": true
+  },
+  "vocabulary_data_embedded": false,
+  "script_smoke_test": {
+    "raw": 10,
+    "unique": 6,
+    "merged": 4,
+    "result": "passed"
+  },
+  "typescript_syntax": "passed",
+  "supabase_reference_in_runtime": false,
+  "build_verified": false,
+  "browser_verified": false
+}
