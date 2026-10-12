@@ -1,0 +1,1704 @@
+[
+  {
+    "id": "JLPT-N5-TRY-001",
+    "pattern": "あります／ありません",
+    "meaningZh": "有、存在（無生命物）",
+    "connection": "Nがあります／Nはありません",
+    "explanation": "表示物品、設施或植物等無生命事物的存在；用「が」標示存在的對象，否定為「ありません」。",
+    "nuance": "重點在「有沒有某物」，與所有者的「持っています」不同。",
+    "usageCautions": "若要說某物在何處，通常用「Nは場所にあります」。",
+    "similarGrammar": "います：人或動物存在；あります：物品等存在。",
+    "examples": [
+      {
+        "ja": "教室に時計があります。",
+        "reading": "きょうしつにとけいがあります。",
+        "zh": "教室裡有時鐘。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "この部屋には窓がありません。",
+        "reading": "このへやにはまどがありません。",
+        "zh": "這個房間沒有窗戶。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "あります",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 2,
+    "sourceBookPage": 20,
+    "sourcePdfPage": 37,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第2章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-002",
+    "pattern": "～がありますか",
+    "meaningZh": "有～嗎？",
+    "connection": "Nがありますか",
+    "explanation": "在存在句末加「か」詢問是否有某物；肯定答「はい、あります」，否定答「いいえ、ありません」。",
+    "nuance": "可以用於詢問用品、服務或設備是否存在。",
+    "usageCautions": "指人或動物的存在時用「いますか」。",
+    "similarGrammar": "～はどこですか：詢問地點；～がありますか：詢問是否存在。",
+    "examples": [
+      {
+        "ja": "ここに銀行がありますか。",
+        "reading": "ここにぎんこうがありますか。",
+        "zh": "這裡有銀行嗎？",
+        "origin": "editorial"
+      },
+      {
+        "ja": "すみません、ペンがありますか。",
+        "reading": "すみません、ぺんがありますか。",
+        "zh": "不好意思，有筆嗎？",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "ありますか",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 2,
+    "sourceBookPage": 21,
+    "sourcePdfPage": 38,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第2章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-003",
+    "pattern": "～はどこですか",
+    "meaningZh": "～在哪裡？",
+    "connection": "Nはどこですか",
+    "explanation": "用疑問詞「どこ」詢問人、物或場所的位置。「ですか」使語氣禮貌。",
+    "nuance": "可詢問車站、商店、洗手間或遺失物的位置。",
+    "usageCautions": "尋找一個存在與否尚不確定的地方時，也可用「ありますか」。",
+    "similarGrammar": "どこにありますか：詢問具體位置；どこですか：一般詢問位置。",
+    "examples": [
+      {
+        "ja": "駅はどこですか。",
+        "reading": "えきはどこですか。",
+        "zh": "車站在哪裡？",
+        "origin": "editorial"
+      },
+      {
+        "ja": "山田さんはどこですか。",
+        "reading": "やまださんはどこですか。",
+        "zh": "山田先生在哪裡？",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "どこですか",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 2,
+    "sourceBookPage": 23,
+    "sourcePdfPage": 40,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第2章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-004",
+    "pattern": "こちら／そちら／あちら／どちら",
+    "meaningZh": "在這邊／那邊／那一邊／哪邊",
+    "connection": "こちら・そちら・あちら・どちら＋です",
+    "explanation": "以較禮貌的指示詞指出方向或位置。こちら近說話者、そちら近聽話者、あちら遠離兩者。",
+    "nuance": "比「ここ・そこ・あそこ・どこ」更禮貌，也可指人。",
+    "usageCautions": "「あちら」必須依說話者與聽話者的相對位置理解。",
+    "similarGrammar": "ここ／そこ／あそこ：一般說法；こちら／そちら／あちら：禮貌說法。",
+    "examples": [
+      {
+        "ja": "受付はこちらです。",
+        "reading": "うけつけはこちらです。",
+        "zh": "服務櫃台在這邊。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "トイレはあちらです。",
+        "reading": "といれはあちらです。",
+        "zh": "洗手間在那邊。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "あちらです",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 2,
+    "sourceBookPage": 26,
+    "sourcePdfPage": 43,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第2章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-005",
+    "pattern": "い形容詞＋名詞",
+    "meaningZh": "新的～／用形容詞修飾名詞",
+    "connection": "い形容詞（基本形）＋N",
+    "explanation": "い形容詞放在名詞前面直接修飾名詞，例如「新しい本」「高い山」。",
+    "nuance": "用來描述人或事物的性質。",
+    "usageCautions": "い形容詞接名詞時不用加「な」；「きれい」是な形容詞。",
+    "similarGrammar": "な形容詞＋な＋N：静かな町。",
+    "examples": [
+      {
+        "ja": "新しいかばんを買いました。",
+        "reading": "あたらしいかばんをかいました。",
+        "zh": "買了新包包。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "今日は寒い日です。",
+        "reading": "きょうはさむいひです。",
+        "zh": "今天是寒冷的一天。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "新しい電子辞書",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 2,
+    "sourceBookPage": 29,
+    "sourcePdfPage": 46,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第2章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-006",
+    "pattern": "Nのです（所屬・代替）",
+    "meaningZh": "是～的（東西）",
+    "connection": "N＋の＋です",
+    "explanation": "「の」可表示所屬關係；當後面的名詞已經由語境明確指出時，可用「の」代替該名詞。",
+    "nuance": "讓回答簡短，避免反覆說同一名詞。",
+    "usageCautions": "單獨的「Nのです」需有語境才能判斷代替的是哪一個東西。",
+    "similarGrammar": "NのN：完整名詞短語；Nのです：省略已知的名詞。",
+    "examples": [
+      {
+        "ja": "この傘は私のです。",
+        "reading": "このかさはわたしのです。",
+        "zh": "這把傘是我的。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "その本は先生のです。",
+        "reading": "そのほんはせんせいのです。",
+        "zh": "那本書是老師的。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "日本のです",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 2,
+    "sourceBookPage": 31,
+    "sourcePdfPage": 48,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第2章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-007",
+    "pattern": "數字＋助數詞／金額＋です",
+    "meaningZh": "數量或價錢是～",
+    "connection": "數字＋円／個／人等＋です",
+    "explanation": "用數字和合適的單位表示價錢、數量或人數；不同助數詞可能有特殊讀音。",
+    "nuance": "購物與詢問價格時很常用。",
+    "usageCautions": "金額用「円」，日期和人數等不能一律使用同一助數詞。",
+    "similarGrammar": "いくらですか：多少錢；何個ありますか：有幾個。",
+    "examples": [
+      {
+        "ja": "この時計は三千円です。",
+        "reading": "このとけいはさんぜんえんです。",
+        "zh": "這只手錶是三千日圓。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "チケットは二枚です。",
+        "reading": "ちけっとはにまいです。",
+        "zh": "票有兩張。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "23,800円です",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 2,
+    "sourceBookPage": 33,
+    "sourcePdfPage": 50,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第2章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-008",
+    "pattern": "～ですね",
+    "meaningZh": "～呢／對吧（確認或共感）",
+    "connection": "普通形／N・な形容詞＋です＋ね",
+    "explanation": "句末助詞「ね」用來尋求對方認同、確認共識，也可表達共感。",
+    "nuance": "語氣比直接斷定更柔和。",
+    "usageCautions": "不可把「ね」與主要用於提供新資訊的「よ」完全混同。",
+    "similarGrammar": "～よ：告知；～ね：確認、共感。",
+    "examples": [
+      {
+        "ja": "今日は暑いですね。",
+        "reading": "きょうはあついですね。",
+        "zh": "今天很熱呢。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "きれいな花ですね。",
+        "reading": "きれいなはなですね。",
+        "zh": "真漂亮的花呢。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "電子辞書ですね",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 3,
+    "sourceBookPage": 37,
+    "sourcePdfPage": 54,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第3章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-009",
+    "pattern": "Vました／Vませんでした",
+    "meaningZh": "做了～／沒有做～（過去）",
+    "connection": "Vます形→Vました／Vませんでした",
+    "explanation": "「ます」的禮貌過去肯定形是「ました」，過去否定形是「ませんでした」。",
+    "nuance": "用於敘述已經發生或未發生的動作。",
+    "usageCautions": "形容詞和名詞過去式的變化方式不同，不可套用「ました」。",
+    "similarGrammar": "Vます：現在或未來；Vました：過去。",
+    "examples": [
+      {
+        "ja": "きのう映画を見ました。",
+        "reading": "きのうえいがをみました。",
+        "zh": "昨天看了電影。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "先週は学校へ行きませんでした。",
+        "reading": "せんしゅうはがっこうへいきませんでした。",
+        "zh": "上週沒有去學校。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "きのう買いました",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 3,
+    "sourceBookPage": 39,
+    "sourcePdfPage": 56,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第3章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-010",
+    "pattern": "Nがほしいです",
+    "meaningZh": "想要～",
+    "connection": "N＋が＋ほしいです",
+    "explanation": "表示說話者想獲得某樣東西。「ほしい」是い形容詞，修飾對象常用「が」。",
+    "nuance": "側重想要的物品，不是想做的動作。",
+    "usageCautions": "直接斷定第三人的內心欲望須注意語境；欲做某事用「～たい」。",
+    "similarGrammar": "Vたいです：想做動作；Nがほしいです：想要東西。",
+    "examples": [
+      {
+        "ja": "新しい靴がほしいです。",
+        "reading": "あたらしいくつがほしいです。",
+        "zh": "我想要新鞋子。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "今は時間がほしいです。",
+        "reading": "いまはじかんがほしいです。",
+        "zh": "現在我想要一些時間。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "ほしいです",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 3,
+    "sourceBookPage": 40,
+    "sourcePdfPage": 57,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第3章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-011",
+    "pattern": "Vて、V",
+    "meaningZh": "做完～後接著做～",
+    "connection": "Vて形＋（後續句）",
+    "explanation": "用動詞て形連接先後發生的動作，常按時間順序描述移動或日常行為。",
+    "nuance": "以簡潔方式描述一連串動作。",
+    "usageCautions": "て形只表示連接，不一定明確標示動作間隔；順序需靠上下文判斷。",
+    "similarGrammar": "Vてから：明確強調完成前項再做後項。",
+    "examples": [
+      {
+        "ja": "朝起きて、顔を洗います。",
+        "reading": "あさおきて、かおをあらいます。",
+        "zh": "早上起床後洗臉。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "駅に行って、電車に乗りました。",
+        "reading": "えきにいって、でんしゃにのりました。",
+        "zh": "到車站後搭了電車。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "駅まで行って、…",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 3,
+    "sourceBookPage": 44,
+    "sourcePdfPage": 61,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第3章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-012",
+    "pattern": "交通工具＋で",
+    "meaningZh": "搭乘～（交通工具）",
+    "connection": "N（交通工具）＋で＋移動動詞",
+    "explanation": "助詞「で」標示交通工具或手段，例如バスで行く、電車で来る。",
+    "nuance": "回答「どうやって行きますか」時常用。",
+    "usageCautions": "步行慣用「歩いて」；「で」也有動作地點用法，需區分。",
+    "similarGrammar": "場所でV：動作場所；交通工具でV：移動方式。",
+    "examples": [
+      {
+        "ja": "バスで会社へ行きます。",
+        "reading": "ばすでかいしゃへいきます。",
+        "zh": "搭公車去公司。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "電車で京都へ行きました。",
+        "reading": "でんしゃできょうとへいきました。",
+        "zh": "搭電車去了京都。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "バスで行きました",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 3,
+    "sourceBookPage": 45,
+    "sourcePdfPage": 62,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第3章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-013",
+    "pattern": "疑問詞＋か",
+    "meaningZh": "某個～／某處",
+    "connection": "どこ／だれ／なに／いつ＋か",
+    "explanation": "疑問詞後接「か」形成不特定指稱，表示某處、某人、某物或某個時候。",
+    "nuance": "說話者不指定具體對象。",
+    "usageCautions": "「どこか」不是問句的「どこ＋か」，前者可出現在陳述句。",
+    "similarGrammar": "疑問詞＋も（否定）：どこにも行かない。",
+    "examples": [
+      {
+        "ja": "休みにどこかへ行きますか。",
+        "reading": "やすみにどこかへいきますか。",
+        "zh": "放假要去哪裡走走嗎？",
+        "origin": "editorial"
+      },
+      {
+        "ja": "だれかが来ました。",
+        "reading": "だれかがきました。",
+        "zh": "有某個人來了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "どこか行きましたか",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 3,
+    "sourceBookPage": 46,
+    "sourcePdfPage": 63,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第3章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-014",
+    "pattern": "疑問詞＋も＋否定",
+    "meaningZh": "哪裡都不～",
+    "connection": "どこ／だれ／なに＋も＋否定形",
+    "explanation": "疑問詞後加「も」與否定呼應，表示完全否定，例如「どこにも行きません」。",
+    "nuance": "表達一個也沒有、任何地方都不去。",
+    "usageCautions": "「どこも」和「どこにも」的助詞選擇依動詞而定。",
+    "similarGrammar": "どこか：某個地方；どこにも～ない：哪裡都不。",
+    "examples": [
+      {
+        "ja": "日曜日はどこにも行きません。",
+        "reading": "にちようびはどこにもいきません。",
+        "zh": "星期日哪裡都不去。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "今日は何も食べませんでした。",
+        "reading": "きょうはなにもたべませんでした。",
+        "zh": "今天什麼都沒吃。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "どこへも行きません",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 3,
+    "sourceBookPage": 48,
+    "sourcePdfPage": 65,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第3章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-015",
+    "pattern": "Vませんか",
+    "meaningZh": "要不要一起～？",
+    "connection": "Vます形去ます＋ませんか",
+    "explanation": "使用禮貌否定問句邀請或提議一起做某事，形式雖然是否定，語意卻是邀請。",
+    "nuance": "比直接要求對方做事更有禮貌。",
+    "usageCautions": "「ませんか」也可能是真正詢問不做某事，需依語境判斷。",
+    "similarGrammar": "Vましょう：一起做吧；Vませんか：要不要一起做？",
+    "examples": [
+      {
+        "ja": "一緒に映画を見ませんか。",
+        "reading": "いっしょにえいがをみませんか。",
+        "zh": "要不要一起看電影？",
+        "origin": "editorial"
+      },
+      {
+        "ja": "明日図書館へ行きませんか。",
+        "reading": "あしたとしょかんへいきませんか。",
+        "zh": "明天要不要去圖書館？",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "行きませんか",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 4,
+    "sourceBookPage": 51,
+    "sourcePdfPage": 68,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第4章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-016",
+    "pattern": "～ですよ",
+    "meaningZh": "～喔（告知）",
+    "connection": "普通形／丁寧形＋よ",
+    "explanation": "句末助詞「よ」用於告知對方尚不知道的資訊，或加強說話者的判斷。",
+    "nuance": "較「ね」偏向主動告知。",
+    "usageCautions": "在正式或敏感場合應注意「よ」連用可能給人強勢印象。",
+    "similarGrammar": "～ね：求共鳴；～よ：提醒或告知。",
+    "examples": [
+      {
+        "ja": "この店は安いですよ。",
+        "reading": "このみせはやすいですよ。",
+        "zh": "這間店很便宜喔。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "あの公園は静かですよ。",
+        "reading": "あのこうえんはしずかですよ。",
+        "zh": "那座公園很安靜喔。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "おもしろいところですよ",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 4,
+    "sourceBookPage": 52,
+    "sourcePdfPage": 69,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第4章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-017",
+    "pattern": "Nの位置名詞",
+    "meaningZh": "～的前面／旁邊等",
+    "connection": "N＋の＋前／後ろ／隣／中／上／下",
+    "explanation": "以「名詞＋の＋方位名詞」表示兩物件的空間關係。",
+    "nuance": "位置須以參照物為基準。",
+    "usageCautions": "「前」「後ろ」等不能直接當助詞使用，通常需搭配「の」與所在句型。",
+    "similarGrammar": "場所にあります：描述物件位置；Nの前：位置名詞片語。",
+    "examples": [
+      {
+        "ja": "駅の前に本屋があります。",
+        "reading": "えきのまえにほんやがあります。",
+        "zh": "車站前面有書店。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "机の下にかばんがあります。",
+        "reading": "つくえのしたにかばんがあります。",
+        "zh": "桌子下面有包包。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "駅の前",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 4,
+    "sourceBookPage": 53,
+    "sourcePdfPage": 70,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第4章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-018",
+    "pattern": "場所にNがあります／います",
+    "meaningZh": "某處有～",
+    "connection": "場所＋に＋N＋が＋あります／います",
+    "explanation": "助詞「に」表示存在的位置，「が」標示存在的事物。人或動物一般使用「います」。",
+    "nuance": "由地點引出那裡存在的事物。",
+    "usageCautions": "說「教室に学生がいます」時不可用「あります」指學生。",
+    "similarGrammar": "Nは場所にあります：以已知物品為主題；場所にNがあります：介紹該處有什麼。",
+    "examples": [
+      {
+        "ja": "近くに公園があります。",
+        "reading": "ちかくにこうえんがあります。",
+        "zh": "附近有公園。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "庭に猫がいます。",
+        "reading": "にわにねこがいます。",
+        "zh": "庭院裡有貓。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "公園があります",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 4,
+    "sourceBookPage": 56,
+    "sourcePdfPage": 73,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第4章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-019",
+    "pattern": "Vましょう",
+    "meaningZh": "一起～吧",
+    "connection": "Vます形去ます＋ましょう",
+    "explanation": "動詞「ます」變為「ましょう」，表達提議、邀請、共同意志。",
+    "nuance": "較「ませんか」更積極地推動行動。",
+    "usageCautions": "若未獲對方同意，不宜把對方一定會參加視為前提。",
+    "similarGrammar": "Vませんか：徵求意願；Vましょう：提出共同行動。",
+    "examples": [
+      {
+        "ja": "そろそろ帰りましょう。",
+        "reading": "そろそろかえりましょう。",
+        "zh": "差不多回去吧。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "一緒に日本語を勉強しましょう。",
+        "reading": "いっしょににほんごをべんきょうしましょう。",
+        "zh": "一起學日文吧。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "行きましょう",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 4,
+    "sourceBookPage": 58,
+    "sourcePdfPage": 75,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第4章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-020",
+    "pattern": "NというN",
+    "meaningZh": "叫做～的～",
+    "connection": "名稱／句子＋という＋名詞",
+    "explanation": "用「という」引入名稱、稱呼或概念的內容；初級常見於「～という町」「～という人」。",
+    "nuance": "把聽話者可能不知道的名稱接到一般名詞上。",
+    "usageCautions": "「という」在更高級文法另有引述、評價等用法；此處以命名為主。",
+    "similarGrammar": "NのN：所屬等關係；NというN：名稱或稱呼。",
+    "examples": [
+      {
+        "ja": "「さくら」という店を知っていますか。",
+        "reading": "「さくら」というみせをしっていますか。",
+        "zh": "你知道一間叫「櫻花」的店嗎？",
+        "origin": "editorial"
+      },
+      {
+        "ja": "田中という人から電話がありました。",
+        "reading": "たなかというひとからでんわがありました。",
+        "zh": "有一位叫田中的人打電話來。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "「アメ横」というところ",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 4,
+    "sourceBookPage": 60,
+    "sourcePdfPage": 77,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第4章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-021",
+    "pattern": "い形容詞＋Nが多い",
+    "meaningZh": "～的～很多",
+    "connection": "い形容詞＋N＋が＋多いです",
+    "explanation": "將い形容詞放在名詞前方，並用「Nが多い」表示某類人事物數量很多。",
+    "nuance": "描述場所特色或某種類型事物的數量。",
+    "usageCautions": "「多い」本身通常不直接用於「多い人」來表達很多人；常說「人が多い」。",
+    "similarGrammar": "い形容詞＋N：高い店；Nが多い：店が多い。",
+    "examples": [
+      {
+        "ja": "この町は古い家が多いです。",
+        "reading": "このまちはふるいいえがおおいです。",
+        "zh": "這個城鎮有很多老房子。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "ここは安い店が多いです。",
+        "reading": "ここはやすいみせがおおいです。",
+        "zh": "這裡便宜的店很多。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "「アメ横」は安い店が多いです",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 4,
+    "sourceBookPage": 61,
+    "sourcePdfPage": 78,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第4章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-022",
+    "pattern": "い形容詞くて／な形容詞で",
+    "meaningZh": "既～又～",
+    "connection": "い形容詞去い＋くて／な形容詞＋で",
+    "explanation": "將兩個形容詞並列描述同一主題；同類性質通常用「くて／で」連接。",
+    "nuance": "用於列舉兩種相容的性質。",
+    "usageCautions": "若前後形容詞帶有明確轉折關係，可改用「が」「けど」。",
+    "similarGrammar": "安くておいしい：並列；安いけどおいしい：轉折。",
+    "examples": [
+      {
+        "ja": "この部屋は広くて明るいです。",
+        "reading": "このへやはひろくてあかるいです。",
+        "zh": "這房間又寬敞又明亮。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "この町は静かで便利です。",
+        "reading": "このまちはしずかでべんりです。",
+        "zh": "這個城鎮安靜又方便。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "安くておいしいです",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 4,
+    "sourceBookPage": 62,
+    "sourcePdfPage": 79,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第4章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-023",
+    "pattern": "な形容詞＋になります",
+    "meaningZh": "變得～",
+    "connection": "な形容詞去な＋に＋なります／名詞＋になります",
+    "explanation": "「なる」表示狀態改變；な形容詞後用「に」，名詞可直接用「に」。",
+    "nuance": "描述能力提升或身份、狀態的自然變化。",
+    "usageCautions": "い形容詞要變成「～くなる」，不要說「高いになります」。",
+    "similarGrammar": "N／な形容詞＋になる；い形容詞＋くなる。",
+    "examples": [
+      {
+        "ja": "日本語が上手になりました。",
+        "reading": "にほんごがじょうずになりました。",
+        "zh": "日文變得進步了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "弟は来年大学生になります。",
+        "reading": "おとうとはらいねんだいがくせいになります。",
+        "zh": "弟弟明年會成為大學生。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "上手になりました",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 5,
+    "sourceBookPage": 67,
+    "sourcePdfPage": 84,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第5章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-024",
+    "pattern": "Vたいです",
+    "meaningZh": "想做～",
+    "connection": "Vます形去ます＋たいです",
+    "explanation": "將動詞ます形去掉「ます」後加「たい」，表示說話者希望進行某個動作。",
+    "nuance": "表達個人願望，比「ほしい」更著重動作。",
+    "usageCautions": "「たい」按い形容詞活用；與第三人稱欲望表現應加以區分。",
+    "similarGrammar": "Nがほしい：想要物品；Vたい：想做動作。",
+    "examples": [
+      {
+        "ja": "週末はゆっくり休みたいです。",
+        "reading": "しゅうまつはゆっくりやすみたいです。",
+        "zh": "週末想好好休息。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "この本を読みたいです。",
+        "reading": "このほんをよみたいです。",
+        "zh": "我想讀這本書。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "読みたいです",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 5,
+    "sourceBookPage": 68,
+    "sourcePdfPage": 85,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第5章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-025",
+    "pattern": "～から（理由）",
+    "meaningZh": "因為～所以～",
+    "connection": "普通形／丁寧形＋から、結果或請求",
+    "explanation": "「から」接在原因、理由後面，後項說明結果、希望或請求。",
+    "nuance": "口語常用，帶有明確提出理由的感覺。",
+    "usageCautions": "理由後不能機械地套接任何命令；需考慮表達禮貌。",
+    "similarGrammar": "～ので：較柔和的理由；～から：較直接。",
+    "examples": [
+      {
+        "ja": "雨が降っていますから、傘を持っていきます。",
+        "reading": "あめがふっていますから、かさをもっていきます。",
+        "zh": "因為正在下雨，所以帶傘出門。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "今日は忙しいですから、早く帰れません。",
+        "reading": "きょうはいそがしいですから、はやくかえれません。",
+        "zh": "因為今天忙，所以不能早點回家。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "読みたいですから、…",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 5,
+    "sourceBookPage": 70,
+    "sourcePdfPage": 87,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第5章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-026",
+    "pattern": "Nが好きです",
+    "meaningZh": "喜歡～",
+    "connection": "N＋が＋好きです／嫌いです",
+    "explanation": "「好き」是な形容詞，在表達喜好時常與「が」搭配。",
+    "nuance": "直接回答喜歡的人事物。",
+    "usageCautions": "不要因中文「喜歡某物」就一律使用「を好きです」。",
+    "similarGrammar": "得意／上手：擅長；好き：喜歡，兩者不同。",
+    "examples": [
+      {
+        "ja": "私は犬が好きです。",
+        "reading": "わたしはいぬがすきです。",
+        "zh": "我喜歡狗。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "父は音楽が好きです。",
+        "reading": "ちちはおんがくがすきです。",
+        "zh": "爸爸喜歡音樂。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "まんがが好きです",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 5,
+    "sourceBookPage": 70,
+    "sourcePdfPage": 87,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第5章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-027",
+    "pattern": "Vます形＋に行く／来る",
+    "meaningZh": "去／來做～",
+    "connection": "Vます形去ます＋に＋行く／来る",
+    "explanation": "以動詞ます形去ます後加「に」表示移動目的，例如「映画を見に行く」。",
+    "nuance": "表示前往某處完成某項活動。",
+    "usageCautions": "目的表現須搭配移動動詞；不是所有動詞後都能直接加「に」。",
+    "similarGrammar": "Vて行く：動作連接、移動；Vに行く：移動目的。",
+    "examples": [
+      {
+        "ja": "友達と映画を見に行きます。",
+        "reading": "ともだちとえいがをみにいきます。",
+        "zh": "和朋友去看電影。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "昼ご飯を食べに来ました。",
+        "reading": "ひるごはんをたべにきました。",
+        "zh": "我是來吃午餐的。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "見に行きませんか",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 5,
+    "sourceBookPage": 71,
+    "sourcePdfPage": 88,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第5章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-028",
+    "pattern": "V辞書形＋ことです",
+    "meaningZh": "是做～這件事",
+    "connection": "V辞書形＋こと＋です",
+    "explanation": "「こと」把動詞表達的動作名詞化，常用於說明興趣、目標或工作內容。",
+    "nuance": "可用於回答「趣味は何ですか」。",
+    "usageCautions": "名詞化也可以用「の」，但正式程度和可用句型有差異。",
+    "similarGrammar": "Vること：動作名詞化；N：原本就是名詞。",
+    "examples": [
+      {
+        "ja": "私の趣味は絵を描くことです。",
+        "reading": "わたしのしゅみはえをかくことです。",
+        "zh": "我的興趣是畫畫。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "夢は日本で働くことです。",
+        "reading": "ゆめはにほんではたらくことです。",
+        "zh": "我的夢想是在日本工作。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "まんがをかくことです",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 5,
+    "sourceBookPage": 74,
+    "sourcePdfPage": 91,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第5章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-029",
+    "pattern": "Vています",
+    "meaningZh": "正在～／處於某狀態",
+    "connection": "Vて形＋います",
+    "explanation": "初級用「～ています」描述進行中的動作；某些動詞也可描述動作後留下的狀態。",
+    "nuance": "「今、～ています」典型地表示動作正在進行。",
+    "usageCautions": "例如「結婚しています」多表示狀態而非正在舉行婚禮，需依動詞性質判斷。",
+    "similarGrammar": "Vます：習慣或未來；Vています：進行或持續狀態。",
+    "examples": [
+      {
+        "ja": "今、宿題をしています。",
+        "reading": "いま、しゅくだいをしています。",
+        "zh": "現在正在寫作業。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "母は台所で料理をしています。",
+        "reading": "はははだいどころでりょうりをしています。",
+        "zh": "媽媽正在廚房做菜。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "買い物をしています",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 6,
+    "sourceBookPage": 78,
+    "sourcePdfPage": 95,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第6章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-030",
+    "pattern": "Vてください",
+    "meaningZh": "請～",
+    "connection": "Vて形＋ください",
+    "explanation": "用於禮貌要求對方做某事，初級常見於服務、上課與日常指示。",
+    "nuance": "比命令形柔和，但仍是提出要求。",
+    "usageCautions": "對上司、客人等可能需要使用更委婉的敬語請求。",
+    "similarGrammar": "Vないでください：請不要～；Vてください：請～。",
+    "examples": [
+      {
+        "ja": "ここに名前を書いてください。",
+        "reading": "ここになまえをかいてください。",
+        "zh": "請在這裡寫名字。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "少し待ってください。",
+        "reading": "すこしまってください。",
+        "zh": "請稍等一下。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "待ってください",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 6,
+    "sourceBookPage": 80,
+    "sourcePdfPage": 97,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第6章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-031",
+    "pattern": "Vてから",
+    "meaningZh": "做～之後再～",
+    "connection": "Vて形＋から",
+    "explanation": "前項動作完成後，才進行後項動作；比一般「Vて、V」更清楚地強調先後順序。",
+    "nuance": "可用於步驟說明、規定或計畫。",
+    "usageCautions": "時間起點的「Nから」與動作順序的「Vてから」須分開理解。",
+    "similarGrammar": "Vて、V：連續敘述；Vてから：先做完再做。",
+    "examples": [
+      {
+        "ja": "手を洗ってから、ご飯を食べます。",
+        "reading": "てをあらってから、ごはんをたべます。",
+        "zh": "洗完手之後吃飯。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "仕事が終わってから、買い物に行きます。",
+        "reading": "しごとがおわってから、かいものにいきます。",
+        "zh": "工作結束後去買東西。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "チェックインしてから、…",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 6,
+    "sourceBookPage": 81,
+    "sourcePdfPage": 98,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第6章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-032",
+    "pattern": "Vないでください",
+    "meaningZh": "請不要～",
+    "connection": "Vない形＋で＋ください",
+    "explanation": "請求對方不要做某事，常見於注意事項、禁止提醒等情境。",
+    "nuance": "比單獨否定更直接表達避免行為的要求。",
+    "usageCautions": "「Vなくてください」不是此句型的正確說法。",
+    "similarGrammar": "Vてください：請做；Vないでください：請勿做。",
+    "examples": [
+      {
+        "ja": "ここで写真を撮らないでください。",
+        "reading": "ここでしゃしんをとらないでください。",
+        "zh": "請不要在這裡拍照。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "このドアを開けないでください。",
+        "reading": "このどあをあけないでください。",
+        "zh": "請不要打開這扇門。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "入れないでください",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 6,
+    "sourceBookPage": 84,
+    "sourcePdfPage": 101,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第6章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-033",
+    "pattern": "い形容詞～く（副詞化）",
+    "meaningZh": "～地做某事",
+    "connection": "い形容詞去い＋く＋動詞",
+    "explanation": "い形容詞變成「く」形修飾動詞，例如「早く歩く」「安く買う」。",
+    "nuance": "描述動作的方式、程度或速度。",
+    "usageCautions": "「いい」的副詞形式是「よく」，屬不規則變化。",
+    "similarGrammar": "静かに歩く：な形容詞＋に；早く歩く：い形容詞＋く。",
+    "examples": [
+      {
+        "ja": "もっとゆっくり話してください。",
+        "reading": "もっとゆっくりはなしてください。",
+        "zh": "請再說慢一點。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "毎朝早く起きます。",
+        "reading": "まいあさはやくおきます。",
+        "zh": "每天早起。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "早く行きましょう",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 6,
+    "sourceBookPage": 85,
+    "sourcePdfPage": 102,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第6章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-034",
+    "pattern": "Vたり、Vたりする",
+    "meaningZh": "做做～、做做～",
+    "connection": "Vた形＋り、Vた形＋り＋します",
+    "explanation": "從多個動作中舉例，而非完整列舉；句末的「する」決定時態。",
+    "nuance": "表示活動的例示，通常不強調嚴格順序。",
+    "usageCautions": "「Vたり」要接動詞た形；句末應配合「する」等成句。",
+    "similarGrammar": "Vて、V：連續動作；Vたり、Vたりする：例舉行為。",
+    "examples": [
+      {
+        "ja": "休日は本を読んだり、散歩したりします。",
+        "reading": "きゅうじつはほんをよんだり、さんぽしたりします。",
+        "zh": "假日會看看書、散散步。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "旅行で写真を撮ったり、お土産を買ったりしました。",
+        "reading": "りょこうでしゃしんをとったり、おみやげをかったりしました。",
+        "zh": "旅行時拍拍照、買買伴手禮。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "スキーをしたり、おんせんに入ったりしました",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 7,
+    "sourceBookPage": 89,
+    "sourcePdfPage": 106,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第7章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-035",
+    "pattern": "い形容詞過去形＋が",
+    "meaningZh": "雖然～但是～",
+    "connection": "い形容詞去い＋かった＋です／が",
+    "explanation": "い形容詞過去肯定形為「～かった」，搭配「が」可連接兩個有轉折關係的敘述。",
+    "nuance": "禮貌敘述過去感想時常用。",
+    "usageCautions": "「いい」過去形為「よかった」；不要說「いいかった」。",
+    "similarGrammar": "安かったです：過去；安いですが：現在轉折。",
+    "examples": [
+      {
+        "ja": "旅行は楽しかったですが、少し疲れました。",
+        "reading": "りょこうはたのしかったですが、すこしつかれました。",
+        "zh": "旅行很開心，但有點累。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "昨日は寒かったですが、今日は暖かいです。",
+        "reading": "きのうはさむかったですが、きょうはあたたかいです。",
+        "zh": "昨天很冷，但今天很暖和。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "楽しかったですが、…",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 7,
+    "sourceBookPage": 91,
+    "sourcePdfPage": 108,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第7章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-036",
+    "pattern": "Vたあとで",
+    "meaningZh": "做完～之後",
+    "connection": "Vた形＋あとで／Nのあとで",
+    "explanation": "表示先完成某動作，之後再進行另一動作；重點在先後。",
+    "nuance": "可用於敘述行程安排或規則。",
+    "usageCautions": "「あとで」不代表一定馬上做後項。",
+    "similarGrammar": "Vてから：強調完成前項；Vたあとで：表示先後關係。",
+    "examples": [
+      {
+        "ja": "宿題をしたあとで、テレビを見ます。",
+        "reading": "しゅくだいをしたあとで、てれびをみます。",
+        "zh": "做完作業後看電視。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "食事のあとで、散歩しました。",
+        "reading": "しょくじのあとで、さんぽしました。",
+        "zh": "飯後去散步了。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "スキーをしたあとで、…",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 7,
+    "sourceBookPage": 92,
+    "sourcePdfPage": 109,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第7章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-037",
+    "pattern": "Vるまえに",
+    "meaningZh": "做～之前",
+    "connection": "V辞書形＋まえに／Nのまえに",
+    "explanation": "表示某動作尚未開始之前，先進行另一個動作；前接動詞辭書形。",
+    "nuance": "典型用法是日常流程或準備事項。",
+    "usageCautions": "動詞在「まえに」前通常使用辭書形，而不是た形。",
+    "similarGrammar": "Vたあとで：做完後；Vるまえに：做之前。",
+    "examples": [
+      {
+        "ja": "寝るまえに歯を磨きます。",
+        "reading": "ねるまえにはをみがきます。",
+        "zh": "睡覺前刷牙。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "学校に行くまえに朝ご飯を食べます。",
+        "reading": "がっこうにいくまえにあさごはんをたべます。",
+        "zh": "上學前吃早餐。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "朝ご飯を食べるまえに、…",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 7,
+    "sourceBookPage": 93,
+    "sourcePdfPage": 110,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第7章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-038",
+    "pattern": "Vながら",
+    "meaningZh": "一邊～一邊～",
+    "connection": "Vます形去ます＋ながら＋主要動作",
+    "explanation": "同一主語同時進行兩項動作，通常後項是主要活動。",
+    "nuance": "描述一邊進行某事、一邊做另一件事。",
+    "usageCautions": "若兩動作主語不同，通常不宜使用這個初級同時進行句型。",
+    "similarGrammar": "Vて、V：先後或並列；Vながら：同時。",
+    "examples": [
+      {
+        "ja": "音楽を聞きながら勉強します。",
+        "reading": "おんがくをききながらべんきょうします。",
+        "zh": "一邊聽音樂一邊讀書。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "歩きながら電話しないでください。",
+        "reading": "あるきながらでんわしないでください。",
+        "zh": "請不要邊走邊講電話。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "雪を見ながら、…",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 7,
+    "sourceBookPage": 94,
+    "sourcePdfPage": 111,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第7章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-039",
+    "pattern": "Nでした／な形容詞でした",
+    "meaningZh": "是～（過去）",
+    "connection": "N／な形容詞＋でした／ではありませんでした",
+    "explanation": "名詞與な形容詞的禮貌過去肯定形可用「でした」；過去否定通常用「ではありませんでした」。",
+    "nuance": "用於回顧事情、經驗或過去狀態。",
+    "usageCautions": "「楽しい」是い形容詞，要用「楽しかったです」；「楽しい旅行でした」中的「でした」接在名詞「旅行」後。",
+    "similarGrammar": "Nでした：過去名詞斷定；い形容詞かったです：過去形容詞。",
+    "examples": [
+      {
+        "ja": "昨日は休みでした。",
+        "reading": "きのうはやすみでした。",
+        "zh": "昨天是休假日。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "あの店は静かでした。",
+        "reading": "あのみせはしずかでした。",
+        "zh": "那間店以前很安靜。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "楽しい旅行でした",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 7,
+    "sourceBookPage": 96,
+    "sourcePdfPage": 113,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第7章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-040",
+    "pattern": "普通形（簡體）",
+    "meaningZh": "～嗎？（熟人間的普通形）",
+    "connection": "動詞普通形／い形容詞基本形／N・な形容詞＋だ（依句型）",
+    "explanation": "親友或家人之間常用普通形，而非全句都用「です・ます」；疑問句也常靠語調形成。",
+    "nuance": "拉近距離，帶自然口語感。",
+    "usageCautions": "在正式場合或對陌生人未必適合使用普通形。",
+    "similarGrammar": "丁寧形：忙しいですか；普通形：忙しい？",
+    "examples": [
+      {
+        "ja": "明日、時間ある？",
+        "reading": "あした、じかんある？",
+        "zh": "明天有空嗎？",
+        "origin": "editorial"
+      },
+      {
+        "ja": "この本、面白い？",
+        "reading": "このほん、おもしろい？",
+        "zh": "這本書有趣嗎？",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "午後、いそがしい？",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 8,
+    "sourceBookPage": 99,
+    "sourcePdfPage": 116,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第8章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-041",
+    "pattern": "助詞の省略（口語）",
+    "meaningZh": "省略助詞的口語表現",
+    "connection": "語境明確時可省略某些「は・が・を・へ」",
+    "explanation": "熟人間口語對話常省略部分助詞，但需能由語境確認名詞與動詞的關係。",
+    "nuance": "自然口語較精簡。",
+    "usageCautions": "「に」「で」等助詞不應隨意省略；正式寫作應保留必要助詞。",
+    "similarGrammar": "完整：ケーキを食べた；口語：ケーキ食べた。",
+    "examples": [
+      {
+        "ja": "もう昼ご飯食べた？",
+        "reading": "もうひるごはんたべた？",
+        "zh": "已經吃午餐了嗎？",
+        "origin": "editorial"
+      },
+      {
+        "ja": "明日、学校行く？",
+        "reading": "あした、がっこういく？",
+        "zh": "明天要去學校嗎？",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "鈴木くん、午後、いそがしい？",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 8,
+    "sourceBookPage": 104,
+    "sourcePdfPage": 121,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第8章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-042",
+    "pattern": "～けど",
+    "meaningZh": "雖然～可是～／不過～",
+    "connection": "普通形＋けど／N・な形容詞＋だけど",
+    "explanation": "口語轉折連接詞「けど」用來補充相反資訊，也可柔和提出話題。",
+    "nuance": "比「が」更口語，有時會將後項留白表示委婉。",
+    "usageCautions": "前接名詞或な形容詞時一般用「だけど」，不是一律直接加「けど」。",
+    "similarGrammar": "～が：較中性或禮貌；～けど：較口語。",
+    "examples": [
+      {
+        "ja": "今日は休みだけど、仕事があります。",
+        "reading": "きょうはやすみだけど、しごとがあります。",
+        "zh": "今天雖然休假，但有工作。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "行きたいけど、時間がない。",
+        "reading": "いきたいけど、じかんがない。",
+        "zh": "想去，可是沒時間。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "授業はないけど、…",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 8,
+    "sourceBookPage": 105,
+    "sourcePdfPage": 122,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第8章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-043",
+    "pattern": "もう＋Vた",
+    "meaningZh": "已經～了",
+    "connection": "もう＋Vた形／Vました",
+    "explanation": "「もう」與過去動詞搭配表示預期的動作已經完成，也可用於問是否已完成。",
+    "nuance": "談論完成與否時常與「まだ」形成對比。",
+    "usageCautions": "「もう」其他語境可表示「再、還要」，不能一律翻成「已經」。",
+    "similarGrammar": "もう食べた：已經吃了；まだ食べていない：還沒吃。",
+    "examples": [
+      {
+        "ja": "宿題はもう終わった。",
+        "reading": "しゅくだいはもうおわった。",
+        "zh": "作業已經做完了。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "その映画はもう見た？",
+        "reading": "そのえいがはもうみた？",
+        "zh": "那部電影已經看過了嗎？",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "もう食べた",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 8,
+    "sourceBookPage": 106,
+    "sourcePdfPage": 123,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第8章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-044",
+    "pattern": "まだ＋Vていない",
+    "meaningZh": "還沒～",
+    "connection": "まだ＋Vていない／Vていません",
+    "explanation": "「まだ」加「ていない」表示動作至今尚未完成，並暗示未來有可能完成。",
+    "nuance": "常用於回答「もう～ましたか」。",
+    "usageCautions": "「まだ食べない」可表示暫時不吃、還不打算吃，與「まだ食べていない」不同。",
+    "similarGrammar": "もうVた：已完成；まだVていない：尚未完成。",
+    "examples": [
+      {
+        "ja": "まだ朝ご飯を食べていません。",
+        "reading": "まだあさごはんをたべていません。",
+        "zh": "還沒吃早餐。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "その本はまだ読んでいない。",
+        "reading": "そのほんはまだよんでいない。",
+        "zh": "那本書我還沒讀。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "まだ食べていない",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 8,
+    "sourceBookPage": 106,
+    "sourcePdfPage": 123,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第8章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-045",
+    "pattern": "普通形＋名詞（連體修飾）",
+    "meaningZh": "有很多樹的公園／～的～",
+    "connection": "動詞普通形／形容詞＋N；N・な形容詞的接法另依文法",
+    "explanation": "把一個句子放在名詞前面修飾該名詞，例如「木がたくさんある公園」。",
+    "nuance": "能用短句描述名詞具有何種特徵。",
+    "usageCautions": "修飾節本身的主語常用「が」，不可把整句直接套中文語序。",
+    "similarGrammar": "新しい公園：形容詞修飾；木がある公園：小句修飾。",
+    "examples": [
+      {
+        "ja": "これは父が作った料理です。",
+        "reading": "これはちちがつくったりょうりです。",
+        "zh": "這是爸爸做的料理。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "あそこは桜がたくさんある公園です。",
+        "reading": "あそこはさくらがたくさんあるこうえんです。",
+        "zh": "那裡是一座有很多櫻花樹的公園。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "木がたくさんある公園",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 8,
+    "sourceBookPage": 108,
+    "sourcePdfPage": 125,
+    "itemType": "main",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第8章",
+      "主文法"
+    ]
+  },
+  {
+    "id": "JLPT-N5-TRY-PLUS-01",
+    "pattern": "い形容詞くする／な形容詞にする",
+    "meaningZh": "把～弄成～／使～變得～",
+    "connection": "い形容詞去い＋く＋する；な形容詞去な＋に＋する；N＋にする",
+    "explanation": "「する」表示有人主動促成狀態變化，例如「安くする」「静かにする」。與單純自然變化的「なる」不同。",
+    "nuance": "重點是有意識地使事物改變狀態。",
+    "usageCautions": "「大きいにする」是錯誤接續，應為「大きくする」。",
+    "similarGrammar": "～になる：變得～；～に／くする：使其變得～。",
+    "examples": [
+      {
+        "ja": "音を小さくしてください。",
+        "reading": "おとをちいさくしてください。",
+        "zh": "請把音量調小。",
+        "origin": "editorial"
+      },
+      {
+        "ja": "部屋を静かにしましょう。",
+        "reading": "へやをしずかにしましょう。",
+        "zh": "把房間保持安靜吧。",
+        "origin": "editorial"
+      }
+    ],
+    "sourceTitle": "Plus ～く／にします",
+    "sourceId": "TRY_N5_CN_2015",
+    "chapterNumber": 5,
+    "sourceBookPage": 67,
+    "sourcePdfPage": 84,
+    "itemType": "plus",
+    "provenance": "原書目錄與指定頁碼核對；接續、解說、例句與假名為助理編寫，尚待逐條人工語言審校。",
+    "reviewStatus": "needs_review",
+    "tags": [
+      "TRY! N5",
+      "第5章",
+      "Plus"
+    ]
+  }
+]

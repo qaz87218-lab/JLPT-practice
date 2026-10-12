@@ -32,7 +32,7 @@ export default function JlptHomePage() {
   return <main className="app-shell">
     <header className="topbar wide-topbar"><div><p className="eyebrow">JLPT DEEP PRACTICE</p><h1>學習總覽</h1><p className="muted small">免登入 · 資料只存這個瀏覽器</p></div></header>
     <section className="dashboard-container">
-      <div className="hero-panel"><div><span className="hero-kicker">N5 → N1</span><h2>選擇學習級別</h2><p>已內建 TRY！N4～N1 共 505 個文法項目。尚未提供教材的模組會顯示「尚未建置」，不會虛構內容。</p></div><div className="sync-badge"><span className="sync-dot" /> 本機儲存 · 無需 API</div></div>
+      <div className="hero-panel"><div><span className="hero-kicker">N5 → N1</span><h2>選擇學習級別</h2><p>已內建 TRY！N5～N1 共 551 個文法項目。尚未提供教材的模組會顯示「尚未建置」，不會虛構內容。</p></div><div className="sync-badge"><span className="sync-dot" /> 本機儲存 · 無需 API</div></div>
       <section className="local-tools"><div><strong>學習資料備份</strong><p className="muted small">學習進度、收藏、筆記僅儲存在目前瀏覽器。換手機、清除網站資料前請匯出 JSON。</p></div>
         <div className="local-tools-actions"><button className="ghost-button bordered" onClick={exportLocalBackup}>匯出 JSON</button><button className="ghost-button bordered" onClick={()=>picker.current?.click()}>匯入 JSON</button><input ref={picker} type="file" accept=".json,application/json" hidden onChange={e=>void upload(e.target.files)} /></div>
       </section>

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "N5-REF-001",
+    "chapterNumber": 1,
+    "sourceTitle": "あいさつ：PART 1",
+    "sourceBookPage": 14,
+    "sourcePdfPage": 31,
+    "contentCategory": "寒暄語／情境問候",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-002",
+    "chapterNumber": 1,
+    "sourceTitle": "あいさつ：PART 2",
+    "sourceBookPage": 18,
+    "sourcePdfPage": 35,
+    "contentCategory": "寒暄語／道歉、致謝等",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-003",
+    "chapterNumber": 2,
+    "sourceTitle": "数",
+    "sourceBookPage": 32,
+    "sourcePdfPage": 49,
+    "contentCategory": "數字讀法",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-004",
+    "chapterNumber": 2,
+    "sourceTitle": "助数詞",
+    "sourceBookPage": 34,
+    "sourcePdfPage": 51,
+    "contentCategory": "數量詞",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-005",
+    "chapterNumber": 3,
+    "sourceTitle": "動詞のグループ分け",
+    "sourceBookPage": 43,
+    "sourcePdfPage": 60,
+    "contentCategory": "動詞分類",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-006",
+    "chapterNumber": 3,
+    "sourceTitle": "動詞のて形",
+    "sourceBookPage": 44,
+    "sourcePdfPage": 61,
+    "contentCategory": "動詞て形",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-007",
+    "chapterNumber": 5,
+    "sourceTitle": "カレンダー",
+    "sourceBookPage": 72,
+    "sourcePdfPage": 89,
+    "contentCategory": "月日與星期",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-008",
+    "chapterNumber": 5,
+    "sourceTitle": "動詞の辞書形",
+    "sourceBookPage": 73,
+    "sourcePdfPage": 90,
+    "contentCategory": "動詞辭書形",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-009",
+    "chapterNumber": 5,
+    "sourceTitle": "家族のよび方",
+    "sourceBookPage": 75,
+    "sourcePdfPage": 92,
+    "contentCategory": "家族稱呼",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-010",
+    "chapterNumber": 5,
+    "sourceTitle": "時間",
+    "sourceBookPage": 76,
+    "sourcePdfPage": 93,
+    "contentCategory": "時間讀法",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-011",
+    "chapterNumber": 6,
+    "sourceTitle": "動詞のない形",
+    "sourceBookPage": 83,
+    "sourcePdfPage": 100,
+    "contentCategory": "動詞ない形",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-012",
+    "chapterNumber": 6,
+    "sourceTitle": "時間の長さ",
+    "sourceBookPage": 86,
+    "sourcePdfPage": 103,
+    "contentCategory": "時間長度",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-013",
+    "chapterNumber": 7,
+    "sourceTitle": "動詞のた形",
+    "sourceBookPage": 88,
+    "sourcePdfPage": 105,
+    "contentCategory": "動詞た形",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-014",
+    "chapterNumber": 9,
+    "sourceTitle": "便利なことば：助詞",
+    "sourceBookPage": 111,
+    "sourcePdfPage": 128,
+    "contentCategory": "助詞整理",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-015",
+    "chapterNumber": 9,
+    "sourceTitle": "便利なことば：副詞",
+    "sourceBookPage": 114,
+    "sourcePdfPage": 131,
+    "contentCategory": "副詞整理",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-016",
+    "chapterNumber": 9,
+    "sourceTitle": "便利なことば：接続詞",
+    "sourceBookPage": 116,
+    "sourcePdfPage": 133,
+    "contentCategory": "接續詞整理",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  },
+  {
+    "id": "N5-REF-017",
+    "chapterNumber": 9,
+    "sourceTitle": "便利なことば：接尾語",
+    "sourceBookPage": 118,
+    "sourcePdfPage": 135,
+    "contentCategory": "接尾語整理",
+    "verificationStatus": "index_only",
+    "sourceId": "TRY_N5_CN_2015"
+  }
+]

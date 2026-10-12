@@ -1,4 +1,5 @@
 import type { JlptLevel, JlptLevelData, JlptSection, GrammarItem } from '@/lib/types'
+import tryN5Grammar from './try-n5-grammar.json'
 import tryN4Grammar from './try-n4-grammar.json'
 import tryN3Grammar from './try-n3-grammar.json'
 import tryN2Grammar from './try-n2-grammar.json'
@@ -50,11 +51,11 @@ const emptyLevel = (): JlptLevelData => ({
 
 /**
  * 正式題庫入口。
- * N4 文法100筆、N3文法127筆、N2文法149筆、N1文法129筆採用 TRY! 教科書索引及助理自編學習資料。
+ * N5文法46筆、N4文法100筆、N3文法127筆、N2文法149筆、N1文法129筆採用 TRY! 教科書索引及助理自編學習資料。
  * 其餘未提供教材的模組保持空白，不填造內容。
  */
 export const JLPT_DATA: Record<JlptLevel, JlptLevelData> = {
-  N5: emptyLevel(),
+  N5: { ...emptyLevel(), grammar: tryN5Grammar as GrammarItem[] },
   N4: { ...emptyLevel(), grammar: tryN4Grammar as GrammarItem[] },
   N3: { ...emptyLevel(), grammar: tryN3Grammar as GrammarItem[] },
   N2: { ...emptyLevel(), grammar: tryN2Grammar as GrammarItem[] },

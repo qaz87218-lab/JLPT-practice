@@ -38,6 +38,7 @@ export type GrammarItem = {
   sourcePdfPage?: number
   itemType?: 'main' | 'plus'
   provenance?: string
+  reviewStatus?: 'needs_review' | 'verified'
   tags?: string[]
 }
 

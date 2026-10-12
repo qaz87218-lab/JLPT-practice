@@ -1,3 +1,13 @@
+# JLPT Deep Practice v0.3.6 — N5～N1 無 API 本機版
+
+新增《TRY！N5》45 主文法＋1 Plus、92 句自編例句，延續 N4～N1 505 項。共有 **551 個文法項目、1,102 組例句**。
+
+無 Supabase、無帳號需求、無外部 API。學習資料存於瀏覽器 localStorage，可從總覽匯出／匯入 JSON。
+
+> 文法皆待審校；N5 寒暄與各類補充表格目前只有索引，不應視作已完整數位化。
+
+詳見 `N5_FULL_DATA_README.md`，另保留前版本說明。
+
 # JLPT Deep Practice v0.3.5 — 無 API 本機版
 
 這是以 **v0.3.4** 的 Next.js 專案修改的版本，沒有 Supabase 或任何第三方資料 API。

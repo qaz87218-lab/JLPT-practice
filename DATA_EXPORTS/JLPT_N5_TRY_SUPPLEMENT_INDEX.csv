@@ -1,0 +1,18 @@
+﻿id,chapterNumber,sourceTitle,sourceBookPage,sourcePdfPage,contentCategory,verificationStatus,sourceId
+N5-REF-001,1,あいさつ：PART 1,14,31,寒暄語／情境問候,index_only,TRY_N5_CN_2015
+N5-REF-002,1,あいさつ：PART 2,18,35,寒暄語／道歉、致謝等,index_only,TRY_N5_CN_2015
+N5-REF-003,2,数,32,49,數字讀法,index_only,TRY_N5_CN_2015
+N5-REF-004,2,助数詞,34,51,數量詞,index_only,TRY_N5_CN_2015
+N5-REF-005,3,動詞のグループ分け,43,60,動詞分類,index_only,TRY_N5_CN_2015
+N5-REF-006,3,動詞のて形,44,61,動詞て形,index_only,TRY_N5_CN_2015
+N5-REF-007,5,カレンダー,72,89,月日與星期,index_only,TRY_N5_CN_2015
+N5-REF-008,5,動詞の辞書形,73,90,動詞辭書形,index_only,TRY_N5_CN_2015
+N5-REF-009,5,家族のよび方,75,92,家族稱呼,index_only,TRY_N5_CN_2015
+N5-REF-010,5,時間,76,93,時間讀法,index_only,TRY_N5_CN_2015
+N5-REF-011,6,動詞のない形,83,100,動詞ない形,index_only,TRY_N5_CN_2015
+N5-REF-012,6,時間の長さ,86,103,時間長度,index_only,TRY_N5_CN_2015
+N5-REF-013,7,動詞のた形,88,105,動詞た形,index_only,TRY_N5_CN_2015
+N5-REF-014,9,便利なことば：助詞,111,128,助詞整理,index_only,TRY_N5_CN_2015
+N5-REF-015,9,便利なことば：副詞,114,131,副詞整理,index_only,TRY_N5_CN_2015
+N5-REF-016,9,便利なことば：接続詞,116,133,接續詞整理,index_only,TRY_N5_CN_2015
+N5-REF-017,9,便利なことば：接尾語,118,135,接尾語整理,index_only,TRY_N5_CN_2015

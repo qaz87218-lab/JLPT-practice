@@ -1,0 +1,54 @@
+{
+  "version": "0.3.6",
+  "api": "none",
+  "source_file": "TRY！新日语能力考试N5语法必备.pdf",
+  "source_pdf_pages": 206,
+  "n5_main_items": 45,
+  "n5_plus_items": 1,
+  "n5_editorial_examples": 92,
+  "n5_supplement_reference_index_only": 17,
+  "all_level_grammar_items": 551,
+  "all_level_editorial_examples": 1102,
+  "review_status": "all N5 entries needs_review",
+  "checks": [
+    "N5 required fields and ID uniqueness",
+    "N5 example count 2 each",
+    "N5 example readings contain no Han characters",
+    "legacy N4–N1 grammar JSON SHA256 unchanged",
+    "SQLite integrity and foreign keys",
+    "node scripts/verify-data.mjs passed",
+    "no Supabase dependency in runtime"
+  ],
+  "not_tested": [
+    "Next.js full npm build due to dependencies not installed",
+    "Manual Japanese language proofreading",
+    "Full supplementary tables and greeting passages",
+    "Browser device tests"
+  ],
+  "files": {
+    "JLPT_N5_TRY_FULL_STUDY_DATABASE.csv": {
+      "bytes": 37503,
+      "sha256": "8a98b936cd7013f6eeecd0c7df7868f91bc12bbca0dd8d64fa66e9b8aa5badda"
+    },
+    "JLPT_N5_TRY_FULL_STUDY_DATABASE.json": {
+      "bytes": 66727,
+      "sha256": "bd1456d90adec7caaec42d8a8df01a8a6dbaf8a5f64382a978c9dc0601fec255"
+    },
+    "JLPT_N5_TRY_FULL_STUDY_DATABASE.sqlite": {
+      "bytes": 94208,
+      "sha256": "5151c2deb116d3ce4dcad2a69ddbc3965accab7831ff8b7c1dea837a1e963bde"
+    },
+    "JLPT_N5_TRY_FULL_STUDY_DATABASE.xlsx": {
+      "bytes": 44612,
+      "sha256": "71a1fc519dc6e6b94b7c0a42d26409b8e1cfcd33ca0fd1f9f4bd1b704a7a319f"
+    },
+    "JLPT_N5_TRY_SUPPLEMENT_INDEX.csv": {
+      "bytes": 1494,
+      "sha256": "b196dcf0a7232df855737c76ac54c402fe0f3fa90d87f547374d8ce2c59d7ecb"
+    },
+    "JLPT_N5_TRY_SUPPLEMENT_INDEX.json": {
+      "bytes": 4501,
+      "sha256": "dd58fb71941f0ec1310a8dadff6c453ce0c312cf4dfd713fe7be3a4d53c0af5f"
+    }
+  }
+}
