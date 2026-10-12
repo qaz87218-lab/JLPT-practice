@@ -1,6 +1,6 @@
 {
   "name": "jlpt-deep-practice-app",
-  "version": "0.3.8",
+  "version": "0.3.8.1",
   "private": true,
   "scripts": {
     "dev": "next dev",

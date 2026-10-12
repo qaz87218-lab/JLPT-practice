@@ -37,5 +37,20 @@ export type ReadingExam = {
   questions: ReadingExamQuestion[]
 }
 
-export const N2_2018_07_READING = rawN2Reading as ReadingExam
+// JSON imports are inferred as string[][] for the vocabulary rows. Validate
+// each row and reconstruct a genuine 3-tuple instead of using an unsafe cast.
+const parsedPassages: ReadingPassage[] = rawN2Reading.passages.map(passage => ({
+  ...passage,
+  vocab: passage.vocab.map((row, index): [string, string, string] => {
+    if (!Array.isArray(row) || row.length !== 3 || row.some(item => typeof item !== 'string')) {
+      throw new Error(`Invalid vocab row in passage ${passage.id}, item ${index + 1}: expected [word, kana, translation]`)
+    }
+    return [row[0], row[1], row[2]]
+  }),
+}))
+
+export const N2_2018_07_READING: ReadingExam = {
+  ...rawN2Reading,
+  passages: parsedPassages,
+}
 export const readingAssetPath = (page: number) => `/reading/n2-2018-07/page${String(page).padStart(2,'0')}.jpg`

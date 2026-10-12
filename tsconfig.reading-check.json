@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES2022", "lib": ["es2022", "dom"], "strict": true,
+    "noEmit": true, "module": "esnext", "moduleResolution": "bundler",
+    "resolveJsonModule": true, "esModuleInterop": true,
+    "baseUrl": ".", "paths": {"@/*": ["./src/*"]}, "types": []
+  },
+  "files": ["src/lib/reading-exams.ts"]
+}
