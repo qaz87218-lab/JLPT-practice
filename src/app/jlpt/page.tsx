@@ -6,6 +6,7 @@ import { JLPT_DATA, JLPT_LEVELS } from '@/data/jlpt'
 import { exportLocalBackup, importLocalBackup, useLocalStudy } from '@/lib/local-store'
 import type { JlptLevel } from '@/lib/types'
 import { getCatalogMeta,type CatalogMeta } from '@/lib/vocab-db'
+import { getCourseLessons } from '@/lib/grammar-courses'
 
 function totalItems(level: JlptLevel) {
   const d = JLPT_DATA[level]
@@ -40,11 +41,12 @@ export default function JlptHomePage() {
         <div className="local-tools-actions"><button className="ghost-button bordered" onClick={exportLocalBackup}>匯出 JSON</button><button className="ghost-button bordered" onClick={()=>picker.current?.click()}>匯入 JSON</button><input ref={picker} type="file" accept=".json,application/json" hidden onChange={e=>void upload(e.target.files)} /></div>
       </section>
       {message && <p className="form-message" role="status">{message}</p>}
+      <section className="home-course-intro"><div><span className="eyebrow">NEW · SYSTEMATIC LEARNING</span><h2>新增：文法系統課程</h2><p>把你提供的 N5、N4、N3、N2 總整理編寫成 48 堂可學習的課程。先選 JLPT 等級，再進入「系統課程」。N1 尚待提供總整理。</p></div><div className="home-course-stat">{getCourseLessons('N5').length+getCourseLessons('N4').length+getCourseLessons('N3').length+getCourseLessons('N2').length}<small>堂課</small></div></section>
       <div className="level-grid">{JLPT_LEVELS.map(level=>{
         const total=totalItems(level)+(vocabMeta?.perLevel[level]??0),stat=summary[level],pct=total?Math.round(stat.mastered/total*100):0
         return <button key={level} className={`level-card level-${level.toLowerCase()}`} onClick={()=>router.push(`/jlpt/${level.toLowerCase()}`)}>
           <div className="level-card-top"><span className="level-code">{level}</span><span className="level-arrow">→</span></div>
-          <div className="level-card-copy"><strong>{level} 學習區</strong><span>單字・文法・文章・聽力・口說・模擬試題</span></div>
+          <div className="level-card-copy"><strong>{level} 學習區</strong><span>單字・文法・文章・聽力・口說・模擬試題・課程</span></div>
           <div className="progress-track"><span style={{width:`${pct}%`}} /></div>
           <div className="level-stats"><span>教材 {total}</span><span>學習中 {stat.learning}</span><span>已掌握 {stat.mastered}</span></div>
         </button>

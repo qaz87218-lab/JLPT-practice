@@ -1,0 +1,2141 @@
+{
+  "version": "0.4.2",
+  "editorialMethod": "lesson-based original pedagogical rewrite with sourced chapter mapping",
+  "reviewStatus": "pending_language_teacher_review",
+  "sourceMaterial": {
+    "N5": {
+      "name": "N5 總整理.pdf",
+      "materialType": "pdf",
+      "status": "not_teacher_reviewed"
+    },
+    "N4": {
+      "name": "N4總整理.pdf",
+      "materialType": "pdf",
+      "status": "not_teacher_reviewed"
+    },
+    "N3": {
+      "name": "N3總整理.docx",
+      "materialType": "docx",
+      "status": "not_teacher_reviewed"
+    },
+    "N2": {
+      "name": "N2總整理.pdf",
+      "materialType": "pdf",
+      "status": "not_teacher_reviewed"
+    }
+  },
+  "units": [
+    {
+      "id": "n5-u01",
+      "level": "N5",
+      "title": "體言、助詞與指示詞",
+      "sourceChapter": "第一章：體言與基本助詞的空間與定語邏輯",
+      "sourceFile": "N5 總整理.pdf",
+      "sourcePage": 1,
+      "lessonIds": [
+        "n5-c01-01",
+        "n5-c01-02",
+        "n5-c01-03"
+      ]
+    },
+    {
+      "id": "n5-u02",
+      "level": "N5",
+      "title": "存在、移動與時間",
+      "sourceChapter": "第二章：存在、移動與時間軸的構築",
+      "sourceFile": "N5 總整理.pdf",
+      "sourcePage": 5,
+      "lessonIds": [
+        "n5-c02-01",
+        "n5-c02-02",
+        "n5-c02-03"
+      ]
+    },
+    {
+      "id": "n5-u03",
+      "level": "N5",
+      "title": "形容詞、比較與數量",
+      "sourceChapter": "第三章：比較邏輯、量化特徵與客觀狀態之刻畫",
+      "sourceFile": "N5 總整理.pdf",
+      "sourcePage": 8,
+      "lessonIds": [
+        "n5-c03-01",
+        "n5-c03-02"
+      ]
+    },
+    {
+      "id": "n5-u04",
+      "level": "N5",
+      "title": "て形與基本互動",
+      "sourceChapter": "第五章、動詞「て形」之形態演變與語用學延伸探討",
+      "sourceFile": "N5 總整理.pdf",
+      "sourcePage": 13,
+      "lessonIds": [
+        "n5-c04-01",
+        "n5-c04-02",
+        "n5-c04-03"
+      ]
+    },
+    {
+      "id": "n5-u05",
+      "level": "N5",
+      "title": "た形、ない形與經驗",
+      "sourceChapter": "第六章、「た形」與「ない形」之經驗建構與否定邏輯延伸",
+      "sourceFile": "N5 總整理.pdf",
+      "sourcePage": 16,
+      "lessonIds": [
+        "n5-c05-01",
+        "n5-c05-02"
+      ]
+    },
+    {
+      "id": "n5-u06",
+      "level": "N5",
+      "title": "授受表現與人際視角",
+      "sourceChapter": "第七章、授受表現與社會行為之恩惠流動模型",
+      "sourceFile": "N5 總整理.pdf",
+      "sourcePage": 19,
+      "lessonIds": [
+        "n5-c06-01",
+        "n5-c06-02"
+      ]
+    },
+    {
+      "id": "n4-u01",
+      "level": "N4",
+      "title": "進階動詞活用",
+      "sourceChapter": "第一章、最重要動詞：四大進階語態轉換與權力重分配",
+      "sourceFile": "N4總整理.pdf",
+      "sourcePage": 4,
+      "lessonIds": [
+        "n4-c01-01",
+        "n4-c01-02",
+        "n4-c01-03",
+        "n4-c01-04"
+      ]
+    },
+    {
+      "id": "n4-u02",
+      "level": "N4",
+      "title": "意志、決策與變化",
+      "sourceChapter": "第二章、主觀意志與狀態之演變",
+      "sourceFile": "N4總整理.pdf",
+      "sourcePage": 7,
+      "lessonIds": [
+        "n4-c02-01",
+        "n4-c02-02",
+        "n4-c02-03"
+      ]
+    },
+    {
+      "id": "n4-u03",
+      "level": "N4",
+      "title": "資訊來源、推測與限制",
+      "sourceChapter": "第三章、最重要句型：情報觀測、傳遞與確信度",
+      "sourceFile": "N4總整理.pdf",
+      "sourcePage": 10,
+      "lessonIds": [
+        "n4-c03-01",
+        "n4-c03-02",
+        "n4-c03-03"
+      ]
+    },
+    {
+      "id": "n4-u04",
+      "level": "N4",
+      "title": "敬語及內外關係",
+      "sourceChapter": "第五章、敬語系統之微觀結構與商業階級應用",
+      "sourceFile": "N4總整理.pdf",
+      "sourcePage": 13,
+      "lessonIds": [
+        "n4-c04-01"
+      ]
+    },
+    {
+      "id": "n3-u01",
+      "level": "N3",
+      "title": "口語縮約與正式書面語",
+      "sourceChapter": "第一章、語體切換與社會面具",
+      "sourceFile": "N3總整理.docx",
+      "sourcePage": null,
+      "lessonIds": [
+        "n3-c01-01",
+        "n3-c01-02",
+        "n3-c01-03",
+        "n3-c01-04"
+      ]
+    },
+    {
+      "id": "n3-u02",
+      "level": "N3",
+      "title": "わけ、はず與判斷",
+      "sourceChapter": "第三章、心理評價與絕對性判斷",
+      "sourceFile": "N3總整理.docx",
+      "sourcePage": null,
+      "lessonIds": [
+        "n3-c02-01",
+        "n3-c02-02"
+      ]
+    },
+    {
+      "id": "n3-u03",
+      "level": "N3",
+      "title": "複合動詞與動作狀態",
+      "sourceChapter": "第四章、時間軸的微觀刻畫",
+      "sourceFile": "N3總整理.docx",
+      "sourcePage": null,
+      "lessonIds": [
+        "n3-c03-01",
+        "n3-c03-02"
+      ]
+    },
+    {
+      "id": "n3-u04",
+      "level": "N3",
+      "title": "焦點、極端與傾向",
+      "sourceChapter": "第五章、範圍限縮與主體聚焦",
+      "sourceFile": "N3總整理.docx",
+      "sourcePage": null,
+      "lessonIds": [
+        "n3-c04-01",
+        "n3-c04-02"
+      ]
+    },
+    {
+      "id": "n2-u01",
+      "level": "N2",
+      "title": "時間、契機與變化",
+      "sourceChapter": "第一章、時間軸之奈米切片",
+      "sourceFile": "N2總整理.pdf",
+      "sourcePage": 3,
+      "lessonIds": [
+        "n2-c01-01",
+        "n2-c01-02",
+        "n2-c01-03"
+      ]
+    },
+    {
+      "id": "n2-u02",
+      "level": "N2",
+      "title": "前提、適用範圍與無奈",
+      "sourceChapter": "第二章、絕對邏輯與界線封鎖",
+      "sourceFile": "N2總整理.pdf",
+      "sourcePage": 5,
+      "lessonIds": [
+        "n2-c02-01",
+        "n2-c02-02",
+        "n2-c02-03"
+      ]
+    },
+    {
+      "id": "n2-u03",
+      "level": "N2",
+      "title": "逆接、對比與讓步",
+      "sourceChapter": "第三章、高階辯證法",
+      "sourceFile": "N2總整理.pdf",
+      "sourcePage": 8,
+      "lessonIds": [
+        "n2-c03-01",
+        "n2-c03-02"
+      ]
+    },
+    {
+      "id": "n2-u04",
+      "level": "N2",
+      "title": "判斷、評價及依據",
+      "sourceChapter": "第四章、視角聚焦、評價",
+      "sourceFile": "N2總整理.pdf",
+      "sourcePage": 11,
+      "lessonIds": [
+        "n2-c04-01",
+        "n2-c04-02"
+      ]
+    },
+    {
+      "id": "n2-u05",
+      "level": "N2",
+      "title": "風險提示與正式文體",
+      "sourceChapter": "第五章、商業防禦與風險控管",
+      "sourceFile": "N2總整理.pdf",
+      "sourcePage": 14,
+      "lessonIds": [
+        "n2-c05-01",
+        "n2-c05-02"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "n5-c01-01",
+      "level": "N5",
+      "unitId": "n5-u01",
+      "title": "主題助詞 は 與丁寧形 です",
+      "objective": "區分話題標示與句尾斷定。",
+      "pattern": "A は B です／ではありません",
+      "explanation": "助詞「は」把 A 設為談論主題；「です」表示丁寧的敘述。過去肯定是「でした」，否定常用「ではありません」。",
+      "nuance": "「は」並不等於中文的「是」；肯定與否定的時態由句末承擔。",
+      "example": {
+        "ja": "今日は月曜日です。",
+        "reading": "きょうはげつようびです。",
+        "zh": "今天是星期一。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "作為助詞的「は」讀作「わ」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「私は学生ではありません」中「は」的作用是？",
+          "choices": [
+            "表示動作對象",
+            "提示談話主題",
+            "表示手段",
+            "表示移動方向"
+          ],
+          "answerIndex": 1,
+          "explanation": "「は」將「私」設為話題；否定在句末「ではありません」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第一章：體言與基本助詞的空間與定語邏輯",
+        "pdfPage": 1,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c01-02",
+      "level": "N5",
+      "unitId": "n5-u01",
+      "title": "名詞修飾：の",
+      "objective": "理解 A の B 的所屬、內容與身分。",
+      "pattern": "名詞A＋の＋名詞B",
+      "explanation": "「の」可以表示所有、產地、內容、所屬以及同位關係；前面的 A 修飾後面的 B。",
+      "nuance": "要根據上下文判斷關係，不宜一律機械翻譯成「的」。",
+      "example": {
+        "ja": "これは日本語の本です。",
+        "reading": "これはにほんごのほんです。",
+        "zh": "這是日文書。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「友達の田中さん」不必解釋成「朋友擁有田中先生」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「日本語の本」中的「の」主要表示什麼？",
+          "choices": [
+            "動作方向",
+            "內容／類型",
+            "否定",
+            "比較"
+          ],
+          "answerIndex": 1,
+          "explanation": "「日本語」說明書的語言或內容。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第一章：體言與基本助詞的空間與定語邏輯",
+        "pdfPage": 1,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c01-03",
+      "level": "N5",
+      "unitId": "n5-u01",
+      "title": "こそあど：距離與指示",
+      "objective": "正確區分 これ／この／ここ／こちら。",
+      "pattern": "これ・それ・あれ・どれ／この・その・あの・どの",
+      "explanation": "「これ」等可單獨指物；「この」等必須放在名詞前。場所用「ここ」；較有禮貌的方向與人物介紹可使用「こちら」。",
+      "nuance": "「こ」接近說話者，「そ」接近聽話者或前述資訊，「あ」常指雙方距離遠或共同熟知的事物。",
+      "example": {
+        "ja": "この本は面白いです。",
+        "reading": "このほんはおもしろいです。",
+        "zh": "這本書很有趣。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「これ本」不自然；應說「この本」或「これは本です」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "哪一句最自然？",
+          "choices": [
+            "これ本は面白いです",
+            "この本は面白いです",
+            "ここ本は面白いです",
+            "こちら本は面白いです"
+          ],
+          "answerIndex": 1,
+          "explanation": "連體詞「この」直接修飾名詞「本」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第一章：體言與基本助詞的空間與定語邏輯",
+        "pdfPage": 1,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c02-01",
+      "level": "N5",
+      "unitId": "n5-u02",
+      "title": "あります／います：存在表現",
+      "objective": "依存在對象選擇動詞並標示地點。",
+      "pattern": "場所に＋名詞が＋あります／います",
+      "explanation": "「あります」主要用於物品、植物、抽象事物；「います」主要用於人與動物。存在位置用「に」，存在者常用「が」。",
+      "nuance": "選擇取決於語義和慣用法，並非所有能移動的物品都使用「います」。",
+      "example": {
+        "ja": "庭に猫がいます。",
+        "reading": "にわにねこがいます。",
+        "zh": "庭院裡有貓。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "將所有「會動」的機械都視為「います」是錯誤的簡化。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「部屋に机が＿＿」應填入？",
+          "choices": [
+            "あります",
+            "います",
+            "いきます",
+            "きます"
+          ],
+          "answerIndex": 0,
+          "explanation": "「机」是物品，存在動詞為「あります」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第二章：存在、移動與時間軸的構築",
+        "pdfPage": 5,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c02-02",
+      "level": "N5",
+      "unitId": "n5-u02",
+      "title": "場所助詞 に、で 與受詞 を",
+      "objective": "分辨存在點、動作場所和受詞。",
+      "pattern": "場所にある／場所で V／名詞を V",
+      "explanation": "「に」標記存在位置或著落點；「で」標記活動發生的場所；「を」典型地標示及物動詞的直接對象。",
+      "nuance": "不能只依「靜態、動態」判斷全部用法；「に／で／を」還有其他語義。",
+      "example": {
+        "ja": "図書館で本を読みます。",
+        "reading": "としょかんでほんをよみます。",
+        "zh": "在圖書館看書。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「公園を歩く」的「を」可標示通過的場所，不是直接受詞。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「教室＿＿日本語を勉強します」應填？",
+          "choices": [
+            "に",
+            "で",
+            "を",
+            "へ"
+          ],
+          "answerIndex": 1,
+          "explanation": "在教室進行學習活動，使用「で」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第二章：存在、移動與時間軸的構築",
+        "pdfPage": 5,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c02-03",
+      "level": "N5",
+      "unitId": "n5-u02",
+      "title": "移動的 に／へ 與 から／まで",
+      "objective": "描述目的地、方向與時間範圍。",
+      "pattern": "場所に／へ行く；起點から終點まで",
+      "explanation": "「に」常聚焦抵達點；「へ」表示移動方向。起點使用「から」，終點可用「まで」。",
+      "nuance": "「に」與「へ」在許多移動動詞句裡可互換，但並非所有句型都一樣。",
+      "example": {
+        "ja": "東京から大阪まで電車で行きます。",
+        "reading": "とうきょうからおおさかまででんしゃでいきます。",
+        "zh": "從東京搭電車到大阪。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "移動手段通常用「で」，並非「へ」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「東京＿＿大阪まで行きます」表示起點應填？",
+          "choices": [
+            "から",
+            "へ",
+            "を",
+            "の"
+          ],
+          "answerIndex": 0,
+          "explanation": "「から」標示起點。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第二章：存在、移動與時間軸的構築",
+        "pdfPage": 5,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c03-01",
+      "level": "N5",
+      "unitId": "n5-u03",
+      "title": "い形容詞、な形容詞的變化",
+      "objective": "區分兩種形容詞的接續與否定。",
+      "pattern": "高い→高くない／静かだ→静かではない",
+      "explanation": "い形容詞依語尾「い」變化；な形容詞連接名詞常需「な」，敬體敘述接「です」。",
+      "nuance": "「きれい」雖以「い」結尾，仍屬な形容詞；「いい」變化常使用「よい」詞幹。",
+      "example": {
+        "ja": "昨日は寒くなかったです。",
+        "reading": "きのうはさむくなかったです。",
+        "zh": "昨天不冷。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「きれいくない」錯誤；要說「きれいではない」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "哪一個是「高い」的否定形？",
+          "choices": [
+            "高いではない",
+            "高くない",
+            "高なない",
+            "高かったない"
+          ],
+          "answerIndex": 1,
+          "explanation": "い形容詞去「い」接「くない」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第三章：比較邏輯、量化特徵與客觀狀態之刻畫",
+        "pdfPage": 8,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c03-02",
+      "level": "N5",
+      "unitId": "n5-u03",
+      "title": "比較、最高級與頻率",
+      "objective": "學習比較級及常用程度語。",
+      "pattern": "A は B より～／一番～／いつも・時々",
+      "explanation": "「より」標示比較基準；「どちら」用於兩者比較；「一番」表示某個範圍內最突出。",
+      "nuance": "程度副詞的選擇與後面敘述的肯否形有搭配習慣，例如「あまり～ない」。",
+      "example": {
+        "ja": "この電車はあの電車より速いです。",
+        "reading": "このでんしゃはあのでんしゃよりはやいです。",
+        "zh": "這班電車比那班快。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「あまり」表示不太～時，典型地與否定搭配。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「三つの中で、これが＿＿安いです」應填？",
+          "choices": [
+            "より",
+            "一番",
+            "どちら",
+            "あまり"
+          ],
+          "answerIndex": 1,
+          "explanation": "在三者範圍中表示最高程度，使用「一番」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第三章：比較邏輯、量化特徵與客觀狀態之刻畫",
+        "pdfPage": 8,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c04-01",
+      "level": "N5",
+      "unitId": "n5-u04",
+      "title": "て形：動詞變化與音便",
+      "objective": "掌握基本的て形與不規則變化。",
+      "pattern": "書く→書いて／泳ぐ→泳いで／行く→行って",
+      "explanation": "五段動詞的て形依結尾音產生不同音便；一段動詞去「る」接「て」。する→して；来る→来て。",
+      "nuance": "「行く」屬常見例外，變「行って」，不是「行いて」。",
+      "example": {
+        "ja": "駅まで歩いて行きます。",
+        "reading": "えきまであるいていきます。",
+        "zh": "走路到車站。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "看到「く」不能一律變「いて」，要留意慣用例外。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「書く」的て形是哪個？",
+          "choices": [
+            "書きて",
+            "書くて",
+            "書いて",
+            "書って"
+          ],
+          "answerIndex": 2,
+          "explanation": "「書く」的標準て形是「書いて」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第五章、動詞「て形」之形態演變與語用學延伸探討",
+        "pdfPage": 13,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c04-02",
+      "level": "N5",
+      "unitId": "n5-u04",
+      "title": "て形：請求、許可與禁止",
+      "objective": "會使用日常請求及禮貌禁止。",
+      "pattern": "Vてください／Vてもいい／Vてはいけない",
+      "explanation": "「てください」用於請求；「てもいい」表示許可；「てはいけない」表示不被允許。請求不做某事使用「Vないでください」。",
+      "nuance": "不同形式表示不同交際功能，不能把禁止與勸告當成同義。",
+      "example": {
+        "ja": "ここで写真を撮ってもいいですか。",
+        "reading": "ここでしゃしんをとってもいいですか。",
+        "zh": "可以在這裡拍照嗎？",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「撮らないでください」是請求不要拍照，不同於「撮ってはいけません」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「請不要進入」較合適的是？",
+          "choices": [
+            "入ってください",
+            "入ってもいいです",
+            "入らないでください",
+            "入りました"
+          ],
+          "answerIndex": 2,
+          "explanation": "否定請求使用「ないでください」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第五章、動詞「て形」之形態演變與語用學延伸探討",
+        "pdfPage": 13,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c04-03",
+      "level": "N5",
+      "unitId": "n5-u04",
+      "title": "ています：進行與結果狀態",
+      "objective": "理解同一表達依動詞而有不同讀法。",
+      "pattern": "Vて＋います",
+      "explanation": "活動動詞可表動作正在進行；變化動詞則可能表示變化完成後的結果狀態。",
+      "nuance": "例如「結婚しています」通常表示已婚狀態，而非婚禮正在進行。",
+      "example": {
+        "ja": "窓が開いています。",
+        "reading": "まどがあいています。",
+        "zh": "窗戶開著。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「ています」不一定表示正在做動作，要看動詞類型。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「窓が開いています」主要表達？",
+          "choices": [
+            "正在開窗",
+            "窗戶處於開啟狀態",
+            "將來要開窗",
+            "不能開窗"
+          ],
+          "answerIndex": 1,
+          "explanation": "「開く」是變化動詞，句中表示結果狀態。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第五章、動詞「て形」之形態演變與語用學延伸探討",
+        "pdfPage": 13,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c05-01",
+      "level": "N5",
+      "unitId": "n5-u05",
+      "title": "た形：經驗與列舉",
+      "objective": "區分過去事件、人生經驗與例示。",
+      "pattern": "Vたことがあります／VたりVたりします",
+      "explanation": "「たことがある」表示曾有某種經驗；「たり～たり」列舉典型行為，整句時態由後面的「します／しました」決定。",
+      "nuance": "經驗表達不適合取代明確的昨日單次事件敘述。",
+      "example": {
+        "ja": "休みの日は本を読んだり、映画を見たりします。",
+        "reading": "やすみのひはほんをよんだり、えいがをみたりします。",
+        "zh": "休假時會看看書、看看電影等等。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "列舉的動作不表示已經全部發生。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「日本に行ったことがあります」表示？",
+          "choices": [
+            "現在正在日本",
+            "去過日本",
+            "明天要去日本",
+            "不能去日本"
+          ],
+          "answerIndex": 1,
+          "explanation": "「Vたことがある」表示既有經驗。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第六章、「た形」與「ない形」之經驗建構與否定邏輯延伸",
+        "pdfPage": 16,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c05-02",
+      "level": "N5",
+      "unitId": "n5-u05",
+      "title": "ない形與勸告",
+      "objective": "能提出做或不做某事的建議。",
+      "pattern": "Vたほうがいい／Vないほうがいい",
+      "explanation": "「Vたほうがいい」常表示最好採取某行動；「Vないほうがいい」表示最好避免。",
+      "nuance": "這是建議，不等於法律上的強制義務。",
+      "example": {
+        "ja": "疲れているなら、早く寝たほうがいいです。",
+        "reading": "つかれているなら、はやくねたほうがいいです。",
+        "zh": "如果累了，最好早點睡。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「ないほうがいい」需要否定形，不是「ないでほう」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「最好不要熬夜」如何表達？",
+          "choices": [
+            "夜更かししたほうがいい",
+            "夜更かししないほうがいい",
+            "夜更かしすることがあります",
+            "夜更かししています"
+          ],
+          "answerIndex": 1,
+          "explanation": "避免某動作的建議是「Vないほうがいい」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第六章、「た形」與「ない形」之經驗建構與否定邏輯延伸",
+        "pdfPage": 16,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c06-01",
+      "level": "N5",
+      "unitId": "n5-u06",
+      "title": "あげる、もらう、くれる",
+      "objective": "依誰給誰、誰受益選擇授受動詞。",
+      "pattern": "AがBにあげる／AがBにもらう／Aが私にくれる",
+      "explanation": "「あげる」從給予方描述；「もらう」從收受方描述；「くれる」常表示他人給予說話者或其心理內團體成員。",
+      "nuance": "授受動詞依說話者視角而選擇，不能只看箭頭方向。",
+      "example": {
+        "ja": "友達が私に本をくれました。",
+        "reading": "ともだちがわたしにほんをくれました。",
+        "zh": "朋友送了我一本書。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "敘述不熟悉第三人之間的授受時，需要注意「くれる」的視角。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「朋友送我一本書」自然的動詞是？",
+          "choices": [
+            "あげました",
+            "くれました",
+            "しまいました",
+            "なりました"
+          ],
+          "answerIndex": 1,
+          "explanation": "站在受益方「我」的視角，可使用「くれる」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第七章、授受表現與社會行為之恩惠流動模型",
+        "pdfPage": 19,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n5-c06-02",
+      "level": "N5",
+      "unitId": "n5-u06",
+      "title": "てあげる、てもらう、てくれる",
+      "objective": "將授受觀念延伸為他人做某事的恩惠。",
+      "pattern": "Vて＋あげる／もらう／くれる",
+      "explanation": "「てあげる」為別人做；「てもらう」得到別人提供的協助；「てくれる」表示他人為我方做。",
+      "nuance": "面對上司或陌生人時，「てあげる」可能顯得居高臨下，宜依情境選詞。",
+      "example": {
+        "ja": "先生が説明してくれました。",
+        "reading": "せんせいがせつめいしてくれました。",
+        "zh": "老師為我說明了。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "文法上的「給予恩惠」不代表每個情境都必然含感恩情緒。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「同事幫我修好電腦」要凸顯我得到協助，可用？",
+          "choices": [
+            "直してくれました",
+            "直してあげました",
+            "直しなさい",
+            "直すはずです"
+          ],
+          "answerIndex": 0,
+          "explanation": "「てくれる」描寫對方為我方提供協助。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N5 總整理.pdf",
+        "section": "第七章、授受表現與社會行為之恩惠流動模型",
+        "pdfPage": 19,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n4-c01-01",
+      "level": "N4",
+      "unitId": "n4-u01",
+      "title": "可能形：能力和條件",
+      "objective": "把動詞轉為表示做得到的形式。",
+      "pattern": "書く→書ける／食べる→食べられる",
+      "explanation": "五段動詞改為エ段＋る，一段動詞去る加られる，する→できる，来る→来られる。",
+      "nuance": "可能表達可用「が」標示對象，但某些情境也能使用「を」，不能說一律禁止「を」。",
+      "example": {
+        "ja": "私は日本語が話せます。",
+        "reading": "わたしはにほんごがはなせます。",
+        "zh": "我會說日文。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "可能形與受身形同形時，需靠語境判別。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「読む」的可能形？",
+          "choices": [
+            "読まれる",
+            "読める",
+            "読ませる",
+            "読もう"
+          ],
+          "answerIndex": 1,
+          "explanation": "五段動詞「読む」變「読める」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N4總整理.pdf",
+        "section": "第一章、最重要動詞：四大進階語態轉換與權力重分配",
+        "pdfPage": 4,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n4-c01-02",
+      "level": "N4",
+      "unitId": "n4-u01",
+      "title": "受身形：直接與間接受身",
+      "objective": "分清行為的接受者與間接受影響者。",
+      "pattern": "Vれる／Vられる",
+      "explanation": "直接受身把受動作影響的人事物放在主語；間接受身有時傳達困擾，如「雨に降られた」。",
+      "nuance": "不是所有被動句都含受害、抱怨；報導、客觀描寫也常使用受身形。",
+      "example": {
+        "ja": "この本は多くの人に読まれています。",
+        "reading": "このほんはおおくのひとによまれています。",
+        "zh": "這本書受到許多人閱讀。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "不要把「被動」等同「不幸」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「私は弟にケーキを食べられた」最可能含有？",
+          "choices": [
+            "自己吃蛋糕",
+            "弟弟替我買蛋糕",
+            "自己的蛋糕被弟弟吃掉的困擾",
+            "弟弟請我吃蛋糕"
+          ],
+          "answerIndex": 2,
+          "explanation": "間接受身可能表達自己受到影響。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N4總整理.pdf",
+        "section": "第一章、最重要動詞：四大進階語態轉換與權力重分配",
+        "pdfPage": 4,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n4-c01-03",
+      "level": "N4",
+      "unitId": "n4-u01",
+      "title": "使役形：要求、容許、使其發生",
+      "objective": "分辨使役句是強制還是許可。",
+      "pattern": "書く→書かせる／食べる→食べさせる",
+      "explanation": "五段動詞改あ段＋せる，一段動詞去る加させる。實際是要求、允許或造成某動作，須看情境。",
+      "nuance": "「使役」並不必然是階級強迫；也可表允許與培養。",
+      "example": {
+        "ja": "母は子どもにピアノを習わせました。",
+        "reading": "はははこどもにピアノをならわせました。",
+        "zh": "母親讓孩子學鋼琴。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "應依語境判斷是要求還是許可，單靠句型不一定能確定。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「飲む」的使役形？",
+          "choices": [
+            "飲める",
+            "飲まれる",
+            "飲ませる",
+            "飲んだ"
+          ],
+          "answerIndex": 2,
+          "explanation": "「飲む」變「飲ませる」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N4總整理.pdf",
+        "section": "第一章、最重要動詞：四大進階語態轉換與權力重分配",
+        "pdfPage": 4,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n4-c01-04",
+      "level": "N4",
+      "unitId": "n4-u01",
+      "title": "條件：ば、たら、なら、と",
+      "objective": "理解條件句在一般規律與假設中的差異。",
+      "pattern": "行けば／行ったら／行くなら／行くと",
+      "explanation": "「と」常描述規律或自然結果；「たら」彈性較高；「なら」可回應先前提出的前提；「ば」表示條件成立後的結果。",
+      "nuance": "「ば」不是一律不能接命令或邀請；是否自然還受主語、條件內容影響。",
+      "example": {
+        "ja": "時間があれば、ぜひ来てください。",
+        "reading": "じかんがあれば、ぜひきてください。",
+        "zh": "如果有時間，請務必來。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "不要把四種條件形當成語義完全相等的替換。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「春になると、桜が咲く」的「と」常表示？",
+          "choices": [
+            "自然規律",
+            "過去習慣的否定",
+            "敬語請求",
+            "因果責任"
+          ],
+          "answerIndex": 0,
+          "explanation": "「と」可表示條件一成立就出現的規律性結果。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N4總整理.pdf",
+        "section": "第一章、最重要動詞：四大進階語態轉換與權力重分配",
+        "pdfPage": 4,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n4-c02-01",
+      "level": "N4",
+      "unitId": "n4-u02",
+      "title": "意志強度：ようと思う・つもり・予定",
+      "objective": "比較意向、打算與已安排的計畫。",
+      "pattern": "Vようと思う／Vるつもり／Vる予定",
+      "explanation": "「ようと思う」表思考或意向；「つもり」表示打算；「予定」常用於已安排的行程。",
+      "nuance": "這是常見語意傾向，不表示每種形式只有一個固定心理強度。",
+      "example": {
+        "ja": "来月、日本へ行く予定です。",
+        "reading": "らいげつにほんへいくよていです。",
+        "zh": "預定下個月去日本。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "是否已經訂票或決定，不能單靠句型百分百推定。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「已排入行程」較常見的是？",
+          "choices": [
+            "行く予定です",
+            "行きたがっています",
+            "行かされます",
+            "行くそうです"
+          ],
+          "answerIndex": 0,
+          "explanation": "「予定」常標示安排或預定。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N4總整理.pdf",
+        "section": "第二章、主觀意志與狀態之演變",
+        "pdfPage": 7,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n4-c02-02",
+      "level": "N4",
+      "unitId": "n4-u02",
+      "title": "ことにする／ことになる",
+      "objective": "區分主動決定與外部決定。",
+      "pattern": "Vる／Vない＋ことにする／ことになる",
+      "explanation": "「ことにする」重在說話者做出的決定；「ことになる」多表示經過協議、制度或情勢而形成的結果。",
+      "nuance": "「ことになる」不必然代表毫無個人意志，也可描述共同決議。",
+      "example": {
+        "ja": "来年から日本で働くことになりました。",
+        "reading": "らいねんからにほんではたらくことになりました。",
+        "zh": "已經決定從明年開始在日本工作。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "不要把「ことになった」自動翻成「被逼迫」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "哪句最直接表達「我自己決定」？",
+          "choices": [
+            "転職することにしました",
+            "転職することになりました",
+            "転職したら",
+            "転職するそうです"
+          ],
+          "answerIndex": 0,
+          "explanation": "「ことにする」通常著重個人決定。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N4總整理.pdf",
+        "section": "第二章、主觀意志與狀態之演變",
+        "pdfPage": 7,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n4-c02-03",
+      "level": "N4",
+      "unitId": "n4-u02",
+      "title": "ようになる與授受敬語",
+      "objective": "描述變得能做，以及禮貌地接受協助。",
+      "pattern": "V可能＋ようになる／Vていただく",
+      "explanation": "「ようになる」描述能力、習慣或狀態改變；「ていただく」是「てもらう」的謙讓形式，尊重提供協助者。",
+      "nuance": "它們用途不同，課文將兩者同列在主觀與人際表達範圍。",
+      "example": {
+        "ja": "先生に説明していただきました。",
+        "reading": "せんせいにせつめいしていただきました。",
+        "zh": "承蒙老師向我說明。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「いただく」的主語視角與「くださる」不同。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「日本語が読める＿＿」表示能力獲得？",
+          "choices": [
+            "そうです",
+            "ようになりました",
+            "ことにします",
+            "たところです"
+          ],
+          "answerIndex": 1,
+          "explanation": "「可能形＋ようになる」表示變得能做到。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N4總整理.pdf",
+        "section": "第二章、主觀意志與狀態之演變",
+        "pdfPage": 7,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n4-c03-01",
+      "level": "N4",
+      "unitId": "n4-u03",
+      "title": "樣態そうだ與傳聞そうだ",
+      "objective": "依訊息來源選擇接續。",
+      "pattern": "おいしそうだ／雨が降るそうだ",
+      "explanation": "樣態「そう」接詞幹或ます形去ます，表看起來～；傳聞「そう」接普通形，表聽說～。",
+      "nuance": "兩者看起來同形，但接續和證據來源不同。",
+      "example": {
+        "ja": "天気予報によると、明日は雨が降るそうです。",
+        "reading": "てんきよほうによるとあしたはあめがふるそうです。",
+        "zh": "根據天氣預報，聽說明天會下雨。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "形容詞「いい」的樣態形式是「よさそう」，不是「いそう」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「おいしそう」的「そう」主要表示？",
+          "choices": [
+            "傳聞",
+            "外觀看來",
+            "原因",
+            "義務"
+          ],
+          "answerIndex": 1,
+          "explanation": "樣態「そう」依外觀推測。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N4總整理.pdf",
+        "section": "第三章、最重要句型：情報觀測、傳遞與確信度",
+        "pdfPage": 10,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n4-c03-02",
+      "level": "N4",
+      "unitId": "n4-u03",
+      "title": "ようだ、みたいだ、らしい",
+      "objective": "比較比況、推測與傳聞印象。",
+      "pattern": "V普通形＋ようだ／みたいだ／らしい",
+      "explanation": "「ようだ」與「みたいだ」可表示依線索的推測與比況；「らしい」常用於傳聞或典型特徵的判斷。",
+      "nuance": "這三種形式語義範圍部分重疊，不能給予固定的百分百確定度。",
+      "example": {
+        "ja": "外が濡れています。雨が降ったようです。",
+        "reading": "そとがぬれています。あめがふったようです。",
+        "zh": "外面濕了，似乎下過雨。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「らしい」也可表示符合典型性，如「子どもらしい」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「田中さんらしい服」較可能表示？",
+          "choices": [
+            "田中先生特有的風格",
+            "田中先生已換衣服",
+            "田中先生命令",
+            "田中先生的衣服壞了"
+          ],
+          "answerIndex": 0,
+          "explanation": "「らしい」有符合典型特徵的用法。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N4總整理.pdf",
+        "section": "第三章、最重要句型：情報觀測、傳遞與確信度",
+        "pdfPage": 10,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n4-c03-03",
+      "level": "N4",
+      "unitId": "n4-u03",
+      "title": "ながら・すぎる・しかない",
+      "objective": "用一個句子表示並行、超量或限定。",
+      "pattern": "Vます去ます＋ながら／すぎる；Nしか＋否定",
+      "explanation": "「ながら」常表示同一主體動作同時進行；「すぎる」表示過度；「しか～ない」突出選擇或數量有限。",
+      "nuance": "「しか」要有否定述語，與「だけ」形式不同。",
+      "example": {
+        "ja": "ここには一人しかいません。",
+        "reading": "ここにはひとりしかいません。",
+        "zh": "這裡只有一個人。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「食べすぎる」表示吃太多，不必然含道德批判。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「100円しか＿＿」最自然的是？",
+          "choices": [
+            "あります",
+            "ありません",
+            "ありました",
+            "あるでしょう"
+          ],
+          "answerIndex": 1,
+          "explanation": "「しか」需與否定搭配。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N4總整理.pdf",
+        "section": "第三章、最重要句型：情報觀測、傳遞與確信度",
+        "pdfPage": 10,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n4-c04-01",
+      "level": "N4",
+      "unitId": "n4-u04",
+      "title": "尊敬語、謙讓語、丁寧語",
+      "objective": "依誰的行為選擇合適敬語。",
+      "pattern": "お／ご～になる・お／ご～する・です／ます",
+      "explanation": "尊敬語抬高主體或行為者；謙讓語透過自己一方的行為表示對對方的敬意；丁寧語使整句禮貌。",
+      "nuance": "敬語選擇還受內外關係與交際場合影響，非純粹上下級公式。",
+      "example": {
+        "ja": "部長はもうお帰りになりました。",
+        "reading": "ぶちょうはもうおかえりになりました。",
+        "zh": "部長已經回去了。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "敬語有不規則形式，如「いらっしゃる」「申す」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「部長がお読みになる」屬於？",
+          "choices": [
+            "謙讓語",
+            "尊敬語",
+            "普通形",
+            "命令形"
+          ],
+          "answerIndex": 1,
+          "explanation": "「お～になる」是常見尊敬語形式。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N4總整理.pdf",
+        "section": "第五章、敬語系統之微觀結構與商業階級應用",
+        "pdfPage": 13,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n3-c01-01",
+      "level": "N3",
+      "unitId": "n3-u01",
+      "title": "口語縮約：ちゃう／じゃう",
+      "objective": "認識「てしまう」在口語中的變化。",
+      "pattern": "Vてしまう→Vちゃう；Vでしまう→Vじゃう",
+      "explanation": "口語縮約常用於熟悉、非正式場合；基本語意仍含動作完成或遺憾。",
+      "nuance": "縮約形並不必然代表親密關係，正式報告和書面文通常避免使用。",
+      "example": {
+        "ja": "宿題を忘れちゃった。",
+        "reading": "しゅくだいをわすれちゃった。",
+        "zh": "不小心忘記作業了。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "不是所有「ちゃう」都只是負面情緒，它也可能表完成。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「飲んでしまった」的口語縮約？",
+          "choices": [
+            "飲んちゃった",
+            "飲んじゃった",
+            "飲んといた",
+            "飲みてる"
+          ],
+          "answerIndex": 1,
+          "explanation": "「でしまう」常縮成「じゃう」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N3總整理.docx",
+        "section": "第一章、語體切換與社會面具",
+        "pdfPage": null,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n3-c01-02",
+      "level": "N3",
+      "unitId": "n3-u01",
+      "title": "縮約：とく、てる、ちゃいけない",
+      "objective": "區分預先準備、持續狀態與禁止。",
+      "pattern": "ておく→とく／ている→てる／てはいけない→ちゃいけない",
+      "explanation": "「とく」是預先處理，「てる」是不完整寫法的口語縮約，「ちゃいけない」是口語禁止。",
+      "nuance": "在教學上須先掌握原形式再理解縮略形式；不能在所有正式場合直接使用。",
+      "example": {
+        "ja": "明日の資料を準備しとく。",
+        "reading": "あしたのしりょうをじゅんびしとく。",
+        "zh": "先準備明天的資料。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "不要把「しとく」當成另一種全新動詞活用類別。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「待っておく」的口語形式？",
+          "choices": [
+            "待ってる",
+            "待っとく",
+            "待っちゃう",
+            "待ってみる"
+          ],
+          "answerIndex": 1,
+          "explanation": "「ておく」縮成「とく」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N3總整理.docx",
+        "section": "第一章、語體切換與社會面具",
+        "pdfPage": null,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n3-c01-03",
+      "level": "N3",
+      "unitId": "n3-u01",
+      "title": "書面語：である、において",
+      "objective": "將口語或丁寧敘述轉為正式書面表達。",
+      "pattern": "である／名詞＋において／名詞＋における＋名詞",
+      "explanation": "「である」常見於學術及報導式敘述；「において」標示場合、領域與時間；連體修飾時用「における」。",
+      "nuance": "它們較正式，但不代表說話內容必然客觀正確或不可反駁。",
+      "example": {
+        "ja": "日本市場における需要を調査する。",
+        "reading": "にほんしじょうにおけるじゅようをちょうさする。",
+        "zh": "調查日本市場中的需求。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「における」要修飾後面的名詞，而「において」後接述語。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「学校＿＿教育」應選？",
+          "choices": [
+            "において",
+            "における",
+            "によると",
+            "につれて"
+          ],
+          "answerIndex": 1,
+          "explanation": "修飾名詞「教育」時使用「における」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N3總整理.docx",
+        "section": "第一章、語體切換與社會面具",
+        "pdfPage": null,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n3-c01-04",
+      "level": "N3",
+      "unitId": "n3-u01",
+      "title": "ともに／に伴って：關係與變化",
+      "objective": "理解伴隨與共同發生，不把兩者視為同義。",
+      "pattern": "名詞＋とともに／に伴って",
+      "explanation": "「とともに」可表同時或共同；「に伴って」常描述伴隨變動而發生的變化。",
+      "nuance": "「に伴って」不是在每個句子中都斷言已證明的因果；常只表示相關或伴隨。",
+      "example": {
+        "ja": "人口の増加に伴って、住宅も増えている。",
+        "reading": "じんこうのぞうかにともなって、じゅうたくもふえている。",
+        "zh": "伴隨人口增加，住宅也在增加。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「に伴って」常表伴隨變化；類似的「につれて」也常用於漸進變化，但接續與語氣須分別學習。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「景気の回復に伴って」最接近？",
+          "choices": [
+            "與景氣復甦無關",
+            "隨著景氣復甦",
+            "因為景氣必定崩盤",
+            "不論景氣如何"
+          ],
+          "answerIndex": 1,
+          "explanation": "「に伴って」表伴隨變化。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N3總整理.docx",
+        "section": "第一章、語體切換與社會面具",
+        "pdfPage": null,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n3-c02-01",
+      "level": "N3",
+      "unitId": "n3-u02",
+      "title": "わけだ／わけがない",
+      "objective": "透過理由做歸納或強烈否定。",
+      "pattern": "普通形＋わけだ／わけがない",
+      "explanation": "「わけだ」可表示理解原因後「難怪」或推論結果；「わけがない」表示依理由判斷不可能。",
+      "nuance": "「わけがない」是強烈主觀判斷，不是形式邏輯上不可反駁的證明。",
+      "example": {
+        "ja": "毎日練習しているんですね。上手なわけです。",
+        "reading": "まいにちれんしゅうしているんですね。じょうずなわけです。",
+        "zh": "原來每天都在練習，難怪那麼厲害。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「わけではない」是部分否定，與「わけがない」不同。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「その値段で買えるわけがない」表示？",
+          "choices": [
+            "買得起",
+            "不可能買得起",
+            "理應買到",
+            "打算買"
+          ],
+          "answerIndex": 1,
+          "explanation": "「わけがない」表強烈的不可能判斷。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N3總整理.docx",
+        "section": "第三章、心理評價與絕對性判斷",
+        "pdfPage": null,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n3-c02-02",
+      "level": "N3",
+      "unitId": "n3-u02",
+      "title": "はずだ／に違いない",
+      "objective": "根據預期或線索表達較強判斷。",
+      "pattern": "普通形＋はずだ／に違いない",
+      "explanation": "「はずだ」常根據已知資訊形成預期；「に違いない」帶有說話者確信的推斷。",
+      "nuance": "不應把這兩者變成固定的百分比確信度或「絕對真理」。",
+      "example": {
+        "ja": "電車はもう着いたはずです。",
+        "reading": "でんしゃはもうついたはずです。",
+        "zh": "電車按理應該已經到了。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「はずだった」與實際結果不符時，常有落差的語氣。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「按時刻表，車現在應該到了」較符合？",
+          "choices": [
+            "着いたはずだ",
+            "着いてはいけない",
+            "着くしかない",
+            "着いてしまう"
+          ],
+          "answerIndex": 0,
+          "explanation": "既有資訊支持的預期可用「はずだ」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N3總整理.docx",
+        "section": "第三章、心理評價與絕對性判斷",
+        "pdfPage": null,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n3-c03-01",
+      "level": "N3",
+      "unitId": "n3-u03",
+      "title": "きる、きれない、抜く",
+      "objective": "比較完成、無法完成和堅持到底。",
+      "pattern": "Vます去ます＋きる／きれない／抜く",
+      "explanation": "「きる」強調做到最後；「きれない」表示無法全部完成；「抜く」常表示忍受困難而堅持完成。",
+      "nuance": "三者不都是「努力」的同義詞；「きる」也能用於耗盡或程度很高的情況。",
+      "example": {
+        "ja": "この料理は量が多くて食べきれない。",
+        "reading": "このりょうりはりょうがおおくてたべきれない。",
+        "zh": "這份料理太多，吃不完。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「食べられない」是不能吃，「食べきれない」是無法全部吃完。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「最後まで走り＿＿」表示堅持跑完全程？",
+          "choices": [
+            "きる",
+            "かける",
+            "たて",
+            "っぱなし"
+          ],
+          "answerIndex": 0,
+          "explanation": "「走りきる」表示跑到最後。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N3總整理.docx",
+        "section": "第四章、時間軸的微觀刻畫",
+        "pdfPage": null,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n3-c03-02",
+      "level": "N3",
+      "unitId": "n3-u03",
+      "title": "かける、たて、っぱなし",
+      "objective": "描述進行未完、剛完成及狀態放置。",
+      "pattern": "Vます去ます＋かける／たて／っぱなし",
+      "explanation": "「かける」可表示動作做到一半；「たて」表示剛完成的狀態；「っぱなし」表示一個狀態一直未處理。",
+      "nuance": "「っぱなし」常有不滿或疏忽的語感，但也能客觀描述狀態。",
+      "example": {
+        "ja": "電気をつけっぱなしで出かけた。",
+        "reading": "でんきをつけっぱなしででかけた。",
+        "zh": "燈沒關就出門了。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「読みかけの本」是讀到一半的書，不是新出版的書。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「焼き＿＿のパン」表示剛烤好的麵包？",
+          "choices": [
+            "っぱなし",
+            "たて",
+            "きれない",
+            "ながら"
+          ],
+          "answerIndex": 1,
+          "explanation": "「焼きたて」表示剛烤好。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N3總整理.docx",
+        "section": "第四章、時間軸的微觀刻畫",
+        "pdfPage": null,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n3-c04-01",
+      "level": "N3",
+      "unitId": "n3-u04",
+      "title": "こそ、さえ：強調與極端例示",
+      "objective": "理解聚焦與「連……都」的用法。",
+      "pattern": "名詞＋こそ／さえ",
+      "explanation": "「こそ」強調一個焦點，「さえ」可以舉極端事例，表示連最低限度的條件都無法達成，或「只要～就～」。",
+      "nuance": "「さえ」有多種接續形式，不能只用一個中文譯法套在全部句子上。",
+      "example": {
+        "ja": "彼は自分の名前さえ書けない。",
+        "reading": "かれはじぶんのなまえさえかけない。",
+        "zh": "他連自己的名字都寫不出來。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「さえ～ば」與「さえ～ない」的邏輯功能不同。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「今日こそ」常表示？",
+          "choices": [
+            "今天也不重要",
+            "正是今天",
+            "不要今天",
+            "昨天才是"
+          ],
+          "answerIndex": 1,
+          "explanation": "「こそ」加強焦點「今天」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N3總整理.docx",
+        "section": "第五章、範圍限縮與主體聚焦",
+        "pdfPage": null,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n3-c04-02",
+      "level": "N3",
+      "unitId": "n3-u04",
+      "title": "だらけ、がち、気味",
+      "objective": "區分充滿、易於發生與稍有傾向。",
+      "pattern": "名詞＋だらけ／Vます去ます＋がち／名詞＋気味",
+      "explanation": "「だらけ」常表示充滿不理想的事物；「がち」表示某種傾向常發生；「気味」表示有點那樣的感覺或狀態。",
+      "nuance": "「気味」比一般斷定更保留餘地；不能把所有「がち」直接翻成一定會發生。",
+      "example": {
+        "ja": "最近、少し疲れ気味です。",
+        "reading": "さいきんすこしつかれぎみです。",
+        "zh": "最近稍微有點累。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「ほこりだらけ」常帶負面評價，不等於單純「很多灰塵」的中性說法。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「遅れがち」最接近哪種意思？",
+          "choices": [
+            "常常容易遲到",
+            "絕不遲到",
+            "剛遲到一次",
+            "必須遲到"
+          ],
+          "answerIndex": 0,
+          "explanation": "「がち」表示容易出現某種傾向。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N3總整理.docx",
+        "section": "第五章、範圍限縮與主體聚焦",
+        "pdfPage": null,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n2-c01-01",
+      "level": "N2",
+      "unitId": "n2-u01",
+      "title": "に際して・にあたって・を皮切りに",
+      "objective": "區分重要場合、著手時及一連串事件的開始。",
+      "pattern": "N＋に際して／N＋にあたって／N＋を皮切りに",
+      "explanation": "前兩種常用於重要事件或正式場合，後者常表示某件事為一系列活動的開端。",
+      "nuance": "「に際して」並非每次都需要儀式；「にあたって」不必然含積極情緒。",
+      "example": {
+        "ja": "新店舗の開業にあたって、説明会を開いた。",
+        "reading": "しんてんぽのかいぎょうにあたってせつめいかいをひらいた。",
+        "zh": "在新店開幕之際舉辦了說明會。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「皮切り」需要有後續連續發生的語境。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「東京公演＿＿、全国ツアーが始まった」應填？",
+          "choices": [
+            "を皮切りに",
+            "にすぎない",
+            "ざるを得ない",
+            "ものなら"
+          ],
+          "answerIndex": 0,
+          "explanation": "從東京公演開始一系列巡迴演出，可用「を皮切りに」。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N2總整理.pdf",
+        "section": "第一章、時間軸之奈米切片",
+        "pdfPage": 3,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n2-c01-02",
+      "level": "N2",
+      "unitId": "n2-u01",
+      "title": "たとたん・かと思うと・次第",
+      "objective": "辨別突然、迅速連續與一旦完成就執行。",
+      "pattern": "Vた＋とたん／Vた＋かと思うと／Vます去ます＋次第",
+      "explanation": "「たとたん」表示緊接著發生的意外變化；「かと思うと」表示前後兩個狀態迅速交替；「次第」可表示一旦前項完成便做後項。",
+      "nuance": "「次第」在商務文中常見，但也可在其他正式場合使用。",
+      "example": {
+        "ja": "結果が分かり次第、ご連絡します。",
+        "reading": "けっかがわかりしだいごれんらくします。",
+        "zh": "結果一出來就聯絡您。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「とたん」後句通常不適合接明顯可由自己自由控制的意志計畫。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「資料が届き＿＿、お送りします」應填？",
+          "choices": [
+            "次第",
+            "ものの",
+            "ほど",
+            "きり"
+          ],
+          "answerIndex": 0,
+          "explanation": "「Vます去ます＋次第」表示前項一完成立即進行後項。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N2總整理.pdf",
+        "section": "第一章、時間軸之奈米切片",
+        "pdfPage": 3,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n2-c01-03",
+      "level": "N2",
+      "unitId": "n2-u01",
+      "title": "つつある・ながらも",
+      "objective": "閱讀趨勢變化及轉折並存。",
+      "pattern": "Vます去ます＋つつある／普通形・名詞＋ながらも",
+      "explanation": "「つつある」常表變化正在進行；「ながらも」表示雖處於前項狀態，仍出現反預期的後項。",
+      "nuance": "「つつある」不是可以直接取代所有「ている」的書面版本。",
+      "example": {
+        "ja": "景気は少しずつ回復しつつある。",
+        "reading": "けいきはすこしずつかいふくしつつある。",
+        "zh": "景氣正逐步復甦。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「ながらも」不同於單純同時做兩個動作的「ながら」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「回復しつつある」表示？",
+          "choices": [
+            "復甦正在進行",
+            "完全沒有變化",
+            "已全面停止",
+            "明令禁止"
+          ],
+          "answerIndex": 0,
+          "explanation": "「つつある」表示變化過程仍在進行。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N2總整理.pdf",
+        "section": "第一章、時間軸之奈米切片",
+        "pdfPage": 3,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n2-c02-01",
+      "level": "N2",
+      "unitId": "n2-u02",
+      "title": "上は・からには・以上は",
+      "objective": "理解既定前提與決心、義務的連結。",
+      "pattern": "普通形＋からには／以上は；Vた＋上は",
+      "explanation": "三者都可表「既然～就～」，實際語氣與書面程度不同，後項常跟責任、決意或應當承擔的事。",
+      "nuance": "原整理所談的「主觀／客觀強度」是常見傾向，不是三者絕不能互換的鐵律。",
+      "example": {
+        "ja": "約束したからには、最後までやり抜きます。",
+        "reading": "やくそくしたからにはさいごまでやりぬきます。",
+        "zh": "既然答應了，就會堅持到底。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「上は」與「上で」不是相同句型。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「決めた＿＿、責任を持つ」最合適？",
+          "choices": [
+            "からには",
+            "ばかり",
+            "がち",
+            "かねる"
+          ],
+          "answerIndex": 0,
+          "explanation": "「決めたからには」表既然做出決定，就承擔結果。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N2總整理.pdf",
+        "section": "第二章、絕對邏輯與界線封鎖",
+        "pdfPage": 5,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n2-c02-02",
+      "level": "N2",
+      "unitId": "n2-u02",
+      "title": "を問わず・にかかわらず・限り",
+      "objective": "限制與取消限制的不同功能。",
+      "pattern": "N＋を問わず／N＋にかかわらず／V普通形＋限り",
+      "explanation": "「を問わず」忽略特定分類，「にかかわらず」表示不受某條件影響；「限り」可設定條件持續的範圍。",
+      "nuance": "「限り」不必然導出絕對真理，依後項時態與主觀判斷而定。",
+      "example": {
+        "ja": "年齢を問わず、参加できます。",
+        "reading": "ねんれいをとわずさんかできます。",
+        "zh": "不分年齡都能參加。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「にかかわらず」可處理對立條件，不要與「にもかかわらず」逆接混淆。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「天候＿＿試合を行う」表示不管天氣如何？",
+          "choices": [
+            "にかかわらず",
+            "に反して",
+            "を皮切りに",
+            "に基づいて"
+          ],
+          "answerIndex": 0,
+          "explanation": "「にかかわらず」表示條件不影響結果。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N2總整理.pdf",
+        "section": "第二章、絕對邏輯與界線封鎖",
+        "pdfPage": 5,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n2-c02-03",
+      "level": "N2",
+      "unitId": "n2-u02",
+      "title": "ざるを得ない・ほかない・ようがない",
+      "objective": "區分無奈的義務、僅剩選項與沒有方法。",
+      "pattern": "Vない形去ない＋ざるを得ない／Vる＋ほかない／Vます去ます＋ようがない",
+      "explanation": "「ざるを得ない」表示不得不做；「ほかない」表示別無選擇；「ようがない」表示缺乏具體方法、手段。",
+      "nuance": "「ざるを得ない」常含無奈，但不是法律上不可抗力的專用詞。",
+      "example": {
+        "ja": "資料がないので、調べようがありません。",
+        "reading": "しりょうがないのでしらべようがありません。",
+        "zh": "因為沒有資料，無從調查。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「する」的不規則形式是「せざるを得ない」。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「連絡先がなくて、連絡し＿＿」表示沒有辦法？",
+          "choices": [
+            "ようがない",
+            "きれない",
+            "つつある",
+            "しかない"
+          ],
+          "answerIndex": 0,
+          "explanation": "「Vます去ます＋ようがない」表示沒有可行方法。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N2總整理.pdf",
+        "section": "第二章、絕對邏輯與界線封鎖",
+        "pdfPage": 5,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n2-c03-01",
+      "level": "N2",
+      "unitId": "n2-u03",
+      "title": "反面・一方で・とはいえ",
+      "objective": "比較事物兩面與承認前提的讓步。",
+      "pattern": "N＋の反面／一方で／普通形＋とはいえ",
+      "explanation": "「反面」聚焦事物正反兩面，「一方で」常並列相對不同的面向；「とはいえ」先承認前項，再補入保留或反對意見。",
+      "nuance": "不能將「反面」「一方で」全部理解為嚴格因果反轉。",
+      "example": {
+        "ja": "便利な反面、費用が高い。",
+        "reading": "べんりなはんめんひようがたかい。",
+        "zh": "雖然方便，但另一方面費用很高。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「とはいえ」可承認前句為事實後再提出限制。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「便利な＿＿、費用が高い」適合哪個？",
+          "choices": [
+            "反面",
+            "次第",
+            "おそれ",
+            "きり"
+          ],
+          "answerIndex": 0,
+          "explanation": "「反面」可描寫同一件事的另一面。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N2總整理.pdf",
+        "section": "第三章、高階辯證法",
+        "pdfPage": 8,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n2-c03-02",
+      "level": "N2",
+      "unitId": "n2-u03",
+      "title": "に反して・どころか・にしても",
+      "objective": "處理預期違背、強烈否定和假設讓步。",
+      "pattern": "N＋に反して／普通形＋どころか／普通形＋にしても",
+      "explanation": "「に反して」表示與預測、期待或規則相反；「どころか」推翻較弱的預期並強調實際情形；「にしても」先承認或假設前項。",
+      "nuance": "「どころか」須依文意判斷是升級還是降級的出乎意料。",
+      "example": {
+        "ja": "予想に反して、試験は簡単だった。",
+        "reading": "よそうにはんしてしけんはかんたんだった。",
+        "zh": "與預期相反，考試很簡單。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「にもかかわらず」與「にかかわらず」是不同句型。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「予定＿＿、結果が良かった」表示出乎預期？",
+          "choices": [
+            "に反して",
+            "を問わず",
+            "に基づいて",
+            "に応じて"
+          ],
+          "answerIndex": 0,
+          "explanation": "「に反して」表示與原先預測相反。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N2總整理.pdf",
+        "section": "第三章、高階辯證法",
+        "pdfPage": 8,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n2-c04-01",
+      "level": "N2",
+      "unitId": "n2-u04",
+      "title": "にきまっている・にすぎない・にほかならない",
+      "objective": "比較強烈斷定、低估與排他性認定。",
+      "pattern": "普通形＋にきまっている／N＋にすぎない／N＋にほかならない",
+      "explanation": "「にきまっている」表示主觀上確信；「にすぎない」貶低程度或限定；「にほかならない」強調就是某種本質或原因。",
+      "nuance": "語氣強弱是語用差異，不代表客觀證據一定較多。",
+      "example": {
+        "ja": "これは単なる偶然にすぎない。",
+        "reading": "これはたんなるぐうぜんにすぎない。",
+        "zh": "這只不過是偶然而已。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "對正式論文而言，不要以「にきまっている」替代證據。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「只是偶然」較自然的說法？",
+          "choices": [
+            "偶然にすぎない",
+            "偶然を問わず",
+            "偶然次第",
+            "偶然に際して"
+          ],
+          "answerIndex": 0,
+          "explanation": "「にすぎない」表示只不過是～。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N2總整理.pdf",
+        "section": "第四章、視角聚焦、評價",
+        "pdfPage": 11,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n2-c04-02",
+      "level": "N2",
+      "unitId": "n2-u04",
+      "title": "ないではいられない・をめぐって・に基づく",
+      "objective": "理解難以抑制的反應、爭議焦點與依據。",
+      "pattern": "Vないではいられない／N＋をめぐって／N＋に基づく",
+      "explanation": "「ないではいられない」表示忍不住；「をめぐって」表示圍繞某問題；「に基づく」表示有明確的依據或基礎。",
+      "nuance": "「に基づく」是有依據的形式，不代表該依據必然真實或充分。",
+      "example": {
+        "ja": "調査結果に基づいて、計画を変更した。",
+        "reading": "ちょうさけっかにもとづいてけいかくをへんこうした。",
+        "zh": "根據調查結果修改了計畫。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「をめぐって」多與意見、爭論、事件、情勢等搭配。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「資料＿＿報告を書く」表示依據資料？",
+          "choices": [
+            "に基づいて",
+            "を皮切りに",
+            "にすぎない",
+            "しかない"
+          ],
+          "answerIndex": 0,
+          "explanation": "「に基づいて」表示以材料作為依據。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N2總整理.pdf",
+        "section": "第四章、視角聚焦、評價",
+        "pdfPage": 11,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n2-c05-01",
+      "level": "N2",
+      "unitId": "n2-u05",
+      "title": "おそれがある・かねない",
+      "objective": "區分客觀風險表述與負面可能性的推測。",
+      "pattern": "Vる／Nの＋おそれがある／Vます去ます＋かねない",
+      "explanation": "「おそれがある」常見於報告或公告，提示不利事件風險；「かねない」表示可能導致不好的結果。",
+      "nuance": "不能將這兩者當作已經確定會發生的事實。",
+      "example": {
+        "ja": "大雨で電車が遅れるおそれがあります。",
+        "reading": "おおあめででんしゃがおくれるおそれがあります。",
+        "zh": "因大雨，電車可能延誤。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "「かねる」表示難以做到，與「かねない」不能混淆。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「大きな事故が起きる＿＿」應填？",
+          "choices": [
+            "おそれがある",
+            "ことになる",
+            "きりだ",
+            "に際して"
+          ],
+          "answerIndex": 0,
+          "explanation": "「おそれがある」常用於負面風險預告。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N2總整理.pdf",
+        "section": "第五章、商業防禦與風險控管",
+        "pdfPage": 14,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    },
+    {
+      "id": "n2-c05-02",
+      "level": "N2",
+      "unitId": "n2-u05",
+      "title": "がたい・得ない・こと／まい",
+      "objective": "理解難以接受、不可能與正式的義務語氣。",
+      "pattern": "Vます去ます＋がたい／得ない／Vる＋まい／指示＋こと",
+      "explanation": "「がたい」常表示心理上或性質上難以做到；「得ない」表示不可能；規章句尾「こと」表要求；「まい」可表否定推測或不做某事的決心。",
+      "nuance": "「がたい」不是所有物理不可能的通用形式；「まい」的接續和意思需依句型辨別。",
+      "example": {
+        "ja": "この説明には納得しがたい。",
+        "reading": "このせつめいにはなっとくしがたい。",
+        "zh": "這個說明令人難以接受。",
+        "provenance": "助理編寫之示例（非來源原文）"
+      },
+      "caution": "命令性「～こと」常見於規章，不等於所有名詞化「こと」都在命令。",
+      "questions": [
+        {
+          "id": "check-1",
+          "prompt": "「規則を守る＿＿」作公告指示？",
+          "choices": [
+            "こと",
+            "がち",
+            "からには",
+            "どころか"
+          ],
+          "answerIndex": 0,
+          "explanation": "句末「こと」可用於正式規章或書面指示。"
+        }
+      ],
+      "reviewStatus": "editorial_draft",
+      "sourceType": "user_document_based",
+      "source": {
+        "filename": "N2總整理.pdf",
+        "section": "第五章、商業防禦與風險控管",
+        "pdfPage": 14,
+        "note": "由使用者提供的總整理之相關主題改寫；規則與例句採教學化重述，非原文逐字轉錄。"
+      }
+    }
+  ]
+}

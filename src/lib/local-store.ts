@@ -19,15 +19,24 @@ export type LocalReadingAnswer = {
   correct: boolean
   submittedAt: string
 }
+export type LocalCourseProgress = {
+  readCompleted: boolean
+  quizPassed: boolean
+  attempts: number
+  correctCount: number
+  lastAnswer: number | null
+  updatedAt: string
+}
 export type LocalStudyState = {
   schemaVersion: 1
   progress: Record<string, LocalProgress>
   bookmarks: Record<string, boolean>
   notes: Record<string, string>
   readingAnswers: Record<string, LocalReadingAnswer>
+  courses: Record<string, LocalCourseProgress>
 }
 export function emptyState(): LocalStudyState {
-  return { schemaVersion: 1, progress: {}, bookmarks: {}, notes: {}, readingAnswers: {} }
+  return { schemaVersion: 1, progress: {}, bookmarks: {}, notes: {}, readingAnswers: {}, courses: {} }
 }
 export function recordKey(level: JlptLevel, section: JlptSection, id: string) {
   return `${level}:${section}:${id}`
@@ -45,6 +54,7 @@ function validateState(raw: unknown): LocalStudyState {
   const bookmarks: LocalStudyState['bookmarks'] = {}
   const notes: LocalStudyState['notes'] = {}
   const readingAnswers: LocalStudyState['readingAnswers'] = {}
+  const courses: LocalStudyState['courses'] = {}
   if (Object.keys(raw.progress).length > 200000) throw new Error('學習紀錄筆數異常。')
   for (const [key, value] of Object.entries(raw.progress)) {
     if (!isRecord(value)) throw new Error('學習進度格式不正確。')
@@ -73,7 +83,45 @@ function validateState(raw: unknown): LocalStudyState {
       readingAnswers[key] = {choiceIndex:value.choiceIndex as number,correct:value.correct,submittedAt:value.submittedAt}
     }
   }
-  return { schemaVersion:1, progress, bookmarks, notes, readingAnswers }
+  // v0.4.1 及更早版本不含課程進度。保留舊備份相容性。
+  if (raw.courses !== undefined) {
+    if (!isRecord(raw.courses) || Object.keys(raw.courses).length > 10000) throw new Error('課程進度格式不正確。')
+    for (const [key, value] of Object.entries(raw.courses)) {
+      if (!/^N[2345]:[a-z0-9-]+$/.test(key) || !isRecord(value) || typeof value.readCompleted !== 'boolean' || typeof value.quizPassed !== 'boolean' ||
+          typeof value.attempts !== 'number' || !Number.isInteger(value.attempts) || value.attempts < 0 || value.attempts > 100000 ||
+          typeof value.correctCount !== 'number' || !Number.isInteger(value.correctCount) || value.correctCount < 0 || value.correctCount > value.attempts ||
+          (value.lastAnswer !== null && (typeof value.lastAnswer !== 'number' || !Number.isInteger(value.lastAnswer) || value.lastAnswer < 0 || value.lastAnswer > 3)) ||
+          typeof value.updatedAt !== 'string') throw new Error('課程進度格式不正確。')
+      courses[key] = {readCompleted:value.readCompleted,quizPassed:value.quizPassed,
+        attempts:value.attempts,correctCount:value.correctCount,lastAnswer:value.lastAnswer as number | null,updatedAt:value.updatedAt}
+    }
+  }
+  return { schemaVersion:1, progress, bookmarks, notes, readingAnswers, courses }
+}
+export function courseRecordKey(level: JlptLevel, lessonId: string) { return `${level}:${lessonId}` }
+export function markCourseRead(level: JlptLevel, lessonId: string, readCompleted: boolean) {
+  return updateLocalStudy(prev => {
+    const key = courseRecordKey(level, lessonId)
+    const current = prev.courses[key]
+    return {...prev, courses:{...prev.courses, [key]:{
+      readCompleted,quizPassed:current?.quizPassed??false, attempts:current?.attempts??0,
+      correctCount:current?.correctCount??0,lastAnswer:current?.lastAnswer??null,updatedAt:new Date().toISOString(),
+    }}}
+  })
+}
+export function recordCourseAttempt(level: JlptLevel, lessonId: string, choice: number, answerIndex: number) {
+  if (!Number.isInteger(choice) || choice < 0 || choice > 3 || !Number.isInteger(answerIndex) || answerIndex < 0 || answerIndex > 3) throw new Error('題目選項錯誤。')
+  const correct = choice === answerIndex
+  updateLocalStudy(prev => {
+    const key = courseRecordKey(level,lessonId)
+    const current = prev.courses[key]
+    return {...prev, courses:{...prev.courses,[key]:{
+      readCompleted:current?.readCompleted??false, quizPassed:(current?.quizPassed??false)||correct,
+      attempts:(current?.attempts??0)+1,correctCount:(current?.correctCount??0)+(correct?1:0),lastAnswer:choice,
+      updatedAt:new Date().toISOString(),
+    }}}
+  })
+  return correct
 }
 export function readLocalState(): LocalStudyState {
   if (typeof window === 'undefined') return emptyState()

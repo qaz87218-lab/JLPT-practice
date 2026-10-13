@@ -1,6 +1,6 @@
 {
   "name": "jlpt-deep-practice-app",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -12,7 +12,8 @@
     "verify:reading": "node scripts/verify-reading.mjs",
     "import:vocab": "node scripts/import-openjlpt.mjs",
     "verify:2018": "node scripts/verify-full-2018.mjs",
-    "verify:deep": "node scripts/verify-deep-grammar.mjs"
+    "verify:deep": "node scripts/verify-deep-grammar.mjs",
+    "verify:courses": "node scripts/verify-courses.mjs"
   },
   "dependencies": {
     "next": "latest",
