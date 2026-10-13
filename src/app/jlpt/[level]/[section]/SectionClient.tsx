@@ -5,20 +5,24 @@ import { useParams,useRouter } from 'next/navigation'
 import { JLPT_DATA,JLPT_SECTION_META,isJlptLevel,isJlptSection } from '@/data/jlpt'
 import { recordKey,setLocalNote,setLocalStatus,toggleLocalBookmark,useLocalStudy } from '@/lib/local-store'
 import type { GrammarItem,JlptLevel,JlptSection } from '@/lib/types'
+import deepNotes from '@/data/grammar-deep-notes.json'
 import VocabularyClient from './VocabularyClient'
 import ReadingPracticeClient from './ReadingPracticeClient'
 import ExamIndexClient from './ExamIndexClient'
 
 type FilterMode='all'|'bookmarked'|'wrong'|'mastered'
+const deepNoteIndex = new Map(deepNotes.map(note=>[note.grammarId,note]))
 function getItems(level:JlptLevel,section:JlptSection) {
  const data=JLPT_DATA[level];return section==='mock'?data.mockTests:data[section]
 }
 function GrammarCard({item,level,stateStatus,isBookmarked,note,onError}:{item:GrammarItem;level:JlptLevel;stateStatus:'new'|'learning'|'mastered';isBookmarked:boolean;note:string;onError:(msg:string)=>void}) {
  const [noteOpen,setNoteOpen]=useState(false),[draft,setDraft]=useState(note)
+ const deepNote=deepNoteIndex.get(item.id)
  function run(action:()=>void) {try {action()}catch(err){onError(err instanceof Error?err.message:'儲存失敗')}}
  return <article className="content-card"><details className="grammar-details"><summary><span className="grammar-title">{item.pattern}</span><span className="grammar-meta">{item.meaningZh}</span><span className="grammar-source">{item.sourceTitle ?? ''}{item.sourceBookPage?` ｜ 書頁 ${item.sourceBookPage}`:''}</span><span className="small muted">{stateStatus==='mastered'?'✓ 已掌握':stateStatus==='learning'?'• 學習中':isBookmarked?'★ 已收藏':''}</span></summary>
    <div className="grammar-body"><p><b>接續：</b>{item.connection??'尚待建置'}</p><p><b>詳細解說：</b>{item.explanation??'尚待建置'}</p>{item.nuance&&<p><b>語感：</b>{item.nuance}</p>}{item.usageCautions&&<p><b>注意：</b>{item.usageCautions}</p>}{item.similarGrammar&&<p><b>相似文法：</b>{item.similarGrammar}</p>}
      {(item.examples??[]).map((ex,index)=><div key={index} className="grammar-example"><div className="grammar-japanese">{index+1}. {ex.ja}</div>{ex.reading&&<div className="grammar-reading">{ex.reading}</div>}<div>{ex.zh}</div></div>)}
+     {deepNote&&<details className="grammar-deep-study"><summary>深度解析補充｜{deepNote.topic}</summary><div className="grammar-deep-study-content"><p><b>文法原理：</b>{deepNote.deepExplanation}</p><p><b>原資料校正：</b>{deepNote.reviewNote}</p><p className="muted small">補充來源：{deepNote.sourceDocument}｜摘取原文件的主題並重新校對；屬助理修訂，尚未經教師終審。</p></div></details>}
      {item.provenance&&<p className="grammar-provenance">{item.provenance}</p>}
      <div className="study-actions"><button className="ghost-button bordered" onClick={()=>run(()=>toggleLocalBookmark(level,'grammar',item.id))}>{isBookmarked?'★ 取消收藏':'☆ 收藏'}</button><button className="ghost-button bordered" onClick={()=>run(()=>setLocalStatus(level,'grammar',item.id,'learning'))}>學習中</button><button className="ghost-button bordered" onClick={()=>run(()=>setLocalStatus(level,'grammar',item.id,'mastered'))}>✓ 已掌握</button><button className="ghost-button bordered" onClick={()=>run(()=>setLocalStatus(level,'grammar',item.id,'new'))}>重置狀態</button><button className="ghost-button bordered" onClick={()=>{setNoteOpen(!noteOpen);setDraft(note)}}>{note?'編輯筆記':'新增筆記'}</button></div>
      {noteOpen&&<div className="note-editor"><label htmlFor={`note-${item.id}`}>我的筆記（只存本機）</label><textarea id={`note-${item.id}`} value={draft} onChange={e=>setDraft(e.target.value)} maxLength={20000} rows={4}/><div><button className="primary-button" onClick={()=>run(()=>{setLocalNote(level,'grammar',item.id,draft);setNoteOpen(false)})}>儲存筆記</button></div></div>}

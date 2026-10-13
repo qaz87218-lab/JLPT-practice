@@ -1,0 +1,1503 @@
+{
+  "schema_version": "1.0",
+  "exam_id": "JLPT-N2-2018-07",
+  "level": "N2",
+  "year": 2018,
+  "month": 7,
+  "source_name": "2018年07月.pdf（使用者提供第三方掃描整理版）",
+  "source_verified_official": false,
+  "answer_key_pdf_page": 34,
+  "question_count": 54,
+  "note": "PDF 第 3～6 頁是題目；第 24～33 頁含來源整理者解析；本 JSON 解說為編寫內容，尚待專業審校。★排序題依第34頁參考解答及原卷位置校對。",
+  "questions": [
+    {
+      "id": "JLPT-N2-2018-07-Q001",
+      "number": 1,
+      "test_part": "問題1",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "私は少し怖いと思いました。 （「怖い」の読み方）",
+      "question_zh": "我覺得有點害怕。",
+      "options_jp": [
+        "つらい",
+        "きつい",
+        "ゆるい",
+        "こわい"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "「怖い」は「こわい」，表示害怕、可怕。",
+      "choices_explanation_zh": [
+        "「辛い（つらい）」是辛苦痛苦。",
+        "「きつい」偏緊繃、嚴厲、費力。",
+        "「緩い（ゆるい）」是鬆弛。",
+        "正確。「怖い」は「こわい」，表示害怕、可怕。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q002",
+      "number": 2,
+      "test_part": "問題1",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "この食品は冷蔵庫で保存してください。（「冷蔵庫」の読み方）",
+      "question_zh": "請將這個食品保存在冰箱。",
+      "options_jp": [
+        "れいとうこ",
+        "れいぞうこう",
+        "れいぞうこ",
+        "れいとうこう"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "「冷蔵庫」讀作「れいぞうこ」；「冷凍庫」才是「れいとうこ」。",
+      "choices_explanation_zh": [
+        "「れいとうこ」是「冷凍庫」。",
+        "「ぞう」對應「蔵」，不是「ぞうこう」。",
+        "正確。「冷蔵庫」讀作「れいぞうこ」；「冷凍庫」才是「れいとうこ」。",
+        "詞尾與「蔵庫」讀法不符。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q003",
+      "number": 3,
+      "test_part": "問題1",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "今年の支出は総額で約5,300万円だった。（「総額」の読み方）",
+      "question_zh": "今年支出總額約五千三百萬日圓。",
+      "options_jp": [
+        "こうがく",
+        "そうがく",
+        "そうかく",
+        "こうかく"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "「総額」讀作「そうがく」，指合計金額。",
+      "choices_explanation_zh": [
+        "「高額（こうがく）」表示金額很高。",
+        "正確。「総額」讀作「そうがく」，指合計金額。",
+        "「がく」不能改讀成「かく」。",
+        "「こうかく」不是「総額」的讀法。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q004",
+      "number": 4,
+      "test_part": "問題1",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "まだ湿っているから、もう少し待ちましょう。（「湿って」の読み方）",
+      "question_zh": "還是濕的，再稍微等一下。",
+      "options_jp": [
+        "こおって",
+        "にごって",
+        "しめって",
+        "たまって"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "「湿る（しめる）」的て形「湿って（しめって）」，表示潮濕。",
+      "choices_explanation_zh": [
+        "「凍って」表示已結冰。",
+        "「濁って」表示水等混濁。",
+        "正確。「湿る（しめる）」的て形「湿って（しめって）」，表示潮濕。",
+        "「溜まって」表示累積。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q005",
+      "number": 5,
+      "test_part": "問題1",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "応募者には抽選でプレゼントが当たります。（「抽選」の読み方）",
+      "question_zh": "將抽獎選出獲得禮物的報名者。",
+      "options_jp": [
+        "ちゅうせん",
+        "ちゅうぜん",
+        "つうせん",
+        "つうぜん"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "「抽選（ちゅうせん）」是抽籤、抽獎，常見「抽選で当たる」。",
+      "choices_explanation_zh": [
+        "正確。「抽選（ちゅうせん）」是抽籤、抽獎，常見「抽選で当たる」。",
+        "「ちゅうぜん」濁音錯誤。",
+        "「つうせん」首音節錯誤。",
+        "「つうぜん」首音節與濁音都錯。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q006",
+      "number": 6,
+      "test_part": "問題2",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "この国にはまだゆたかな自然が残されている。",
+      "question_zh": "這個國家仍保有豐富的自然環境。",
+      "options_jp": [
+        "恵か",
+        "富か",
+        "豊か",
+        "満か"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "「ゆたか」寫作「豊か」；「豊かな自然」是自然環境豐富。",
+      "choices_explanation_zh": [
+        "「恵か」並非「ゆたか」的正確漢字。",
+        "「富か」形容富有時寫法有別，這裡不合。",
+        "正確。「ゆたか」寫作「豊か」；「豊かな自然」是自然環境豐富。",
+        "「満か」不是這個形容詞的寫法。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q007",
+      "number": 7,
+      "test_part": "問題2",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "このセミナーの目標は、「自分で考える力」をやしなうことです。",
+      "question_zh": "這場研討會旨在培養獨立思考能力。",
+      "options_jp": [
+        "得う",
+        "築う",
+        "育う",
+        "養う"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "「やしなう」寫作「養う」，「力を養う」是培養能力。",
+      "choices_explanation_zh": [
+        "「得う」不是「やしなう」的寫法。",
+        "「築う」不寫作「やしなう」。",
+        "「育う」不是「やしなう」的固定寫法。",
+        "正確。「やしなう」寫作「養う」，「力を養う」是培養能力。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q008",
+      "number": 8,
+      "test_part": "問題2",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "ガラスのはへんを踏まないように気をつけてください。",
+      "question_zh": "請小心別踩到玻璃碎片。",
+      "options_jp": [
+        "破片",
+        "被片",
+        "破辺",
+        "被辺"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "「はへん」寫作「破片（はへん）」，指破碎的小塊。",
+      "choices_explanation_zh": [
+        "正確。「はへん」寫作「破片（はへん）」，指破碎的小塊。",
+        "「被片」不能表示玻璃碎片。",
+        "「破辺」字形錯誤。",
+        "「被辺」字形與語意都不合。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q009",
+      "number": 9,
+      "test_part": "問題2",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "工場の入り口には夜間でもけいびの人がいる。",
+      "question_zh": "工廠入口晚上也有警衛。",
+      "options_jp": [
+        "警秘",
+        "警備",
+        "係備",
+        "係秘"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "「けいび」寫作「警備」，指警戒保全；「警備の人」是保全人員。",
+      "choices_explanation_zh": [
+        "「警秘」不是「けいび」的正確漢字。",
+        "正確。「けいび」寫作「警備」，指警戒保全；「警備の人」是保全人員。",
+        "「係備」字形不對。",
+        "「係秘」不符合「けいび」。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q010",
+      "number": 10,
+      "test_part": "問題2",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "時間がないので、詳しい説明ははぶきます。",
+      "question_zh": "由於時間不足，省略詳細說明。",
+      "options_jp": [
+        "略きます",
+        "除きます",
+        "省きます",
+        "抜きます"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "「はぶく」寫作「省く」，表示省略不必要部分；「説明を省く」。",
+      "choices_explanation_zh": [
+        "「略く」不是「はぶく」的標準漢字寫法。",
+        "「除く（のぞく）」是排除，讀法不同。",
+        "正確。「はぶく」寫作「省く」，表示省略不必要部分；「説明を省く」。",
+        "「抜く（ぬく）」讀法不同，雖可指省去但不符題目要求。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q011",
+      "number": 11,
+      "test_part": "問題3",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "正月もスキー（　）は、人でいっぱいだ。",
+      "question_zh": "新年期間滑雪場也擠滿人。",
+      "options_jp": [
+        "所",
+        "場",
+        "区",
+        "地"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "「スキー場」是滑雪場；「場（じょう）」作場所後綴。",
+      "choices_explanation_zh": [
+        "「スキー所」不是常用的場所複合詞。",
+        "正確。「スキー場」是滑雪場；「場（じょう）」作場所後綴。",
+        "「スキー区」不成立。",
+        "「スキー地」不指滑雪場設施。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q012",
+      "number": 12,
+      "test_part": "問題3",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "（　）学期から新しいプログラムが始まる。",
+      "question_zh": "新課程從下學期開始。",
+      "options_jp": [
+        "明",
+        "近",
+        "隣",
+        "来"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "「来学期」指下學期；「来～」可表示即將到來。",
+      "choices_explanation_zh": [
+        "「明学期」不自然；常見是「来学期」。",
+        "「近学期」不成立。",
+        "「隣学期」不成立。",
+        "正確。「来学期」指下學期；「来～」可表示即將到來。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q013",
+      "number": 13,
+      "test_part": "問題3",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "この高校は進学（　）が非常に高く、ほとんどの生徒が大学に進む。",
+      "question_zh": "這所高中升學率很高。",
+      "options_jp": [
+        "量",
+        "値",
+        "率",
+        "割"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "「進学率（しんがくりつ）」指升學比率；「率」表示比例。",
+      "choices_explanation_zh": [
+        "「進学量」不是比率名稱。",
+        "「進学値」不自然。",
+        "正確。「進学率（しんがくりつ）」指升學比率；「率」表示比例。",
+        "「進学割」不是升學率。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q014",
+      "number": 14,
+      "test_part": "問題3",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "大臣の下に二人の（　）大臣がいるのが一般的です。",
+      "question_zh": "通常大臣底下有兩位副大臣。",
+      "options_jp": [
+        "補",
+        "助",
+        "次",
+        "副"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "「副大臣（ふくだいじん）」是副部長／副大臣；其餘不構成該職稱。",
+      "choices_explanation_zh": [
+        "「補大臣」不構成正式職稱。",
+        "「助大臣」不是此職稱。",
+        "「次大臣」不是此職稱。",
+        "正確。「副大臣（ふくだいじん）」是副部長／副大臣；其餘不構成該職稱。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q015",
+      "number": 15,
+      "test_part": "問題3",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "スポーツテストの結果を学年（　）に見ると、一年生だけが昨年を上回っていた。",
+      "question_zh": "依年級比較測驗結果，只有一年級超過去年。",
+      "options_jp": [
+        "別",
+        "境",
+        "段",
+        "節"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "「学年別に」表示按年級分類來看；「別」是依類別區分。",
+      "choices_explanation_zh": [
+        "正確。「学年別に」表示按年級分類來看；「別」是依類別區分。",
+        "「学年境」不成複合詞。",
+        "「学年段」不表示按年級區分。",
+        "「学年節」不表示分類。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q016",
+      "number": 16,
+      "test_part": "問題4",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "昨日の試合では実力を（　）できず、一試合目で負けてしまった。",
+      "question_zh": "昨天未能發揮實力，第一場就輸了。",
+      "options_jp": [
+        "表現",
+        "明示",
+        "公開",
+        "発揮"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "「実力を発揮する」是發揮實力的固定搭配。",
+      "choices_explanation_zh": [
+        "「表現する」可指表達，但不說「実力を表現する」。",
+        "「明示する」是清楚指出，非發揮能力。",
+        "「公開する」是公開資訊，不搭配「実力」。",
+        "正確。「実力を発揮する」是發揮實力的固定搭配。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q017",
+      "number": 17,
+      "test_part": "問題4",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "料理本を見ながら、自分の好みに合うように味付けを（　）する。",
+      "question_zh": "參考食譜並依自己的喜好調整味道。",
+      "options_jp": [
+        "コメント",
+        "デザイン",
+        "アレンジ",
+        "ケア"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "「アレンジする」是依需要改編、調整；此處指調整調味。",
+      "choices_explanation_zh": [
+        "「コメント」是評論，不等於調整調味。",
+        "「デザイン」偏設計外觀。",
+        "正確。「アレンジする」是依需要改編、調整；此處指調整調味。",
+        "「ケア」是照護、關懷。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q018",
+      "number": 18,
+      "test_part": "問題4",
+      "section": "文字・語彙",
+      "source_pdf_page": 3,
+      "answer_key_pdf_page": 34,
+      "question_jp": "あの人が描く絵には、ほかの人の絵にはない（　）の雰囲気がある。",
+      "question_zh": "那個人的畫有獨特氣氛。",
+      "options_jp": [
+        "専属",
+        "独特",
+        "限定",
+        "孤立"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "「独特の雰囲気」指獨一無二、別具特色的氛圍。",
+      "choices_explanation_zh": [
+        "「専属」指專屬人員或契約歸屬。",
+        "正確。「独特の雰囲気」指獨一無二、別具特色的氛圍。",
+        "「限定」指受限範圍，不是風格特色。",
+        "「孤立」指孤立狀態。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q019",
+      "number": 19,
+      "test_part": "問題4",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "父は、どんなに忙しいときでも、朝の運動を（　）。",
+      "question_zh": "爸爸再忙也不缺席早上的運動。",
+      "options_jp": [
+        "空けない",
+        "離さない",
+        "奪わない",
+        "欠かさない"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "「～を欠かさない」表示從不中斷、總是維持某個習慣。",
+      "choices_explanation_zh": [
+        "「空けない」是沒有空出時間或空間，非固定習慣。",
+        "「離さない」指不鬆開／不遠離。",
+        "「奪わない」指不奪取。",
+        "正確。「～を欠かさない」表示從不中斷、總是維持某個習慣。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q020",
+      "number": 20,
+      "test_part": "問題4",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "クイズの答えが分からなくて（　）答えたのに、正解だった。",
+      "question_zh": "隨便猜答，竟然答對了。",
+      "options_jp": [
+        "でたらめに",
+        "わがままに",
+        "ぎざぎざに",
+        "ごちゃごちゃに"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "「でたらめに答える」表示沒有根據地胡亂作答，卻答對了。",
+      "choices_explanation_zh": [
+        "正確。「でたらめに答える」表示沒有根據地胡亂作答，卻答對了。",
+        "「わがままに」是任性地，不是亂猜答案。",
+        "「ぎざぎざに」是鋸齒狀，與答題無關。",
+        "「ごちゃごちゃに」是混亂地，但不是隨機亂答的慣用詞。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q021",
+      "number": 21,
+      "test_part": "問題4",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "昨夜はこの冬でいちばんの寒さとなり、最低気温はマイナス20度に（　）。",
+      "question_zh": "昨晚是這個冬天最冷的一夜，低溫達負20度。",
+      "options_jp": [
+        "減った",
+        "達した",
+        "通じた",
+        "沈んだ"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "「～度に達する」表示達到某一數值；氣溫達零下20度。",
+      "choices_explanation_zh": [
+        "「減る」表示減少，數值到達用「達する」。",
+        "正確。「～度に達する」表示達到某一數值；氣溫達零下20度。",
+        "「通じる」是通往或相通。",
+        "「沈む」能描述下沉，但不說「－20度に沈む」。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q022",
+      "number": 22,
+      "test_part": "問題4",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "来月の結婚式に向けて準備が（　）進んでいる。",
+      "question_zh": "為下個月婚禮進行的準備正穩步推進。",
+      "options_jp": [
+        "着々と",
+        "慎重に",
+        "いちいち",
+        "ぐんぐん"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "「着々と進む」是按計畫一步步穩定推進。",
+      "choices_explanation_zh": [
+        "正確。「着々と進む」是按計畫一步步穩定推進。",
+        "「慎重に」是小心謹慎，沒有穩步順利進展的必然語意。",
+        "「いちいち」是每一件都逐一處理，與「進む」不搭。",
+        "「ぐんぐん」表示飛快、明顯增長，與此處計畫按部就班不同。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q023",
+      "number": 23,
+      "test_part": "問題5",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "車にボールが当てて、しかられた。（原卷第23題，辨識「当てて」的近義詞）",
+      "question_zh": "球撞到車而被罵。",
+      "options_jp": [
+        "ぶつけて",
+        "隠して",
+        "落として",
+        "詰めて"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "「（ボールを車に）当てる」在本句表示讓球撞到車；「ぶつける」最接近。 原卷寫作「ボールが当てて」，疑有助詞誤植；通常說「ボールを車に当てて」。本題依詞義仍選「ぶつけて」。",
+      "choices_explanation_zh": [
+        "正確。「（ボールを車に）当てる」在本句表示讓球撞到車；「ぶつける」最接近。 原卷寫作「ボールが当てて」，疑有助詞誤植；通常說「ボールを車に当てて」。本題依詞義仍選「ぶつけて」。",
+        "「隠す」是藏起來。",
+        "「落とす」是弄掉。",
+        "「詰める」是塞入／縮短。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true,
+      "source_anomaly_note": "原卷此句實際印為「車にボールが当てて」，語法不自然，通常應為「ボールを車に当てて」。為忠實保存來源，題文未擅自改寫。"
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q024",
+      "number": 24,
+      "test_part": "問題5",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "その作家はあわれな人生を送った。（「あわれな」的近義詞）",
+      "question_zh": "那位作家過了令人同情的人生。",
+      "options_jp": [
+        "退屈な",
+        "おかしな",
+        "かわいそうな",
+        "不安な"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "「哀れな」在此指令人同情、可憐；「かわいそうな」最接近。",
+      "choices_explanation_zh": [
+        "「退屈」是無聊。",
+        "「おかしい」是奇怪、有趣。",
+        "正確。「哀れな」在此指令人同情、可憐；「かわいそうな」最接近。",
+        "「不安」是焦慮不安，與令人憐憫不同。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q025",
+      "number": 25,
+      "test_part": "問題5",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "当分は使わない予定です。（「当分」的近義詞）",
+      "question_zh": "暫時沒有使用的計畫。",
+      "options_jp": [
+        "これから",
+        "全部",
+        "今回",
+        "しばらく"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "「当分（とうぶん）」指接下來的一段時間，「しばらく」最接近。",
+      "choices_explanation_zh": [
+        "「これから」指從現在起，不限定短期。",
+        "「全部」表示所有。",
+        "「今回」是這一次。",
+        "正確。「当分（とうぶん）」指接下來的一段時間，「しばらく」最接近。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q026",
+      "number": 26,
+      "test_part": "問題5",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "留学の話が一転した。（「一転した」的近義詞）",
+      "question_zh": "留學的事情突然有了截然不同的變化。",
+      "options_jp": [
+        "急に止まった",
+        "すっかり変わった",
+        "少し進んだ",
+        "とうとう許された"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "「一転する」指情況突然完全改變，因此接近「すっかり変わった」。",
+      "choices_explanation_zh": [
+        "「急に止まった」指突然停止，不是整個方向改變。",
+        "正確。「一転する」指情況突然完全改變，因此接近「すっかり変わった」。",
+        "「少し進んだ」只表示稍有進展。",
+        "「とうとう許された」是終於獲准。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q027",
+      "number": 27,
+      "test_part": "問題5",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "テストの前日になってじたばたしてもしかたない。（「じたばた」的近義詞）",
+      "question_zh": "考試前一天再慌張也沒有用。",
+      "options_jp": [
+        "慌てても",
+        "心配しても",
+        "緊張しても",
+        "悩んでも"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "「じたばたする」是慌張、手忙腳亂；此處最接近「慌てる」。",
+      "choices_explanation_zh": [
+        "正確。「じたばたする」是慌張、手忙腳亂；此處最接近「慌てる」。",
+        "「心配する」是擔心，不一定慌張亂動。",
+        "「緊張する」是緊繃，不等於手忙腳亂。",
+        "「悩む」是苦惱、思索。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q028",
+      "number": 28,
+      "test_part": "問題6",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "「役目」：哪一句使用正確？",
+      "question_zh": "選出「役目」的正確用法。",
+      "options_jp": [
+        "次の公演で、私は医者の役目を演じる。",
+        "健康のために、毎朝散歩することが役目になっている。",
+        "池田さんが今日の掃除の役目だ。",
+        "部下に仕事を教えるのは課長の役目の一つだ。"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "「役目」是職責、分內工作。「部下に仕事を教える」是課長職責之一；演戲的「角色」通常用「役」。",
+      "choices_explanation_zh": [
+        "演員扮演「角色」通常是「医者の役」，不是「役目」。",
+        "個人例行習慣不等於被分配的職責。",
+        "應說「掃除の役目を担当する」等，不能把人等同於役目。",
+        "正確。「役目」是職責、分內工作。「部下に仕事を教える」是課長職責之一；演戲的「角色」通常用「役」。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q029",
+      "number": 29,
+      "test_part": "問題6",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "「最寄り」：哪一句使用正確？",
+      "question_zh": "選出「最寄り」的正確用法。",
+      "options_jp": [
+        "最寄りの店までは、歩いて30分だ。",
+        "彼女は私の最寄りの友達だ。",
+        "最寄りの試験は来月にある。",
+        "電車の中で最寄りの人に足を踏まれた。"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "「最寄り」指地理位置最近的設施／地點，故「最寄りの店」合理；朋友或旁邊的人不這樣說。",
+      "choices_explanation_zh": [
+        "正確。「最寄り」指地理位置最近的設施／地點，故「最寄りの店」合理；朋友或旁邊的人不這樣說。",
+        "一般說「親しい友達」，不能以距離詞形容交情。",
+        "未來最近的考試可說「次の試験」，最寄り是地點。",
+        "車廂中附近的人應說「近くの人」。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q030",
+      "number": 30,
+      "test_part": "問題6",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "「解約」：哪一句使用正確？",
+      "question_zh": "選出「解約」的正確用法。",
+      "options_jp": [
+        "大臣は、内容に誤りがあったと述べ、昨日の発言を解約した。",
+        "1年の留学を終えて国へ帰るので、銀行の口座を解約した。",
+        "やむをえない理由により、A社との面会を解約した。",
+        "あの会社は今年は赤字を解約することができた。"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "「解約」指解除契約、取消銀行帳戶等具有契約關係的安排；不能用於發言、面會或赤字。",
+      "choices_explanation_zh": [
+        "取消發言是「撤回する」，不是解約。",
+        "正確。「解約」指解除契約、取消銀行帳戶等具有契約關係的安排；不能用於發言、面會或赤字。",
+        "取消面會是「キャンセルする」，不是解約。",
+        "消除赤字是「赤字を解消する」，不是解約。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q031",
+      "number": 31,
+      "test_part": "問題6",
+      "section": "文字・語彙",
+      "source_pdf_page": 4,
+      "answer_key_pdf_page": 34,
+      "question_jp": "「演説」：哪一句使用正確？",
+      "question_zh": "選出「演説」的正確用法。",
+      "options_jp": [
+        "卒業生代表の森さんは卒業式でも演説で、先生方への感謝の気持ちを述べた。",
+        "首相は昨日の国会での演説で、経済対策を最優先するとの決意を述べた。",
+        "決勝進出が決まった中島選手は試合後の演説で、必ず優勝すると述べた。",
+        "A社の社長は記者会見の演説で、今後の事業方針について述べた。"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "「演説」通常指在正式／公開場合針對主張、政策等的演講；「国会での演説」自然。",
+      "choices_explanation_zh": [
+        "畢業生代表表達謝意通常是「答辞」，不是演説。",
+        "正確。「演説」通常指在正式／公開場合針對主張、政策等的演講；「国会での演説」自然。",
+        "運動員賽後發言屬「コメント／インタビュー」。",
+        "記者會見中的說明用「発表／説明／会見」，不說「会見の演説」。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q032",
+      "number": 32,
+      "test_part": "問題6",
+      "section": "文字・語彙",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "「きっぱり」：哪一句使用正確？",
+      "question_zh": "選出「きっぱり」的正確用法。",
+      "options_jp": [
+        "めがねをかけると、遠くの物もきっぱり見えるようになる。",
+        "このラーメンはもう何度も食べたので、きっぱり飽きてしまった。",
+        "鈴木さんは石川さんからのデートの誘いをきっぱり断った。",
+        "むかしのことはなかなかきっぱり思い出せない。"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "「きっぱり」表示堅決、明確且不拖泥帶水，最自然的搭配是「きっぱり断る」。",
+      "choices_explanation_zh": [
+        "遠處看清楚通常用「はっきり／くっきり」。",
+        "厭倦拉麵用「すっかり飽きた」，不說「きっぱり」。",
+        "正確。「きっぱり」表示堅決、明確且不拖泥帶水，最自然的搭配是「きっぱり断る」。",
+        "回憶清晰通常用「はっきり思い出す」。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q033",
+      "number": 33,
+      "test_part": "問題7",
+      "section": "文法",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "昨日泊まったホテルの部屋は、シングルルーム（　）広かった。",
+      "question_zh": "昨天住的單人房，比預期寬敞。",
+      "options_jp": [
+        "ばかりか",
+        "をとわず",
+        "にしては",
+        "かというと"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "「～にしては」表示以單人房的標準而言，房間意外地寬敞。",
+      "choices_explanation_zh": [
+        "「ばかりか」表示不僅如此，無法表達意外寬敞。",
+        "「を問わず」表示不論條件。",
+        "正確。「～にしては」表示以單人房的標準而言，房間意外地寬敞。",
+        "「かというと」用於「是不是～呢」的疑問對比。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q034",
+      "number": 34,
+      "test_part": "問題7",
+      "section": "文法",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "客「すみません、開店はまだですか。」店員「（　）開店いたしますので、もう少々お待ちください。」",
+      "question_zh": "我們即將開始營業，請再稍候。",
+      "options_jp": [
+        "いまにも",
+        "まもなく",
+        "ほとんど",
+        "いつのまに"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "「まもなく」表示不久後、即將；「まもなく開店いたします」是常見通知語。",
+      "choices_explanation_zh": [
+        "「いまにも」接眼看就要發生，多帶強烈臨近語感，營業告示慣用「まもなく」。",
+        "正確。「まもなく」表示不久後、即將；「まもなく開店いたします」是常見通知語。",
+        "「ほとんど」表示幾乎，不直接修飾「開店いたします」。",
+        "「いつのまに」表示不知不覺，非正式開門通知。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q035",
+      "number": 35,
+      "test_part": "問題7",
+      "section": "文法",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "北山には、初心者でも楽しめるハイキングコースや上級者（　）コースなど、いくつかの登山コースがあります。",
+      "question_zh": "有適合初學者及面向進階者的登山路線。",
+      "options_jp": [
+        "ほどの",
+        "向けの",
+        "きりの",
+        "どおりの"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "「～向けの」表示為某類對象設計，因此「上級者向けのコース」。",
+      "choices_explanation_zh": [
+        "「ほど」表示程度，不指為上級者設計。",
+        "正確。「～向けの」表示為某類對象設計，因此「上級者向けのコース」。",
+        "「きり」是僅限、只有。",
+        "「どおり」表示按照、如同。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q036",
+      "number": 36,
+      "test_part": "問題7",
+      "section": "文法",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "昨日、高熱が出たので病院に行った（　）、インフルエンザと診断された。",
+      "question_zh": "昨天發高燒去醫院，結果被診斷為流感。",
+      "options_jp": [
+        "場合",
+        "以上",
+        "ことに",
+        "ところ"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "「Vたところ」表示做了某件事後發現的結果；去醫院結果被診斷為流感。",
+      "choices_explanation_zh": [
+        "「場合」是某種情況，不能自然引出檢查後的新發現。",
+        "「以上」表示既然～或以上，不是動作後發現。",
+        "「ことに」表示令人意外等評價前置，不接此處。",
+        "正確。「Vたところ」表示做了某件事後發現的結果；去醫院結果被診斷為流感。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q037",
+      "number": 37,
+      "test_part": "問題7",
+      "section": "文法",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "散歩が大好きなうちの犬が、今日は散歩に（　）。具合でも悪いのだろうか。",
+      "question_zh": "平常喜歡散步的狗今天卻不想去，不知道是不是不舒服。",
+      "options_jp": [
+        "行きたがらなかった",
+        "行かなければよかった",
+        "行ってほしくなかった",
+        "行きたくなかった"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "「～たがる」描述第三者表現出的願望；主語是狗，宜用「行きたがらなかった」。",
+      "choices_explanation_zh": [
+        "正確。「～たがる」描述第三者表現出的願望；主語是狗，宜用「行きたがらなかった」。",
+        "「行かなければよかった」表示早知不去。",
+        "「行ってほしくなかった」是說話者不希望別人去。",
+        "「行きたくなかった」直接表述自身願望，這題從狗的外在反應判斷，應用「たがる」。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q038",
+      "number": 38,
+      "test_part": "問題7",
+      "section": "文法",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "市長は「反対している市民も少なくないのだから、それを無視して建設計画を（　）。」と述べた。",
+      "question_zh": "不能無視反對的市民就推進建設計畫。",
+      "options_jp": [
+        "進めそうにない",
+        "進めてもかまわない",
+        "進めずにはいられない",
+        "進めるわけにはいかない"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "「～わけにはいかない」表示基於責任或社會情理不能做；無法無視反對者而推進工程。",
+      "choices_explanation_zh": [
+        "「進めそうにない」指看來無法實現，重點不是倫理義務。",
+        "「進めてもかまわない」表示可以推進，與市長顧慮相反。",
+        "「進めずにはいられない」指忍不住一定要推進，語意相反。",
+        "正確。「～わけにはいかない」表示基於責任或社會情理不能做；無法無視反對者而推進工程。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q039",
+      "number": 39,
+      "test_part": "問題7",
+      "section": "文法",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "「社長の小林でございます。社を代表して、私から一言ごあいさつ（　）。」",
+      "question_zh": "請容我代表本公司致詞。",
+      "options_jp": [
+        "されます",
+        "うかがいます",
+        "申し上げます",
+        "おっしゃいます"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "「申し上げる」是「言う」的謙讓語，「ごあいさつ申し上げます」固定表達。",
+      "choices_explanation_zh": [
+        "「される」作尊敬／被動，不能表示自己謙讓致詞。",
+        "「うかがう」是拜訪、詢問的謙讓語。",
+        "正確。「申し上げる」是「言う」的謙讓語，「ごあいさつ申し上げます」固定表達。",
+        "「おっしゃる」是「言う」的尊敬語，不用於自己。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q040",
+      "number": 40,
+      "test_part": "問題7",
+      "section": "文法",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "そのバッグはどこにでもあるような物なのに、人気歌手が愛用している（　）、1万個も売れたそうだ。",
+      "question_zh": "只因為人氣歌手愛用，就賣了一萬個。",
+      "options_jp": [
+        "とすること",
+        "というだけ",
+        "とすることを",
+        "というだけで"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "「～というだけで」表示光憑這項理由便產生結果；只因有人氣歌手愛用就熱賣。",
+      "choices_explanation_zh": [
+        "「とすること」無法銜接此處的原因結果。",
+        "「というだけ」缺少表示原因手段的「で」。",
+        "「とすることを」不構成「因為～而熱賣」的結構。",
+        "正確。「～というだけで」表示光憑這項理由便產生結果；只因有人氣歌手愛用就熱賣。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q041",
+      "number": 41,
+      "test_part": "問題7",
+      "section": "文法",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "「どんなに忙しくてもお客様には疲れた顔を（　）。」と先輩によく注意された。",
+      "question_zh": "前輩提醒不論多忙，都不要讓客人看見疲憊表情。",
+      "options_jp": [
+        "見せないために",
+        "見えないこと",
+        "見せないように",
+        "見えないもの"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "「～ないように」用於告誡避免某行為；「疲れた顔を見せないように」是不要露出疲倦的表情。",
+      "choices_explanation_zh": [
+        "「～ないために」偏目的說明，不自然用於單獨命令句末。",
+        "「顔を見えない」錯，見える是不及物，需用「顔が見えない」。",
+        "正確。「～ないように」用於告誡避免某行為；「疲れた顔を見せないように」是不要露出疲倦的表情。",
+        "「見えないもの」不構成告誡。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q042",
+      "number": 42,
+      "test_part": "問題7",
+      "section": "文法",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "母「たかし、寝る前に必ず明日の準備を（　）。朝、慌てて準備すると絶対忘れ物するから。」",
+      "question_zh": "睡前先把明天的東西準備好。",
+      "options_jp": [
+        "してあるんだよ",
+        "しておきなさいよ",
+        "してあるんじゃないの",
+        "しておいたの"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "「～ておきなさい」是母親要求事先準備的命令／提醒。",
+      "choices_explanation_zh": [
+        "「してあるんだよ」是對他人聲明已準備，不是母親命令。",
+        "正確。「～ておきなさい」是母親要求事先準備的命令／提醒。",
+        "「してあるんじゃないの」是推測反問，不是提醒事先做。",
+        "「しておいたの」是過去已做的陳述／疑問。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q043",
+      "number": 43,
+      "test_part": "問題7",
+      "section": "文法",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "X社に入社すると、新入社員はまず電話の対応の練習を2週間（　）。",
+      "question_zh": "聽說新進員工會被要求進行兩週電話應對訓練。",
+      "options_jp": [
+        "させられるそうだ",
+        "させるつもりだ",
+        "させられたままだ",
+        "させているところだ"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "「させられるそうだ」表傳聞的使役被動，指新員工會被要求練習接電話。",
+      "choices_explanation_zh": [
+        "正確。「させられるそうだ」表傳聞的使役被動，指新員工會被要求練習接電話。",
+        "「させるつもりだ」表示主語打算命令別人做，不合新員工被要求的主語。",
+        "「させられたまま」表示被迫狀態持續，語境不合。",
+        "「させているところ」是正在使某人做，主語不符。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q044",
+      "number": 44,
+      "test_part": "問題7",
+      "section": "文法",
+      "source_pdf_page": 5,
+      "answer_key_pdf_page": 34,
+      "question_jp": "石川「それも面白そうですが、私はアンケートの分析方法を（　）。」",
+      "question_zh": "我認為不妨討論問卷分析方法。",
+      "options_jp": [
+        "取り上げようとするでしょうか",
+        "取り上げるようになるでしょうか",
+        "取り上げたいのだろうと思います",
+        "取り上げてみてはどうかと思います"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "「～てみてはどうかと思います」婉轉提出議題建議，適合會議討論。",
+      "choices_explanation_zh": [
+        "「～ようとするでしょうか」是推測試圖做，非提出建議。",
+        "「～ようになるでしょうか」問變化預測，非建議。",
+        "「～たいのだろう」猜他人意願，說自己的提案不合。",
+        "正確。「～てみてはどうかと思います」婉轉提出議題建議，適合會議討論。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q045",
+      "number": 45,
+      "test_part": "問題8",
+      "section": "文法",
+      "source_pdf_page": 6,
+      "answer_key_pdf_page": 34,
+      "question_jp": "どんなスポーツでも、日々の練習が ＿＿ ★ ＿＿ ＿＿ 行うと時間をかけてもなかなか上達しない。",
+      "question_zh": "無論什麼運動，日常練習固然不可少，但方法錯誤也難進步。",
+      "options_jp": [
+        "もちろんだが",
+        "欠かせないのは",
+        "上達に",
+        "間違った方法で"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "正確語序為③上達に→②欠かせないのは→①もちろんだが→④間違った方法で。★在第二個空格，因此選②；完整句子表示：日常練習固然不可或缺，但方法錯誤也難進步。",
+      "choices_explanation_zh": [
+        "①位於排序後的第三格，不是原卷的★第二格。",
+        "正確。正確語序為③上達に→②欠かせないのは→①もちろんだが→④間違った方法で。★在第二個空格，因此選②；完整句子表示：日常練習固然不可或缺，但方法錯誤也難進步。",
+        "②「欠かせないのは」位於★第二格。",
+        "③「上達に」位於第一格。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true,
+      "correct_order": [
+        3,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q046",
+      "number": 46,
+      "test_part": "問題8",
+      "section": "文法",
+      "source_pdf_page": 6,
+      "answer_key_pdf_page": 34,
+      "question_jp": "姉は歌手の赤川ケイの大ファンで、彼女の ＿＿ ＿＿ ★ ＿＿ 知りたいと言っている。",
+      "question_zh": "姐姐說只要是那位歌手的事，再小也想知道。",
+      "options_jp": [
+        "ことなら",
+        "小さな",
+        "ことでも",
+        "どんなに"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "排序為①ことなら→④どんなに→②小さな→③ことでも。★是③欄，故正解②。",
+      "choices_explanation_zh": [
+        "①「ことなら」位於第一格。",
+        "正確。排序為①ことなら→④どんなに→②小さな→③ことでも。★是③欄，故正解②。",
+        "③「ことでも」位於最後一格。",
+        "④「どんなに」位於第二格。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true,
+      "correct_order": [
+        1,
+        4,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q047",
+      "number": 47,
+      "test_part": "問題8",
+      "section": "文法",
+      "source_pdf_page": 6,
+      "answer_key_pdf_page": 34,
+      "question_jp": "明日の夕方が締め切りのレポートがまだ終わっていない。明日は一日中授業があって時間がとれないので、今晩 ＿＿ ＿＿ ★ ＿＿ いけない。",
+      "question_zh": "因明天沒時間，今晚就算熬夜也得完成報告。",
+      "options_jp": [
+        "終わらせて",
+        "徹夜して",
+        "しまわないと",
+        "でも"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "排序為②徹夜して→④でも→①終わらせて→③しまわないと。★是第三格，故正解①。",
+      "choices_explanation_zh": [
+        "正確。排序為②徹夜して→④でも→①終わらせて→③しまわないと。★是第三格，故正解①。",
+        "②「徹夜して」位於第一格。",
+        "③「しまわないと」位於最後一格。",
+        "④「でも」位於第二格。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true,
+      "correct_order": [
+        2,
+        4,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q048",
+      "number": 48,
+      "test_part": "問題8",
+      "section": "文法",
+      "source_pdf_page": 6,
+      "answer_key_pdf_page": 34,
+      "question_jp": "田中さんは ＿＿ ＿＿ ★ ＿＿、冬はいつもみかんを大量に買うそうだ。",
+      "question_zh": "田中似乎非常喜歡橘子，一旦吃起來就停不下來。",
+      "options_jp": [
+        "食べ出すと",
+        "一度",
+        "みかんが好きらしく",
+        "止まらないほど"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "排序為②一度→①食べ出すと→④止まらないほど→③みかんが好きらしく。★是第三格，故正解④。",
+      "choices_explanation_zh": [
+        "①「食べ出すと」位於第二格。",
+        "②「一度」位於第一格。",
+        "③「みかんが好きらしく」位於最後一格。",
+        "正確。排序為②一度→①食べ出すと→④止まらないほど→③みかんが好きらしく。★是第三格，故正解④。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true,
+      "correct_order": [
+        2,
+        1,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q049",
+      "number": 49,
+      "test_part": "問題8",
+      "section": "文法",
+      "source_pdf_page": 6,
+      "answer_key_pdf_page": 34,
+      "question_jp": "私は、中学生になったころから ＿＿ ＿＿ ★ ＿＿ 医者になろうと決めていた。",
+      "question_zh": "我從國中起逐漸對醫學產生興趣，到上高中時便決心成為醫生。",
+      "options_jp": [
+        "将来",
+        "医学に興味を持ち始め",
+        "高校に入ったときには",
+        "次第に"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "排序為④次第に→②医学に興味を持ち始め→③高校に入ったときには→①将来。★是第三格，故正解③。",
+      "choices_explanation_zh": [
+        "①「将来」位於最後一格。",
+        "②「医学に興味を持ち始め」位於第二格。",
+        "正確。排序為④次第に→②医学に興味を持ち始め→③高校に入ったときには→①将来。★是第三格，故正解③。",
+        "④「次第に」位於第一格。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true,
+      "correct_order": [
+        4,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q050",
+      "number": 50,
+      "test_part": "問題9",
+      "section": "文法",
+      "source_pdf_page": 6,
+      "answer_key_pdf_page": 34,
+      "question_jp": "【文章：道のひみつ】「仕事、買い物、遊びに行くとき、誰でも必ずお世話になるものがある。（50）だ。」",
+      "question_zh": "道路的秘密：我們日常生活必然會使用的就是道路。",
+      "options_jp": [
+        "道路",
+        "ある道路",
+        "その道路",
+        "こんな道路"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "前句引入所有人都用到的東西，後句首次明示名詞，所以用「道路だ」。",
+      "choices_explanation_zh": [
+        "正確。前句引入所有人都用到的東西，後句首次明示名詞，所以用「道路だ」。",
+        "「ある道路」會指某條道路，而作者在介紹道路這種普遍事物。",
+        "「その道路」需要前文已指明的特定道路。",
+        "「こんな道路」需有前述具體特徵才能指示。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q051",
+      "number": 51,
+      "test_part": "問題9",
+      "section": "文法",
+      "source_pdf_page": 6,
+      "answer_key_pdf_page": 34,
+      "question_jp": "【文章：道のひみつ】「高速道路や大きな道路の多くで雨水が道路上にたまりにくい設計になっていることは（51）。」",
+      "question_zh": "很多道路的排水設計，你知道嗎？",
+      "options_jp": [
+        "ご存じだ",
+        "ご存じのようだ",
+        "ご存じだろうか",
+        "ご存じなのだろう"
+      ],
+      "answer_index": 3,
+      "explanation_zh": "作者對讀者提問「你知道嗎？」適合「ご存じだろうか」，下句接著解說排水孔。",
+      "choices_explanation_zh": [
+        "「ご存じだ」是斷言讀者知道，與下文揭示知識的寫法不合。",
+        "「ご存じのようだ」表示似乎知道，作者未提供根據。",
+        "正確。作者對讀者提問「你知道嗎？」適合「ご存じだろうか」，下句接著解說排水孔。",
+        "「ご存じなのだろう」是推想知道，沒有形成作者向讀者提問的語氣。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q052",
+      "number": 52,
+      "test_part": "問題9",
+      "section": "文法",
+      "source_pdf_page": 6,
+      "answer_key_pdf_page": 34,
+      "question_jp": "【文章：道のひみつ】「（52）、寒い地域では雪や氷が原因でスリップ事故が多発する。」",
+      "question_zh": "此外寒冷地區也有防滑道路。",
+      "options_jp": [
+        "また",
+        "すると",
+        "こうして",
+        "したがって"
+      ],
+      "answer_index": 1,
+      "explanation_zh": "前段介紹雨天排水功能，接著並列另一個寒地防滑功能，因此「また」。",
+      "choices_explanation_zh": [
+        "正確。前段介紹雨天排水功能，接著並列另一個寒地防滑功能，因此「また」。",
+        "「すると」表示接著發生的結果，前後非因果。",
+        "「こうして」是如此這般的結果，非並列新例。",
+        "「したがって」表示所以，寒地結冰並非前文排水設計造成。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q053",
+      "number": 53,
+      "test_part": "問題9",
+      "section": "文法",
+      "source_pdf_page": 6,
+      "answer_key_pdf_page": 34,
+      "question_jp": "【文章：道のひみつ】「道路表面の温度を下げる（53）。道路は太陽に熱せられ……」",
+      "question_zh": "此外還有可降低路面溫度的設計。",
+      "options_jp": [
+        "工夫だと言える",
+        "工夫も考えられる",
+        "工夫だと思われる",
+        "工夫も見られる"
+      ],
+      "answer_index": 4,
+      "explanation_zh": "前段介紹多種道路設計，這裡列舉「也可以看到」降溫設計的實例，選「工夫も見られる」。",
+      "choices_explanation_zh": [
+        "「工夫だと言える」表示強烈斷定，這裡是介紹還有此類例子。",
+        "「工夫も考えられる」只表示可構想，但文章緊接描述實際採用的技術。",
+        "「工夫だと思われる」只是推測判斷，與實際列舉不符。",
+        "正確。前段介紹多種道路設計，這裡列舉「也可以看到」降溫設計的實例，選「工夫も見られる」。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    },
+    {
+      "id": "JLPT-N2-2018-07-Q054",
+      "number": 54,
+      "test_part": "問題9",
+      "section": "文法",
+      "source_pdf_page": 6,
+      "answer_key_pdf_page": 34,
+      "question_jp": "【文章：道のひみつ】「人々がより安全で快適に暮らせるよう、足元で（54）。」",
+      "question_zh": "原來道路就在腳下支撐著我們更安全舒適的生活。",
+      "options_jp": [
+        "支えてくれているはずだった",
+        "支えてくれているわけだ",
+        "支えてくれているからだった",
+        "支えてくれているおかげだ"
+      ],
+      "answer_index": 2,
+      "explanation_zh": "結尾總結「原來道路就在腳下支撐生活」，用「～わけだ」帶出歸納、理解。",
+      "choices_explanation_zh": [
+        "「はずだった」表示過去原本理當如此，不符合現行技術。",
+        "正確。結尾總結「原來道路就在腳下支撐生活」，用「～わけだ」帶出歸納、理解。",
+        "「からだった」是過去原因，結尾構造不合。",
+        "「おかげだ」雖有受惠之意，但「足元で支えてくれているおかげだ」缺少後面述語來承接。"
+      ],
+      "editorial_status": "assistant_draft_requires_language_review",
+      "source_type": "third_party_annotated_scan",
+      "answer_key_verified": true
+    }
+  ]
+}

@@ -66,7 +66,7 @@ export const JLPT_DATA: Record<JlptLevel, JlptLevelData> = {
 export function getSectionCount(level: JlptLevel, section: JlptSection) {
   const data = JLPT_DATA[level]
   if (section === 'reading' && level === 'N2') return N2_2018_07_READING.questions.length
-  if (section === 'mock' && level === 'N2') return 1 // 僅含2018/07讀解題組，並非完整模擬考
+  if (section === 'mock' && level === 'N2') return 1 // 2018/07 言語知識＋讀解 75 題；未包含聽解音檔
   if (section === 'mock') return data.mockTests.length
   return data[section].length
 }

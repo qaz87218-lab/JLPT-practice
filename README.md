@@ -1,3 +1,16 @@
+# JLPT Deep Practice v0.3.9（無 API）
+
+**新增 2018 年 7 月 N2 書面題組：1–75 題（文字語彙32、文法22、讀解21），保留原有 N5～N1 文法551項、1102例句及單字匯入功能。**
+
+- 入口：`/jlpt/n2/mock/` → 2018年7月完整書面題組（75題）。
+- 讀解獨立入口仍是 `/jlpt/n2/reading/`（21題），共用本機作答進度。
+- 聽解只有逐字稿及答案掃描頁，缺音檔，因此不計入75題。
+- 檢查：`npm run verify:2018`、`npm run verify:reading`、`npm run verify:data`。
+- 實際 Next.js build 尚待部署環境驗證。
+- 詳見 `2018_N2_FULL_75_INTEGRATION.md`。
+
+---
+
 # JLPT Deep Practice v0.3.7（無 API，單字匯入版）
 
 本版新增 OpenJLPT N5～N1 單字匯入、離線瀏覽與跨級去重。**交付包尚未附上所有單字原始檔，需首次在 App 匯入，或先執行 `npm run import:vocab`。** 繼續保留 v0.3.6 五級文法及本機功能。
