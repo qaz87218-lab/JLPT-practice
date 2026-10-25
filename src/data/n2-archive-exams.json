@@ -1,0 +1,2005 @@
+{
+  "schema_version": "1.0",
+  "exams": [
+    {
+      "exam_id": "N2_2017_12",
+      "level": "N2",
+      "year": 2017,
+      "month": 12,
+      "title": "2017 年 12 月",
+      "source_name": "2017年12月.pdf",
+      "source_credit": "使用者提供的第三方考卷掃描資料（齊末日語）",
+      "source_verified_official": false,
+      "content_review_status": "scan-first; source answer key; teacher review pending",
+      "source_format": "scanned_pdf_no_text",
+      "question_display": "scanned_page",
+      "has_audio": false,
+      "contains_listening_reference": true,
+      "explanations": "Third-party scanned reference pages, not independent per-choice explanations",
+      "questions": [
+        {
+          "id": "N2_2017_12_Q001",
+          "number": 1,
+          "test_part": "問題1",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q002",
+          "number": 2,
+          "test_part": "問題1",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q003",
+          "number": 3,
+          "test_part": "問題1",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q004",
+          "number": 4,
+          "test_part": "問題1",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q005",
+          "number": 5,
+          "test_part": "問題1",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q006",
+          "number": 6,
+          "test_part": "問題2",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q007",
+          "number": 7,
+          "test_part": "問題2",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q008",
+          "number": 8,
+          "test_part": "問題2",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q009",
+          "number": 9,
+          "test_part": "問題2",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q010",
+          "number": 10,
+          "test_part": "問題2",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q011",
+          "number": 11,
+          "test_part": "問題3",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q012",
+          "number": 12,
+          "test_part": "問題3",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q013",
+          "number": 13,
+          "test_part": "問題3",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q014",
+          "number": 14,
+          "test_part": "問題3",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q015",
+          "number": 15,
+          "test_part": "問題3",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q016",
+          "number": 16,
+          "test_part": "問題4",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q017",
+          "number": 17,
+          "test_part": "問題4",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q018",
+          "number": 18,
+          "test_part": "問題4",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q019",
+          "number": 19,
+          "test_part": "問題4",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q020",
+          "number": 20,
+          "test_part": "問題4",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q021",
+          "number": 21,
+          "test_part": "問題4",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q022",
+          "number": 22,
+          "test_part": "問題4",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q023",
+          "number": 23,
+          "test_part": "問題5",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q024",
+          "number": 24,
+          "test_part": "問題5",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q025",
+          "number": 25,
+          "test_part": "問題5",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q026",
+          "number": 26,
+          "test_part": "問題5",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q027",
+          "number": 27,
+          "test_part": "問題5",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q028",
+          "number": 28,
+          "test_part": "問題6",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q029",
+          "number": 29,
+          "test_part": "問題6",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q030",
+          "number": 30,
+          "test_part": "問題6",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q031",
+          "number": 31,
+          "test_part": "問題6",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q032",
+          "number": 32,
+          "test_part": "問題6",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q033",
+          "number": 33,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 25,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q034",
+          "number": 34,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 25,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q035",
+          "number": 35,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 25,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q036",
+          "number": 36,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 25,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q037",
+          "number": 37,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 25,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q038",
+          "number": 38,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 25,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q039",
+          "number": 39,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 25,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q040",
+          "number": 40,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q041",
+          "number": 41,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q042",
+          "number": 42,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q043",
+          "number": 43,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q044",
+          "number": 44,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q045",
+          "number": 45,
+          "test_part": "問題8",
+          "section": "文法",
+          "source_pdf_pages": [
+            6
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q046",
+          "number": 46,
+          "test_part": "問題8",
+          "section": "文法",
+          "source_pdf_pages": [
+            6
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q047",
+          "number": 47,
+          "test_part": "問題8",
+          "section": "文法",
+          "source_pdf_pages": [
+            6
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q048",
+          "number": 48,
+          "test_part": "問題8",
+          "section": "文法",
+          "source_pdf_pages": [
+            6
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q049",
+          "number": 49,
+          "test_part": "問題8",
+          "section": "文法",
+          "source_pdf_pages": [
+            6
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q050",
+          "number": 50,
+          "test_part": "問題9",
+          "section": "文法",
+          "source_pdf_pages": [
+            6,
+            7
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q051",
+          "number": 51,
+          "test_part": "問題9",
+          "section": "文法",
+          "source_pdf_pages": [
+            6,
+            7
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q052",
+          "number": 52,
+          "test_part": "問題9",
+          "section": "文法",
+          "source_pdf_pages": [
+            6,
+            7
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q053",
+          "number": 53,
+          "test_part": "問題9",
+          "section": "文法",
+          "source_pdf_pages": [
+            6,
+            7
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q054",
+          "number": 54,
+          "test_part": "問題9",
+          "section": "文法",
+          "source_pdf_pages": [
+            6,
+            7
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q055",
+          "number": 55,
+          "test_part": "問題10",
+          "section": "読解",
+          "source_pdf_pages": [
+            7,
+            8
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q056",
+          "number": 56,
+          "test_part": "問題10",
+          "section": "読解",
+          "source_pdf_pages": [
+            7,
+            8
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q057",
+          "number": 57,
+          "test_part": "問題10",
+          "section": "読解",
+          "source_pdf_pages": [
+            7,
+            8
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q058",
+          "number": 58,
+          "test_part": "問題10",
+          "section": "読解",
+          "source_pdf_pages": [
+            7,
+            8
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q059",
+          "number": 59,
+          "test_part": "問題10",
+          "section": "読解",
+          "source_pdf_pages": [
+            7,
+            8
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q060",
+          "number": 60,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            8,
+            9
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q061",
+          "number": 61,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            8,
+            9
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q062",
+          "number": 62,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            8,
+            9
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q063",
+          "number": 63,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            8,
+            9
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q064",
+          "number": 64,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            8,
+            9
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q065",
+          "number": 65,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            8,
+            9
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q066",
+          "number": 66,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            9,
+            10
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q067",
+          "number": 67,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            9,
+            10
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q068",
+          "number": 68,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            9,
+            10
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q069",
+          "number": 69,
+          "test_part": "問題12",
+          "section": "読解",
+          "source_pdf_pages": [
+            11
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 29,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q070",
+          "number": 70,
+          "test_part": "問題12",
+          "section": "読解",
+          "source_pdf_pages": [
+            11
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 29,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q071",
+          "number": 71,
+          "test_part": "問題13",
+          "section": "読解",
+          "source_pdf_pages": [
+            11,
+            12
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 29,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q072",
+          "number": 72,
+          "test_part": "問題13",
+          "section": "読解",
+          "source_pdf_pages": [
+            11,
+            12
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 29,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q073",
+          "number": 73,
+          "test_part": "問題13",
+          "section": "読解",
+          "source_pdf_pages": [
+            11,
+            12
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 29,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q074",
+          "number": 74,
+          "test_part": "問題14",
+          "section": "読解",
+          "source_pdf_pages": [
+            12,
+            13
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 29,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2017_12_Q075",
+          "number": 75,
+          "test_part": "問題14",
+          "section": "読解",
+          "source_pdf_pages": [
+            12,
+            13
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 31,
+          "explanation_pdf_page": 29,
+          "explanation_page_precise": true
+        }
+      ]
+    },
+    {
+      "exam_id": "N2_2018_12",
+      "level": "N2",
+      "year": 2018,
+      "month": 12,
+      "title": "2018 年 12 月",
+      "source_name": "2018年12月 N2.pdf",
+      "source_credit": "使用者提供的第三方考卷掃描資料（齊末日語）",
+      "source_verified_official": false,
+      "content_review_status": "scan-first; source answer key; teacher review pending",
+      "source_format": "scanned_pdf_no_text",
+      "question_display": "scanned_page",
+      "has_audio": false,
+      "contains_listening_reference": true,
+      "explanations": "Third-party scanned reference pages, not independent per-choice explanations",
+      "questions": [
+        {
+          "id": "N2_2018_12_Q001",
+          "number": 1,
+          "test_part": "問題1",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 19,
+          "explanation_pdf_page": 19,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q002",
+          "number": 2,
+          "test_part": "問題1",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 19,
+          "explanation_pdf_page": 19,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q003",
+          "number": 3,
+          "test_part": "問題1",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 19,
+          "explanation_pdf_page": 19,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q004",
+          "number": 4,
+          "test_part": "問題1",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 19,
+          "explanation_pdf_page": 19,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q005",
+          "number": 5,
+          "test_part": "問題1",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 19,
+          "explanation_pdf_page": 19,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q006",
+          "number": 6,
+          "test_part": "問題2",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 19,
+          "explanation_pdf_page": 19,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q007",
+          "number": 7,
+          "test_part": "問題2",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 19,
+          "explanation_pdf_page": 19,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q008",
+          "number": 8,
+          "test_part": "問題2",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 19,
+          "explanation_pdf_page": 19,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q009",
+          "number": 9,
+          "test_part": "問題2",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 19,
+          "explanation_pdf_page": 19,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q010",
+          "number": 10,
+          "test_part": "問題2",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 20,
+          "explanation_pdf_page": 20,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q011",
+          "number": 11,
+          "test_part": "問題3",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 20,
+          "explanation_pdf_page": 20,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q012",
+          "number": 12,
+          "test_part": "問題3",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 20,
+          "explanation_pdf_page": 20,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q013",
+          "number": 13,
+          "test_part": "問題3",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 20,
+          "explanation_pdf_page": 20,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q014",
+          "number": 14,
+          "test_part": "問題3",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            2
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 20,
+          "explanation_pdf_page": 20,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q015",
+          "number": 15,
+          "test_part": "問題3",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 20,
+          "explanation_pdf_page": 20,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q016",
+          "number": 16,
+          "test_part": "問題4",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 20,
+          "explanation_pdf_page": 20,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q017",
+          "number": 17,
+          "test_part": "問題4",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 21,
+          "explanation_pdf_page": 21,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q018",
+          "number": 18,
+          "test_part": "問題4",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 21,
+          "explanation_pdf_page": 21,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q019",
+          "number": 19,
+          "test_part": "問題4",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 21,
+          "explanation_pdf_page": 21,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q020",
+          "number": 20,
+          "test_part": "問題4",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 21,
+          "explanation_pdf_page": 21,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q021",
+          "number": 21,
+          "test_part": "問題5",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 21,
+          "explanation_pdf_page": 21,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q022",
+          "number": 22,
+          "test_part": "問題5",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 21,
+          "explanation_pdf_page": 21,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q023",
+          "number": 23,
+          "test_part": "問題5",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 22,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q024",
+          "number": 24,
+          "test_part": "問題5",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 22,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q025",
+          "number": 25,
+          "test_part": "問題5",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 22,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q026",
+          "number": 26,
+          "test_part": "問題6",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 22,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q027",
+          "number": 27,
+          "test_part": "問題6",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            3
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 22,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q028",
+          "number": 28,
+          "test_part": "問題6",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 22,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q029",
+          "number": 29,
+          "test_part": "問題6",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 22,
+          "explanation_pdf_page": 22,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q030",
+          "number": 30,
+          "test_part": "問題6",
+          "section": "文字・語彙",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 23,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q031",
+          "number": 31,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 23,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q032",
+          "number": 32,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 23,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q033",
+          "number": 33,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 23,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q034",
+          "number": 34,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 23,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q035",
+          "number": 35,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 23,
+          "explanation_pdf_page": 23,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q036",
+          "number": 36,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            4
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 24,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q037",
+          "number": 37,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 24,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q038",
+          "number": 38,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 24,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q039",
+          "number": 39,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 24,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q040",
+          "number": 40,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 24,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q041",
+          "number": 41,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 24,
+          "explanation_pdf_page": 24,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q042",
+          "number": 42,
+          "test_part": "問題7",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 25,
+          "explanation_pdf_page": 25,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q043",
+          "number": 43,
+          "test_part": "問題8",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 25,
+          "explanation_pdf_page": 25,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q044",
+          "number": 44,
+          "test_part": "問題8",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 25,
+          "explanation_pdf_page": 25,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q045",
+          "number": 45,
+          "test_part": "問題8",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 25,
+          "explanation_pdf_page": 25,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q046",
+          "number": 46,
+          "test_part": "問題8",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 25,
+          "explanation_pdf_page": 25,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q047",
+          "number": 47,
+          "test_part": "問題8",
+          "section": "文法",
+          "source_pdf_pages": [
+            5
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 26,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q048",
+          "number": 48,
+          "test_part": "問題9",
+          "section": "文法",
+          "source_pdf_pages": [
+            6
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 26,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q049",
+          "number": 49,
+          "test_part": "問題9",
+          "section": "文法",
+          "source_pdf_pages": [
+            6
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 26,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q050",
+          "number": 50,
+          "test_part": "問題9",
+          "section": "文法",
+          "source_pdf_pages": [
+            6
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 26,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q051",
+          "number": 51,
+          "test_part": "問題9",
+          "section": "文法",
+          "source_pdf_pages": [
+            6
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 26,
+          "explanation_pdf_page": 26,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q052",
+          "number": 52,
+          "test_part": "問題9",
+          "section": "文法",
+          "source_pdf_pages": [
+            6
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 27,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q053",
+          "number": 53,
+          "test_part": "問題10",
+          "section": "読解",
+          "source_pdf_pages": [
+            7
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 27,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q054",
+          "number": 54,
+          "test_part": "問題10",
+          "section": "読解",
+          "source_pdf_pages": [
+            7
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 27,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q055",
+          "number": 55,
+          "test_part": "問題10",
+          "section": "読解",
+          "source_pdf_pages": [
+            7
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 27,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q056",
+          "number": 56,
+          "test_part": "問題10",
+          "section": "読解",
+          "source_pdf_pages": [
+            8
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 27,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q057",
+          "number": 57,
+          "test_part": "問題10",
+          "section": "読解",
+          "source_pdf_pages": [
+            8
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 27,
+          "explanation_pdf_page": 27,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q058",
+          "number": 58,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            9,
+            10
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 28,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q059",
+          "number": 59,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            9,
+            10
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 28,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q060",
+          "number": 60,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            9,
+            10
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 28,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q061",
+          "number": 61,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            9,
+            10
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 28,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q062",
+          "number": 62,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            9,
+            10
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 28,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q063",
+          "number": 63,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            9,
+            10
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 28,
+          "explanation_pdf_page": 28,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q064",
+          "number": 64,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            10,
+            11
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 29,
+          "explanation_pdf_page": 29,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q065",
+          "number": 65,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            10,
+            11
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 29,
+          "explanation_pdf_page": 29,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q066",
+          "number": 66,
+          "test_part": "問題11",
+          "section": "読解",
+          "source_pdf_pages": [
+            10,
+            11
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 29,
+          "explanation_pdf_page": 29,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q067",
+          "number": 67,
+          "test_part": "問題12",
+          "section": "読解",
+          "source_pdf_pages": [
+            11,
+            12
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 29,
+          "explanation_pdf_page": 29,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q068",
+          "number": 68,
+          "test_part": "問題12",
+          "section": "読解",
+          "source_pdf_pages": [
+            11,
+            12
+          ],
+          "answer_index": 1,
+          "answer_pdf_page": 29,
+          "explanation_pdf_page": 29,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q069",
+          "number": 69,
+          "test_part": "問題13",
+          "section": "読解",
+          "source_pdf_pages": [
+            12,
+            13
+          ],
+          "answer_index": 4,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 30,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q070",
+          "number": 70,
+          "test_part": "問題13",
+          "section": "読解",
+          "source_pdf_pages": [
+            12,
+            13
+          ],
+          "answer_index": 2,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 30,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q071",
+          "number": 71,
+          "test_part": "問題13",
+          "section": "読解",
+          "source_pdf_pages": [
+            12,
+            13
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 30,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q072",
+          "number": 72,
+          "test_part": "問題14",
+          "section": "読解",
+          "source_pdf_pages": [
+            14,
+            15
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 30,
+          "explanation_page_precise": true
+        },
+        {
+          "id": "N2_2018_12_Q073",
+          "number": 73,
+          "test_part": "問題14",
+          "section": "読解",
+          "source_pdf_pages": [
+            14,
+            15
+          ],
+          "answer_index": 3,
+          "answer_pdf_page": 30,
+          "explanation_pdf_page": 30,
+          "explanation_page_precise": true
+        }
+      ]
+    }
+  ]
+}
