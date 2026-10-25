@@ -1,0 +1,3642 @@
+[
+  {
+    "word": "ああ",
+    "reading": "ああ",
+    "meaning": "啊、是的",
+    "category": "基礎",
+    "id": "n5v-0001"
+  },
+  {
+    "word": "会う",
+    "reading": "あう",
+    "meaning": "見面",
+    "category": "動詞",
+    "id": "n5v-0002"
+  },
+  {
+    "word": "青",
+    "reading": "あお",
+    "meaning": "藍色",
+    "category": "顏色",
+    "id": "n5v-0003"
+  },
+  {
+    "word": "青い",
+    "reading": "あおい",
+    "meaning": "藍色的",
+    "category": "形容詞",
+    "id": "n5v-0004"
+  },
+  {
+    "word": "赤",
+    "reading": "あか",
+    "meaning": "紅色",
+    "category": "顏色",
+    "id": "n5v-0005"
+  },
+  {
+    "word": "赤い",
+    "reading": "あかい",
+    "meaning": "紅色的",
+    "category": "形容詞",
+    "id": "n5v-0006"
+  },
+  {
+    "word": "明るい",
+    "reading": "あかるい",
+    "meaning": "明亮的、開朗的",
+    "category": "形容詞",
+    "id": "n5v-0007"
+  },
+  {
+    "word": "秋",
+    "reading": "あき",
+    "meaning": "秋天",
+    "category": "時間",
+    "id": "n5v-0008"
+  },
+  {
+    "word": "開く",
+    "reading": "あく",
+    "meaning": "打開；打開著（自動詞，如門自己開了）",
+    "category": "動詞",
+    "id": "n5v-0009"
+  },
+  {
+    "word": "開ける",
+    "reading": "あける",
+    "meaning": "打開（他動詞）",
+    "category": "動詞",
+    "id": "n5v-0010"
+  },
+  {
+    "word": "上げる",
+    "reading": "あげる",
+    "meaning": "舉起、提高",
+    "category": "動詞",
+    "id": "n5v-0011"
+  },
+  {
+    "word": "朝",
+    "reading": "あさ",
+    "meaning": "早上",
+    "category": "時間",
+    "id": "n5v-0012"
+  },
+  {
+    "word": "朝御飯",
+    "reading": "あさごはん",
+    "meaning": "早餐",
+    "category": "食物",
+    "id": "n5v-0013"
+  },
+  {
+    "word": "明後日",
+    "reading": "あさって",
+    "meaning": "後天",
+    "category": "時間",
+    "id": "n5v-0014"
+  },
+  {
+    "word": "足",
+    "reading": "あし",
+    "meaning": "腳、腿",
+    "category": "身體",
+    "id": "n5v-0015"
+  },
+  {
+    "word": "明日",
+    "reading": "あした",
+    "meaning": "明天",
+    "category": "時間",
+    "id": "n5v-0016"
+  },
+  {
+    "word": "あそこ",
+    "reading": "あそこ",
+    "meaning": "那裡",
+    "category": "指示",
+    "id": "n5v-0017"
+  },
+  {
+    "word": "遊ぶ",
+    "reading": "あそぶ",
+    "meaning": "玩、遊玩",
+    "category": "動詞",
+    "id": "n5v-0018"
+  },
+  {
+    "word": "暖かい",
+    "reading": "あたたかい",
+    "meaning": "溫暖的",
+    "category": "形容詞",
+    "id": "n5v-0019"
+  },
+  {
+    "word": "頭",
+    "reading": "あたま",
+    "meaning": "頭",
+    "category": "身體",
+    "id": "n5v-0020"
+  },
+  {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meaning": "新的",
+    "category": "形容詞",
+    "id": "n5v-0021"
+  },
+  {
+    "word": "あちら",
+    "reading": "あちら",
+    "meaning": "那邊、那一位（禮貌）",
+    "category": "指示",
+    "id": "n5v-0022"
+  },
+  {
+    "word": "あっち",
+    "reading": "あっち",
+    "meaning": "那邊（口語）",
+    "category": "指示",
+    "id": "n5v-0023"
+  },
+  {
+    "word": "暑い",
+    "reading": "あつい",
+    "meaning": "熱的（天氣）",
+    "category": "形容詞",
+    "id": "n5v-0024"
+  },
+  {
+    "word": "熱い",
+    "reading": "あつい",
+    "meaning": "熱的（物體）",
+    "category": "形容詞",
+    "id": "n5v-0025"
+  },
+  {
+    "word": "厚い",
+    "reading": "あつい",
+    "meaning": "厚的",
+    "category": "形容詞",
+    "id": "n5v-0026"
+  },
+  {
+    "word": "後",
+    "reading": "あと",
+    "meaning": "之後、後面",
+    "category": "時間",
+    "id": "n5v-0027"
+  },
+  {
+    "word": "あなた",
+    "reading": "あなた",
+    "meaning": "你",
+    "category": "人物",
+    "id": "n5v-0028"
+  },
+  {
+    "word": "兄",
+    "reading": "あに",
+    "meaning": "哥哥（自己的）",
+    "category": "家庭",
+    "id": "n5v-0029"
+  },
+  {
+    "word": "姉",
+    "reading": "あね",
+    "meaning": "姊姊（自己的）",
+    "category": "家庭",
+    "id": "n5v-0030"
+  },
+  {
+    "word": "あの",
+    "reading": "あの",
+    "meaning": "那個～",
+    "category": "指示",
+    "id": "n5v-0031"
+  },
+  {
+    "word": "アパート",
+    "reading": "アパート",
+    "meaning": "公寓",
+    "category": "場所",
+    "id": "n5v-0032"
+  },
+  {
+    "word": "浴びる",
+    "reading": "あびる",
+    "meaning": "淋、沖（澡）",
+    "category": "動詞",
+    "id": "n5v-0033"
+  },
+  {
+    "word": "危ない",
+    "reading": "あぶない",
+    "meaning": "危險的",
+    "category": "形容詞",
+    "id": "n5v-0034"
+  },
+  {
+    "word": "甘い",
+    "reading": "あまい",
+    "meaning": "甜的",
+    "category": "形容詞",
+    "id": "n5v-0035"
+  },
+  {
+    "word": "あまり",
+    "reading": "あまり",
+    "meaning": "不太……（通常接否定）；不怎麼……",
+    "category": "副詞",
+    "id": "n5v-0036"
+  },
+  {
+    "word": "雨",
+    "reading": "あめ",
+    "meaning": "雨",
+    "category": "天氣",
+    "id": "n5v-0037"
+  },
+  {
+    "word": "飴",
+    "reading": "あめ",
+    "meaning": "糖果",
+    "category": "食物",
+    "id": "n5v-0038"
+  },
+  {
+    "word": "洗う",
+    "reading": "あらう",
+    "meaning": "洗",
+    "category": "動詞",
+    "id": "n5v-0039"
+  },
+  {
+    "word": "ある",
+    "reading": "ある",
+    "meaning": "有、存在（物品、植物、事物等）",
+    "category": "動詞",
+    "id": "n5v-0040"
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "meaning": "走路",
+    "category": "動詞",
+    "id": "n5v-0041"
+  },
+  {
+    "word": "あれ",
+    "reading": "あれ",
+    "meaning": "那個",
+    "category": "指示",
+    "id": "n5v-0042"
+  },
+  {
+    "word": "いい／よい",
+    "reading": "いい／よい",
+    "meaning": "好的",
+    "category": "形容詞",
+    "id": "n5v-0043"
+  },
+  {
+    "word": "いいえ",
+    "reading": "いいえ",
+    "meaning": "不、不是",
+    "category": "基礎",
+    "id": "n5v-0044"
+  },
+  {
+    "word": "言う",
+    "reading": "いう",
+    "meaning": "說",
+    "category": "動詞",
+    "id": "n5v-0045"
+  },
+  {
+    "word": "家",
+    "reading": "いえ",
+    "meaning": "家、房子",
+    "category": "場所",
+    "id": "n5v-0046"
+  },
+  {
+    "word": "行く",
+    "reading": "いく",
+    "meaning": "去",
+    "category": "動詞",
+    "id": "n5v-0047"
+  },
+  {
+    "word": "いくつ",
+    "reading": "いくつ",
+    "meaning": "幾個、幾歲",
+    "category": "疑問",
+    "id": "n5v-0048"
+  },
+  {
+    "word": "いくら",
+    "reading": "いくら",
+    "meaning": "多少錢",
+    "category": "疑問",
+    "id": "n5v-0049"
+  },
+  {
+    "word": "池",
+    "reading": "いけ",
+    "meaning": "池塘",
+    "category": "場所",
+    "id": "n5v-0050"
+  },
+  {
+    "word": "医者",
+    "reading": "いしゃ",
+    "meaning": "醫生",
+    "category": "人物",
+    "id": "n5v-0051"
+  },
+  {
+    "word": "椅子",
+    "reading": "いす",
+    "meaning": "椅子",
+    "category": "物品",
+    "id": "n5v-0052"
+  },
+  {
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "meaning": "忙碌的",
+    "category": "形容詞",
+    "id": "n5v-0053"
+  },
+  {
+    "word": "痛い",
+    "reading": "いたい",
+    "meaning": "痛的",
+    "category": "形容詞",
+    "id": "n5v-0054"
+  },
+  {
+    "word": "一",
+    "reading": "いち",
+    "meaning": "一",
+    "category": "數字",
+    "id": "n5v-0055"
+  },
+  {
+    "word": "一日",
+    "reading": "いちにち",
+    "meaning": "一天",
+    "category": "時間",
+    "id": "n5v-0056"
+  },
+  {
+    "word": "一番",
+    "reading": "いちばん",
+    "meaning": "第一、最～",
+    "category": "副詞",
+    "id": "n5v-0057"
+  },
+  {
+    "word": "いつ",
+    "reading": "いつ",
+    "meaning": "什麼時候",
+    "category": "疑問",
+    "id": "n5v-0058"
+  },
+  {
+    "word": "五日",
+    "reading": "いつか",
+    "meaning": "五日、五號",
+    "category": "時間",
+    "id": "n5v-0059"
+  },
+  {
+    "word": "一緒",
+    "reading": "いっしょ",
+    "meaning": "一起",
+    "category": "副詞",
+    "id": "n5v-0060"
+  },
+  {
+    "word": "五つ",
+    "reading": "いつつ",
+    "meaning": "五個",
+    "category": "數字",
+    "id": "n5v-0061"
+  },
+  {
+    "word": "いつも",
+    "reading": "いつも",
+    "meaning": "總是",
+    "category": "副詞",
+    "id": "n5v-0062"
+  },
+  {
+    "word": "犬",
+    "reading": "いぬ",
+    "meaning": "狗",
+    "category": "動物",
+    "id": "n5v-0063"
+  },
+  {
+    "word": "今",
+    "reading": "いま",
+    "meaning": "現在",
+    "category": "時間",
+    "id": "n5v-0064"
+  },
+  {
+    "word": "意味",
+    "reading": "いみ",
+    "meaning": "意思",
+    "category": "學習",
+    "id": "n5v-0065"
+  },
+  {
+    "word": "妹",
+    "reading": "いもうと",
+    "meaning": "妹妹（自己的）",
+    "category": "家庭",
+    "id": "n5v-0066"
+  },
+  {
+    "word": "入口",
+    "reading": "いりぐち",
+    "meaning": "入口",
+    "category": "場所",
+    "id": "n5v-0067"
+  },
+  {
+    "word": "いる",
+    "reading": "いる",
+    "meaning": "有、存在（人／動物）",
+    "category": "動詞",
+    "id": "n5v-0068"
+  },
+  {
+    "word": "入れる",
+    "reading": "いれる",
+    "meaning": "放入",
+    "category": "動詞",
+    "id": "n5v-0069"
+  },
+  {
+    "word": "色",
+    "reading": "いろ",
+    "meaning": "顏色",
+    "category": "顏色",
+    "id": "n5v-0070"
+  },
+  {
+    "word": "いろいろ",
+    "reading": "いろいろ",
+    "meaning": "各種各樣",
+    "category": "副詞",
+    "id": "n5v-0071"
+  },
+  {
+    "word": "上",
+    "reading": "うえ",
+    "meaning": "上面",
+    "category": "位置",
+    "id": "n5v-0072"
+  },
+  {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "meaning": "後面",
+    "category": "位置",
+    "id": "n5v-0073"
+  },
+  {
+    "word": "薄い",
+    "reading": "うすい",
+    "meaning": "薄的、淡的",
+    "category": "形容詞",
+    "id": "n5v-0074"
+  },
+  {
+    "word": "歌",
+    "reading": "うた",
+    "meaning": "歌",
+    "category": "娛樂",
+    "id": "n5v-0075"
+  },
+  {
+    "word": "歌う",
+    "reading": "うたう",
+    "meaning": "唱歌",
+    "category": "動詞",
+    "id": "n5v-0076"
+  },
+  {
+    "word": "生まれる",
+    "reading": "うまれる",
+    "meaning": "出生",
+    "category": "動詞",
+    "id": "n5v-0077"
+  },
+  {
+    "word": "海",
+    "reading": "うみ",
+    "meaning": "海",
+    "category": "場所",
+    "id": "n5v-0078"
+  },
+  {
+    "word": "売る",
+    "reading": "うる",
+    "meaning": "賣",
+    "category": "動詞",
+    "id": "n5v-0079"
+  },
+  {
+    "word": "上着",
+    "reading": "うわぎ",
+    "meaning": "外套",
+    "category": "衣物",
+    "id": "n5v-0080"
+  },
+  {
+    "word": "絵",
+    "reading": "え",
+    "meaning": "圖畫",
+    "category": "物品",
+    "id": "n5v-0081"
+  },
+  {
+    "word": "映画",
+    "reading": "えいが",
+    "meaning": "電影",
+    "category": "娛樂",
+    "id": "n5v-0082"
+  },
+  {
+    "word": "映画館",
+    "reading": "えいがかん",
+    "meaning": "電影院",
+    "category": "場所",
+    "id": "n5v-0083"
+  },
+  {
+    "word": "英語",
+    "reading": "えいご",
+    "meaning": "英語",
+    "category": "語言",
+    "id": "n5v-0084"
+  },
+  {
+    "word": "ええ",
+    "reading": "ええ",
+    "meaning": "是、嗯",
+    "category": "基礎",
+    "id": "n5v-0085"
+  },
+  {
+    "word": "駅",
+    "reading": "えき",
+    "meaning": "車站",
+    "category": "場所",
+    "id": "n5v-0086"
+  },
+  {
+    "word": "エレベーター",
+    "reading": "エレベーター",
+    "meaning": "電梯",
+    "category": "物品",
+    "id": "n5v-0087"
+  },
+  {
+    "word": "鉛筆",
+    "reading": "えんぴつ",
+    "meaning": "鉛筆",
+    "category": "物品",
+    "id": "n5v-0088"
+  },
+  {
+    "word": "おいしい",
+    "reading": "おいしい",
+    "meaning": "好吃、好喝",
+    "category": "形容詞",
+    "id": "n5v-0089"
+  },
+  {
+    "word": "多い",
+    "reading": "おおい",
+    "meaning": "多的",
+    "category": "形容詞",
+    "id": "n5v-0090"
+  },
+  {
+    "word": "大きい",
+    "reading": "おおきい",
+    "meaning": "大的",
+    "category": "形容詞",
+    "id": "n5v-0091"
+  },
+  {
+    "word": "大きな",
+    "reading": "おおきな",
+    "meaning": "大的（連體）",
+    "category": "形容詞",
+    "id": "n5v-0092"
+  },
+  {
+    "word": "大勢",
+    "reading": "おおぜい",
+    "meaning": "很多人",
+    "category": "人物",
+    "id": "n5v-0093"
+  },
+  {
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "meaning": "媽媽（稱呼／別人的）",
+    "category": "家庭",
+    "id": "n5v-0094"
+  },
+  {
+    "word": "お菓子",
+    "reading": "おかし",
+    "meaning": "點心、零食",
+    "category": "食物",
+    "id": "n5v-0095"
+  },
+  {
+    "word": "お金",
+    "reading": "おかね",
+    "meaning": "錢",
+    "category": "物品",
+    "id": "n5v-0096"
+  },
+  {
+    "word": "起きる",
+    "reading": "おきる",
+    "meaning": "起床",
+    "category": "動詞",
+    "id": "n5v-0097"
+  },
+  {
+    "word": "置く",
+    "reading": "おく",
+    "meaning": "放置",
+    "category": "動詞",
+    "id": "n5v-0098"
+  },
+  {
+    "word": "奥さん",
+    "reading": "おくさん",
+    "meaning": "太太、夫人（常用來稱呼他人的妻子）",
+    "category": "人物",
+    "id": "n5v-0099"
+  },
+  {
+    "word": "お酒",
+    "reading": "おさけ",
+    "meaning": "酒",
+    "category": "飲食",
+    "id": "n5v-0100"
+  },
+  {
+    "word": "お皿",
+    "reading": "おさら",
+    "meaning": "盤子",
+    "category": "物品",
+    "id": "n5v-0101"
+  },
+  {
+    "word": "伯父／叔父",
+    "reading": "おじ",
+    "meaning": "伯父、叔父",
+    "category": "家庭",
+    "id": "n5v-0102"
+  },
+  {
+    "word": "おじいさん",
+    "reading": "おじいさん",
+    "meaning": "祖父、老爺爺",
+    "category": "家庭",
+    "id": "n5v-0103"
+  },
+  {
+    "word": "教える",
+    "reading": "おしえる",
+    "meaning": "教、告訴",
+    "category": "動詞",
+    "id": "n5v-0104"
+  },
+  {
+    "word": "押す",
+    "reading": "おす",
+    "meaning": "按、推",
+    "category": "動詞",
+    "id": "n5v-0105"
+  },
+  {
+    "word": "遅い",
+    "reading": "おそい",
+    "meaning": "晚的、慢的",
+    "category": "形容詞",
+    "id": "n5v-0106"
+  },
+  {
+    "word": "お茶",
+    "reading": "おちゃ",
+    "meaning": "茶",
+    "category": "飲食",
+    "id": "n5v-0107"
+  },
+  {
+    "word": "お手洗い",
+    "reading": "おてあらい",
+    "meaning": "洗手間",
+    "category": "場所",
+    "id": "n5v-0108"
+  },
+  {
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "meaning": "爸爸（稱呼／別人的）",
+    "category": "家庭",
+    "id": "n5v-0109"
+  },
+  {
+    "word": "弟",
+    "reading": "おとうと",
+    "meaning": "弟弟（自己的）",
+    "category": "家庭",
+    "id": "n5v-0110"
+  },
+  {
+    "word": "男",
+    "reading": "おとこ",
+    "meaning": "男人",
+    "category": "人物",
+    "id": "n5v-0111"
+  },
+  {
+    "word": "男の子",
+    "reading": "おとこのこ",
+    "meaning": "男孩",
+    "category": "人物",
+    "id": "n5v-0112"
+  },
+  {
+    "word": "一昨日",
+    "reading": "おととい",
+    "meaning": "前天",
+    "category": "時間",
+    "id": "n5v-0113"
+  },
+  {
+    "word": "一昨年",
+    "reading": "おととし",
+    "meaning": "前年",
+    "category": "時間",
+    "id": "n5v-0114"
+  },
+  {
+    "word": "大人",
+    "reading": "おとな",
+    "meaning": "大人",
+    "category": "人物",
+    "id": "n5v-0115"
+  },
+  {
+    "word": "お腹",
+    "reading": "おなか",
+    "meaning": "肚子",
+    "category": "身體",
+    "id": "n5v-0116"
+  },
+  {
+    "word": "同じ",
+    "reading": "おなじ",
+    "meaning": "相同的",
+    "category": "形容詞",
+    "id": "n5v-0117"
+  },
+  {
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "meaning": "哥哥（稱呼／別人的）",
+    "category": "家庭",
+    "id": "n5v-0118"
+  },
+  {
+    "word": "お姉さん",
+    "reading": "おねえさん",
+    "meaning": "姊姊（稱呼／別人的）",
+    "category": "家庭",
+    "id": "n5v-0119"
+  },
+  {
+    "word": "伯母／叔母",
+    "reading": "おば",
+    "meaning": "伯母、叔母",
+    "category": "家庭",
+    "id": "n5v-0120"
+  },
+  {
+    "word": "おばあさん",
+    "reading": "おばあさん",
+    "meaning": "祖母、老婆婆",
+    "category": "家庭",
+    "id": "n5v-0121"
+  },
+  {
+    "word": "お弁当",
+    "reading": "おべんとう",
+    "meaning": "便當",
+    "category": "食物",
+    "id": "n5v-0122"
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "記住",
+    "category": "動詞",
+    "id": "n5v-0123"
+  },
+  {
+    "word": "重い",
+    "reading": "おもい",
+    "meaning": "重的",
+    "category": "形容詞",
+    "id": "n5v-0124"
+  },
+  {
+    "word": "面白い",
+    "reading": "おもしろい",
+    "meaning": "有趣的",
+    "category": "形容詞",
+    "id": "n5v-0125"
+  },
+  {
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "meaning": "游泳",
+    "category": "動詞",
+    "id": "n5v-0126"
+  },
+  {
+    "word": "降りる",
+    "reading": "おりる",
+    "meaning": "下車、下樓",
+    "category": "動詞",
+    "id": "n5v-0127"
+  },
+  {
+    "word": "終わる",
+    "reading": "おわる",
+    "meaning": "結束",
+    "category": "動詞",
+    "id": "n5v-0128"
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning": "音樂",
+    "category": "娛樂",
+    "id": "n5v-0129"
+  },
+  {
+    "word": "女",
+    "reading": "おんな",
+    "meaning": "女人",
+    "category": "人物",
+    "id": "n5v-0130"
+  },
+  {
+    "word": "女の子",
+    "reading": "おんなのこ",
+    "meaning": "女孩",
+    "category": "人物",
+    "id": "n5v-0131"
+  },
+  {
+    "word": "外国",
+    "reading": "がいこく",
+    "meaning": "外國",
+    "category": "場所",
+    "id": "n5v-0132"
+  },
+  {
+    "word": "外国人",
+    "reading": "がいこくじん",
+    "meaning": "外國人",
+    "category": "人物",
+    "id": "n5v-0133"
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaning": "公司",
+    "category": "場所",
+    "id": "n5v-0134"
+  },
+  {
+    "word": "階段",
+    "reading": "かいだん",
+    "meaning": "樓梯",
+    "category": "場所",
+    "id": "n5v-0135"
+  },
+  {
+    "word": "買い物",
+    "reading": "かいもの",
+    "meaning": "購物",
+    "category": "生活",
+    "id": "n5v-0136"
+  },
+  {
+    "word": "買う",
+    "reading": "かう",
+    "meaning": "買",
+    "category": "動詞",
+    "id": "n5v-0137"
+  },
+  {
+    "word": "返す",
+    "reading": "かえす",
+    "meaning": "歸還",
+    "category": "動詞",
+    "id": "n5v-0138"
+  },
+  {
+    "word": "帰る",
+    "reading": "かえる",
+    "meaning": "回去、回家",
+    "category": "動詞",
+    "id": "n5v-0139"
+  },
+  {
+    "word": "顔",
+    "reading": "かお",
+    "meaning": "臉",
+    "category": "身體",
+    "id": "n5v-0140"
+  },
+  {
+    "word": "かかる",
+    "reading": "かかる",
+    "meaning": "花費（時間／金錢）、掛著",
+    "category": "動詞",
+    "id": "n5v-0141"
+  },
+  {
+    "word": "鍵",
+    "reading": "かぎ",
+    "meaning": "鑰匙",
+    "category": "物品",
+    "id": "n5v-0142"
+  },
+  {
+    "word": "書く",
+    "reading": "かく",
+    "meaning": "寫",
+    "category": "動詞",
+    "id": "n5v-0143"
+  },
+  {
+    "word": "学生",
+    "reading": "がくせい",
+    "meaning": "學生",
+    "category": "人物",
+    "id": "n5v-0144"
+  },
+  {
+    "word": "掛ける",
+    "reading": "かける",
+    "meaning": "掛、戴、打（電話）",
+    "category": "動詞",
+    "id": "n5v-0145"
+  },
+  {
+    "word": "傘",
+    "reading": "かさ",
+    "meaning": "雨傘",
+    "category": "物品",
+    "id": "n5v-0146"
+  },
+  {
+    "word": "貸す",
+    "reading": "かす",
+    "meaning": "借出",
+    "category": "動詞",
+    "id": "n5v-0147"
+  },
+  {
+    "word": "風",
+    "reading": "かぜ",
+    "meaning": "風",
+    "category": "天氣",
+    "id": "n5v-0148"
+  },
+  {
+    "word": "風邪",
+    "reading": "かぜ",
+    "meaning": "感冒",
+    "category": "健康",
+    "id": "n5v-0149"
+  },
+  {
+    "word": "家族",
+    "reading": "かぞく",
+    "meaning": "家人、家庭",
+    "category": "家庭",
+    "id": "n5v-0150"
+  },
+  {
+    "word": "方",
+    "reading": "かた",
+    "meaning": "人、位（禮貌）／方法",
+    "category": "基礎",
+    "id": "n5v-0151"
+  },
+  {
+    "word": "学校",
+    "reading": "がっこう",
+    "meaning": "學校",
+    "category": "場所",
+    "id": "n5v-0152"
+  },
+  {
+    "word": "角",
+    "reading": "かど",
+    "meaning": "轉角",
+    "category": "場所",
+    "id": "n5v-0153"
+  },
+  {
+    "word": "家内",
+    "reading": "かない",
+    "meaning": "內人、妻子（談及自己的妻子時的傳統說法）",
+    "category": "家庭",
+    "id": "n5v-0154"
+  },
+  {
+    "word": "かばん",
+    "reading": "かばん",
+    "meaning": "包包",
+    "category": "物品",
+    "id": "n5v-0155"
+  },
+  {
+    "word": "花瓶",
+    "reading": "かびん",
+    "meaning": "花瓶",
+    "category": "物品",
+    "id": "n5v-0156"
+  },
+  {
+    "word": "紙",
+    "reading": "かみ",
+    "meaning": "紙",
+    "category": "物品",
+    "id": "n5v-0157"
+  },
+  {
+    "word": "カメラ",
+    "reading": "カメラ",
+    "meaning": "相機",
+    "category": "物品",
+    "id": "n5v-0158"
+  },
+  {
+    "word": "火曜日",
+    "reading": "かようび",
+    "meaning": "星期二",
+    "category": "時間",
+    "id": "n5v-0159"
+  },
+  {
+    "word": "辛い",
+    "reading": "からい",
+    "meaning": "辣的",
+    "category": "形容詞",
+    "id": "n5v-0160"
+  },
+  {
+    "word": "体",
+    "reading": "からだ",
+    "meaning": "身體",
+    "category": "身體",
+    "id": "n5v-0161"
+  },
+  {
+    "word": "借りる",
+    "reading": "かりる",
+    "meaning": "借入",
+    "category": "動詞",
+    "id": "n5v-0162"
+  },
+  {
+    "word": "軽い",
+    "reading": "かるい",
+    "meaning": "輕的",
+    "category": "形容詞",
+    "id": "n5v-0163"
+  },
+  {
+    "word": "カレー",
+    "reading": "カレー",
+    "meaning": "咖哩",
+    "category": "食物",
+    "id": "n5v-0164"
+  },
+  {
+    "word": "カレンダー",
+    "reading": "カレンダー",
+    "meaning": "日曆",
+    "category": "物品",
+    "id": "n5v-0165"
+  },
+  {
+    "word": "川／河",
+    "reading": "かわ",
+    "meaning": "河川",
+    "category": "場所",
+    "id": "n5v-0166"
+  },
+  {
+    "word": "かわいい",
+    "reading": "かわいい",
+    "meaning": "可愛的",
+    "category": "形容詞",
+    "id": "n5v-0167"
+  },
+  {
+    "word": "漢字",
+    "reading": "かんじ",
+    "meaning": "漢字",
+    "category": "學習",
+    "id": "n5v-0168"
+  },
+  {
+    "word": "木",
+    "reading": "き",
+    "meaning": "樹、木頭",
+    "category": "自然",
+    "id": "n5v-0169"
+  },
+  {
+    "word": "黄色",
+    "reading": "きいろ",
+    "meaning": "黃色",
+    "category": "顏色",
+    "id": "n5v-0170"
+  },
+  {
+    "word": "黄色い",
+    "reading": "きいろい",
+    "meaning": "黃色的",
+    "category": "形容詞",
+    "id": "n5v-0171"
+  },
+  {
+    "word": "消える",
+    "reading": "きえる",
+    "meaning": "消失、熄滅",
+    "category": "動詞",
+    "id": "n5v-0172"
+  },
+  {
+    "word": "聞く",
+    "reading": "きく",
+    "meaning": "聽、問",
+    "category": "動詞",
+    "id": "n5v-0173"
+  },
+  {
+    "word": "北",
+    "reading": "きた",
+    "meaning": "北方",
+    "category": "位置",
+    "id": "n5v-0174"
+  },
+  {
+    "word": "ギター",
+    "reading": "ギター",
+    "meaning": "吉他",
+    "category": "娛樂",
+    "id": "n5v-0175"
+  },
+  {
+    "word": "汚い",
+    "reading": "きたない",
+    "meaning": "髒的",
+    "category": "形容詞",
+    "id": "n5v-0176"
+  },
+  {
+    "word": "喫茶店",
+    "reading": "きっさてん",
+    "meaning": "咖啡店",
+    "category": "場所",
+    "id": "n5v-0177"
+  },
+  {
+    "word": "切手",
+    "reading": "きって",
+    "meaning": "郵票",
+    "category": "物品",
+    "id": "n5v-0178"
+  },
+  {
+    "word": "切符",
+    "reading": "きっぷ",
+    "meaning": "票、車票",
+    "category": "物品",
+    "id": "n5v-0179"
+  },
+  {
+    "word": "昨日",
+    "reading": "きのう",
+    "meaning": "昨天",
+    "category": "時間",
+    "id": "n5v-0180"
+  },
+  {
+    "word": "九",
+    "reading": "きゅう／く",
+    "meaning": "九",
+    "category": "數字",
+    "id": "n5v-0181"
+  },
+  {
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "meaning": "牛肉",
+    "category": "食物",
+    "id": "n5v-0182"
+  },
+  {
+    "word": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "meaning": "牛奶",
+    "category": "飲食",
+    "id": "n5v-0183"
+  },
+  {
+    "word": "今日",
+    "reading": "きょう",
+    "meaning": "今天",
+    "category": "時間",
+    "id": "n5v-0184"
+  },
+  {
+    "word": "教室",
+    "reading": "きょうしつ",
+    "meaning": "教室",
+    "category": "場所",
+    "id": "n5v-0185"
+  },
+  {
+    "word": "兄弟",
+    "reading": "きょうだい",
+    "meaning": "兄弟姊妹",
+    "category": "家庭",
+    "id": "n5v-0186"
+  },
+  {
+    "word": "去年",
+    "reading": "きょねん",
+    "meaning": "去年",
+    "category": "時間",
+    "id": "n5v-0187"
+  },
+  {
+    "word": "嫌い",
+    "reading": "きらい",
+    "meaning": "討厭、不喜歡",
+    "category": "形容詞",
+    "id": "n5v-0188"
+  },
+  {
+    "word": "切る",
+    "reading": "きる",
+    "meaning": "切",
+    "category": "動詞",
+    "id": "n5v-0189"
+  },
+  {
+    "word": "着る",
+    "reading": "きる",
+    "meaning": "穿（上半身）",
+    "category": "動詞",
+    "id": "n5v-0190"
+  },
+  {
+    "word": "きれい",
+    "reading": "きれい",
+    "meaning": "漂亮的、乾淨的",
+    "category": "形容詞",
+    "id": "n5v-0191"
+  },
+  {
+    "word": "キロ／キログラム",
+    "reading": "キロ／キログラム",
+    "meaning": "公斤；「キロ」也可能是公里的簡稱，依上下文判斷",
+    "category": "數量",
+    "id": "n5v-0192"
+  },
+  {
+    "word": "キロ／キロメートル",
+    "reading": "キロ／キロメートル",
+    "meaning": "公里；「キロ」也可能是公斤的簡稱，依上下文判斷",
+    "category": "數量",
+    "id": "n5v-0193"
+  },
+  {
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "meaning": "銀行",
+    "category": "場所",
+    "id": "n5v-0194"
+  },
+  {
+    "word": "金曜日",
+    "reading": "きんようび",
+    "meaning": "星期五",
+    "category": "時間",
+    "id": "n5v-0195"
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "meaning": "藥",
+    "category": "健康",
+    "id": "n5v-0196"
+  },
+  {
+    "word": "ください",
+    "reading": "ください",
+    "meaning": "請給我～",
+    "category": "基礎",
+    "id": "n5v-0197"
+  },
+  {
+    "word": "果物",
+    "reading": "くだもの",
+    "meaning": "水果",
+    "category": "食物",
+    "id": "n5v-0198"
+  },
+  {
+    "word": "口",
+    "reading": "くち",
+    "meaning": "嘴、入口",
+    "category": "身體",
+    "id": "n5v-0199"
+  },
+  {
+    "word": "靴",
+    "reading": "くつ",
+    "meaning": "鞋子",
+    "category": "衣物",
+    "id": "n5v-0200"
+  },
+  {
+    "word": "靴下",
+    "reading": "くつした",
+    "meaning": "襪子",
+    "category": "衣物",
+    "id": "n5v-0201"
+  },
+  {
+    "word": "国",
+    "reading": "くに",
+    "meaning": "國家",
+    "category": "場所",
+    "id": "n5v-0202"
+  },
+  {
+    "word": "曇り",
+    "reading": "くもり",
+    "meaning": "陰天",
+    "category": "天氣",
+    "id": "n5v-0203"
+  },
+  {
+    "word": "曇る",
+    "reading": "くもる",
+    "meaning": "變陰天",
+    "category": "動詞",
+    "id": "n5v-0204"
+  },
+  {
+    "word": "暗い",
+    "reading": "くらい",
+    "meaning": "暗的",
+    "category": "形容詞",
+    "id": "n5v-0205"
+  },
+  {
+    "word": "クラス",
+    "reading": "クラス",
+    "meaning": "班級",
+    "category": "學習",
+    "id": "n5v-0206"
+  },
+  {
+    "word": "グラム",
+    "reading": "グラム",
+    "meaning": "公克",
+    "category": "數量",
+    "id": "n5v-0207"
+  },
+  {
+    "word": "来る",
+    "reading": "くる",
+    "meaning": "來",
+    "category": "動詞",
+    "id": "n5v-0208"
+  },
+  {
+    "word": "車",
+    "reading": "くるま",
+    "meaning": "車",
+    "category": "交通",
+    "id": "n5v-0209"
+  },
+  {
+    "word": "黒",
+    "reading": "くろ",
+    "meaning": "黑色",
+    "category": "顏色",
+    "id": "n5v-0210"
+  },
+  {
+    "word": "黒い",
+    "reading": "くろい",
+    "meaning": "黑色的",
+    "category": "形容詞",
+    "id": "n5v-0211"
+  },
+  {
+    "word": "警官",
+    "reading": "けいかん",
+    "meaning": "警察",
+    "category": "人物",
+    "id": "n5v-0212"
+  },
+  {
+    "word": "今朝",
+    "reading": "けさ",
+    "meaning": "今天早上",
+    "category": "時間",
+    "id": "n5v-0213"
+  },
+  {
+    "word": "消す",
+    "reading": "けす",
+    "meaning": "關掉、擦掉",
+    "category": "動詞",
+    "id": "n5v-0214"
+  },
+  {
+    "word": "結構",
+    "reading": "けっこう",
+    "meaning": "相當、挺……；可以、足夠；不用了（依語境）",
+    "category": "副詞",
+    "id": "n5v-0215"
+  },
+  {
+    "word": "結婚",
+    "reading": "けっこん",
+    "meaning": "結婚",
+    "category": "生活",
+    "id": "n5v-0216"
+  },
+  {
+    "word": "月曜日",
+    "reading": "げつようび",
+    "meaning": "星期一",
+    "category": "時間",
+    "id": "n5v-0217"
+  },
+  {
+    "word": "玄関",
+    "reading": "げんかん",
+    "meaning": "玄關",
+    "category": "場所",
+    "id": "n5v-0218"
+  },
+  {
+    "word": "元気",
+    "reading": "げんき",
+    "meaning": "有精神、健康",
+    "category": "形容詞",
+    "id": "n5v-0219"
+  },
+  {
+    "word": "五",
+    "reading": "ご",
+    "meaning": "五",
+    "category": "數字",
+    "id": "n5v-0220"
+  },
+  {
+    "word": "公園",
+    "reading": "こうえん",
+    "meaning": "公園",
+    "category": "場所",
+    "id": "n5v-0221"
+  },
+  {
+    "word": "交差点",
+    "reading": "こうさてん",
+    "meaning": "十字路口",
+    "category": "場所",
+    "id": "n5v-0222"
+  },
+  {
+    "word": "紅茶",
+    "reading": "こうちゃ",
+    "meaning": "紅茶",
+    "category": "飲食",
+    "id": "n5v-0223"
+  },
+  {
+    "word": "交番",
+    "reading": "こうばん",
+    "meaning": "派出所",
+    "category": "場所",
+    "id": "n5v-0224"
+  },
+  {
+    "word": "声",
+    "reading": "こえ",
+    "meaning": "聲音",
+    "category": "身體",
+    "id": "n5v-0225"
+  },
+  {
+    "word": "コート",
+    "reading": "コート",
+    "meaning": "大衣",
+    "category": "衣物",
+    "id": "n5v-0226"
+  },
+  {
+    "word": "コーヒー",
+    "reading": "コーヒー",
+    "meaning": "咖啡",
+    "category": "飲食",
+    "id": "n5v-0227"
+  },
+  {
+    "word": "ここ",
+    "reading": "ここ",
+    "meaning": "這裡",
+    "category": "指示",
+    "id": "n5v-0228"
+  },
+  {
+    "word": "午後",
+    "reading": "ごご",
+    "meaning": "下午",
+    "category": "時間",
+    "id": "n5v-0229"
+  },
+  {
+    "word": "九日",
+    "reading": "ここのか",
+    "meaning": "九日、九號",
+    "category": "時間",
+    "id": "n5v-0230"
+  },
+  {
+    "word": "九つ",
+    "reading": "ここのつ",
+    "meaning": "九個",
+    "category": "數字",
+    "id": "n5v-0231"
+  },
+  {
+    "word": "午前",
+    "reading": "ごぜん",
+    "meaning": "上午",
+    "category": "時間",
+    "id": "n5v-0232"
+  },
+  {
+    "word": "答える",
+    "reading": "こたえる",
+    "meaning": "回答",
+    "category": "動詞",
+    "id": "n5v-0233"
+  },
+  {
+    "word": "こちら",
+    "reading": "こちら",
+    "meaning": "這邊、這位（禮貌）",
+    "category": "指示",
+    "id": "n5v-0234"
+  },
+  {
+    "word": "こっち",
+    "reading": "こっち",
+    "meaning": "這邊（口語）",
+    "category": "指示",
+    "id": "n5v-0235"
+  },
+  {
+    "word": "コップ",
+    "reading": "コップ",
+    "meaning": "杯子",
+    "category": "物品",
+    "id": "n5v-0236"
+  },
+  {
+    "word": "今年",
+    "reading": "ことし",
+    "meaning": "今年",
+    "category": "時間",
+    "id": "n5v-0237"
+  },
+  {
+    "word": "言葉",
+    "reading": "ことば",
+    "meaning": "語言、詞語",
+    "category": "學習",
+    "id": "n5v-0238"
+  },
+  {
+    "word": "子供",
+    "reading": "こども",
+    "meaning": "小孩",
+    "category": "人物",
+    "id": "n5v-0239"
+  },
+  {
+    "word": "この",
+    "reading": "この",
+    "meaning": "這個～",
+    "category": "指示",
+    "id": "n5v-0240"
+  },
+  {
+    "word": "御飯",
+    "reading": "ごはん",
+    "meaning": "飯、餐",
+    "category": "食物",
+    "id": "n5v-0241"
+  },
+  {
+    "word": "コピーする",
+    "reading": "コピーする",
+    "meaning": "影印",
+    "category": "動詞",
+    "id": "n5v-0242"
+  },
+  {
+    "word": "困る",
+    "reading": "こまる",
+    "meaning": "困擾、為難",
+    "category": "動詞",
+    "id": "n5v-0243"
+  },
+  {
+    "word": "これ",
+    "reading": "これ",
+    "meaning": "這個",
+    "category": "指示",
+    "id": "n5v-0244"
+  },
+  {
+    "word": "今月",
+    "reading": "こんげつ",
+    "meaning": "這個月",
+    "category": "時間",
+    "id": "n5v-0245"
+  },
+  {
+    "word": "今週",
+    "reading": "こんしゅう",
+    "meaning": "這週",
+    "category": "時間",
+    "id": "n5v-0246"
+  },
+  {
+    "word": "こんな",
+    "reading": "こんな",
+    "meaning": "這樣的",
+    "category": "指示",
+    "id": "n5v-0247"
+  },
+  {
+    "word": "今晩",
+    "reading": "こんばん",
+    "meaning": "今晚",
+    "category": "時間",
+    "id": "n5v-0248"
+  },
+  {
+    "word": "さあ",
+    "reading": "さあ",
+    "meaning": "來吧、嗯～",
+    "category": "基礎",
+    "id": "n5v-0249"
+  },
+  {
+    "word": "財布",
+    "reading": "さいふ",
+    "meaning": "錢包",
+    "category": "物品",
+    "id": "n5v-0250"
+  },
+  {
+    "word": "魚",
+    "reading": "さかな",
+    "meaning": "魚",
+    "category": "食物",
+    "id": "n5v-0251"
+  },
+  {
+    "word": "先",
+    "reading": "さき",
+    "meaning": "前方、先",
+    "category": "位置",
+    "id": "n5v-0252"
+  },
+  {
+    "word": "咲く",
+    "reading": "さく",
+    "meaning": "開花",
+    "category": "動詞",
+    "id": "n5v-0253"
+  },
+  {
+    "word": "作文",
+    "reading": "さくぶん",
+    "meaning": "作文",
+    "category": "學習",
+    "id": "n5v-0254"
+  },
+  {
+    "word": "差す",
+    "reading": "さす",
+    "meaning": "撐（傘）",
+    "category": "動詞",
+    "id": "n5v-0255"
+  },
+  {
+    "word": "雑誌",
+    "reading": "ざっし",
+    "meaning": "雜誌",
+    "category": "物品",
+    "id": "n5v-0256"
+  },
+  {
+    "word": "砂糖",
+    "reading": "さとう",
+    "meaning": "砂糖",
+    "category": "食物",
+    "id": "n5v-0257"
+  },
+  {
+    "word": "寒い",
+    "reading": "さむい",
+    "meaning": "寒冷的",
+    "category": "形容詞",
+    "id": "n5v-0258"
+  },
+  {
+    "word": "再来年",
+    "reading": "さらいねん",
+    "meaning": "後年（明年的下一年）",
+    "category": "時間",
+    "id": "n5v-0259"
+  },
+  {
+    "word": "三",
+    "reading": "さん",
+    "meaning": "三",
+    "category": "數字",
+    "id": "n5v-0260"
+  },
+  {
+    "word": "散歩",
+    "reading": "さんぽ",
+    "meaning": "散步",
+    "category": "生活",
+    "id": "n5v-0261"
+  },
+  {
+    "word": "四",
+    "reading": "し／よん",
+    "meaning": "四",
+    "category": "數字",
+    "id": "n5v-0262"
+  },
+  {
+    "word": "塩",
+    "reading": "しお",
+    "meaning": "鹽",
+    "category": "食物",
+    "id": "n5v-0263"
+  },
+  {
+    "word": "しかし",
+    "reading": "しかし",
+    "meaning": "但是",
+    "category": "連接",
+    "id": "n5v-0264"
+  },
+  {
+    "word": "時間",
+    "reading": "じかん",
+    "meaning": "時間",
+    "category": "時間",
+    "id": "n5v-0265"
+  },
+  {
+    "word": "仕事",
+    "reading": "しごと",
+    "meaning": "工作",
+    "category": "生活",
+    "id": "n5v-0266"
+  },
+  {
+    "word": "辞書",
+    "reading": "じしょ",
+    "meaning": "字典",
+    "category": "學習",
+    "id": "n5v-0267"
+  },
+  {
+    "word": "静か",
+    "reading": "しずか",
+    "meaning": "安靜的",
+    "category": "形容詞",
+    "id": "n5v-0268"
+  },
+  {
+    "word": "下",
+    "reading": "した",
+    "meaning": "下面",
+    "category": "位置",
+    "id": "n5v-0269"
+  },
+  {
+    "word": "七",
+    "reading": "しち／なな",
+    "meaning": "七",
+    "category": "數字",
+    "id": "n5v-0270"
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning": "問題、提問",
+    "category": "學習",
+    "id": "n5v-0271"
+  },
+  {
+    "word": "自転車",
+    "reading": "じてんしゃ",
+    "meaning": "腳踏車",
+    "category": "交通",
+    "id": "n5v-0272"
+  },
+  {
+    "word": "自動車",
+    "reading": "じどうしゃ",
+    "meaning": "汽車",
+    "category": "交通",
+    "id": "n5v-0273"
+  },
+  {
+    "word": "死ぬ",
+    "reading": "しぬ",
+    "meaning": "死亡",
+    "category": "動詞",
+    "id": "n5v-0274"
+  },
+  {
+    "word": "字引",
+    "reading": "じびき",
+    "meaning": "字典",
+    "category": "學習",
+    "id": "n5v-0275"
+  },
+  {
+    "word": "自分",
+    "reading": "じぶん",
+    "meaning": "自己",
+    "category": "人物",
+    "id": "n5v-0276"
+  },
+  {
+    "word": "閉まる",
+    "reading": "しまる",
+    "meaning": "關上（自動詞）",
+    "category": "動詞",
+    "id": "n5v-0277"
+  },
+  {
+    "word": "閉める",
+    "reading": "しめる",
+    "meaning": "關上（他動詞）",
+    "category": "動詞",
+    "id": "n5v-0278"
+  },
+  {
+    "word": "締める",
+    "reading": "しめる",
+    "meaning": "繫緊、綁緊",
+    "category": "動詞",
+    "id": "n5v-0279"
+  },
+  {
+    "word": "じゃ／じゃあ",
+    "reading": "じゃ／じゃあ",
+    "meaning": "那麼、那就",
+    "category": "連接",
+    "id": "n5v-0280"
+  },
+  {
+    "word": "写真",
+    "reading": "しゃしん",
+    "meaning": "照片",
+    "category": "物品",
+    "id": "n5v-0281"
+  },
+  {
+    "word": "シャツ",
+    "reading": "シャツ",
+    "meaning": "襯衫",
+    "category": "衣物",
+    "id": "n5v-0282"
+  },
+  {
+    "word": "シャワー",
+    "reading": "シャワー",
+    "meaning": "淋浴",
+    "category": "生活",
+    "id": "n5v-0283"
+  },
+  {
+    "word": "十",
+    "reading": "じゅう",
+    "meaning": "十",
+    "category": "數字",
+    "id": "n5v-0284"
+  },
+  {
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaning": "課、上課",
+    "category": "學習",
+    "id": "n5v-0285"
+  },
+  {
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "meaning": "作業",
+    "category": "學習",
+    "id": "n5v-0286"
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "meaning": "擅長、技術高明",
+    "category": "形容詞",
+    "id": "n5v-0287"
+  },
+  {
+    "word": "丈夫",
+    "reading": "じょうぶ",
+    "meaning": "結實的、健康的",
+    "category": "形容詞",
+    "id": "n5v-0288"
+  },
+  {
+    "word": "醤油",
+    "reading": "しょうゆ",
+    "meaning": "醬油",
+    "category": "食物",
+    "id": "n5v-0289"
+  },
+  {
+    "word": "食堂",
+    "reading": "しょくどう",
+    "meaning": "食堂",
+    "category": "場所",
+    "id": "n5v-0290"
+  },
+  {
+    "word": "知る",
+    "reading": "しる",
+    "meaning": "知道",
+    "category": "動詞",
+    "id": "n5v-0291"
+  },
+  {
+    "word": "白",
+    "reading": "しろ",
+    "meaning": "白色",
+    "category": "顏色",
+    "id": "n5v-0292"
+  },
+  {
+    "word": "白い",
+    "reading": "しろい",
+    "meaning": "白色的",
+    "category": "形容詞",
+    "id": "n5v-0293"
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meaning": "報紙",
+    "category": "物品",
+    "id": "n5v-0294"
+  },
+  {
+    "word": "水曜日",
+    "reading": "すいようび",
+    "meaning": "星期三",
+    "category": "時間",
+    "id": "n5v-0295"
+  },
+  {
+    "word": "吸う",
+    "reading": "すう",
+    "meaning": "吸、抽（菸）",
+    "category": "動詞",
+    "id": "n5v-0296"
+  },
+  {
+    "word": "スカート",
+    "reading": "スカート",
+    "meaning": "裙子",
+    "category": "衣物",
+    "id": "n5v-0297"
+  },
+  {
+    "word": "好き",
+    "reading": "すき",
+    "meaning": "喜歡的",
+    "category": "形容詞",
+    "id": "n5v-0298"
+  },
+  {
+    "word": "少ない",
+    "reading": "すくない",
+    "meaning": "少的",
+    "category": "形容詞",
+    "id": "n5v-0299"
+  },
+  {
+    "word": "すぐに",
+    "reading": "すぐに",
+    "meaning": "立刻",
+    "category": "副詞",
+    "id": "n5v-0300"
+  },
+  {
+    "word": "少し",
+    "reading": "すこし",
+    "meaning": "一點點",
+    "category": "副詞",
+    "id": "n5v-0301"
+  },
+  {
+    "word": "涼しい",
+    "reading": "すずしい",
+    "meaning": "涼爽的",
+    "category": "形容詞",
+    "id": "n5v-0302"
+  },
+  {
+    "word": "ストーブ",
+    "reading": "ストーブ",
+    "meaning": "暖爐",
+    "category": "物品",
+    "id": "n5v-0303"
+  },
+  {
+    "word": "スプーン",
+    "reading": "スプーン",
+    "meaning": "湯匙",
+    "category": "物品",
+    "id": "n5v-0304"
+  },
+  {
+    "word": "スポーツ",
+    "reading": "スポーツ",
+    "meaning": "運動",
+    "category": "娛樂",
+    "id": "n5v-0305"
+  },
+  {
+    "word": "ズボン",
+    "reading": "ズボン",
+    "meaning": "褲子",
+    "category": "衣物",
+    "id": "n5v-0306"
+  },
+  {
+    "word": "住む",
+    "reading": "すむ",
+    "meaning": "居住",
+    "category": "動詞",
+    "id": "n5v-0307"
+  },
+  {
+    "word": "スリッパ",
+    "reading": "スリッパ",
+    "meaning": "拖鞋",
+    "category": "衣物",
+    "id": "n5v-0308"
+  },
+  {
+    "word": "する",
+    "reading": "する",
+    "meaning": "做",
+    "category": "動詞",
+    "id": "n5v-0309"
+  },
+  {
+    "word": "座る",
+    "reading": "すわる",
+    "meaning": "坐",
+    "category": "動詞",
+    "id": "n5v-0310"
+  },
+  {
+    "word": "背",
+    "reading": "せ",
+    "meaning": "身高、背部",
+    "category": "身體",
+    "id": "n5v-0311"
+  },
+  {
+    "word": "生徒",
+    "reading": "せいと",
+    "meaning": "學生（中小學）",
+    "category": "人物",
+    "id": "n5v-0312"
+  },
+  {
+    "word": "セーター",
+    "reading": "セーター",
+    "meaning": "毛衣",
+    "category": "衣物",
+    "id": "n5v-0313"
+  },
+  {
+    "word": "石鹸",
+    "reading": "せっけん",
+    "meaning": "肥皂",
+    "category": "物品",
+    "id": "n5v-0314"
+  },
+  {
+    "word": "背広",
+    "reading": "せびろ",
+    "meaning": "西裝",
+    "category": "衣物",
+    "id": "n5v-0315"
+  },
+  {
+    "word": "狭い",
+    "reading": "せまい",
+    "meaning": "狹窄的",
+    "category": "形容詞",
+    "id": "n5v-0316"
+  },
+  {
+    "word": "ゼロ／零",
+    "reading": "ゼロ／れい",
+    "meaning": "零",
+    "category": "數字",
+    "id": "n5v-0317"
+  },
+  {
+    "word": "千",
+    "reading": "せん",
+    "meaning": "一千",
+    "category": "數字",
+    "id": "n5v-0318"
+  },
+  {
+    "word": "先月",
+    "reading": "せんげつ",
+    "meaning": "上個月",
+    "category": "時間",
+    "id": "n5v-0319"
+  },
+  {
+    "word": "先週",
+    "reading": "せんしゅう",
+    "meaning": "上週",
+    "category": "時間",
+    "id": "n5v-0320"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning": "老師、醫生（尊稱）",
+    "category": "人物",
+    "id": "n5v-0321"
+  },
+  {
+    "word": "洗濯",
+    "reading": "せんたく",
+    "meaning": "洗衣服",
+    "category": "生活",
+    "id": "n5v-0322"
+  },
+  {
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "meaning": "全部",
+    "category": "副詞",
+    "id": "n5v-0323"
+  },
+  {
+    "word": "掃除",
+    "reading": "そうじ",
+    "meaning": "打掃",
+    "category": "生活",
+    "id": "n5v-0324"
+  },
+  {
+    "word": "そうして／そして",
+    "reading": "そうして／そして",
+    "meaning": "然後、而且",
+    "category": "連接",
+    "id": "n5v-0325"
+  },
+  {
+    "word": "そこ",
+    "reading": "そこ",
+    "meaning": "那裡",
+    "category": "指示",
+    "id": "n5v-0326"
+  },
+  {
+    "word": "そちら",
+    "reading": "そちら",
+    "meaning": "那邊、那位（禮貌）",
+    "category": "指示",
+    "id": "n5v-0327"
+  },
+  {
+    "word": "そっち",
+    "reading": "そっち",
+    "meaning": "那邊（口語）",
+    "category": "指示",
+    "id": "n5v-0328"
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "meaning": "外面",
+    "category": "位置",
+    "id": "n5v-0329"
+  },
+  {
+    "word": "その",
+    "reading": "その",
+    "meaning": "那個～",
+    "category": "指示",
+    "id": "n5v-0330"
+  },
+  {
+    "word": "そば",
+    "reading": "そば",
+    "meaning": "旁邊、附近；亦可指蕎麥麵（通常寫作「蕎麦」）",
+    "category": "位置",
+    "id": "n5v-0331"
+  },
+  {
+    "word": "空",
+    "reading": "そら",
+    "meaning": "天空",
+    "category": "自然",
+    "id": "n5v-0332"
+  },
+  {
+    "word": "それ",
+    "reading": "それ",
+    "meaning": "那個",
+    "category": "指示",
+    "id": "n5v-0333"
+  },
+  {
+    "word": "それから",
+    "reading": "それから",
+    "meaning": "然後、之後",
+    "category": "連接",
+    "id": "n5v-0334"
+  },
+  {
+    "word": "それでは",
+    "reading": "それでは",
+    "meaning": "那麼、那就",
+    "category": "連接",
+    "id": "n5v-0335"
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "meaning": "大學",
+    "category": "場所",
+    "id": "n5v-0336"
+  },
+  {
+    "word": "大使館",
+    "reading": "たいしかん",
+    "meaning": "大使館",
+    "category": "場所",
+    "id": "n5v-0337"
+  },
+  {
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "meaning": "沒問題、不要緊",
+    "category": "形容詞",
+    "id": "n5v-0338"
+  },
+  {
+    "word": "大好き",
+    "reading": "だいすき",
+    "meaning": "非常喜歡",
+    "category": "形容詞",
+    "id": "n5v-0339"
+  },
+  {
+    "word": "大切",
+    "reading": "たいせつ",
+    "meaning": "重要的、珍惜的",
+    "category": "形容詞",
+    "id": "n5v-0340"
+  },
+  {
+    "word": "台所",
+    "reading": "だいどころ",
+    "meaning": "廚房",
+    "category": "場所",
+    "id": "n5v-0341"
+  },
+  {
+    "word": "大変",
+    "reading": "たいへん",
+    "meaning": "辛苦、嚴重、非常",
+    "category": "形容詞",
+    "id": "n5v-0342"
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "meaning": "高的、貴的",
+    "category": "形容詞",
+    "id": "n5v-0343"
+  },
+  {
+    "word": "たくさん",
+    "reading": "たくさん",
+    "meaning": "很多",
+    "category": "副詞",
+    "id": "n5v-0344"
+  },
+  {
+    "word": "タクシー",
+    "reading": "タクシー",
+    "meaning": "計程車",
+    "category": "交通",
+    "id": "n5v-0345"
+  },
+  {
+    "word": "出す",
+    "reading": "だす",
+    "meaning": "拿出、寄出、提交",
+    "category": "動詞",
+    "id": "n5v-0346"
+  },
+  {
+    "word": "立つ",
+    "reading": "たつ",
+    "meaning": "站立",
+    "category": "動詞",
+    "id": "n5v-0347"
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "meaning": "建築物",
+    "category": "場所",
+    "id": "n5v-0348"
+  },
+  {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "meaning": "快樂的",
+    "category": "形容詞",
+    "id": "n5v-0349"
+  },
+  {
+    "word": "頼む",
+    "reading": "たのむ",
+    "meaning": "拜託、點（餐）",
+    "category": "動詞",
+    "id": "n5v-0350"
+  },
+  {
+    "word": "たばこ",
+    "reading": "たばこ",
+    "meaning": "香菸",
+    "category": "物品",
+    "id": "n5v-0351"
+  },
+  {
+    "word": "多分",
+    "reading": "たぶん",
+    "meaning": "大概、可能",
+    "category": "副詞",
+    "id": "n5v-0352"
+  },
+  {
+    "word": "食べ物",
+    "reading": "たべもの",
+    "meaning": "食物",
+    "category": "食物",
+    "id": "n5v-0353"
+  },
+  {
+    "word": "食べる",
+    "reading": "たべる",
+    "meaning": "吃",
+    "category": "動詞",
+    "id": "n5v-0354"
+  },
+  {
+    "word": "卵",
+    "reading": "たまご",
+    "meaning": "蛋",
+    "category": "食物",
+    "id": "n5v-0355"
+  },
+  {
+    "word": "誰",
+    "reading": "だれ",
+    "meaning": "誰",
+    "category": "疑問",
+    "id": "n5v-0356"
+  },
+  {
+    "word": "誰か",
+    "reading": "だれか",
+    "meaning": "某人",
+    "category": "疑問",
+    "id": "n5v-0357"
+  },
+  {
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "meaning": "生日",
+    "category": "時間",
+    "id": "n5v-0358"
+  },
+  {
+    "word": "小さい",
+    "reading": "ちいさい",
+    "meaning": "小的",
+    "category": "形容詞",
+    "id": "n5v-0359"
+  },
+  {
+    "word": "小さな",
+    "reading": "ちいさな",
+    "meaning": "小的（連體）",
+    "category": "形容詞",
+    "id": "n5v-0360"
+  },
+  {
+    "word": "近い",
+    "reading": "ちかい",
+    "meaning": "近的",
+    "category": "形容詞",
+    "id": "n5v-0361"
+  },
+  {
+    "word": "違う",
+    "reading": "ちがう",
+    "meaning": "不同、不是",
+    "category": "動詞",
+    "id": "n5v-0362"
+  },
+  {
+    "word": "近く",
+    "reading": "ちかく",
+    "meaning": "附近",
+    "category": "位置",
+    "id": "n5v-0363"
+  },
+  {
+    "word": "地下鉄",
+    "reading": "ちかてつ",
+    "meaning": "地下鐵",
+    "category": "交通",
+    "id": "n5v-0364"
+  },
+  {
+    "word": "地図",
+    "reading": "ちず",
+    "meaning": "地圖",
+    "category": "物品",
+    "id": "n5v-0365"
+  },
+  {
+    "word": "茶色",
+    "reading": "ちゃいろ",
+    "meaning": "茶色、棕色",
+    "category": "顏色",
+    "id": "n5v-0366"
+  },
+  {
+    "word": "茶碗",
+    "reading": "ちゃわん",
+    "meaning": "飯碗",
+    "category": "物品",
+    "id": "n5v-0367"
+  },
+  {
+    "word": "ちょうど",
+    "reading": "ちょうど",
+    "meaning": "剛好、正好",
+    "category": "副詞",
+    "id": "n5v-0368"
+  },
+  {
+    "word": "ちょっと",
+    "reading": "ちょっと",
+    "meaning": "一點、稍微",
+    "category": "副詞",
+    "id": "n5v-0369"
+  },
+  {
+    "word": "一日",
+    "reading": "ついたち",
+    "meaning": "一號",
+    "category": "時間",
+    "id": "n5v-0370"
+  },
+  {
+    "word": "使う",
+    "reading": "つかう",
+    "meaning": "使用",
+    "category": "動詞",
+    "id": "n5v-0371"
+  },
+  {
+    "word": "疲れる",
+    "reading": "つかれる",
+    "meaning": "疲累",
+    "category": "動詞",
+    "id": "n5v-0372"
+  },
+  {
+    "word": "次",
+    "reading": "つぎ",
+    "meaning": "下一個、接下來",
+    "category": "位置",
+    "id": "n5v-0373"
+  },
+  {
+    "word": "着く",
+    "reading": "つく",
+    "meaning": "到達",
+    "category": "動詞",
+    "id": "n5v-0374"
+  },
+  {
+    "word": "机",
+    "reading": "つくえ",
+    "meaning": "桌子",
+    "category": "物品",
+    "id": "n5v-0375"
+  },
+  {
+    "word": "作る",
+    "reading": "つくる",
+    "meaning": "製作",
+    "category": "動詞",
+    "id": "n5v-0376"
+  },
+  {
+    "word": "付ける",
+    "reading": "つける",
+    "meaning": "打開（燈等電器）；附上、安裝",
+    "category": "動詞",
+    "id": "n5v-0377"
+  },
+  {
+    "word": "勤める",
+    "reading": "つとめる",
+    "meaning": "任職、工作",
+    "category": "動詞",
+    "id": "n5v-0378"
+  },
+  {
+    "word": "つまらない",
+    "reading": "つまらない",
+    "meaning": "無聊的",
+    "category": "形容詞",
+    "id": "n5v-0379"
+  },
+  {
+    "word": "冷たい",
+    "reading": "つめたい",
+    "meaning": "冰冷的",
+    "category": "形容詞",
+    "id": "n5v-0380"
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "meaning": "強的",
+    "category": "形容詞",
+    "id": "n5v-0381"
+  },
+  {
+    "word": "手",
+    "reading": "て",
+    "meaning": "手",
+    "category": "身體",
+    "id": "n5v-0382"
+  },
+  {
+    "word": "テープ",
+    "reading": "テープ",
+    "meaning": "膠帶、錄音帶",
+    "category": "物品",
+    "id": "n5v-0383"
+  },
+  {
+    "word": "テーブル",
+    "reading": "テーブル",
+    "meaning": "桌子",
+    "category": "物品",
+    "id": "n5v-0384"
+  },
+  {
+    "word": "テープレコーダー",
+    "reading": "テープレコーダー",
+    "meaning": "錄音機",
+    "category": "物品",
+    "id": "n5v-0385"
+  },
+  {
+    "word": "出かける",
+    "reading": "でかける",
+    "meaning": "外出",
+    "category": "動詞",
+    "id": "n5v-0386"
+  },
+  {
+    "word": "手紙",
+    "reading": "てがみ",
+    "meaning": "信",
+    "category": "物品",
+    "id": "n5v-0387"
+  },
+  {
+    "word": "できる",
+    "reading": "できる",
+    "meaning": "能夠、做得到；完成、建成",
+    "category": "動詞",
+    "id": "n5v-0388"
+  },
+  {
+    "word": "出口",
+    "reading": "でぐち",
+    "meaning": "出口",
+    "category": "場所",
+    "id": "n5v-0389"
+  },
+  {
+    "word": "テスト",
+    "reading": "テスト",
+    "meaning": "考試、測驗",
+    "category": "學習",
+    "id": "n5v-0390"
+  },
+  {
+    "word": "では",
+    "reading": "では",
+    "meaning": "那麼",
+    "category": "連接",
+    "id": "n5v-0391"
+  },
+  {
+    "word": "デパート",
+    "reading": "デパート",
+    "meaning": "百貨公司",
+    "category": "場所",
+    "id": "n5v-0392"
+  },
+  {
+    "word": "でも",
+    "reading": "でも",
+    "meaning": "但是",
+    "category": "連接",
+    "id": "n5v-0393"
+  },
+  {
+    "word": "出る",
+    "reading": "でる",
+    "meaning": "出去、出現",
+    "category": "動詞",
+    "id": "n5v-0394"
+  },
+  {
+    "word": "テレビ",
+    "reading": "テレビ",
+    "meaning": "電視",
+    "category": "物品",
+    "id": "n5v-0395"
+  },
+  {
+    "word": "天気",
+    "reading": "てんき",
+    "meaning": "天氣",
+    "category": "天氣",
+    "id": "n5v-0396"
+  },
+  {
+    "word": "電気",
+    "reading": "でんき",
+    "meaning": "電、電燈",
+    "category": "物品",
+    "id": "n5v-0397"
+  },
+  {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "meaning": "電車",
+    "category": "交通",
+    "id": "n5v-0398"
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "meaning": "電話",
+    "category": "物品",
+    "id": "n5v-0399"
+  },
+  {
+    "word": "戸",
+    "reading": "と",
+    "meaning": "門、戶",
+    "category": "物品",
+    "id": "n5v-0400"
+  },
+  {
+    "word": "ドア",
+    "reading": "ドア",
+    "meaning": "門",
+    "category": "物品",
+    "id": "n5v-0401"
+  },
+  {
+    "word": "トイレ",
+    "reading": "トイレ",
+    "meaning": "廁所",
+    "category": "場所",
+    "id": "n5v-0402"
+  },
+  {
+    "word": "どう",
+    "reading": "どう",
+    "meaning": "怎麼樣",
+    "category": "疑問",
+    "id": "n5v-0403"
+  },
+  {
+    "word": "どうして",
+    "reading": "どうして",
+    "meaning": "為什麼",
+    "category": "疑問",
+    "id": "n5v-0404"
+  },
+  {
+    "word": "どうぞ",
+    "reading": "どうぞ",
+    "meaning": "請、請用",
+    "category": "基礎",
+    "id": "n5v-0405"
+  },
+  {
+    "word": "動物",
+    "reading": "どうぶつ",
+    "meaning": "動物",
+    "category": "動物",
+    "id": "n5v-0406"
+  },
+  {
+    "word": "どうも",
+    "reading": "どうも",
+    "meaning": "非常、謝謝",
+    "category": "基礎",
+    "id": "n5v-0407"
+  },
+  {
+    "word": "遠い",
+    "reading": "とおい",
+    "meaning": "遠的",
+    "category": "形容詞",
+    "id": "n5v-0408"
+  },
+  {
+    "word": "十日",
+    "reading": "とおか",
+    "meaning": "十日、十號",
+    "category": "時間",
+    "id": "n5v-0409"
+  },
+  {
+    "word": "時々",
+    "reading": "ときどき",
+    "meaning": "有時候",
+    "category": "副詞",
+    "id": "n5v-0410"
+  },
+  {
+    "word": "時計",
+    "reading": "とけい",
+    "meaning": "鐘錶、手錶",
+    "category": "物品",
+    "id": "n5v-0411"
+  },
+  {
+    "word": "どこ",
+    "reading": "どこ",
+    "meaning": "哪裡",
+    "category": "疑問",
+    "id": "n5v-0412"
+  },
+  {
+    "word": "所",
+    "reading": "ところ",
+    "meaning": "地方、場所",
+    "category": "場所",
+    "id": "n5v-0413"
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "meaning": "圖書館",
+    "category": "場所",
+    "id": "n5v-0414"
+  },
+  {
+    "word": "どちら",
+    "reading": "どちら",
+    "meaning": "哪邊、哪位（禮貌）",
+    "category": "疑問",
+    "id": "n5v-0415"
+  },
+  {
+    "word": "どっち",
+    "reading": "どっち",
+    "meaning": "哪邊（口語）",
+    "category": "疑問",
+    "id": "n5v-0416"
+  },
+  {
+    "word": "とても",
+    "reading": "とても",
+    "meaning": "非常",
+    "category": "副詞",
+    "id": "n5v-0417"
+  },
+  {
+    "word": "どなた",
+    "reading": "どなた",
+    "meaning": "哪位（禮貌）",
+    "category": "疑問",
+    "id": "n5v-0418"
+  },
+  {
+    "word": "隣",
+    "reading": "となり",
+    "meaning": "隔壁、旁邊",
+    "category": "位置",
+    "id": "n5v-0419"
+  },
+  {
+    "word": "どの",
+    "reading": "どの",
+    "meaning": "哪個～",
+    "category": "疑問",
+    "id": "n5v-0420"
+  },
+  {
+    "word": "飛ぶ",
+    "reading": "とぶ",
+    "meaning": "飛",
+    "category": "動詞",
+    "id": "n5v-0421"
+  },
+  {
+    "word": "止まる",
+    "reading": "とまる",
+    "meaning": "停止、停下來（自動詞）",
+    "category": "動詞",
+    "id": "n5v-0422"
+  },
+  {
+    "word": "友達",
+    "reading": "ともだち",
+    "meaning": "朋友",
+    "category": "人物",
+    "id": "n5v-0423"
+  },
+  {
+    "word": "土曜日",
+    "reading": "どようび",
+    "meaning": "星期六",
+    "category": "時間",
+    "id": "n5v-0424"
+  },
+  {
+    "word": "鳥",
+    "reading": "とり",
+    "meaning": "鳥",
+    "category": "動物",
+    "id": "n5v-0425"
+  },
+  {
+    "word": "鶏肉",
+    "reading": "とりにく",
+    "meaning": "雞肉",
+    "category": "食物",
+    "id": "n5v-0426"
+  },
+  {
+    "word": "取る",
+    "reading": "とる",
+    "meaning": "拿、取得",
+    "category": "動詞",
+    "id": "n5v-0427"
+  },
+  {
+    "word": "撮る",
+    "reading": "とる",
+    "meaning": "拍攝",
+    "category": "動詞",
+    "id": "n5v-0428"
+  },
+  {
+    "word": "どれ",
+    "reading": "どれ",
+    "meaning": "哪一個",
+    "category": "疑問",
+    "id": "n5v-0429"
+  },
+  {
+    "word": "どんな",
+    "reading": "どんな",
+    "meaning": "什麼樣的",
+    "category": "疑問",
+    "id": "n5v-0430"
+  },
+  {
+    "word": "ナイフ",
+    "reading": "ナイフ",
+    "meaning": "刀子",
+    "category": "物品",
+    "id": "n5v-0431"
+  },
+  {
+    "word": "中",
+    "reading": "なか",
+    "meaning": "裡面、中間",
+    "category": "位置",
+    "id": "n5v-0432"
+  },
+  {
+    "word": "長い",
+    "reading": "ながい",
+    "meaning": "長的",
+    "category": "形容詞",
+    "id": "n5v-0433"
+  },
+  {
+    "word": "鳴く",
+    "reading": "なく",
+    "meaning": "鳴叫（動物）",
+    "category": "動詞",
+    "id": "n5v-0434"
+  },
+  {
+    "word": "夏",
+    "reading": "なつ",
+    "meaning": "夏天",
+    "category": "時間",
+    "id": "n5v-0435"
+  },
+  {
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "meaning": "暑假",
+    "category": "時間",
+    "id": "n5v-0436"
+  },
+  {
+    "word": "七つ",
+    "reading": "ななつ",
+    "meaning": "七個",
+    "category": "數字",
+    "id": "n5v-0437"
+  },
+  {
+    "word": "七日",
+    "reading": "なのか",
+    "meaning": "七日、七號",
+    "category": "時間",
+    "id": "n5v-0438"
+  },
+  {
+    "word": "名前",
+    "reading": "なまえ",
+    "meaning": "名字",
+    "category": "人物",
+    "id": "n5v-0439"
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "meaning": "學習（向人學）",
+    "category": "動詞",
+    "id": "n5v-0440"
+  },
+  {
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "meaning": "排隊、排列",
+    "category": "動詞",
+    "id": "n5v-0441"
+  },
+  {
+    "word": "並べる",
+    "reading": "ならべる",
+    "meaning": "排列、擺放",
+    "category": "動詞",
+    "id": "n5v-0442"
+  },
+  {
+    "word": "なる",
+    "reading": "なる",
+    "meaning": "成為",
+    "category": "動詞",
+    "id": "n5v-0443"
+  },
+  {
+    "word": "二",
+    "reading": "に",
+    "meaning": "二",
+    "category": "數字",
+    "id": "n5v-0444"
+  },
+  {
+    "word": "賑やか",
+    "reading": "にぎやか",
+    "meaning": "熱鬧的",
+    "category": "形容詞",
+    "id": "n5v-0445"
+  },
+  {
+    "word": "肉",
+    "reading": "にく",
+    "meaning": "肉",
+    "category": "食物",
+    "id": "n5v-0446"
+  },
+  {
+    "word": "西",
+    "reading": "にし",
+    "meaning": "西方",
+    "category": "位置",
+    "id": "n5v-0447"
+  },
+  {
+    "word": "日曜日",
+    "reading": "にちようび",
+    "meaning": "星期日",
+    "category": "時間",
+    "id": "n5v-0448"
+  },
+  {
+    "word": "荷物",
+    "reading": "にもつ",
+    "meaning": "行李、包裹",
+    "category": "物品",
+    "id": "n5v-0449"
+  },
+  {
+    "word": "ニュース",
+    "reading": "ニュース",
+    "meaning": "新聞、消息",
+    "category": "生活",
+    "id": "n5v-0450"
+  },
+  {
+    "word": "庭",
+    "reading": "にわ",
+    "meaning": "庭院",
+    "category": "場所",
+    "id": "n5v-0451"
+  },
+  {
+    "word": "脱ぐ",
+    "reading": "ぬぐ",
+    "meaning": "脫（衣服／鞋）",
+    "category": "動詞",
+    "id": "n5v-0452"
+  },
+  {
+    "word": "温い",
+    "reading": "ぬるい",
+    "meaning": "溫的、不夠熱的",
+    "category": "形容詞",
+    "id": "n5v-0453"
+  },
+  {
+    "word": "ネクタイ",
+    "reading": "ネクタイ",
+    "meaning": "領帶",
+    "category": "衣物",
+    "id": "n5v-0454"
+  },
+  {
+    "word": "猫",
+    "reading": "ねこ",
+    "meaning": "貓",
+    "category": "動物",
+    "id": "n5v-0455"
+  },
+  {
+    "word": "寝る",
+    "reading": "ねる",
+    "meaning": "睡覺",
+    "category": "動詞",
+    "id": "n5v-0456"
+  },
+  {
+    "word": "ノート",
+    "reading": "ノート",
+    "meaning": "筆記本",
+    "category": "學習",
+    "id": "n5v-0457"
+  },
+  {
+    "word": "登る",
+    "reading": "のぼる",
+    "meaning": "登、爬",
+    "category": "動詞",
+    "id": "n5v-0458"
+  },
+  {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "meaning": "飲料",
+    "category": "飲食",
+    "id": "n5v-0459"
+  },
+  {
+    "word": "飲む",
+    "reading": "のむ",
+    "meaning": "喝",
+    "category": "動詞",
+    "id": "n5v-0460"
+  },
+  {
+    "word": "乗る",
+    "reading": "のる",
+    "meaning": "搭乘",
+    "category": "動詞",
+    "id": "n5v-0461"
+  },
+  {
+    "word": "歯",
+    "reading": "は",
+    "meaning": "牙齒",
+    "category": "身體",
+    "id": "n5v-0462"
+  },
+  {
+    "word": "パーティー",
+    "reading": "パーティー",
+    "meaning": "派對",
+    "category": "生活",
+    "id": "n5v-0463"
+  },
+  {
+    "word": "はい",
+    "reading": "はい",
+    "meaning": "是、好的",
+    "category": "基礎",
+    "id": "n5v-0464"
+  },
+  {
+    "word": "灰皿",
+    "reading": "はいざら",
+    "meaning": "菸灰缸",
+    "category": "物品",
+    "id": "n5v-0465"
+  },
+  {
+    "word": "入る",
+    "reading": "はいる",
+    "meaning": "進入",
+    "category": "動詞",
+    "id": "n5v-0466"
+  },
+  {
+    "word": "葉書",
+    "reading": "はがき",
+    "meaning": "明信片",
+    "category": "物品",
+    "id": "n5v-0467"
+  },
+  {
+    "word": "履く",
+    "reading": "はく",
+    "meaning": "穿（下半身／鞋）",
+    "category": "動詞",
+    "id": "n5v-0468"
+  },
+  {
+    "word": "箱",
+    "reading": "はこ",
+    "meaning": "箱子",
+    "category": "物品",
+    "id": "n5v-0469"
+  },
+  {
+    "word": "橋",
+    "reading": "はし",
+    "meaning": "橋",
+    "category": "場所",
+    "id": "n5v-0470"
+  },
+  {
+    "word": "箸",
+    "reading": "はし",
+    "meaning": "筷子",
+    "category": "物品",
+    "id": "n5v-0471"
+  },
+  {
+    "word": "始まる",
+    "reading": "はじまる",
+    "meaning": "開始（自動詞）",
+    "category": "動詞",
+    "id": "n5v-0472"
+  },
+  {
+    "word": "初め／始め",
+    "reading": "はじめ",
+    "meaning": "最初、開始（依「初め／始め」寫法與語境區分）",
+    "category": "時間",
+    "id": "n5v-0473"
+  },
+  {
+    "word": "初めて",
+    "reading": "はじめて",
+    "meaning": "第一次",
+    "category": "副詞",
+    "id": "n5v-0474"
+  },
+  {
+    "word": "走る",
+    "reading": "はしる",
+    "meaning": "跑",
+    "category": "動詞",
+    "id": "n5v-0475"
+  },
+  {
+    "word": "バス",
+    "reading": "バス",
+    "meaning": "公車",
+    "category": "交通",
+    "id": "n5v-0476"
+  },
+  {
+    "word": "バター",
+    "reading": "バター",
+    "meaning": "奶油",
+    "category": "食物",
+    "id": "n5v-0477"
+  },
+  {
+    "word": "二十歳",
+    "reading": "はたち",
+    "meaning": "二十歲",
+    "category": "數字",
+    "id": "n5v-0478"
+  },
+  {
+    "word": "働く",
+    "reading": "はたらく",
+    "meaning": "工作",
+    "category": "動詞",
+    "id": "n5v-0479"
+  },
+  {
+    "word": "八",
+    "reading": "はち",
+    "meaning": "八",
+    "category": "數字",
+    "id": "n5v-0480"
+  },
+  {
+    "word": "二十日",
+    "reading": "はつか",
+    "meaning": "二十日、二十號",
+    "category": "時間",
+    "id": "n5v-0481"
+  },
+  {
+    "word": "花",
+    "reading": "はな",
+    "meaning": "花",
+    "category": "自然",
+    "id": "n5v-0482"
+  },
+  {
+    "word": "鼻",
+    "reading": "はな",
+    "meaning": "鼻子",
+    "category": "身體",
+    "id": "n5v-0483"
+  },
+  {
+    "word": "話",
+    "reading": "はなし",
+    "meaning": "話、故事",
+    "category": "學習",
+    "id": "n5v-0484"
+  },
+  {
+    "word": "話す",
+    "reading": "はなす",
+    "meaning": "說話",
+    "category": "動詞",
+    "id": "n5v-0485"
+  },
+  {
+    "word": "早い",
+    "reading": "はやい",
+    "meaning": "早的",
+    "category": "形容詞",
+    "id": "n5v-0486"
+  },
+  {
+    "word": "速い",
+    "reading": "はやい",
+    "meaning": "快的",
+    "category": "形容詞",
+    "id": "n5v-0487"
+  },
+  {
+    "word": "春",
+    "reading": "はる",
+    "meaning": "春天",
+    "category": "時間",
+    "id": "n5v-0488"
+  },
+  {
+    "word": "貼る",
+    "reading": "はる",
+    "meaning": "貼",
+    "category": "動詞",
+    "id": "n5v-0489"
+  },
+  {
+    "word": "晴れ",
+    "reading": "はれ",
+    "meaning": "晴天",
+    "category": "天氣",
+    "id": "n5v-0490"
+  },
+  {
+    "word": "晴れる",
+    "reading": "はれる",
+    "meaning": "放晴",
+    "category": "動詞",
+    "id": "n5v-0491"
+  },
+  {
+    "word": "半",
+    "reading": "はん",
+    "meaning": "一半",
+    "category": "數量",
+    "id": "n5v-0492"
+  },
+  {
+    "word": "晩",
+    "reading": "ばん",
+    "meaning": "晚上",
+    "category": "時間",
+    "id": "n5v-0493"
+  },
+  {
+    "word": "パン",
+    "reading": "パン",
+    "meaning": "麵包",
+    "category": "食物",
+    "id": "n5v-0494"
+  },
+  {
+    "word": "ハンカチ",
+    "reading": "ハンカチ",
+    "meaning": "手帕",
+    "category": "物品",
+    "id": "n5v-0495"
+  },
+  {
+    "word": "番号",
+    "reading": "ばんごう",
+    "meaning": "號碼",
+    "category": "數量",
+    "id": "n5v-0496"
+  },
+  {
+    "word": "晩御飯",
+    "reading": "ばんごはん",
+    "meaning": "晚餐",
+    "category": "食物",
+    "id": "n5v-0497"
+  },
+  {
+    "word": "半分",
+    "reading": "はんぶん",
+    "meaning": "一半",
+    "category": "數量",
+    "id": "n5v-0498"
+  },
+  {
+    "word": "東",
+    "reading": "ひがし",
+    "meaning": "東方",
+    "category": "位置",
+    "id": "n5v-0499"
+  },
+  {
+    "word": "引く",
+    "reading": "ひく",
+    "meaning": "拉、查（字典）",
+    "category": "動詞",
+    "id": "n5v-0500"
+  },
+  {
+    "word": "弾く",
+    "reading": "ひく",
+    "meaning": "彈奏",
+    "category": "動詞",
+    "id": "n5v-0501"
+  },
+  {
+    "word": "低い",
+    "reading": "ひくい",
+    "meaning": "低的、矮的",
+    "category": "形容詞",
+    "id": "n5v-0502"
+  },
+  {
+    "word": "飛行機",
+    "reading": "ひこうき",
+    "meaning": "飛機",
+    "category": "交通",
+    "id": "n5v-0503"
+  },
+  {
+    "word": "左",
+    "reading": "ひだり",
+    "meaning": "左邊",
+    "category": "位置",
+    "id": "n5v-0504"
+  },
+  {
+    "word": "人",
+    "reading": "ひと",
+    "meaning": "人",
+    "category": "人物",
+    "id": "n5v-0505"
+  },
+  {
+    "word": "一つ",
+    "reading": "ひとつ",
+    "meaning": "一個",
+    "category": "數字",
+    "id": "n5v-0506"
+  },
+  {
+    "word": "一月",
+    "reading": "ひとつき",
+    "meaning": "一個月",
+    "category": "時間",
+    "id": "n5v-0507"
+  },
+  {
+    "word": "一人",
+    "reading": "ひとり",
+    "meaning": "一個人",
+    "category": "人物",
+    "id": "n5v-0508"
+  },
+  {
+    "word": "暇",
+    "reading": "ひま",
+    "meaning": "空閒的",
+    "category": "形容詞",
+    "id": "n5v-0509"
+  },
+  {
+    "word": "百",
+    "reading": "ひゃく",
+    "meaning": "一百",
+    "category": "數字",
+    "id": "n5v-0510"
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "meaning": "醫院",
+    "category": "場所",
+    "id": "n5v-0511"
+  },
+  {
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning": "生病、疾病",
+    "category": "健康",
+    "id": "n5v-0512"
+  },
+  {
+    "word": "昼",
+    "reading": "ひる",
+    "meaning": "白天、中午",
+    "category": "時間",
+    "id": "n5v-0513"
+  },
+  {
+    "word": "昼御飯",
+    "reading": "ひるごはん",
+    "meaning": "午餐",
+    "category": "食物",
+    "id": "n5v-0514"
+  },
+  {
+    "word": "広い",
+    "reading": "ひろい",
+    "meaning": "寬廣的",
+    "category": "形容詞",
+    "id": "n5v-0515"
+  },
+  {
+    "word": "フィルム",
+    "reading": "フィルム",
+    "meaning": "底片、膠卷",
+    "category": "物品",
+    "id": "n5v-0516"
+  },
+  {
+    "word": "封筒",
+    "reading": "ふうとう",
+    "meaning": "信封",
+    "category": "物品",
+    "id": "n5v-0517"
+  },
+  {
+    "word": "プール",
+    "reading": "プール",
+    "meaning": "游泳池",
+    "category": "場所",
+    "id": "n5v-0518"
+  },
+  {
+    "word": "フォーク",
+    "reading": "フォーク",
+    "meaning": "叉子",
+    "category": "物品",
+    "id": "n5v-0519"
+  },
+  {
+    "word": "吹く",
+    "reading": "ふく",
+    "meaning": "吹",
+    "category": "動詞",
+    "id": "n5v-0520"
+  }
+]

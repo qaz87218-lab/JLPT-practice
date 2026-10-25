@@ -1,0 +1,10012 @@
+[
+  {
+    "id": "n2v-00001",
+    "word": "愛する",
+    "reading": "あいする",
+    "meaning": "愛；愛情",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00002",
+    "word": "愛情",
+    "reading": "あいじょう",
+    "meaning": "愛情",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00003",
+    "word": "合図する",
+    "reading": "あいずする",
+    "meaning": "信號",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00004",
+    "word": "悪天候",
+    "reading": "あくてんこう",
+    "meaning": "壞天氣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00005",
+    "word": "悪魔",
+    "reading": "あくま",
+    "meaning": "惡魔；魔鬼",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00006",
+    "word": "足跡",
+    "reading": "あしあと",
+    "meaning": "足跡；腳印",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00007",
+    "word": "足元",
+    "reading": "あしもと",
+    "meaning": "腳下；腳步",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00008",
+    "word": "圧縮する",
+    "reading": "あっしゅくする",
+    "meaning": "壓縮；擠壓",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00009",
+    "word": "宛名",
+    "reading": "あてな",
+    "meaning": "收件人的姓名、地址",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00010",
+    "word": "跡",
+    "reading": "あと",
+    "meaning": "痕跡；傷痕；跡象；遺跡",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00011",
+    "word": "穴",
+    "reading": "あな",
+    "meaning": "穴；坑；洞；虧損",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00012",
+    "word": "雨戸",
+    "reading": "あまど",
+    "meaning": "木板套窗；外廊木窗",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00013",
+    "word": "嵐",
+    "reading": "あらし",
+    "meaning": "風暴；暴風雨",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00014",
+    "word": "粗筋",
+    "reading": "あらすじ",
+    "meaning": "概略；概要",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00015",
+    "word": "案",
+    "reading": "あん",
+    "meaning": "計劃；方案",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00016",
+    "word": "安定する",
+    "reading": "あんていする",
+    "meaning": "安定；穩定",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00017",
+    "word": "胃",
+    "reading": "い",
+    "meaning": "胃",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00018",
+    "word": "委員",
+    "reading": "いいん",
+    "meaning": "委員",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00019",
+    "word": "勢い",
+    "reading": "いきおい",
+    "meaning": "勢力；氣勢；趨勢",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00020",
+    "word": "育児する",
+    "reading": "いくじする",
+    "meaning": "育兒",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00021",
+    "word": "維持する",
+    "reading": "いじする",
+    "meaning": "維持；保持",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00022",
+    "word": "泉",
+    "reading": "いずみ",
+    "meaning": "泉；泉源",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00023",
+    "word": "板",
+    "reading": "いた",
+    "meaning": "板；薄板",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00024",
+    "word": "いたずら",
+    "reading": "いたずら",
+    "meaning": "淘氣；搗蛋；惡作劇",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00025",
+    "word": "市場",
+    "reading": "いちば",
+    "meaning": "市場；市集",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00026",
+    "word": "一致する",
+    "reading": "いっちする",
+    "meaning": "一致",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00027",
+    "word": "一定する",
+    "reading": "いっていする",
+    "meaning": "一定；規定",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00028",
+    "word": "遺伝する",
+    "reading": "いでんする",
+    "meaning": "遺傳",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00029",
+    "word": "緯度",
+    "reading": "いど",
+    "meaning": "緯度",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00030",
+    "word": "稲",
+    "reading": "いね",
+    "meaning": "稻",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00031",
+    "word": "居場所",
+    "reading": "いばしょ",
+    "meaning": "居所；所在；下落",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00032",
+    "word": "違反する",
+    "reading": "いはんする",
+    "meaning": "違反",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00033",
+    "word": "医療",
+    "reading": "いりょう",
+    "meaning": "醫療",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00034",
+    "word": "植木",
+    "reading": "うえき",
+    "meaning": "栽種的樹；盆栽",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00035",
+    "word": "魚",
+    "reading": "うお",
+    "meaning": "魚",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00036",
+    "word": "うがい",
+    "reading": "うがい",
+    "meaning": "漱口",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00037",
+    "word": "打ち合わせ",
+    "reading": "うちあわせ",
+    "meaning": "商量；協商",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00038",
+    "word": "宇宙",
+    "reading": "うちゅう",
+    "meaning": "宇宙",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00039",
+    "word": "有無",
+    "reading": "うむ",
+    "meaning": "有無；有沒有",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00040",
+    "word": "梅",
+    "reading": "うめ",
+    "meaning": "梅；梅樹",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00041",
+    "word": "裏口",
+    "reading": "うらぐち",
+    "meaning": "後面；走後門",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00042",
+    "word": "恨み",
+    "reading": "うらみ",
+    "meaning": "怨恨；仇恨",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00043",
+    "word": "売り上げ",
+    "reading": "うりあげ",
+    "meaning": "銷售量；營業額",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00044",
+    "word": "売り切れ",
+    "reading": "うりきれ",
+    "meaning": "賣光；賣清",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00045",
+    "word": "売れ行き",
+    "reading": "うれゆき",
+    "meaning": "銷路；銷量",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00046",
+    "word": "噂",
+    "reading": "うわさ",
+    "meaning": "謠言；謠傳；傳聞",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00047",
+    "word": "運",
+    "reading": "うん",
+    "meaning": "運；運氣；命運",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00048",
+    "word": "運河",
+    "reading": "うんが",
+    "meaning": "運河",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00049",
+    "word": "運賃",
+    "reading": "うんちん",
+    "meaning": "車費；運費",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00050",
+    "word": "衛星",
+    "reading": "えいせい",
+    "meaning": "衛星",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00051",
+    "word": "英文",
+    "reading": "えいぶん",
+    "meaning": "英文（文章）",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00052",
+    "word": "栄養",
+    "reading": "えいよう",
+    "meaning": "營養",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00053",
+    "word": "英和",
+    "reading": "えいわ",
+    "meaning": "英日",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00054",
+    "word": "液体",
+    "reading": "えきたい",
+    "meaning": "液體",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00055",
+    "word": "餌",
+    "reading": "えさ",
+    "meaning": "餌",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00056",
+    "word": "宴会",
+    "reading": "えんかい",
+    "meaning": "宴會",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00057",
+    "word": "演技する",
+    "reading": "えんぎする",
+    "meaning": "演技；表演",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00058",
+    "word": "園芸",
+    "reading": "えんげい",
+    "meaning": "園藝",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00059",
+    "word": "演劇",
+    "reading": "えんげき",
+    "meaning": "演劇；戲劇",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00060",
+    "word": "円周",
+    "reading": "えんしゅう",
+    "meaning": "圓周",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00061",
+    "word": "演奏する",
+    "reading": "えんそうする",
+    "meaning": "演奏",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00062",
+    "word": "遠足する",
+    "reading": "えんそくする",
+    "meaning": "遠足；郊遊",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00063",
+    "word": "煙突",
+    "reading": "えんとつ",
+    "meaning": "煙囪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00064",
+    "word": "王",
+    "reading": "おう",
+    "meaning": "國王；君王",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00065",
+    "word": "王様",
+    "reading": "おうさま",
+    "meaning": "國王",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00066",
+    "word": "王子",
+    "reading": "おうじ",
+    "meaning": "王子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00067",
+    "word": "王女",
+    "reading": "おうじょ",
+    "meaning": "公主",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00068",
+    "word": "欧米",
+    "reading": "おうべい",
+    "meaning": "歐美",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00069",
+    "word": "丘",
+    "reading": "おか",
+    "meaning": "小山；山丘",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00070",
+    "word": "おかず",
+    "reading": "おかず",
+    "meaning": "配菜；菜餚",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00071",
+    "word": "沖",
+    "reading": "おき",
+    "meaning": "海上；外海",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00072",
+    "word": "奥",
+    "reading": "おく",
+    "meaning": "裡面；深處；內部",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00073",
+    "word": "屋外",
+    "reading": "おくがい",
+    "meaning": "屋外；室外",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00074",
+    "word": "送り仮名",
+    "reading": "おくりがな",
+    "meaning": "送假名；漢字後標寫的假名",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00075",
+    "word": "お子さん",
+    "reading": "おこさん",
+    "meaning": "令郎；您的孩子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00076",
+    "word": "小父さん",
+    "reading": "おじさん",
+    "meaning": "對成年男性的稱呼；叔叔",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00077",
+    "word": "汚染する",
+    "reading": "おせんする",
+    "meaning": "污染",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00078",
+    "word": "鬼",
+    "reading": "おに",
+    "meaning": "鬼；鬼怪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00079",
+    "word": "小母さん",
+    "reading": "おばさん",
+    "meaning": "對成年女性的稱呼",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00080",
+    "word": "帯",
+    "reading": "おび",
+    "meaning": "腰帶；和服的帶子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00081",
+    "word": "思い切り",
+    "reading": "おもいきり",
+    "meaning": "盡情；痛快；下定決心",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00082",
+    "word": "恩",
+    "reading": "おん",
+    "meaning": "恩惠",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00083",
+    "word": "恩恵",
+    "reading": "おんけい",
+    "meaning": "恩惠",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00084",
+    "word": "温室",
+    "reading": "おんしつ",
+    "meaning": "溫室",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00085",
+    "word": "恩人",
+    "reading": "おんじん",
+    "meaning": "恩人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00086",
+    "word": "温帯",
+    "reading": "おんたい",
+    "meaning": "溫帶",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00087",
+    "word": "御中",
+    "reading": "おんちゅう",
+    "meaning": "(書信)公啟；收",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00088",
+    "word": "害",
+    "reading": "がい",
+    "meaning": "危害；損害",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00089",
+    "word": "～界",
+    "reading": "かい",
+    "meaning": "～界；～領域",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00090",
+    "word": "開会する",
+    "reading": "かいかいする",
+    "meaning": "開會",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00091",
+    "word": "会館",
+    "reading": "かいかん",
+    "meaning": "會館",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00092",
+    "word": "海岸線",
+    "reading": "かいがんせん",
+    "meaning": "海岸線",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00093",
+    "word": "会計",
+    "reading": "かいけい",
+    "meaning": "會計；結帳",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00094",
+    "word": "外見",
+    "reading": "がいけん",
+    "meaning": "外觀；外表",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00095",
+    "word": "会合する",
+    "reading": "かいごうする",
+    "meaning": "久集；集會",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00096",
+    "word": "がいこう",
+    "reading": "がいこう",
+    "meaning": "外交",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00097",
+    "word": "開催する",
+    "reading": "かいさいする",
+    "meaning": "主辦；舉辦",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00098",
+    "word": "解釈する",
+    "reading": "かいしゃくする",
+    "meaning": "解釋；說明",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00099",
+    "word": "改正する",
+    "reading": "かいせいする",
+    "meaning": "修改；修正",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00100",
+    "word": "快晴",
+    "reading": "かいせい",
+    "meaning": "晴朗；晴天",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00101",
+    "word": "開通する",
+    "reading": "かいつうする",
+    "meaning": "開通；通車",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00102",
+    "word": "回転する",
+    "reading": "かいてんする",
+    "meaning": "旋轉；迴轉",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00103",
+    "word": "回復する",
+    "reading": "かいふくする",
+    "meaning": "恢復；復原",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00104",
+    "word": "解放する",
+    "reading": "かいほうする",
+    "meaning": "解放",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00105",
+    "word": "開放する",
+    "reading": "かいほうする",
+    "meaning": "開放；打開",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00106",
+    "word": "概論",
+    "reading": "がいろん",
+    "meaning": "概論",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00107",
+    "word": "家屋",
+    "reading": "かおく",
+    "meaning": "房屋；住宅",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00108",
+    "word": "香り",
+    "reading": "かおり",
+    "meaning": "香氣；芳香",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00109",
+    "word": "画家",
+    "reading": "がか",
+    "meaning": "畫家",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00110",
+    "word": "化学",
+    "reading": "かがく",
+    "meaning": "化學",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00111",
+    "word": "垣根",
+    "reading": "かきね",
+    "meaning": "籬笆；柵欄",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00112",
+    "word": "家具",
+    "reading": "かぐ",
+    "meaning": "家具",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00113",
+    "word": "学",
+    "reading": "がく",
+    "meaning": "學問",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00114",
+    "word": "覚悟する",
+    "reading": "かくごする",
+    "meaning": "心理準備；決心",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00115",
+    "word": "拡充する",
+    "reading": "かくじゅうする",
+    "meaning": "擴充；擴大",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00116",
+    "word": "学術",
+    "reading": "がくじゅつ",
+    "meaning": "學術",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00117",
+    "word": "角度",
+    "reading": "かくど",
+    "meaning": "角度；立場",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00118",
+    "word": "学力",
+    "reading": "がくりょく",
+    "meaning": "學力；學習能力",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00119",
+    "word": "陰",
+    "reading": "かげ",
+    "meaning": "陰影；背後；暗處",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00120",
+    "word": "可決する",
+    "reading": "かけつする",
+    "meaning": "通過；議決通過",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00121",
+    "word": "籠",
+    "reading": "かご",
+    "meaning": "籃；人籃",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00122",
+    "word": "火口",
+    "reading": "かこう",
+    "meaning": "次山口",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00123",
+    "word": "火災",
+    "reading": "かさい",
+    "meaning": "火災；火災事故",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00124",
+    "word": "貸し出し",
+    "reading": "かしだし",
+    "meaning": "借出；貸出",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00125",
+    "word": "果実",
+    "reading": "かじつ",
+    "meaning": "果實",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00126",
+    "word": "貸間",
+    "reading": "かしま",
+    "meaning": "出租的房間",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00127",
+    "word": "貸家",
+    "reading": "かしや",
+    "meaning": "出租的房子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00128",
+    "word": "箇所",
+    "reading": "かしょ",
+    "meaning": "地方；部分；處所",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00129",
+    "word": "課税",
+    "reading": "かぜい",
+    "meaning": "課稅；徵稅",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00130",
+    "word": "加速する",
+    "reading": "かそくする",
+    "meaning": "加速",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00131",
+    "word": "塊",
+    "reading": "かたまり",
+    "meaning": "塊；團；群",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00132",
+    "word": "活気",
+    "reading": "かっき",
+    "meaning": "活力；朝氣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00133",
+    "word": "括弧",
+    "reading": "かっこ",
+    "meaning": "括弧",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00134",
+    "word": "活字",
+    "reading": "かつじ",
+    "meaning": "活字；印刷物",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00135",
+    "word": "活躍する",
+    "reading": "かつやくする",
+    "meaning": "活躍",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00136",
+    "word": "活用する",
+    "reading": "かつようする",
+    "meaning": "有效利用；詞尾小化",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00137",
+    "word": "活力",
+    "reading": "かつりょく",
+    "meaning": "活力；生命力",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00138",
+    "word": "仮定する",
+    "reading": "かていする",
+    "meaning": "假定",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00139",
+    "word": "過程",
+    "reading": "かてい",
+    "meaning": "過程",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00140",
+    "word": "仮名遣い",
+    "reading": "かなづかい",
+    "meaning": "假名用法；假名拼寫法",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00141",
+    "word": "鐘",
+    "reading": "かね",
+    "meaning": "鐘",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00142",
+    "word": "加熱する",
+    "reading": "かねつする",
+    "meaning": "加熱",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00143",
+    "word": "過半数",
+    "reading": "かはんすう",
+    "meaning": "迪半數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00144",
+    "word": "黴",
+    "reading": "かび",
+    "meaning": "黴；黴菌",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00145",
+    "word": "株",
+    "reading": "かぶ",
+    "meaning": "股票；株；樹株",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00146",
+    "word": "釜",
+    "reading": "かま",
+    "meaning": "鍋",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00147",
+    "word": "神",
+    "reading": "かみ",
+    "meaning": "神；上帝",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00148",
+    "word": "紙屑",
+    "reading": "かみくず",
+    "meaning": "廢紙；紙屑",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00149",
+    "word": "神様",
+    "reading": "かみさま",
+    "meaning": "神；神明",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00150",
+    "word": "雷",
+    "reading": "かみなり",
+    "meaning": "雷",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00151",
+    "word": "髪の毛",
+    "reading": "かみのけ",
+    "meaning": "頭髮",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00152",
+    "word": "貨物",
+    "reading": "かもつ",
+    "meaning": "貨物",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00153",
+    "word": "歌謡",
+    "reading": "かよう",
+    "meaning": "歌謠",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00154",
+    "word": "空",
+    "reading": "から",
+    "meaning": "空；空的",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00155",
+    "word": "殻",
+    "reading": "から",
+    "meaning": "外殼；殼",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00156",
+    "word": "柄",
+    "reading": "がら",
+    "meaning": "花樣；體格；性格",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00157",
+    "word": "かるた",
+    "reading": "かるた",
+    "meaning": "紙牌；歌牌",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00158",
+    "word": "皮",
+    "reading": "かわ",
+    "meaning": "皮；表皮",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00159",
+    "word": "革",
+    "reading": "かわ",
+    "meaning": "皮革",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00160",
+    "word": "革靴",
+    "reading": "かわぐつ",
+    "meaning": "皮鞋",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00161",
+    "word": "為替",
+    "reading": "かわせ",
+    "meaning": "匯票；匯兌",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00162",
+    "word": "瓦",
+    "reading": "かわら",
+    "meaning": "瓦片",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00163",
+    "word": "勘",
+    "reading": "かん",
+    "meaning": "直覺；第六感",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00164",
+    "word": "間隔",
+    "reading": "かんかく",
+    "meaning": "間隔",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00165",
+    "word": "観客",
+    "reading": "かんきゃく",
+    "meaning": "觀眾",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00166",
+    "word": "感激する",
+    "reading": "かんげきする",
+    "meaning": "感激；感動",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00167",
+    "word": "元日",
+    "reading": "がんじつ",
+    "meaning": "元旦；一月一日",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00168",
+    "word": "患者",
+    "reading": "かんじゃ",
+    "meaning": "患者；病人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00169",
+    "word": "鑑賞する",
+    "reading": "かんしょうする",
+    "meaning": "鑑賞；欣賞",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00170",
+    "word": "勘定する",
+    "reading": "かんじょうする",
+    "meaning": "計算；結帳",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00171",
+    "word": "乾燥する",
+    "reading": "かんそうする",
+    "meaning": "乾燥",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00172",
+    "word": "感想",
+    "reading": "かんそう",
+    "meaning": "感想",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00173",
+    "word": "観測する",
+    "reading": "かんそくする",
+    "meaning": "觀測",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00174",
+    "word": "寒帯",
+    "reading": "かんたい",
+    "meaning": "寒帶",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00175",
+    "word": "勘違いする",
+    "reading": "かんちがいする",
+    "meaning": "錯認；錯想",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00176",
+    "word": "官庁",
+    "reading": "かんちょう",
+    "meaning": "政府機關；官署",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00177",
+    "word": "乾電池",
+    "reading": "かんでんち",
+    "meaning": "乾電池",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00178",
+    "word": "監督する",
+    "reading": "かんとくする",
+    "meaning": "監督；導演；領隊",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00179",
+    "word": "観念する",
+    "reading": "かんねんする",
+    "meaning": "觀念；斷念",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00180",
+    "word": "看病する",
+    "reading": "かんびょうする",
+    "meaning": "看護；照顧病人",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00181",
+    "word": "冠",
+    "reading": "かんむり",
+    "meaning": "冠；王冠",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00182",
+    "word": "管理する",
+    "reading": "かんりする",
+    "meaning": "管理",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00183",
+    "word": "完了する",
+    "reading": "かんりょうする",
+    "meaning": "完了",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00184",
+    "word": "関連する",
+    "reading": "かんれんする",
+    "meaning": "關聯",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00185",
+    "word": "漢和",
+    "reading": "かんわ",
+    "meaning": "漢和；漢日",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00186",
+    "word": "気圧",
+    "reading": "きあつ",
+    "meaning": "氣壓",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00187",
+    "word": "議員",
+    "reading": "ぎいん",
+    "meaning": "議員",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00188",
+    "word": "記憶する",
+    "reading": "きおくする",
+    "meaning": "記憶",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00189",
+    "word": "器械",
+    "reading": "きかい",
+    "meaning": "器械",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00190",
+    "word": "議会",
+    "reading": "ぎかい",
+    "meaning": "議會",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00191",
+    "word": "着替えする",
+    "reading": "きがえする",
+    "meaning": "換衣服",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00192",
+    "word": "機関",
+    "reading": "きかん",
+    "meaning": "機喲；機構；組織",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00193",
+    "word": "機関車",
+    "reading": "きかんしゃ",
+    "meaning": "機車；次車頭",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00194",
+    "word": "企業",
+    "reading": "きぎょう",
+    "meaning": "企業",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00195",
+    "word": "飢饉",
+    "reading": "ききん",
+    "meaning": "飢荒",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00196",
+    "word": "機嫌",
+    "reading": "きげん",
+    "meaning": "心情；情緒",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00197",
+    "word": "気候",
+    "reading": "きこう",
+    "meaning": "氣候",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00198",
+    "word": "岸",
+    "reading": "きし",
+    "meaning": "岸；岸邊",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00199",
+    "word": "生地",
+    "reading": "きじ",
+    "meaning": "質地；布料；素質",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00200",
+    "word": "記事",
+    "reading": "きじ",
+    "meaning": "報導；新聞消息；文章",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00201",
+    "word": "技師",
+    "reading": "ぎし",
+    "meaning": "技師",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00202",
+    "word": "儀式",
+    "reading": "ぎしき",
+    "meaning": "儀式；典禮",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00203",
+    "word": "基準",
+    "reading": "きじゅん",
+    "meaning": "基準；標準",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00204",
+    "word": "規準",
+    "reading": "きじゅん",
+    "meaning": "準則；規範",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00205",
+    "word": "起床する",
+    "reading": "きしょうする",
+    "meaning": "起床",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00206",
+    "word": "基礎",
+    "reading": "きそ",
+    "meaning": "基礎；根基",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00207",
+    "word": "気体",
+    "reading": "きたい",
+    "meaning": "氣體",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00208",
+    "word": "帰宅する",
+    "reading": "きたくする",
+    "meaning": "回家",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00209",
+    "word": "基地",
+    "reading": "きち",
+    "meaning": "基地",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00210",
+    "word": "議長",
+    "reading": "ぎちょう",
+    "meaning": "議長；主席",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00211",
+    "word": "きっかけ",
+    "reading": "きっかけ",
+    "meaning": "契機；開端",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00212",
+    "word": "記念する",
+    "reading": "きねんする",
+    "meaning": "記念",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00213",
+    "word": "機能する",
+    "reading": "きのうする",
+    "meaning": "機能",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00214",
+    "word": "基盤",
+    "reading": "きばん",
+    "meaning": "基礎；基盤",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00215",
+    "word": "寄付する",
+    "reading": "きふする",
+    "meaning": "捐贈",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00216",
+    "word": "規模",
+    "reading": "きぼ",
+    "meaning": "規橫",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00217",
+    "word": "気味",
+    "reading": "きみ",
+    "meaning": "感受；心情",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00218",
+    "word": "義務",
+    "reading": "ぎむ",
+    "meaning": "義務",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00219",
+    "word": "客席",
+    "reading": "きゃくせき",
+    "meaning": "客席；觀眾席",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00220",
+    "word": "客間",
+    "reading": "きゃくま",
+    "meaning": "客廳；會客室",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00221",
+    "word": "気球",
+    "reading": "ききゅう",
+    "meaning": "氣球",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00222",
+    "word": "級",
+    "reading": "きゅう",
+    "meaning": "等級；級",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00223",
+    "word": "球",
+    "reading": "きゅう",
+    "meaning": "球",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00224",
+    "word": "休暇",
+    "reading": "きゅうか",
+    "meaning": "休假",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00225",
+    "word": "休憩する",
+    "reading": "きゅうけいする",
+    "meaning": "休息",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00226",
+    "word": "休講する",
+    "reading": "きゅうこうする",
+    "meaning": "停課",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00227",
+    "word": "求婚する",
+    "reading": "きゅうこんする",
+    "meaning": "求婚",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00228",
+    "word": "救助する",
+    "reading": "きゅうじょする",
+    "meaning": "救助；救援",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00229",
+    "word": "休養する",
+    "reading": "きゅうようする",
+    "meaning": "休養",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00230",
+    "word": "強化する",
+    "reading": "きょうかする",
+    "meaning": "強化；加強",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00231",
+    "word": "境界",
+    "reading": "きょうかい",
+    "meaning": "邊境；還界",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00232",
+    "word": "行儀",
+    "reading": "ぎょうぎ",
+    "meaning": "舉止；禮節",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00233",
+    "word": "供給する",
+    "reading": "きょうきゅうする",
+    "meaning": "供給；供應",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00234",
+    "word": "共産",
+    "reading": "きょうさん",
+    "meaning": "共產",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00235",
+    "word": "恐縮する",
+    "reading": "きょうしゅくする",
+    "meaning": "惶恐；過意不去",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00236",
+    "word": "強調する",
+    "reading": "きょうちょうする",
+    "meaning": "強調",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00237",
+    "word": "共通点",
+    "reading": "きょうつうてん",
+    "meaning": "共通點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00238",
+    "word": "共同する",
+    "reading": "きょうどうする",
+    "meaning": "共同；合作",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00239",
+    "word": "恐怖する",
+    "reading": "きょうふする",
+    "meaning": "恐怖；恐懼",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00240",
+    "word": "教養する",
+    "reading": "きょうようする",
+    "meaning": "教養；修養",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00241",
+    "word": "行列する",
+    "reading": "ぎょうれつする",
+    "meaning": "行列；排隊",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00242",
+    "word": "漁業",
+    "reading": "ぎょぎょう",
+    "meaning": "漁業",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00243",
+    "word": "曲線",
+    "reading": "きょくせん",
+    "meaning": "曲線",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00244",
+    "word": "霧",
+    "reading": "きり",
+    "meaning": "霧",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00245",
+    "word": "規律",
+    "reading": "きりつ",
+    "meaning": "規律；紀律",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00246",
+    "word": "議論する",
+    "reading": "ぎろんする",
+    "meaning": "議論",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00247",
+    "word": "金魚",
+    "reading": "きんぎょ",
+    "meaning": "金魚",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00248",
+    "word": "金庫",
+    "reading": "きんこ",
+    "meaning": "金庫；保險箱",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00249",
+    "word": "金銭",
+    "reading": "きんせん",
+    "meaning": "金錢",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00250",
+    "word": "金属",
+    "reading": "きんぞく",
+    "meaning": "金屬",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00251",
+    "word": "筋肉",
+    "reading": "きんにく",
+    "meaning": "肌肉",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00252",
+    "word": "金融",
+    "reading": "きんゆう",
+    "meaning": "金融",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00253",
+    "word": "句",
+    "reading": "く",
+    "meaning": "詞句；詩句；佛句",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00254",
+    "word": "区域",
+    "reading": "くいき",
+    "meaning": "區域",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00255",
+    "word": "偶数",
+    "reading": "ぐうすう",
+    "meaning": "偶數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00256",
+    "word": "空想する",
+    "reading": "くうそうする",
+    "meaning": "空想；幻想",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00257",
+    "word": "空中",
+    "reading": "くうちゅう",
+    "meaning": "空中",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00258",
+    "word": "釘",
+    "reading": "くぎ",
+    "meaning": "釘",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00259",
+    "word": "鎖",
+    "reading": "くさり",
+    "meaning": "鎖；鏈子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00260",
+    "word": "櫛",
+    "reading": "くし",
+    "meaning": "梳子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00261",
+    "word": "くしゃみする",
+    "reading": "くしゃみする",
+    "meaning": "噴嚏",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00262",
+    "word": "苦情",
+    "reading": "くじょう",
+    "meaning": "抱怨；不滿",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00263",
+    "word": "苦心",
+    "reading": "くしん",
+    "meaning": "苦心；費心",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00264",
+    "word": "癖",
+    "reading": "くせ",
+    "meaning": "習慣；癖好",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00265",
+    "word": "管",
+    "reading": "くだ",
+    "meaning": "管；管子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00266",
+    "word": "具体",
+    "reading": "ぐたい",
+    "meaning": "具體",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00267",
+    "word": "口癖",
+    "reading": "くちぐせ",
+    "meaning": "口頭禪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00268",
+    "word": "口紅",
+    "reading": "くちべに",
+    "meaning": "口紅",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00269",
+    "word": "苦痛",
+    "reading": "くつう",
+    "meaning": "痛苦",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00270",
+    "word": "句読点",
+    "reading": "くとうてん",
+    "meaning": "（中文欄辨識不清）",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00271",
+    "word": "工夫する",
+    "reading": "くふうする",
+    "meaning": "辦法；設法；動腦筋",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00272",
+    "word": "区分する",
+    "reading": "くぶんする",
+    "meaning": "區分；分類",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00273",
+    "word": "区別する",
+    "reading": "くべつする",
+    "meaning": "區別；分類",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00274",
+    "word": "組",
+    "reading": "くみ",
+    "meaning": "組；班",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00275",
+    "word": "組合",
+    "reading": "くみあい",
+    "meaning": "工會；公會",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00276",
+    "word": "車椅子",
+    "reading": "くるまいす",
+    "meaning": "輪椅",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00277",
+    "word": "暮れ",
+    "reading": "くれ",
+    "meaning": "黃昏；年末",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00278",
+    "word": "訓",
+    "reading": "くん",
+    "meaning": "訓讀；訓",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00279",
+    "word": "軍",
+    "reading": "ぐん",
+    "meaning": "軍",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00280",
+    "word": "郡",
+    "reading": "ぐん",
+    "meaning": "郡；行政區",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00281",
+    "word": "軍隊",
+    "reading": "ぐんたい",
+    "meaning": "軍隊",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00282",
+    "word": "下",
+    "reading": "げ",
+    "meaning": "下；下等",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00283",
+    "word": "計",
+    "reading": "けい",
+    "meaning": "計畫；打算；合計",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00284",
+    "word": "敬意",
+    "reading": "けいい",
+    "meaning": "敬意",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00285",
+    "word": "景気",
+    "reading": "けいき",
+    "meaning": "景氣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00286",
+    "word": "契機",
+    "reading": "けいき",
+    "meaning": "契機；關鍵",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00287",
+    "word": "稽古する",
+    "reading": "けいこする",
+    "meaning": "練習；學習",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00288",
+    "word": "蛍光灯",
+    "reading": "けいこうとう",
+    "meaning": "日光燈；螢光燈",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00289",
+    "word": "刑事",
+    "reading": "けいじ",
+    "meaning": "刑警；刑事案件",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00290",
+    "word": "毛糸",
+    "reading": "けいと",
+    "meaning": "毛線",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00291",
+    "word": "経度",
+    "reading": "けいど",
+    "meaning": "經度",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00292",
+    "word": "系統",
+    "reading": "けいとう",
+    "meaning": "系統；血統",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00293",
+    "word": "競馬",
+    "reading": "けいば",
+    "meaning": "賽馬",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00294",
+    "word": "警備する",
+    "reading": "けいびする",
+    "meaning": "警備；警戒",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00295",
+    "word": "契約する",
+    "reading": "けいやくする",
+    "meaning": "契約；簽約",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00296",
+    "word": "外科",
+    "reading": "げか",
+    "meaning": "外科",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00297",
+    "word": "毛皮",
+    "reading": "けがわ",
+    "meaning": "毛皮",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00298",
+    "word": "劇",
+    "reading": "げき",
+    "meaning": "劇；戲劇",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00299",
+    "word": "激増する",
+    "reading": "げきぞうする",
+    "meaning": "激增",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00300",
+    "word": "下宿する",
+    "reading": "げしゅくする",
+    "meaning": "寄宿；投信",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00301",
+    "word": "下旬",
+    "reading": "げじゅん",
+    "meaning": "下旬",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00302",
+    "word": "化粧する",
+    "reading": "けしょうする",
+    "meaning": "化妝",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00303",
+    "word": "下水",
+    "reading": "げすい",
+    "meaning": "污水；下水道",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00304",
+    "word": "桁",
+    "reading": "けた",
+    "meaning": "位數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00305",
+    "word": "血圧",
+    "reading": "けつあつ",
+    "meaning": "血壓",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00306",
+    "word": "欠陥",
+    "reading": "けっかん",
+    "meaning": "缺陷；缺點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00307",
+    "word": "月給",
+    "reading": "げっきゅう",
+    "meaning": "月薪；工資",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00308",
+    "word": "傑作",
+    "reading": "けっさく",
+    "meaning": "傑作",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00309",
+    "word": "気配",
+    "reading": "けはい",
+    "meaning": "跡象；情形；樣子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00310",
+    "word": "見解",
+    "reading": "けんかい",
+    "meaning": "見解；看法",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00311",
+    "word": "原稿",
+    "reading": "げんこう",
+    "meaning": "原稿；草稿",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00312",
+    "word": "原産",
+    "reading": "げんさん",
+    "meaning": "原產",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00313",
+    "word": "原始",
+    "reading": "げんし",
+    "meaning": "原始",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00314",
+    "word": "現象",
+    "reading": "げんしょう",
+    "meaning": "現象",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00315",
+    "word": "現状",
+    "reading": "げんじょう",
+    "meaning": "現狀",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00316",
+    "word": "建設する",
+    "reading": "けんせつする",
+    "meaning": "建設",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00317",
+    "word": "現代",
+    "reading": "げんだい",
+    "meaning": "現代",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00318",
+    "word": "現段階",
+    "reading": "げんだんかい",
+    "meaning": "現階段",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00319",
+    "word": "建築する",
+    "reading": "けんちくする",
+    "meaning": "建築",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00320",
+    "word": "県庁",
+    "reading": "けんちょう",
+    "meaning": "縣廳",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00321",
+    "word": "限度",
+    "reading": "げんど",
+    "meaning": "限度；界限",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00322",
+    "word": "見当",
+    "reading": "けんとう",
+    "meaning": "方向；估計；推測；大約",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00323",
+    "word": "顕微鏡",
+    "reading": "けんびきょう",
+    "meaning": "顯微鏡",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00324",
+    "word": "憲法",
+    "reading": "けんぽう",
+    "meaning": "憲法",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00325",
+    "word": "権利",
+    "reading": "けんり",
+    "meaning": "權利",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00326",
+    "word": "原理",
+    "reading": "げんり",
+    "meaning": "原理",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00327",
+    "word": "原料",
+    "reading": "げんりょう",
+    "meaning": "原料",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00328",
+    "word": "後",
+    "reading": "ご",
+    "meaning": "後；以後",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00329",
+    "word": "碁",
+    "reading": "ご",
+    "meaning": "圍棋",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00330",
+    "word": "恋",
+    "reading": "こい",
+    "meaning": "戀愛；愛情",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00331",
+    "word": "恋人",
+    "reading": "こいびと",
+    "meaning": "戀人；情人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00332",
+    "word": "工員",
+    "reading": "こういん",
+    "meaning": "工人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00333",
+    "word": "硬貨",
+    "reading": "こうか",
+    "meaning": "硬幣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00334",
+    "word": "公共",
+    "reading": "こうきょう",
+    "meaning": "公共",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00335",
+    "word": "航空",
+    "reading": "こうくう",
+    "meaning": "航空",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00336",
+    "word": "光景",
+    "reading": "こうけい",
+    "meaning": "景象；場面",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00337",
+    "word": "工芸",
+    "reading": "こうげい",
+    "meaning": "工藝",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00338",
+    "word": "攻撃する",
+    "reading": "こうげきする",
+    "meaning": "攻擊",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00339",
+    "word": "貢献する",
+    "reading": "こうけんする",
+    "meaning": "貢獻",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00340",
+    "word": "孝行する",
+    "reading": "こうこうする",
+    "meaning": "孝順",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00341",
+    "word": "交際する",
+    "reading": "こうさいする",
+    "meaning": "交際；交往",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00342",
+    "word": "鉱山",
+    "reading": "こうざん",
+    "meaning": "礦山",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00343",
+    "word": "工事する",
+    "reading": "こうじする",
+    "meaning": "工程；工事",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00344",
+    "word": "公式",
+    "reading": "こうしき",
+    "meaning": "正式；官方；公式",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00345",
+    "word": "口実",
+    "reading": "こうじつ",
+    "meaning": "藉口",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00346",
+    "word": "校舎",
+    "reading": "こうしゃ",
+    "meaning": "校舍",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00347",
+    "word": "後者",
+    "reading": "こうしゃ",
+    "meaning": "後者",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00348",
+    "word": "公衆",
+    "reading": "こうしゅう",
+    "meaning": "公眾",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00349",
+    "word": "香水",
+    "reading": "こうすい",
+    "meaning": "香水",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00350",
+    "word": "構成する",
+    "reading": "こうせいする",
+    "meaning": "構成；結構",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00351",
+    "word": "功績",
+    "reading": "こうせき",
+    "meaning": "功績",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00352",
+    "word": "光線",
+    "reading": "こうせん",
+    "meaning": "光線",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00353",
+    "word": "高層",
+    "reading": "こうそう",
+    "meaning": "高層",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00354",
+    "word": "構造",
+    "reading": "こうぞう",
+    "meaning": "構造；結構",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00355",
+    "word": "交替する",
+    "reading": "こうたいする",
+    "meaning": "交替；替換",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00356",
+    "word": "耕地",
+    "reading": "こうち",
+    "meaning": "耕地",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00357",
+    "word": "交通機関",
+    "reading": "こうつうきかん",
+    "meaning": "交通工具；交通機構",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00358",
+    "word": "校庭",
+    "reading": "こうてい",
+    "meaning": "校園；校內操場",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00359",
+    "word": "肯定する",
+    "reading": "こうていする",
+    "meaning": "肯定",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00360",
+    "word": "高度",
+    "reading": "こうど",
+    "meaning": "高度",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00361",
+    "word": "高等",
+    "reading": "こうとう",
+    "meaning": "高等",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00362",
+    "word": "強盗",
+    "reading": "ごうとう",
+    "meaning": "搶劫；強盜",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00363",
+    "word": "合同する",
+    "reading": "ごうどうする",
+    "meaning": "聯合；合併",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00364",
+    "word": "高等学校",
+    "reading": "こうとうがっこう",
+    "meaning": "高中",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00365",
+    "word": "公表する",
+    "reading": "こうひょうする",
+    "meaning": "公佈；公開發表",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00366",
+    "word": "鉱物",
+    "reading": "こうぶつ",
+    "meaning": "礦物",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00367",
+    "word": "候補",
+    "reading": "こうほ",
+    "meaning": "候選人；候補",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00368",
+    "word": "公務",
+    "reading": "こうむ",
+    "meaning": "公務",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00369",
+    "word": "項目",
+    "reading": "こうもく",
+    "meaning": "項目",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00370",
+    "word": "紅葉",
+    "reading": "こうよう",
+    "meaning": "紅葉",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00371",
+    "word": "合理",
+    "reading": "ごうり",
+    "meaning": "合理",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00372",
+    "word": "合流する",
+    "reading": "ごうりゅうする",
+    "meaning": "匯合；合流",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00373",
+    "word": "考慮する",
+    "reading": "こうりょする",
+    "meaning": "考慮",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00374",
+    "word": "効力",
+    "reading": "こうりょく",
+    "meaning": "效力",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00375",
+    "word": "誤解する",
+    "reading": "ごかいする",
+    "meaning": "誤解",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00376",
+    "word": "語学",
+    "reading": "ごがく",
+    "meaning": "外語學習；語言學",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00377",
+    "word": "国王",
+    "reading": "こくおう",
+    "meaning": "國王",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00378",
+    "word": "国籍",
+    "reading": "こくせき",
+    "meaning": "國籍",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00379",
+    "word": "克服する",
+    "reading": "こくふくする",
+    "meaning": "克服",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00380",
+    "word": "穀物",
+    "reading": "こくもつ",
+    "meaning": "穀物",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00381",
+    "word": "心当たり",
+    "reading": "こころあたり",
+    "meaning": "線索；可能的對象；心中有數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00382",
+    "word": "腰",
+    "reading": "こし",
+    "meaning": "腰",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00383",
+    "word": "腰掛け",
+    "reading": "こしかけ",
+    "meaning": "椅子；座位；坐下",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00384",
+    "word": "胡椒",
+    "reading": "こしょう",
+    "meaning": "胡椒",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00385",
+    "word": "国家",
+    "reading": "こっか",
+    "meaning": "國家",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00386",
+    "word": "国会",
+    "reading": "こっかい",
+    "meaning": "國會",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00387",
+    "word": "国境",
+    "reading": "こっきょう",
+    "meaning": "國境；邊境",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00388",
+    "word": "骨折",
+    "reading": "こっせつ",
+    "meaning": "骨折",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00389",
+    "word": "古典",
+    "reading": "こてん",
+    "meaning": "古籍；古典作品",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00390",
+    "word": "琴",
+    "reading": "こと",
+    "meaning": "琴；古箏類樂器",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00391",
+    "word": "言葉遣い",
+    "reading": "ことばづかい",
+    "meaning": "措辭；說話方式",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00392",
+    "word": "諺",
+    "reading": "ことわざ",
+    "meaning": "諺語；俗語",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00393",
+    "word": "粉",
+    "reading": "こな",
+    "meaning": "粉；粉末",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00394",
+    "word": "ご無沙汰する",
+    "reading": "ごぶさたする",
+    "meaning": "久未聯絡；久違",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00395",
+    "word": "小麦",
+    "reading": "こむぎ",
+    "meaning": "小麥",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00396",
+    "word": "小屋",
+    "reading": "こや",
+    "meaning": "小屋；戲補",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00397",
+    "word": "娯楽する",
+    "reading": "ごらくする",
+    "meaning": "娛樂",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00398",
+    "word": "紺",
+    "reading": "こん",
+    "meaning": "深藍",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00399",
+    "word": "混合する",
+    "reading": "こんごうする",
+    "meaning": "混合",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00400",
+    "word": "混雑する",
+    "reading": "こんざつする",
+    "meaning": "混雜；擁擠",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00401",
+    "word": "献立",
+    "reading": "こんだて",
+    "meaning": "菜單；菜色安排",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00402",
+    "word": "婚約",
+    "reading": "こんやく",
+    "meaning": "婚約；訂婚",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00403",
+    "word": "混乱する",
+    "reading": "こんらんする",
+    "meaning": "混亂",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00404",
+    "word": "差",
+    "reading": "さ",
+    "meaning": "差；差別；差距",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00405",
+    "word": "際",
+    "reading": "さい",
+    "meaning": "時候；時機；場合",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00406",
+    "word": "在学する",
+    "reading": "ざいがくする",
+    "meaning": "在學；在校",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00407",
+    "word": "財産",
+    "reading": "ざいさん",
+    "meaning": "財產",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00408",
+    "word": "祭日",
+    "reading": "さいじつ",
+    "meaning": "節日；祭日",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00409",
+    "word": "催促する",
+    "reading": "さいそくする",
+    "meaning": "催促",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00410",
+    "word": "最中",
+    "reading": "さいちゅう",
+    "meaning": "進行中；最盛期",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00411",
+    "word": "採点する",
+    "reading": "さいてんする",
+    "meaning": "評分",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00412",
+    "word": "災難",
+    "reading": "さいなん",
+    "meaning": "災難",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00413",
+    "word": "才能",
+    "reading": "さいのう",
+    "meaning": "才能；才幹",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00414",
+    "word": "裁判する",
+    "reading": "さいばんする",
+    "meaning": "裁判；審判",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00415",
+    "word": "裁縫",
+    "reading": "さいほう",
+    "meaning": "裁縫；縫紉",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00416",
+    "word": "材木",
+    "reading": "ざいもく",
+    "meaning": "木材",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00417",
+    "word": "材料",
+    "reading": "ざいりょう",
+    "meaning": "材料",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00418",
+    "word": "境",
+    "reading": "さかい",
+    "meaning": "界線；境界",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00419",
+    "word": "逆さ",
+    "reading": "さかさ",
+    "meaning": "倒；顛倒；相反",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00420",
+    "word": "逆さま",
+    "reading": "さかさま",
+    "meaning": "倒；顛倒；相反",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00421",
+    "word": "酒場",
+    "reading": "さかば",
+    "meaning": "酒吧；酒館",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00422",
+    "word": "盛り",
+    "reading": "さかり",
+    "meaning": "全盛期；最盛時期",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00423",
+    "word": "一昨々日",
+    "reading": "さきおととい",
+    "meaning": "大前天",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00424",
+    "word": "作業する",
+    "reading": "さぎょうする",
+    "meaning": "操作；作業",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00425",
+    "word": "索引",
+    "reading": "さくいん",
+    "meaning": "索引",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00426",
+    "word": "作者",
+    "reading": "さくしゃ",
+    "meaning": "作者；作家",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00427",
+    "word": "削除する",
+    "reading": "さくじょする",
+    "meaning": "刪除；刪去",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00428",
+    "word": "作成する",
+    "reading": "さくせいする",
+    "meaning": "製作；擬定；寫成",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00429",
+    "word": "作製する",
+    "reading": "さくせいする",
+    "meaning": "製作；製造",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00430",
+    "word": "作品",
+    "reading": "さくひん",
+    "meaning": "作品",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00431",
+    "word": "作物",
+    "reading": "さくもつ",
+    "meaning": "農作物",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00432",
+    "word": "匙",
+    "reading": "さじ",
+    "meaning": "湯匙；匙",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00433",
+    "word": "座敷",
+    "reading": "ざしき",
+    "meaning": "鋪榻榻米的日式房間",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00434",
+    "word": "差し支え",
+    "reading": "さしつかえ",
+    "meaning": "妨礙；障礙；不方便",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00435",
+    "word": "差し引き",
+    "reading": "さしひき",
+    "meaning": "扣除；扣除後餘額",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00436",
+    "word": "座席",
+    "reading": "ざせきぎ",
+    "meaning": "座位",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00437",
+    "word": "札",
+    "reading": "さつ",
+    "meaning": "紙幣；札",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00438",
+    "word": "雑音",
+    "reading": "ざつおん",
+    "meaning": "雜音；噪音",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00439",
+    "word": "て作曲する",
+    "reading": "さっきょくする",
+    "meaning": "作曲",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00440",
+    "word": "雑談する",
+    "reading": "ざつだんする",
+    "meaning": "商談；聊天",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00441",
+    "word": "砂漠",
+    "reading": "さばく",
+    "meaning": "沙漠",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00442",
+    "word": "錆",
+    "reading": "さび",
+    "meaning": "鏽；鐵鏽",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00443",
+    "word": "座布団",
+    "reading": "ざぶとん",
+    "meaning": "坐墊",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00444",
+    "word": "差別する",
+    "reading": "さべつする",
+    "meaning": "差別；歧視",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00445",
+    "word": "作法",
+    "reading": "さほう",
+    "meaning": "禮法；禮節",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00446",
+    "word": "左右する",
+    "reading": "さゆうする",
+    "meaning": "左右；影響",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00447",
+    "word": "猿",
+    "reading": "さる",
+    "meaning": "猴子；猿",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00448",
+    "word": "騒ぎ",
+    "reading": "さわぎ",
+    "meaning": "吵鬧；騷動",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00449",
+    "word": "残業する",
+    "reading": "ざんぎょうする",
+    "meaning": "加班",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00450",
+    "word": "算数",
+    "reading": "さんすう",
+    "meaning": "算術；數學",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00451",
+    "word": "酸性",
+    "reading": "さんせい",
+    "meaning": "酸性",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00452",
+    "word": "酸素",
+    "reading": "さんそ",
+    "meaning": "氧氣；氧",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00453",
+    "word": "産地",
+    "reading": "さんち",
+    "meaning": "產地",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00454",
+    "word": "山林",
+    "reading": "さんりん",
+    "meaning": "山林",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00455",
+    "word": "氏",
+    "reading": "し",
+    "meaning": "氏",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00456",
+    "word": "詩",
+    "reading": "し",
+    "meaning": "詩",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00457",
+    "word": "しあさって",
+    "reading": "しあさって",
+    "meaning": "大後天",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00458",
+    "word": "寺院",
+    "reading": "じいん",
+    "meaning": "寺院",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00459",
+    "word": "自衛する",
+    "reading": "じえいする",
+    "meaning": "自衛",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00460",
+    "word": "司会",
+    "reading": "しかい",
+    "meaning": "司儀；主持",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00461",
+    "word": "式",
+    "reading": "しき",
+    "meaning": "儀式；公式",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00462",
+    "word": "直",
+    "reading": "じき",
+    "meaning": "立刻；馬上",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00463",
+    "word": "敷地",
+    "reading": "しきち",
+    "meaning": "建築用地",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00464",
+    "word": "刺激する",
+    "reading": "しげきする",
+    "meaning": "刺激",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00465",
+    "word": "自殺する",
+    "reading": "じさつする",
+    "meaning": "自殺",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00466",
+    "word": "持参する",
+    "reading": "じさんする",
+    "meaning": "攜帶；帶來",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00467",
+    "word": "磁石",
+    "reading": "じしゃく",
+    "meaning": "磁鐵；指南針",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00468",
+    "word": "四捨五入する",
+    "reading": "ししゃごにゅうする",
+    "meaning": "四捨五入",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00469",
+    "word": "自習する",
+    "reading": "じしゅうする",
+    "meaning": "自修",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00470",
+    "word": "詩人",
+    "reading": "しじん",
+    "meaning": "詩人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00471",
+    "word": "姿勢",
+    "reading": "しせい",
+    "meaning": "姿勢",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00472",
+    "word": "思想",
+    "reading": "しそう",
+    "meaning": "思想",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00473",
+    "word": "時速",
+    "reading": "じそく",
+    "meaning": "時速",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00474",
+    "word": "子孫",
+    "reading": "しそん",
+    "meaning": "子孫",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00475",
+    "word": "死体",
+    "reading": "したい",
+    "meaning": "屍體",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00476",
+    "word": "次第",
+    "reading": "しだい",
+    "meaning": "次序；情況；一……就……",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00477",
+    "word": "事態",
+    "reading": "じたい",
+    "meaning": "事態；局勢",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00478",
+    "word": "下書き",
+    "reading": "したがき",
+    "meaning": "起草；草稿",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00479",
+    "word": "自宅",
+    "reading": "じたく",
+    "meaning": "自己的住宅",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00480",
+    "word": "下町",
+    "reading": "したまち",
+    "meaning": "舊城區；工商業者為主的居住區",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00481",
+    "word": "自治",
+    "reading": "じち",
+    "meaning": "自治",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00482",
+    "word": "質",
+    "reading": "しつ",
+    "meaning": "質；品質；性質",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00483",
+    "word": "実感する",
+    "reading": "じっかんする",
+    "meaning": "真實感覺",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00484",
+    "word": "湿気",
+    "reading": "しっけ",
+    "meaning": "濕氣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00485",
+    "word": "実現する",
+    "reading": "じつげんする",
+    "meaning": "實現",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00486",
+    "word": "実行する",
+    "reading": "じっこうする",
+    "meaning": "實行",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00487",
+    "word": "実施する",
+    "reading": "じっしする",
+    "meaning": "實施",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00488",
+    "word": "実習する",
+    "reading": "じっしゅうする",
+    "meaning": "實習",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00489",
+    "word": "実績",
+    "reading": "じっせき",
+    "meaning": "實績；實際成績",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00490",
+    "word": "執筆する",
+    "reading": "しっぴつする",
+    "meaning": "執筆；寫作",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00491",
+    "word": "実物",
+    "reading": "じつぶつ",
+    "meaning": "實物",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00492",
+    "word": "実務",
+    "reading": "じつむ",
+    "meaning": "實務；實際業務",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00493",
+    "word": "実例",
+    "reading": "じつれい",
+    "meaning": "實例",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00494",
+    "word": "失恋する",
+    "reading": "しつれんする",
+    "meaning": "失戀",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00495",
+    "word": "指摘する",
+    "reading": "してきする",
+    "meaning": "指出；指摘",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00496",
+    "word": "私鉄",
+    "reading": "してつ",
+    "meaning": "私營鐵路",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00497",
+    "word": "視点",
+    "reading": "してん",
+    "meaning": "視點；觀點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00498",
+    "word": "品",
+    "reading": "しな",
+    "meaning": "物品；商品；品質",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00499",
+    "word": "支配する",
+    "reading": "しはいする",
+    "meaning": "支配；指使",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00500",
+    "word": "芝居",
+    "reading": "しばい",
+    "meaning": "戲劇",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00501",
+    "word": "芝生",
+    "reading": "しばふ",
+    "meaning": "草坪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00502",
+    "word": "地盤",
+    "reading": "じばん",
+    "meaning": "地基；勢力範圍",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00503",
+    "word": "紙幣",
+    "reading": "しへい",
+    "meaning": "紙幣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00504",
+    "word": "死亡",
+    "reading": "しぼう",
+    "meaning": "死亡",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00505",
+    "word": "資本",
+    "reading": "しほん",
+    "meaning": "資本",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00506",
+    "word": "縞",
+    "reading": "しま",
+    "meaning": "條紋",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00507",
+    "word": "自慢",
+    "reading": "じまん",
+    "meaning": "自誇；驕傲",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00508",
+    "word": "氏名",
+    "reading": "しめい",
+    "meaning": "姓名",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00509",
+    "word": "地面",
+    "reading": "じめん",
+    "meaning": "地面",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00510",
+    "word": "下",
+    "reading": "しも",
+    "meaning": "下；下邊；下游",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00511",
+    "word": "霜",
+    "reading": "しも",
+    "meaning": "霜",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00512",
+    "word": "社会科学",
+    "reading": "しゃかいかがく",
+    "meaning": "社會科學",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00513",
+    "word": "市役所",
+    "reading": "しやくしょ",
+    "meaning": "市政府；市政廳",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00514",
+    "word": "蛇口",
+    "reading": "じゃぐち",
+    "meaning": "水龍頭",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00515",
+    "word": "車庫",
+    "reading": "しゃこ",
+    "meaning": "車庫；車場",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00516",
+    "word": "車掌",
+    "reading": "しゃしょう",
+    "meaning": "乘務員",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00517",
+    "word": "写生",
+    "reading": "しゃせい",
+    "meaning": "寫生",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00518",
+    "word": "社説",
+    "reading": "しゃせつ",
+    "meaning": "社論",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00519",
+    "word": "借金",
+    "reading": "しゃっきん",
+    "meaning": "借款；負債",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00520",
+    "word": "しゃっくり",
+    "reading": "しゃっくり",
+    "meaning": "打嗝",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00521",
+    "word": "車道",
+    "reading": "しゃどう",
+    "meaning": "車道",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00522",
+    "word": "車輪",
+    "reading": "しゃりん",
+    "meaning": "車輪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00523",
+    "word": "洒落",
+    "reading": "しゃれ",
+    "meaning": "幽默；俏皮話",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00524",
+    "word": "州",
+    "reading": "しゅう",
+    "meaning": "州",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00525",
+    "word": "銃",
+    "reading": "じゅう",
+    "meaning": "槍",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00526",
+    "word": "集会",
+    "reading": "しゅうかい",
+    "meaning": "集會",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00527",
+    "word": "収穫",
+    "reading": "しゅうかく",
+    "meaning": "收穫；收成",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00528",
+    "word": "住居",
+    "reading": "じゅうきょ",
+    "meaning": "住所；住宅",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00529",
+    "word": "宗教",
+    "reading": "しゅうきょう",
+    "meaning": "宗教",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00530",
+    "word": "集金",
+    "reading": "しゅうきん",
+    "meaning": "收款",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00531",
+    "word": "習字",
+    "reading": "しゅうじ",
+    "meaning": "習字",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00532",
+    "word": "重視",
+    "reading": "じゅうし",
+    "meaning": "重視",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00533",
+    "word": "収集",
+    "reading": "しゅうしゅう",
+    "meaning": "收集",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00534",
+    "word": "就職",
+    "reading": "しゅうしょく",
+    "meaning": "就職；就業",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00535",
+    "word": "修正",
+    "reading": "しゅうせい",
+    "meaning": "修正",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00536",
+    "word": "修繕",
+    "reading": "しゅうぜん",
+    "meaning": "修理；修補",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00537",
+    "word": "重体",
+    "reading": "じゅうたい",
+    "meaning": "病危",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00538",
+    "word": "じゅうたん",
+    "reading": "じゅうたん",
+    "meaning": "地毯",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00539",
+    "word": "重点",
+    "reading": "じゅうてん",
+    "meaning": "重點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00540",
+    "word": "就任",
+    "reading": "しゅうにん",
+    "meaning": "就任；就聯",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00541",
+    "word": "周辺",
+    "reading": "しゅうへん",
+    "meaning": "周邊；四周",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00542",
+    "word": "住民",
+    "reading": "じゅうみん",
+    "meaning": "居民",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00543",
+    "word": "重役",
+    "reading": "じゅうやく",
+    "meaning": "董事；經理",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00544",
+    "word": "重量",
+    "reading": "じゅうりょう",
+    "meaning": "重量",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00545",
+    "word": "重力",
+    "reading": "じゅうりょく",
+    "meaning": "重力",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00546",
+    "word": "主義",
+    "reading": "しゅぎ",
+    "meaning": "主義",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00547",
+    "word": "塾",
+    "reading": "じゅく",
+    "meaning": "私塾；補習學校",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00548",
+    "word": "熟語",
+    "reading": "じゅくご",
+    "meaning": "成語",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00549",
+    "word": "縮小",
+    "reading": "しゅくしょう",
+    "meaning": "縮小；縮減",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00550",
+    "word": "取材",
+    "reading": "しゅざい",
+    "meaning": "取材；採訪",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00551",
+    "word": "手術",
+    "reading": "しゅじゅつ",
+    "meaning": "手術",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00552",
+    "word": "首相",
+    "reading": "しゅしょう",
+    "meaning": "首相",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00553",
+    "word": "述語",
+    "reading": "じゅつご",
+    "meaning": "謂語",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00554",
+    "word": "出場",
+    "reading": "しゅつじょう",
+    "meaning": "出場；上場；登台",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00555",
+    "word": "出世",
+    "reading": "しゅっ",
+    "meaning": "成功；發跡",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00556",
+    "word": "首脳",
+    "reading": "しゅのう",
+    "meaning": "首腦",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00557",
+    "word": "主婦",
+    "reading": "しゅふ",
+    "meaning": "主婦",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00558",
+    "word": "寿命",
+    "reading": "じゅみょう",
+    "meaning": "壽命",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00559",
+    "word": "主役",
+    "reading": "しゅやく",
+    "meaning": "主角；主要角色",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00560",
+    "word": "受話器",
+    "reading": "じゅわき",
+    "meaning": "聽筒；耳機",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00561",
+    "word": "順",
+    "reading": "じゅん",
+    "meaning": "順序；次序",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00562",
+    "word": "瞬間",
+    "reading": "しゅんかん",
+    "meaning": "聯商",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00563",
+    "word": "循環",
+    "reading": "じゅんかん",
+    "meaning": "循環",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00564",
+    "word": "巡査",
+    "reading": "じゅんさ",
+    "meaning": "巡警；警察",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00565",
+    "word": "順負",
+    "reading": "じゅんじょ",
+    "meaning": "須序",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00566",
+    "word": "準優勝",
+    "reading": "じゅんゆうしょう",
+    "meaning": "亞軍",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00567",
+    "word": "小",
+    "reading": "しょう",
+    "meaning": "小",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00568",
+    "word": "章",
+    "reading": "しょう",
+    "meaning": "章",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00569",
+    "word": "賞",
+    "reading": "しょう",
+    "meaning": "獎品；獎金",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00570",
+    "word": "上",
+    "reading": "じょう",
+    "meaning": "上；上等；上冊",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00571",
+    "word": "消化",
+    "reading": "しょうか",
+    "meaning": "消化",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00572",
+    "word": "障害",
+    "reading": "しょうがい",
+    "meaning": "障礙；身體障礙",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00573",
+    "word": "将棋",
+    "reading": "しょうぎ",
+    "meaning": "日本象棋",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00574",
+    "word": "蒸気",
+    "reading": "じょうき",
+    "meaning": "蒸氣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00575",
+    "word": "定規",
+    "reading": "じょうぎ",
+    "meaning": "反；間盡",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00576",
+    "word": "上級",
+    "reading": "じょうきゅう",
+    "meaning": "上級；高級",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00577",
+    "word": "商業",
+    "reading": "しょうぎょう",
+    "meaning": "商業",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00578",
+    "word": "上京",
+    "reading": "じょうきょう",
+    "meaning": "上京",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00579",
+    "word": "賞金",
+    "reading": "しょうきぎん",
+    "meaning": "獎金",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00580",
+    "word": "上下",
+    "reading": "じょうげ",
+    "meaning": "上下；升降",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00581",
+    "word": "正午",
+    "reading": "しょうご",
+    "meaning": "正午",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00582",
+    "word": "障子",
+    "reading": "しょうじ",
+    "meaning": "紙製的拉門",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00583",
+    "word": "上司",
+    "reading": "じょうし",
+    "meaning": "上司",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00584",
+    "word": "常識",
+    "reading": "じょうしぎ",
+    "meaning": "常識",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00585",
+    "word": "商社",
+    "reading": "しょうしゃ",
+    "meaning": "貿易公司；商社",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00586",
+    "word": "乗車",
+    "reading": "じょうしゃ",
+    "meaning": "上車；乘車",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00587",
+    "word": "上和旬",
+    "reading": "じょうじゅん",
+    "meaning": "上旬",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00588",
+    "word": "少女",
+    "reading": "しょうじょ",
+    "meaning": "少女",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00589",
+    "word": "症状",
+    "reading": "しょうじょう",
+    "meaning": "症狀",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00590",
+    "word": "上昇",
+    "reading": "じょうしょう",
+    "meaning": "上昇",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00591",
+    "word": "敷",
+    "reading": "しょうすう",
+    "meaning": "小數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00592",
+    "word": "上達",
+    "reading": "じょうたつ",
+    "meaning": "進步；長進",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00593",
+    "word": "象徴",
+    "reading": "しょうちょう",
+    "meaning": "象徵",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00594",
+    "word": "焦点",
+    "reading": "しょうてん",
+    "meaning": "焦點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00595",
+    "word": "上等",
+    "reading": "じょうとう",
+    "meaning": "上等",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00596",
+    "word": "消毒",
+    "reading": "しょうどく",
+    "meaning": "消毒",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00597",
+    "word": "衝突",
+    "reading": "しょうとつ",
+    "meaning": "相撞；衝撞",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00598",
+    "word": "商人",
+    "reading": "しょうにん",
+    "meaning": "商人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00599",
+    "word": "承認",
+    "reading": "しょうにん",
+    "meaning": "承認；同意",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00600",
+    "word": "勝敗",
+    "reading": "しょうはい",
+    "meaning": "勝帳；勝負",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00601",
+    "word": "商売",
+    "reading": "しょうばい",
+    "meaning": "買賣；商業",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00602",
+    "word": "蒸発",
+    "reading": "じょうはつ",
+    "meaning": "蒸發",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00603",
+    "word": "消費",
+    "reading": "しょうひ",
+    "meaning": "消費",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00604",
+    "word": "賞品",
+    "reading": "しょうひん",
+    "meaning": "獎品",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00605",
+    "word": "勝負",
+    "reading": "しょうぶ",
+    "meaning": "勝負；勝贅",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00606",
+    "word": "消防",
+    "reading": "しょうぼう",
+    "meaning": "消防",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00607",
+    "word": "消防署",
+    "reading": "しょうぼうしょ",
+    "meaning": "消防署",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00608",
+    "word": "正味",
+    "reading": "しょうみ",
+    "meaning": "淨重；實數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00609",
+    "word": "正面",
+    "reading": "しょうめん",
+    "meaning": "正面；對面",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00610",
+    "word": "消耗",
+    "reading": "しょうもう",
+    "meaning": "消耗；消費",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00611",
+    "word": "省略",
+    "reading": "しょうりゃく",
+    "meaning": "省略",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00612",
+    "word": "女王",
+    "reading": "じょおう",
+    "meaning": "女王",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00613",
+    "word": "助教授",
+    "reading": "じょきょうじゅ",
+    "meaning": "副教授",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00614",
+    "word": "職",
+    "reading": "しょく",
+    "meaning": "職業；工作",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00615",
+    "word": "食塩",
+    "reading": "しょくえん",
+    "meaning": "食鹽",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00616",
+    "word": "食卓",
+    "reading": "しょくたく",
+    "meaning": "飯桌；餐桌",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00617",
+    "word": "職人人",
+    "reading": "しょくにん",
+    "meaning": "工匠",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00618",
+    "word": "食品",
+    "reading": "しょくひん",
+    "meaning": "食品",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00619",
+    "word": "植物",
+    "reading": "しょくぷぶつ",
+    "meaning": "植物",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00620",
+    "word": "食物",
+    "reading": "しょくもつ",
+    "meaning": "食物",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00621",
+    "word": "食向",
+    "reading": "しょくよく",
+    "meaning": "食慾",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00622",
+    "word": "食糧",
+    "reading": "しょくりょう",
+    "meaning": "食糧",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00623",
+    "word": "諸国",
+    "reading": "しょこく",
+    "meaning": "各國",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00624",
+    "word": "書斎",
+    "reading": "しょさい",
+    "meaning": "書房",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00625",
+    "word": "女子",
+    "reading": "じょし",
+    "meaning": "女子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00626",
+    "word": "初旬",
+    "reading": "しょじゅん",
+    "meaning": "上旬",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00627",
+    "word": "書籍",
+    "reading": "しょせきぎ",
+    "meaning": "書籍",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00628",
+    "word": "食器",
+    "reading": "しょっき",
+    "meaning": "餐具",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00629",
+    "word": "書店",
+    "reading": "しょてん",
+    "meaning": "書店",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00630",
+    "word": "書道",
+    "reading": "しょどう",
+    "meaning": "書法；書道",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00631",
+    "word": "初歩",
+    "reading": "しょほ",
+    "meaning": "初步；入門",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00632",
+    "word": "署名",
+    "reading": "しょめい",
+    "meaning": "署名；簽署",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00633",
+    "word": "書物",
+    "reading": "しょもつ",
+    "meaning": "書籍；圖書",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00634",
+    "word": "白髪",
+    "reading": "しらが",
+    "meaning": "白髮",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00635",
+    "word": "民",
+    "reading": "しり",
+    "meaning": "臀部；屁股；後邊",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00636",
+    "word": "私立",
+    "reading": "しりつ",
+    "meaning": "私立",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00637",
+    "word": "汁",
+    "reading": "しる",
+    "meaning": "汁；汁液",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00638",
+    "word": "印",
+    "reading": "しるし",
+    "meaning": "記號；符號；證明",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00639",
+    "word": "日",
+    "reading": "しろ",
+    "meaning": "白色；清白",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00640",
+    "word": "城",
+    "reading": "しろ",
+    "meaning": "城；城堡",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00641",
+    "word": "素入",
+    "reading": "しろうと",
+    "meaning": "外行；業餘愛好者",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00642",
+    "word": "しわ",
+    "reading": "しわ",
+    "meaning": "皺紋",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00643",
+    "word": "芯",
+    "reading": "しん",
+    "meaning": "芯；中心部分",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00644",
+    "word": "進学",
+    "reading": "しんがく",
+    "meaning": "升學",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00645",
+    "word": "走空",
+    "reading": "しんくう",
+    "meaning": "真空",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00646",
+    "word": "神経",
+    "reading": "しんけい",
+    "meaning": "神經",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00647",
+    "word": "しんこう",
+    "reading": "しんこう",
+    "meaning": "信仰",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00648",
+    "word": "人工",
+    "reading": "じんこう",
+    "meaning": "人工",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00649",
+    "word": "診察",
+    "reading": "しんさつ",
+    "meaning": "診察；看病",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00650",
+    "word": "人事",
+    "reading": "じんじ",
+    "meaning": "人事",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00651",
+    "word": "人種",
+    "reading": "じんしゅ",
+    "meaning": "人種；種族",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00652",
+    "word": "心身",
+    "reading": "しんしん",
+    "meaning": "身心",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00653",
+    "word": "人人生",
+    "reading": "じんせい",
+    "meaning": "人生",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00654",
+    "word": "親戚",
+    "reading": "しんせき",
+    "meaning": "親戚",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00655",
+    "word": "心臓",
+    "reading": "しんぞう",
+    "meaning": "心臟",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00656",
+    "word": "人人追",
+    "reading": "じんぞう",
+    "meaning": "人造",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00657",
+    "word": "禄台",
+    "reading": "しんだい",
+    "meaning": "臥舖",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00658",
+    "word": "侵入",
+    "reading": "しん",
+    "meaning": "侵入",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00659",
+    "word": "審判",
+    "reading": "しんぱん",
+    "meaning": "審判；裁判",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00660",
+    "word": "人文科学",
+    "reading": "じんぶんかがく",
+    "meaning": "人文科學",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00661",
+    "word": "人命",
+    "reading": "じんめい",
+    "meaning": "人命",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00662",
+    "word": "信用",
+    "reading": "しんよう",
+    "meaning": "信用；信賴",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00663",
+    "word": "情頼",
+    "reading": "しんらい",
+    "meaning": "信賴",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00664",
+    "word": "心理",
+    "reading": "しんり",
+    "meaning": "心理",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00665",
+    "word": "森林",
+    "reading": "しんりん",
+    "meaning": "森林",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00666",
+    "word": "人類",
+    "reading": "じんるい",
+    "meaning": "人類",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00667",
+    "word": "進路",
+    "reading": "しんろ",
+    "meaning": "路徑；前途",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00668",
+    "word": "神話",
+    "reading": "しんわ",
+    "meaning": "神話",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00669",
+    "word": "巣",
+    "reading": "す",
+    "meaning": "巢；穴",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00670",
+    "word": "酢",
+    "reading": "す",
+    "meaning": "醋",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00671",
+    "word": "図",
+    "reading": "ず",
+    "meaning": "圖",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00672",
+    "word": "水産",
+    "reading": "すいさん",
+    "meaning": "水產",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00673",
+    "word": "炊事",
+    "reading": "すいじ",
+    "meaning": "炊事；烹調",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00674",
+    "word": "水準",
+    "reading": "すいじゅん",
+    "meaning": "水準；水平",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00675",
+    "word": "水蒸気",
+    "reading": "すいじょうきぎ",
+    "meaning": "水蒸氣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00676",
+    "word": "水素",
+    "reading": "すいそ",
+    "meaning": "氫",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00677",
+    "word": "推定",
+    "reading": "すいてい",
+    "meaning": "推組；推定",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00678",
+    "word": "水滴",
+    "reading": "すいてきぎ",
+    "meaning": "水滴",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00679",
+    "word": "水筒",
+    "reading": "すいとう",
+    "meaning": "水壺",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00680",
+    "word": "随筆",
+    "reading": "ずいひつ",
+    "meaning": "隨筆",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00681",
+    "word": "水分",
+    "reading": "すいぶん",
+    "meaning": "水分",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00682",
+    "word": "水平",
+    "reading": "すいへい",
+    "meaning": "水平",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00683",
+    "word": "水平線",
+    "reading": "すいへいせん",
+    "meaning": "水平線",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00684",
+    "word": "睡眠",
+    "reading": "すいみん",
+    "meaning": "睡眠",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00685",
+    "word": "水面",
+    "reading": "すいめん",
+    "meaning": "水面",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00686",
+    "word": "末",
+    "reading": "すえ",
+    "meaning": "末尾；末端；未來",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00687",
+    "word": "末っ子",
+    "reading": "すえっこ",
+    "meaning": "最小的孩子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00688",
+    "word": "図鑑",
+    "reading": "ずかん",
+    "meaning": "圖鑑",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00689",
+    "word": "隙",
+    "reading": "すきぎ",
+    "meaning": "裂口；縫隙；空隙",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00690",
+    "word": "杉",
+    "reading": "すぎ",
+    "meaning": "杉樹",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00691",
+    "word": "好き嫌い",
+    "reading": "すききらい",
+    "meaning": "喜好和厭惡",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00692",
+    "word": "好き好き",
+    "reading": "すぎきずき",
+    "meaning": "不同的愛好",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00693",
+    "word": "隙間",
+    "reading": "すきま",
+    "meaning": "縫隙；空處",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00694",
+    "word": "図形",
+    "reading": "ずけい",
+    "meaning": "回像；回形",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00695",
+    "word": "筋",
+    "reading": "すじ",
+    "meaning": "-筋；條紋；血管；血統；情節",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00696",
+    "word": "鈴",
+    "reading": "すず",
+    "meaning": "鈴",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00697",
+    "word": "頭痛",
+    "reading": "ずつう",
+    "meaning": "頭痛",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00698",
+    "word": "頭脳",
+    "reading": "ずのう",
+    "meaning": "頭腦",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00699",
+    "word": "図表",
+    "reading": "ずひょう",
+    "meaning": "回表",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00700",
+    "word": "住まい",
+    "reading": "すまい",
+    "meaning": "住所",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00701",
+    "word": "角",
+    "reading": "すみ",
+    "meaning": "角；角落",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00702",
+    "word": "墨",
+    "reading": "すみ",
+    "meaning": "墨；墨汁；煤灰",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00703",
+    "word": "相撲",
+    "reading": "すもう",
+    "meaning": "相撲",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00704",
+    "word": "寸法",
+    "reading": "すんぽう",
+    "meaning": "大小；尺寸",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00705",
+    "word": "正",
+    "reading": "せい",
+    "meaning": "正；正義；正數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00706",
+    "word": "生",
+    "reading": "せい",
+    "meaning": "生命；生活",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00707",
+    "word": "性",
+    "reading": "せい",
+    "meaning": "天性；性；性別",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00708",
+    "word": "姓",
+    "reading": "せい",
+    "meaning": "姓",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00709",
+    "word": "せい",
+    "reading": "せい",
+    "meaning": "因為；緣故",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00710",
+    "word": "税",
+    "reading": "ぜい",
+    "meaning": "稅",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00711",
+    "word": "税関",
+    "reading": "ぜいかん",
+    "meaning": "海關",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00712",
+    "word": "世紀",
+    "reading": "せいき",
+    "meaning": "世紀",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00713",
+    "word": "請求",
+    "reading": "せいきゅう",
+    "meaning": "請求；要求",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00714",
+    "word": "税金",
+    "reading": "ぜいきん",
+    "meaning": "稅金",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00715",
+    "word": "制限",
+    "reading": "せいげん",
+    "meaning": "限制",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00716",
+    "word": "星座",
+    "reading": "せいざ",
+    "meaning": "星座",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00717",
+    "word": "製作",
+    "reading": "せいさく",
+    "meaning": "裂作；而造",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00718",
+    "word": "制作",
+    "reading": "せいさく",
+    "meaning": "裂作；創作",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00719",
+    "word": "清書",
+    "reading": "せいしょ",
+    "meaning": "抄寫清楚",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00720",
+    "word": "青少年",
+    "reading": "せいしょうねん",
+    "meaning": "青少年",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00721",
+    "word": "精神",
+    "reading": "せいしん",
+    "meaning": "精神",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00722",
+    "word": "成人",
+    "reading": "せいじん",
+    "meaning": "成人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00723",
+    "word": "整数",
+    "reading": "せいすう",
+    "meaning": "整數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00724",
+    "word": "清掃",
+    "reading": "せいそう",
+    "meaning": "清掃；打掃",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00725",
+    "word": "製造",
+    "reading": "せいぞう",
+    "meaning": "製造；生產",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00726",
+    "word": "生存",
+    "reading": "せいぞん",
+    "meaning": "生存",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00727",
+    "word": "成長",
+    "reading": "せいちょう",
+    "meaning": "成長",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00728",
+    "word": "生長",
+    "reading": "せいちょう",
+    "meaning": "生長",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00729",
+    "word": "制度",
+    "reading": "せいど",
+    "meaning": "制度",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00730",
+    "word": "政党",
+    "reading": "せいとう",
+    "meaning": "政黨",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00731",
+    "word": "生年月日",
+    "reading": "せいねんがっぱぴ",
+    "meaning": "出生年月日",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00732",
+    "word": "性能",
+    "reading": "せいのう",
+    "meaning": "性能；機能",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00733",
+    "word": "整備",
+    "reading": "せいび",
+    "meaning": "維修；保養",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00734",
+    "word": "政府",
+    "reading": "せい",
+    "meaning": "政府",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00735",
+    "word": "生物",
+    "reading": "せいぶつ",
+    "meaning": "生物",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00736",
+    "word": "成分",
+    "reading": "せいぶん",
+    "meaning": "成份",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00737",
+    "word": "成立",
+    "reading": "せいりつ",
+    "meaning": "成立；實現",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00738",
+    "word": "西暦",
+    "reading": "せいれき",
+    "meaning": "西曆；公元",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00739",
+    "word": "石炭",
+    "reading": "せきたん",
+    "meaning": "煤炭",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00740",
+    "word": "秋道",
+    "reading": "せきどう",
+    "meaning": "赤道",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00741",
+    "word": "五油",
+    "reading": "せきゆ",
+    "meaning": "石油",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00742",
+    "word": "世間",
+    "reading": "せけん",
+    "meaning": "社會；世上",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00743",
+    "word": "説",
+    "reading": "せつ",
+    "meaning": "昂解；論點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00744",
+    "word": "接続",
+    "reading": "せつぞく",
+    "meaning": "連接；連續",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00745",
+    "word": "設備",
+    "reading": "せつび",
+    "meaning": "設備",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00746",
+    "word": "絶滅",
+    "reading": "ぜつめつ",
+    "meaning": "滅絕",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00747",
+    "word": "節約",
+    "reading": "せつやく",
+    "meaning": "節約",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00748",
+    "word": "瀬戸物",
+    "reading": "せともの",
+    "meaning": "陶瓷",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00749",
+    "word": "台詞",
+    "reading": "せりふふ",
+    "meaning": "台詞；說法",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00750",
+    "word": "栓",
+    "reading": "せん",
+    "meaning": "塞子；栓",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00751",
+    "word": "善",
+    "reading": "ぜん",
+    "meaning": "善；好事",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00752",
+    "word": "全窒",
+    "reading": "ぜんがく",
+    "meaning": "全人額",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00753",
+    "word": "選挙",
+    "reading": "せんぎょ",
+    "meaning": "選舉",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00754",
+    "word": "戦後",
+    "reading": "せんご",
+    "meaning": "戰後",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00755",
+    "word": "洗剤",
+    "reading": "せんざい",
+    "meaning": "洗潔劑；洗衣粉",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00756",
+    "word": "ぜんしゃ",
+    "reading": "ぜんしゃ",
+    "meaning": "前者",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00757",
+    "word": "全集",
+    "reading": "ぜんしゅう",
+    "meaning": "全集",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00758",
+    "word": "専制",
+    "reading": "せんせい",
+    "meaning": "專制",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00759",
+    "word": "先祖",
+    "reading": "せんぞ",
+    "meaning": "祖先",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00760",
+    "word": "先端",
+    "reading": "せんたん",
+    "meaning": "頂端；尖端",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00761",
+    "word": "選定",
+    "reading": "せんてい",
+    "meaning": "選定",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00762",
+    "word": "前提",
+    "reading": "ぜんてい",
+    "meaning": "前提；先決條件",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00763",
+    "word": "宣伝",
+    "reading": "せんでん",
+    "meaning": "宣傳",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00764",
+    "word": "先頭",
+    "reading": "せんとう",
+    "meaning": "前頭；最前",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00765",
+    "word": "全般",
+    "reading": "ぜんばん",
+    "meaning": "全面；普這",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00766",
+    "word": "洗面",
+    "reading": "せんめん",
+    "meaning": "洗臉",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00767",
+    "word": "象",
+    "reading": "ぞう",
+    "meaning": "象",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00768",
+    "word": "像",
+    "reading": "ぞう",
+    "meaning": "像；圖像；塑像",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00769",
+    "word": "揚違",
+    "reading": "そうい",
+    "meaning": "不同；差異",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00770",
+    "word": "騒音",
+    "reading": "そうおん",
+    "meaning": "噪音",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00771",
+    "word": "雑巾",
+    "reading": "ぞうきん",
+    "meaning": "抹布",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00772",
+    "word": "増減",
+    "reading": "ぞうげん",
+    "meaning": "增減",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00773",
+    "word": "倉庫",
+    "reading": "そうこ",
+    "meaning": "倉庫",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00774",
+    "word": "相互",
+    "reading": "そうご",
+    "meaning": "想互；互相",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00775",
+    "word": "操作",
+    "reading": "そうさ",
+    "meaning": "操作",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00776",
+    "word": "葬式",
+    "reading": "そうしき",
+    "meaning": "葬禮",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00777",
+    "word": "造船",
+    "reading": "ぞうせん",
+    "meaning": "造船",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00778",
+    "word": "相続",
+    "reading": "そうぞく",
+    "meaning": "繼須",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00779",
+    "word": "増大",
+    "reading": "ぞうだい",
+    "meaning": "增大",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00780",
+    "word": "装置",
+    "reading": "そうち",
+    "meaning": "裝置；設備",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00781",
+    "word": "草履",
+    "reading": "ぞうり",
+    "meaning": "草鞋",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00782",
+    "word": "総理大臣",
+    "reading": "そうりだいじん",
+    "meaning": "總理大臣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00783",
+    "word": "送料",
+    "reading": "そうりょう",
+    "meaning": "郵費；運費",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00784",
+    "word": "測定",
+    "reading": "そくてい",
+    "meaning": "測量；測定",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00785",
+    "word": "測量",
+    "reading": "そくりょう",
+    "meaning": "測量",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00786",
+    "word": "速力",
+    "reading": "そくりょく",
+    "meaning": "速度",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00787",
+    "word": "底",
+    "reading": "そこ",
+    "meaning": "底；底部",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00788",
+    "word": "素質",
+    "reading": "そしつ",
+    "meaning": "素質；資質",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00789",
+    "word": "租先",
+    "reading": "そせん",
+    "meaning": "祖先",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00790",
+    "word": "蕎麦",
+    "reading": "そば",
+    "meaning": "蕎麥麵",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00791",
+    "word": "算盤",
+    "reading": "そろばん",
+    "meaning": "算盤",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00792",
+    "word": "損",
+    "reading": "そん",
+    "meaning": "芒損；吃睦",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00793",
+    "word": "損害",
+    "reading": "そんがい",
+    "meaning": "損害",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00794",
+    "word": "邊在",
+    "reading": "そんざい",
+    "meaning": "存在",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00795",
+    "word": "末重",
+    "reading": "そんちょう",
+    "meaning": "尊重",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00796",
+    "word": "損得",
+    "reading": "そんとく",
+    "meaning": "得失；利害",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00797",
+    "word": "田",
+    "reading": "た",
+    "meaning": "田；稻田",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00798",
+    "word": "他",
+    "reading": "た",
+    "meaning": "其他；別的；別人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00799",
+    "word": "対",
+    "reading": "たい",
+    "meaning": "同等；相對；出",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00800",
+    "word": "大",
+    "reading": "だい",
+    "meaning": "太；很；赫常",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00801",
+    "word": "題",
+    "reading": "だい",
+    "meaning": "題；題目",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00802",
+    "word": "大気",
+    "reading": "たいき",
+    "meaning": "大氣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00803",
+    "word": "代金",
+    "reading": "だいきん",
+    "meaning": "價款；貨款",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00804",
+    "word": "大工",
+    "reading": "だいく",
+    "meaning": "木匠",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00805",
+    "word": "体系",
+    "reading": "たいけい",
+    "meaning": "體系",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00806",
+    "word": "太鼓",
+    "reading": "たいこ",
+    "meaning": "太鼓",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00807",
+    "word": "滞在",
+    "reading": "たいざい",
+    "meaning": "停留；逗留",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00808",
+    "word": "対策",
+    "reading": "たいさく",
+    "meaning": "對策",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00809",
+    "word": "天使",
+    "reading": "たいし",
+    "meaning": "太使",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00810",
+    "word": "対照",
+    "reading": "たいしょう",
+    "meaning": "對照；對比",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00811",
+    "word": "大小",
+    "reading": "だいしょう",
+    "meaning": "大小",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00812",
+    "word": "大臣",
+    "reading": "だいじん",
+    "meaning": "大臣；部長",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00813",
+    "word": "体制",
+    "reading": "たいせい",
+    "meaning": "體制；制度",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00814",
+    "word": "体積",
+    "reading": "たいせぎ",
+    "meaning": "體積",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00815",
+    "word": "大戦",
+    "reading": "たいせん",
+    "meaning": "大戰",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00816",
+    "word": "体操",
+    "reading": "たいそう",
+    "meaning": "體操",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00817",
+    "word": "大統領",
+    "reading": "だいとうりょう",
+    "meaning": "總統",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00818",
+    "word": "逮捕",
+    "reading": "たいほ",
+    "meaning": "逮捕；拘捕",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00819",
+    "word": "大木",
+    "reading": "たいぼく",
+    "meaning": "大樹",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00820",
+    "word": "題名",
+    "reading": "だいめい",
+    "meaning": "標題",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00821",
+    "word": "代理",
+    "reading": "だいり",
+    "meaning": "代理",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00822",
+    "word": "大陸",
+    "reading": "たいりく",
+    "meaning": "大陸",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00823",
+    "word": "対立",
+    "reading": "たいりつ",
+    "meaning": "對立",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00824",
+    "word": "田植え",
+    "reading": "たうえ",
+    "meaning": "插秧",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00825",
+    "word": "楕円",
+    "reading": "だえん",
+    "meaning": "橢圓",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00826",
+    "word": "滝",
+    "reading": "たき",
+    "meaning": "瀑布",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00827",
+    "word": "宅",
+    "reading": "たく",
+    "meaning": "住宅；家",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00828",
+    "word": "竹",
+    "reading": "たけ",
+    "meaning": "竹",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00829",
+    "word": "ただ",
+    "reading": "ただ",
+    "meaning": "免費",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00830",
+    "word": "戦い",
+    "reading": "たたかい",
+    "meaning": "戰爭；鬥爭",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00831",
+    "word": "脱線",
+    "reading": "だっせん",
+    "meaning": "出軌；雞題",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00832",
+    "word": "谷",
+    "reading": "た",
+    "meaning": "山谷",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00833",
+    "word": "種",
+    "reading": "たね",
+    "meaning": "種子；品種；起因；材料",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00834",
+    "word": "束",
+    "reading": "たばぼば",
+    "meaning": "束；捆",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00835",
+    "word": "足袋",
+    "reading": "たび",
+    "meaning": "日式短襪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00836",
+    "word": "玉",
+    "reading": "たま",
+    "meaning": "玉；寶石；鏡片",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00837",
+    "word": "球",
+    "reading": "たま",
+    "meaning": "球",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00838",
+    "word": "弾",
+    "reading": "たま",
+    "meaning": "子彈",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00839",
+    "word": "偶",
+    "reading": "たま",
+    "meaning": "偶爾；偶然",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00840",
+    "word": "溜息",
+    "reading": "ためいき",
+    "meaning": "嘆氣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00841",
+    "word": "試し",
+    "reading": "ためし",
+    "meaning": "試驗；嘗試",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00842",
+    "word": "便り",
+    "reading": "たより",
+    "meaning": "信；音信",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00843",
+    "word": "段",
+    "reading": "だん",
+    "meaning": "台階；段；等級；段落",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00844",
+    "word": "澤位",
+    "reading": "たんい",
+    "meaning": "單位；學分",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00845",
+    "word": "段階",
+    "reading": "だんかい",
+    "meaning": "階段",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00846",
+    "word": "炭鉱",
+    "reading": "たんこう",
+    "meaning": "煤礦",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00847",
+    "word": "男子",
+    "reading": "だんし",
+    "meaning": "男子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00848",
+    "word": "短所",
+    "reading": "たんしょ",
+    "meaning": "短處；缺點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00849",
+    "word": "たんす",
+    "reading": "たんす",
+    "meaning": "衣櫃",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00850",
+    "word": "淡水",
+    "reading": "たんすい",
+    "meaning": "淡水",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00851",
+    "word": "断水",
+    "reading": "だんすい",
+    "meaning": "停水",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00852",
+    "word": "単数",
+    "reading": "たんすう",
+    "meaning": "單數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00853",
+    "word": "加地",
+    "reading": "だんち",
+    "meaning": "住宅區；工業區",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00854",
+    "word": "断定",
+    "reading": "だんてい",
+    "meaning": "斷定；判斷",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00855",
+    "word": "担当",
+    "reading": "たんとう",
+    "meaning": "擔任；負責人",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00856",
+    "word": "短編",
+    "reading": "たんぺん",
+    "meaning": "短篇",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00857",
+    "word": "田んぼ",
+    "reading": "たんぼ",
+    "meaning": "稻田；田地",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00858",
+    "word": "地",
+    "reading": "ち",
+    "meaning": "地；大地",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00859",
+    "word": "地位",
+    "reading": "ちい",
+    "meaning": "地位；職位；身分",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00860",
+    "word": "地域",
+    "reading": "ちいぎ",
+    "meaning": "地區",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00861",
+    "word": "知恵",
+    "reading": "ちえ",
+    "meaning": "智慧",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00862",
+    "word": "近頃",
+    "reading": "ちかごろ",
+    "meaning": "近來；最近",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00863",
+    "word": "地下水",
+    "reading": "ちかすい",
+    "meaning": "地下水",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00864",
+    "word": "知事",
+    "reading": "ちじ",
+    "meaning": "知事；首長",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00865",
+    "word": "知識",
+    "reading": "ちしき",
+    "meaning": "知識",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00866",
+    "word": "地質",
+    "reading": "ちしつ",
+    "meaning": "地質",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00867",
+    "word": "知人",
+    "reading": "ちじん",
+    "meaning": "相識；熟人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00868",
+    "word": "地帝",
+    "reading": "ちたい",
+    "meaning": "地帶",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00869",
+    "word": "知能",
+    "reading": "ちのう",
+    "meaning": "智能；智慧",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00870",
+    "word": "地平線",
+    "reading": "ちへいせん",
+    "meaning": "地平線",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00871",
+    "word": "地名",
+    "reading": "ちめい",
+    "meaning": "地名",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00872",
+    "word": "注",
+    "reading": "ちゅう",
+    "meaning": "註解；註釋",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00873",
+    "word": "中旬",
+    "reading": "ちゅうじゅん",
+    "meaning": "中旬",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00874",
+    "word": "抽象",
+    "reading": "ちゅうしょう",
+    "meaning": "抽象",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00875",
+    "word": "中世",
+    "reading": "ちゅうせい",
+    "meaning": "中世紀",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00876",
+    "word": "中性",
+    "reading": "ちゅうせい",
+    "meaning": "中性",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00877",
+    "word": "中途",
+    "reading": "ちゅうと",
+    "meaning": "中途；半途",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00878",
+    "word": "中年",
+    "reading": "ちゅうねん",
+    "meaning": "中年",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00879",
+    "word": "兆",
+    "reading": "ちょう",
+    "meaning": "兆",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00880",
+    "word": "超過",
+    "reading": "ちょうか",
+    "meaning": "超銜",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00881",
+    "word": "朝刊",
+    "reading": "ちょうかん",
+    "meaning": "早報；晨報",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00882",
+    "word": "彫刻",
+    "reading": "ちょうこく",
+    "meaning": "雕刻",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00883",
+    "word": "長女",
+    "reading": "ちょうじょ",
+    "meaning": "長女",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00884",
+    "word": "頂上",
+    "reading": "ちょうじょう",
+    "meaning": "山頂；頂峰",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00885",
+    "word": "調整",
+    "reading": "ちょうせい",
+    "meaning": "調整；調節",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00886",
+    "word": "調節",
+    "reading": "ちょうせつ",
+    "meaning": "調節；調整",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00887",
+    "word": "ちょうだい",
+    "reading": "ちょうだい",
+    "meaning": "「接受、吃、喝」自謙語",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00888",
+    "word": "長短",
+    "reading": "ちょうたん",
+    "meaning": "長短；長虐和短虛",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00889",
+    "word": "頂点",
+    "reading": "ちょうてん",
+    "meaning": "頂點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00890",
+    "word": "長男",
+    "reading": "ちょうなん",
+    "meaning": "長男",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00891",
+    "word": "調味料",
+    "reading": "ちょうみりょう",
+    "meaning": "調味料",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00892",
+    "word": "貯金",
+    "reading": "ちょきん",
+    "meaning": "存款；存錢",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00893",
+    "word": "直前",
+    "reading": "ちょくぜん",
+    "meaning": "剛要……的時候；正前面",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00894",
+    "word": "直通",
+    "reading": "ちょくつう",
+    "meaning": "直通；直達",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00895",
+    "word": "直流",
+    "reading": "ちょくりゅう",
+    "meaning": "直流",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00896",
+    "word": "貯蔵",
+    "reading": "ちょぞう",
+    "meaning": "儲藏；儲存",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00897",
+    "word": "塵紙",
+    "reading": "ちりがみ",
+    "meaning": "衛生紙",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00898",
+    "word": "治療",
+    "reading": "ちりょう",
+    "meaning": "治療",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00899",
+    "word": "追加",
+    "reading": "ついか",
+    "meaning": "追加；添補",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00900",
+    "word": "通貨",
+    "reading": "つうか",
+    "meaning": "通貨；貨幣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00901",
+    "word": "通信",
+    "reading": "つうしん",
+    "meaning": "通信；通訊",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00902",
+    "word": "通帳",
+    "reading": "つうちょう",
+    "meaning": "銀行存摺",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00903",
+    "word": "通訳",
+    "reading": "つうやく",
+    "meaning": "口譯；翻譯",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00904",
+    "word": "通用",
+    "reading": "つうよう",
+    "meaning": "通用；通行",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00905",
+    "word": "通路",
+    "reading": "つうろ",
+    "meaning": "通道",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00906",
+    "word": "突き当たり",
+    "reading": "つきあたり",
+    "meaning": "盡頭",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00907",
+    "word": "つきけひ",
+    "reading": "つきけひ",
+    "meaning": "時光；歲月；日子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00908",
+    "word": "土",
+    "reading": "つち",
+    "meaning": "土；土地",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00909",
+    "word": "み",
+    "reading": "つつみ",
+    "meaning": "包理",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00910",
+    "word": "勤め",
+    "reading": "つとめゆめ",
+    "meaning": "工作",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00911",
+    "word": "務め",
+    "reading": "つとめ",
+    "meaning": "義務；責任",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00912",
+    "word": "綱",
+    "reading": "つな",
+    "meaning": "繩；繩索；纜",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00913",
+    "word": "繋がり",
+    "reading": "つながり",
+    "meaning": "連繫；關聯；關係",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00914",
+    "word": "翼",
+    "reading": "つばさ",
+    "meaning": "翼",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00915",
+    "word": "粒",
+    "reading": "つぶ",
+    "meaning": "粒；顆",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00916",
+    "word": "罪",
+    "reading": "つみ",
+    "meaning": "罪；犯罪；罪咎",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00917",
+    "word": "爪",
+    "reading": "つめ",
+    "meaning": "指甲；爪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00918",
+    "word": "艶",
+    "reading": "つや",
+    "meaning": "光澤；光亮",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00919",
+    "word": "梅雨",
+    "reading": "つゆ",
+    "meaning": "梅雨",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00920",
+    "word": "出",
+    "reading": "で",
+    "meaning": "流出；出現；出生",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00921",
+    "word": "手足",
+    "reading": "てあし",
+    "meaning": "手腳",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00922",
+    "word": "提案",
+    "reading": "ていあん",
+    "meaning": "提案",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00923",
+    "word": "定員",
+    "reading": "ていいん",
+    "meaning": "定員；容納人數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00924",
+    "word": "価",
+    "reading": "ていか",
+    "meaning": "定價",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00925",
+    "word": "低下",
+    "reading": "ていか",
+    "meaning": "降低；下降",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00926",
+    "word": "定期",
+    "reading": "ていき",
+    "meaning": "定期",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00927",
+    "word": "定期券",
+    "reading": "ていきけん",
+    "meaning": "月票；定期券",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00928",
+    "word": "定休日",
+    "reading": "ていきゅうび",
+    "meaning": "固定休息日",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00929",
+    "word": "抵抗",
+    "reading": "ていこう",
+    "meaning": "抵抗；抗拒",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00930",
+    "word": "提出",
+    "reading": "ていしゅつ",
+    "meaning": "提交；提出",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00931",
+    "word": "停電",
+    "reading": "ていでん",
+    "meaning": "停電",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00932",
+    "word": "手入れ",
+    "reading": "ていれ",
+    "meaning": "收拾；修整；保養",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00933",
+    "word": "敵",
+    "reading": "てき",
+    "meaning": "敵人；對手",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00934",
+    "word": "出来事",
+    "reading": "できごと",
+    "meaning": "事情；事件",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00935",
+    "word": "適用",
+    "reading": "てきよう",
+    "meaning": "適用；應用",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00936",
+    "word": "手首",
+    "reading": "てくび",
+    "meaning": "手腕",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00937",
+    "word": "弟子",
+    "reading": "でし",
+    "meaning": "弟子；學徒",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00938",
+    "word": "手品",
+    "reading": "てじな",
+    "meaning": "魔術",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00939",
+    "word": "手帳",
+    "reading": "てちょう",
+    "meaning": "記事本；手帳",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00940",
+    "word": "鉄",
+    "reading": "てつ",
+    "meaning": "鐵",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00941",
+    "word": "哲学",
+    "reading": "てつがく",
+    "meaning": "哲學",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00942",
+    "word": "鉄橋",
+    "reading": "てっきょう",
+    "meaning": "鐵橋",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00943",
+    "word": "徹底",
+    "reading": "てってい",
+    "meaning": "徹底；完全",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00944",
+    "word": "鉄砲",
+    "reading": "てっぽう",
+    "meaning": "槍",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00945",
+    "word": "徹夜",
+    "reading": "てつや",
+    "meaning": "徹夜；通宵",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00946",
+    "word": "手拭い",
+    "reading": "てぬぐい",
+    "meaning": "毛巾",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00947",
+    "word": "手間",
+    "reading": "てま",
+    "meaning": "工夫；時間；麻煩",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00948",
+    "word": "手前",
+    "reading": "てまえ",
+    "meaning": "跟前；顧慮；鄙人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00949",
+    "word": "出迎え",
+    "reading": "でむかえ",
+    "meaning": "迎接",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00950",
+    "word": "展開",
+    "reading": "てんかい",
+    "meaning": "展開",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00951",
+    "word": "伝記",
+    "reading": "でんきぎ",
+    "meaning": "傳記",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00952",
+    "word": "暴型",
+    "reading": "てんけい",
+    "meaning": "典型",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00953",
+    "word": "天候",
+    "reading": "てんこう",
+    "meaning": "天氣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00954",
+    "word": "伝言",
+    "reading": "でんごん",
+    "meaning": "傳話；口信",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00955",
+    "word": "電子",
+    "reading": "でんし",
+    "meaning": "電子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00956",
+    "word": "転職",
+    "reading": "てんしょく",
+    "meaning": "芋職",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00957",
+    "word": "点数",
+    "reading": "てんすう",
+    "meaning": "分數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00958",
+    "word": "伝染",
+    "reading": "でんせん",
+    "meaning": "傳染；感染",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00959",
+    "word": "電竹",
+    "reading": "でんちゅう",
+    "meaning": "電線杏",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00960",
+    "word": "伝統",
+    "reading": "でんとう",
+    "meaning": "傳統",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00961",
+    "word": "天皇",
+    "reading": "てんのう",
+    "meaning": "天皇；日皇",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00962",
+    "word": "電波",
+    "reading": "でんぱ",
+    "meaning": "電波",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00963",
+    "word": "電流",
+    "reading": "でんりゅう",
+    "meaning": "電流",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00964",
+    "word": "電力",
+    "reading": "でんりょく",
+    "meaning": "電力",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00965",
+    "word": "問い",
+    "reading": "とい",
+    "meaning": "問題；詢問；提問",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00966",
+    "word": "党",
+    "reading": "とう",
+    "meaning": "黨",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00967",
+    "word": "塔",
+    "reading": "とう",
+    "meaning": "塔",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00968",
+    "word": "銅",
+    "reading": "どう",
+    "meaning": "銅",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00969",
+    "word": "符雪",
+    "reading": "とうあん",
+    "meaning": "答案；答卷",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00970",
+    "word": "統一",
+    "reading": "とういつ",
+    "meaning": "統一",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00971",
+    "word": "どうかがく",
+    "reading": "どうかがく",
+    "meaning": "同等資格",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00972",
+    "word": "峠",
+    "reading": "とうげ",
+    "meaning": "山口；山嶺；關鍵時刻",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00973",
+    "word": "東西",
+    "reading": "とうざい",
+    "meaning": "東方和西方",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00974",
+    "word": "当時",
+    "reading": "とうじ",
+    "meaning": "當時",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00975",
+    "word": "投書",
+    "reading": "とうしょ",
+    "meaning": "投稿",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00976",
+    "word": "登場",
+    "reading": "とうじょう",
+    "meaning": "登場；出場",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00977",
+    "word": "灯台",
+    "reading": "とうだい",
+    "meaning": "燈塔",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00978",
+    "word": "道徳",
+    "reading": "どうとく",
+    "meaning": "道德",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00979",
+    "word": "盗難",
+    "reading": "とうなん",
+    "meaning": "被盜；盜竊",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00980",
+    "word": "とうばん",
+    "reading": "とうばん",
+    "meaning": "值日；值班",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00981",
+    "word": "投票",
+    "reading": "とうひょう",
+    "meaning": "投票",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00982",
+    "word": "等分",
+    "reading": "とうぶん",
+    "meaning": "等分",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00983",
+    "word": "灯油",
+    "reading": "とうゆ",
+    "meaning": "煤油；燈油",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00984",
+    "word": "東洋",
+    "reading": "とうよう",
+    "meaning": "東洋；東方",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00985",
+    "word": "童謡",
+    "reading": "どうよう",
+    "meaning": "童謠",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00986",
+    "word": "登録",
+    "reading": "とうろく",
+    "meaning": "登記；註冊",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00987",
+    "word": "童話",
+    "reading": "どうわ",
+    "meaning": "童話",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00988",
+    "word": "得",
+    "reading": "とく",
+    "meaning": "利益；有利",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00989",
+    "word": "毒",
+    "reading": "どく",
+    "meaning": "毒藥；毒害",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00990",
+    "word": "読書",
+    "reading": "どくしょ",
+    "meaning": "讀書",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00991",
+    "word": "特長",
+    "reading": "とくちょう",
+    "meaning": "特色；特點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00992",
+    "word": "特定",
+    "reading": "とくてい",
+    "meaning": "特定",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00993",
+    "word": "特売",
+    "reading": "とくばい",
+    "meaning": "特價發售",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00994",
+    "word": "独立",
+    "reading": "どくりつ",
+    "meaning": "獨立",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-00995",
+    "word": "床の間",
+    "reading": "とこのま",
+    "meaning": "壁龕；床之間",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00996",
+    "word": "年月",
+    "reading": "としつき",
+    "meaning": "歲月；年月",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00997",
+    "word": "土地",
+    "reading": "とち",
+    "meaning": "土地",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00998",
+    "word": "～殿",
+    "reading": "どの",
+    "meaning": "接在姓名後表示敬意",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-00999",
+    "word": "友",
+    "reading": "とも",
+    "meaning": "友；朋友",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01000",
+    "word": "虎",
+    "reading": "とら",
+    "meaning": "虎",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01001",
+    "word": "泥",
+    "reading": "どろ",
+    "meaning": "泥",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01002",
+    "word": "丼",
+    "reading": "どんぶり",
+    "meaning": "碗",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01003",
+    "word": "名",
+    "reading": "な",
+    "meaning": "名；名字；名譽",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01004",
+    "word": "内科",
+    "reading": "ないか",
+    "meaning": "內科",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01005",
+    "word": "内線",
+    "reading": "ないせん",
+    "meaning": "內線",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01006",
+    "word": "仲直り",
+    "reading": "なかなおり",
+    "meaning": "和好",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01007",
+    "word": "眺め",
+    "reading": "ながめ",
+    "meaning": "眺望；景色",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01008",
+    "word": "流れ",
+    "reading": "ながれ",
+    "meaning": "流；流動；趨勢",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01009",
+    "word": "謎",
+    "reading": "なぞ",
+    "meaning": "謎；謎語",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01010",
+    "word": "謎々",
+    "reading": "なぞなぞ",
+    "meaning": "謎語",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01011",
+    "word": "納得",
+    "reading": "なっとく",
+    "meaning": "理解；領會；同意",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01012",
+    "word": "鍋",
+    "reading": "なべ",
+    "meaning": "鍋",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01013",
+    "word": "生",
+    "reading": "なま",
+    "meaning": "生；鮮；直接",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01014",
+    "word": "波",
+    "reading": "なみ",
+    "meaning": "波；波浪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01015",
+    "word": "並木",
+    "reading": "なみき",
+    "meaning": "行道樹；道路兩旁的樹木",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01016",
+    "word": "縄",
+    "reading": "なわ",
+    "meaning": "繩；繩子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01017",
+    "word": "南極",
+    "reading": "なんぎょく",
+    "meaning": "南極",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01018",
+    "word": "南米",
+    "reading": "なんべい",
+    "meaning": "南美",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01019",
+    "word": "南北",
+    "reading": "なんぼく",
+    "meaning": "南北",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01020",
+    "word": "虹",
+    "reading": "にじ",
+    "meaning": "彩虹",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01021",
+    "word": "日時",
+    "reading": "にちじ",
+    "meaning": "日期和時間",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01022",
+    "word": "日課",
+    "reading": "にっか",
+    "meaning": "每天規定做的事",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01023",
+    "word": "日光",
+    "reading": "にっこう",
+    "meaning": "陽光；日光",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01024",
+    "word": "日中",
+    "reading": "にっちゅう",
+    "meaning": "白天；日本和中國",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01025",
+    "word": "日程",
+    "reading": "にってい",
+    "meaning": "日程",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01026",
+    "word": "女房",
+    "reading": "にょうぼう",
+    "meaning": "老婆；妻子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01027",
+    "word": "根",
+    "reading": "ね",
+    "meaning": "根；根部；根本",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01028",
+    "word": "値",
+    "reading": "ね",
+    "meaning": "價值",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01029",
+    "word": "ねじ",
+    "reading": "ねじ",
+    "meaning": "螺絲釘",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01030",
+    "word": "熱帯",
+    "reading": "ねったい",
+    "meaning": "熱帶",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01031",
+    "word": "熱中",
+    "reading": "ねっちゅう",
+    "meaning": "熱衷；專心",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01032",
+    "word": "寝巻き",
+    "reading": "ねまき",
+    "meaning": "睡衣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01033",
+    "word": "狙い",
+    "reading": "ねらい",
+    "meaning": "目標；目的",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01034",
+    "word": "年代",
+    "reading": "ねんだい",
+    "meaning": "年代",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01035",
+    "word": "年度",
+    "reading": "ねんど",
+    "meaning": "年度",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01036",
+    "word": "野",
+    "reading": "の",
+    "meaning": "原野",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01037",
+    "word": "能",
+    "reading": "のう",
+    "meaning": "能劇",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01038",
+    "word": "農家",
+    "reading": "のうか",
+    "meaning": "農家；農戶",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01039",
+    "word": "農業",
+    "reading": "のうぎょう",
+    "meaning": "農業",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01040",
+    "word": "農産物",
+    "reading": "のうさんぶつ",
+    "meaning": "農產品",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01041",
+    "word": "上農村",
+    "reading": "のうそん",
+    "meaning": "農村",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01042",
+    "word": "濃度",
+    "reading": "のうど",
+    "meaning": "濃度",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01043",
+    "word": "農民",
+    "reading": "のうみん",
+    "meaning": "農民",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01044",
+    "word": "農薬",
+    "reading": "のうやく",
+    "meaning": "農藥",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01045",
+    "word": "能率",
+    "reading": "のうりつ",
+    "meaning": "效率",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01046",
+    "word": "軒",
+    "reading": "のき",
+    "meaning": "屋簷",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01047",
+    "word": "鋸",
+    "reading": "のこぎり",
+    "meaning": "鋸子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01048",
+    "word": "後",
+    "reading": "のち",
+    "meaning": "後；之後；以後",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01049",
+    "word": "糊",
+    "reading": "のり",
+    "meaning": "漿糊；膠水",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01050",
+    "word": "乗り越し",
+    "reading": "のりこし",
+    "meaning": "坐過站",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01051",
+    "word": "区",
+    "reading": "はい",
+    "meaning": "灰",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01052",
+    "word": "灰色",
+    "reading": "はいいろ",
+    "meaning": "灰色；陰沉",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01053",
+    "word": "梅雨",
+    "reading": "ばいう",
+    "meaning": "梅雨",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01054",
+    "word": "俳句",
+    "reading": "はいく",
+    "meaning": "俳句；短詩",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01055",
+    "word": "売店",
+    "reading": "ばいてん",
+    "meaning": "商店",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01056",
+    "word": "売買",
+    "reading": "ばいばい",
+    "meaning": "買賣",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01057",
+    "word": "配布",
+    "reading": "はいふ",
+    "meaning": "分發",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01058",
+    "word": "墓",
+    "reading": "はか",
+    "meaning": "墓；墳墓",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01059",
+    "word": "博士",
+    "reading": "はかせ",
+    "meaning": "博士；博學之士",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01060",
+    "word": "秤",
+    "reading": "はかり",
+    "meaning": "秤；天秤",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01061",
+    "word": "吐き気",
+    "reading": "はきけ",
+    "meaning": "噁心；想吐",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01062",
+    "word": "拍手",
+    "reading": "はくしゅ",
+    "meaning": "拍手；拍掌",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01063",
+    "word": "爆発",
+    "reading": "ばくはつ",
+    "meaning": "爆炸；爆發",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01064",
+    "word": "歯車",
+    "reading": "はぐるま",
+    "meaning": "齒輪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01065",
+    "word": "破産",
+    "reading": "はさん",
+    "meaning": "破產",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01066",
+    "word": "端",
+    "reading": "はし",
+    "meaning": "端；邊緣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01067",
+    "word": "梯子",
+    "reading": "はしご",
+    "meaning": "梯子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01068",
+    "word": "蓮",
+    "reading": "はす",
+    "meaning": "蓮；蓮花",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01069",
+    "word": "旗",
+    "reading": "はた",
+    "meaning": "旗；旗幟",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01070",
+    "word": "肌",
+    "reading": "はだ",
+    "meaning": "肌膚；皮膚",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01071",
+    "word": "裸",
+    "reading": "はだか",
+    "meaning": "裸甫；赤裸裸",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01072",
+    "word": "肌着",
+    "reading": "はだぎ",
+    "meaning": "貼身衣物；內衣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01073",
+    "word": "畑",
+    "reading": "はたけ",
+    "meaning": "田地",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01074",
+    "word": "働き",
+    "reading": "はたらき",
+    "meaning": "工作；功能；作用",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01075",
+    "word": "鉢",
+    "reading": "はち",
+    "meaning": "鉢；盆",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01076",
+    "word": "罰",
+    "reading": "ばつ",
+    "meaning": "處罰；懲罰",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01077",
+    "word": "発揮",
+    "reading": "はっき",
+    "meaning": "發揮",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01078",
+    "word": "発行",
+    "reading": "はっこう",
+    "meaning": "發行",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01079",
+    "word": "発射",
+    "reading": "はっしゃ",
+    "meaning": "發射",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01080",
+    "word": "発想",
+    "reading": "はっそう",
+    "meaning": "構想；想法",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01081",
+    "word": "発達",
+    "reading": "はったつ",
+    "meaning": "發達；發展",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01082",
+    "word": "発展",
+    "reading": "はってん",
+    "meaning": "發展",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01083",
+    "word": "発電",
+    "reading": "はつでん",
+    "meaning": "發電",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01084",
+    "word": "発売",
+    "reading": "はつばい",
+    "meaning": "發售；出售",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01085",
+    "word": "話合い",
+    "reading": "はなしあい",
+    "meaning": "商量；商議",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01086",
+    "word": "話中",
+    "reading": "はなしちゅう",
+    "meaning": "通話中；電話佔線",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01087",
+    "word": "花嫁",
+    "reading": "はなよめ",
+    "meaning": "新娘",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01088",
+    "word": "羽",
+    "reading": "はね",
+    "meaning": "羽毛；翅膀",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01089",
+    "word": "羽根",
+    "reading": "はね",
+    "meaning": "羽毛；翅膀；葉片",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01090",
+    "word": "ばね",
+    "reading": "ばね",
+    "meaning": "彈簧",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01091",
+    "word": "破片",
+    "reading": "はへん",
+    "meaning": "碎片",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01092",
+    "word": "早口",
+    "reading": "はやくち",
+    "meaning": "說話快；快嘴",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01093",
+    "word": "腹",
+    "reading": "はら",
+    "meaning": "腹部；肚子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01094",
+    "word": "原",
+    "reading": "はら",
+    "meaning": "原野；平原",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01095",
+    "word": "針",
+    "reading": "はり",
+    "meaning": "針",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01096",
+    "word": "針金",
+    "reading": "はりがね",
+    "meaning": "鐵絲；鋼線",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01097",
+    "word": "範囲",
+    "reading": "はんい",
+    "meaning": "範圍",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01098",
+    "word": "反映",
+    "reading": "はんえい",
+    "meaning": "反映",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01099",
+    "word": "判子",
+    "reading": "はんこ",
+    "meaning": "印鑑；印章",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01100",
+    "word": "反抗",
+    "reading": "はんこう",
+    "meaning": "反抗",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01101",
+    "word": "犯罪",
+    "reading": "はんざい",
+    "meaning": "犯罪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01102",
+    "word": "万歳",
+    "reading": "ばんざい",
+    "meaning": "萬歲",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01103",
+    "word": "判事",
+    "reading": "はんじ",
+    "meaning": "審判官",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01104",
+    "word": "反省",
+    "reading": "はんせい",
+    "meaning": "反省",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01105",
+    "word": "番地",
+    "reading": "ばんち",
+    "meaning": "門牌號碼；住址",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01106",
+    "word": "半島",
+    "reading": "はんとう",
+    "meaning": "半島",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01107",
+    "word": "犯人",
+    "reading": "はんにん",
+    "meaning": "犯人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01108",
+    "word": "販売",
+    "reading": "はんばい",
+    "meaning": "販賣",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01109",
+    "word": "灯",
+    "reading": "ひ",
+    "meaning": "燈；燈火",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01110",
+    "word": "日当たり",
+    "reading": "ひあたり",
+    "meaning": "日照；向陽",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01111",
+    "word": "被害",
+    "reading": "ひがい",
+    "meaning": "損害；受害",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01112",
+    "word": "日帰り",
+    "reading": "ひがえり",
+    "meaning": "當天回來",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01113",
+    "word": "引き分け",
+    "reading": "ひきわけ",
+    "meaning": "和局；平手",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01114",
+    "word": "悲劇",
+    "reading": "ひげき",
+    "meaning": "悲劇",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01115",
+    "word": "飛行",
+    "reading": "ひこう",
+    "meaning": "飛行",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01116",
+    "word": "飛行場",
+    "reading": "ひこうじょう",
+    "meaning": "機場",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01117",
+    "word": "膝",
+    "reading": "ひざ",
+    "meaning": "膝；膝蓋",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01118",
+    "word": "日差し",
+    "reading": "ひざし",
+    "meaning": "陽光照射",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01119",
+    "word": "肘",
+    "reading": "ひじ",
+    "meaning": "手肘",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01120",
+    "word": "美人",
+    "reading": "びじん",
+    "meaning": "美人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01121",
+    "word": "額",
+    "reading": "ひたい",
+    "meaning": "額頭",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01122",
+    "word": "筆記",
+    "reading": "ひっき",
+    "meaning": "筆記",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01123",
+    "word": "日付",
+    "reading": "ひづけ",
+    "meaning": "日期",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01124",
+    "word": "必需品",
+    "reading": "ひつじゅひん",
+    "meaning": "必需品",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01125",
+    "word": "筆跡",
+    "reading": "ひっせき",
+    "meaning": "筆跡",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01126",
+    "word": "一言",
+    "reading": "ひとこと",
+    "meaning": "一句話",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01127",
+    "word": "人込み",
+    "reading": "ひとごみ",
+    "meaning": "人群",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01128",
+    "word": "人通り",
+    "reading": "ひとどおり",
+    "meaning": "來往行人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01129",
+    "word": "瞳",
+    "reading": "ひとみ",
+    "meaning": "瞳孔",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01130",
+    "word": "一休み",
+    "reading": "ひとやすみ",
+    "meaning": "休息一會",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01131",
+    "word": "独り",
+    "reading": "ひとり",
+    "meaning": "獨身；單身",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01132",
+    "word": "独り言",
+    "reading": "ひとりごと",
+    "meaning": "自言自語",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01133",
+    "word": "一人一人",
+    "reading": "ひとりひとり",
+    "meaning": "每個人；各自",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01134",
+    "word": "日にち",
+    "reading": "ひにち",
+    "meaning": "日期；日數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01135",
+    "word": "日の入り",
+    "reading": "ひのいり",
+    "meaning": "日落",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01136",
+    "word": "日の出",
+    "reading": "ひので",
+    "meaning": "日出",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01137",
+    "word": "批判",
+    "reading": "ひはん",
+    "meaning": "批判；批評",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01138",
+    "word": "響き",
+    "reading": "ひびき",
+    "meaning": "響聲；回響",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01139",
+    "word": "批評",
+    "reading": "ひひょう",
+    "meaning": "批評",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01140",
+    "word": "皮膚",
+    "reading": "ひふ",
+    "meaning": "皮膚",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01141",
+    "word": "紐",
+    "reading": "ひも",
+    "meaning": "細繩；帶子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01142",
+    "word": "百科事典",
+    "reading": "ひゃっかじてん",
+    "meaning": "百科全書",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01143",
+    "word": "表",
+    "reading": "ひょう",
+    "meaning": "表",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01144",
+    "word": "美容",
+    "reading": "びよう",
+    "meaning": "美容",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01145",
+    "word": "秒",
+    "reading": "びょう",
+    "meaning": "秒",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01146",
+    "word": "評価",
+    "reading": "ひょうか",
+    "meaning": "評價；估價",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01147",
+    "word": "表現",
+    "reading": "ひょうげん",
+    "meaning": "",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01148",
+    "word": "表紙",
+    "reading": "ひょうし",
+    "meaning": "(書的)封面",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01149",
+    "word": "標識",
+    "reading": "ひょうしき",
+    "meaning": "標誌；信號",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01150",
+    "word": "標準",
+    "reading": "ひょうじゅん",
+    "meaning": "標準",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01151",
+    "word": "表情",
+    "reading": "ひょうじょう",
+    "meaning": "表情",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01152",
+    "word": "評判",
+    "reading": "ひょうばん",
+    "meaning": "評價；名聲",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01153",
+    "word": "標本",
+    "reading": "ひょうほん",
+    "meaning": "標本",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01154",
+    "word": "表面",
+    "reading": "ひょうめん",
+    "meaning": "表面",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01155",
+    "word": "評論",
+    "reading": "ひょうろん",
+    "meaning": "評論",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01156",
+    "word": "昼寝",
+    "reading": "ひるね",
+    "meaning": "午睡",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01157",
+    "word": "品",
+    "reading": "ひん",
+    "meaning": "品性；物品",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01158",
+    "word": "便",
+    "reading": "びん",
+    "meaning": "班次；航班；郵件",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01159",
+    "word": "便箋",
+    "reading": "びんせん",
+    "meaning": "信紙",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01160",
+    "word": "瓶詰め",
+    "reading": "びんづめ",
+    "meaning": "瓶裝",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01161",
+    "word": "分",
+    "reading": "ぶん",
+    "meaning": "優勢；有利",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01162",
+    "word": "風景",
+    "reading": "ふうけい",
+    "meaning": "風景；景色",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01163",
+    "word": "風船",
+    "reading": "ふうせん",
+    "meaning": "氣球",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01164",
+    "word": "笛",
+    "reading": "ふえ",
+    "meaning": "笛；笛子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01165",
+    "word": "不可",
+    "reading": "ふか",
+    "meaning": "不可；不行",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01166",
+    "word": "武器",
+    "reading": "ぶき",
+    "meaning": "武器",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01167",
+    "word": "普及",
+    "reading": "ふきゅう",
+    "meaning": "普及",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01168",
+    "word": "複写",
+    "reading": "ふくしゃ",
+    "meaning": "複寫；複印",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01169",
+    "word": "複数",
+    "reading": "ふくすう",
+    "meaning": "複數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01170",
+    "word": "符号",
+    "reading": "ふごう",
+    "meaning": "符號",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01171",
+    "word": "節",
+    "reading": "ぶし",
+    "meaning": "節；關節",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01172",
+    "word": "武士",
+    "reading": "ぶし",
+    "meaning": "武士",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01173",
+    "word": "部首",
+    "reading": "ぶしゅ",
+    "meaning": "部首",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01174",
+    "word": "襖",
+    "reading": "ふすま",
+    "meaning": "日式拉門；襖",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01175",
+    "word": "附属",
+    "reading": "ふぞく",
+    "meaning": "附屬",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01176",
+    "word": "蓋",
+    "reading": "ふた",
+    "meaning": "蓋子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01177",
+    "word": "舞台",
+    "reading": "ぶたい",
+    "meaning": "舞台",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01178",
+    "word": "双子",
+    "reading": "ふたご",
+    "meaning": "雙生子；雙胞胎",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01179",
+    "word": "負担",
+    "reading": "ふたん",
+    "meaning": "負擔",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01180",
+    "word": "縁",
+    "reading": "ふち",
+    "meaning": "邊緣；緣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01181",
+    "word": "不通",
+    "reading": "ふつう",
+    "meaning": "不通",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01182",
+    "word": "物価",
+    "reading": "ぶっか",
+    "meaning": "物價",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01183",
+    "word": "物質",
+    "reading": "ぶっしつ",
+    "meaning": "物質",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01184",
+    "word": "物理",
+    "reading": "ぶつり",
+    "meaning": "物理",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01185",
+    "word": "筆",
+    "reading": "ふで",
+    "meaning": "筆",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01186",
+    "word": "船便",
+    "reading": "ふなびん",
+    "meaning": "船運；海運",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01187",
+    "word": "部品",
+    "reading": "ぶひん",
+    "meaning": "零件",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01188",
+    "word": "吹雪",
+    "reading": "ふぶき",
+    "meaning": "暴風雪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01189",
+    "word": "父母",
+    "reading": "ふぼ",
+    "meaning": "父母",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01190",
+    "word": "踏切",
+    "reading": "ふみきり",
+    "meaning": "平交道；鐵路道口",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01191",
+    "word": "麓",
+    "reading": "ふもと",
+    "meaning": "山腳",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01192",
+    "word": "振り仮名",
+    "reading": "ふりがな",
+    "meaning": "注音假名",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01193",
+    "word": "故郷・古里",
+    "reading": "ふるさと",
+    "meaning": "故鄉",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01194",
+    "word": "風呂敷",
+    "reading": "ふろしき",
+    "meaning": "包袱巾",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01195",
+    "word": "文",
+    "reading": "ぶん",
+    "meaning": "文章；句子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01196",
+    "word": "雰囲気",
+    "reading": "ふんいき",
+    "meaning": "氣氛",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01197",
+    "word": "噴火",
+    "reading": "ふんか",
+    "meaning": "火山噴發",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01198",
+    "word": "分解",
+    "reading": "ぶんかい",
+    "meaning": "分解；分開；解體",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01199",
+    "word": "文菱",
+    "reading": "ぶんげい",
+    "meaning": "文藝",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01200",
+    "word": "文献",
+    "reading": "ぶんけん",
+    "meaning": "文獻",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01201",
+    "word": "噴水",
+    "reading": "ふんすい",
+    "meaning": "噴水池；噴泉",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01202",
+    "word": "分数",
+    "reading": "ぶんすう",
+    "meaning": "分數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01203",
+    "word": "分析",
+    "reading": "ぶんせき",
+    "meaning": "分析",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01204",
+    "word": "文体",
+    "reading": "ぶんたい",
+    "meaning": "文體；風格",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01205",
+    "word": "分布",
+    "reading": "ぶんぷ",
+    "meaning": "分布",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01206",
+    "word": "文脈",
+    "reading": "ぶんみゃく",
+    "meaning": "文脈；上下文",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01207",
+    "word": "文明",
+    "reading": "ぶんめい",
+    "meaning": "文明",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01208",
+    "word": "分野",
+    "reading": "ぷんや",
+    "meaning": "領域；範圍",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01209",
+    "word": "分量",
+    "reading": "ぶんりょう",
+    "meaning": "分量",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01210",
+    "word": "分類",
+    "reading": "ぶんるい",
+    "meaning": "分類",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01211",
+    "word": "塀",
+    "reading": "へい",
+    "meaning": "圍牆",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01212",
+    "word": "閉会",
+    "reading": "へいかい",
+    "meaning": "閉會",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01213",
+    "word": "並行",
+    "reading": "へいこう",
+    "meaning": "並行；同時舉行",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01214",
+    "word": "平日",
+    "reading": "へいじつ",
+    "meaning": "平日",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01215",
+    "word": "兵隊",
+    "reading": "へいたい",
+    "meaning": "士兵；軍隊",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01216",
+    "word": "平野",
+    "reading": "へいや",
+    "meaning": "平原",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01217",
+    "word": "臍",
+    "reading": "へそ",
+    "meaning": "肚臍",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01218",
+    "word": "別荘",
+    "reading": "べっそう",
+    "meaning": "別墅",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01219",
+    "word": "便",
+    "reading": "べん",
+    "meaning": "方便；大便",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01220",
+    "word": "変更",
+    "reading": "へんこう",
+    "meaning": "變更；更改",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01221",
+    "word": "便所",
+    "reading": "べんじょ",
+    "meaning": "廁所",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01222",
+    "word": "方",
+    "reading": "ほう",
+    "meaning": "方向",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01223",
+    "word": "法",
+    "reading": "ほう",
+    "meaning": "法律；方法",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01224",
+    "word": "棒",
+    "reading": "ぼう",
+    "meaning": "根；棒",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01225",
+    "word": "望遠鏡",
+    "reading": "ぼうえんきょう",
+    "meaning": "望遠鏡",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01226",
+    "word": "方角",
+    "reading": "ほうがく",
+    "meaning": "方向；方位",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01227",
+    "word": "箒",
+    "reading": "ほうき",
+    "meaning": "掃帚",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01228",
+    "word": "方言",
+    "reading": "ほうげん",
+    "meaning": "方言",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01229",
+    "word": "冒険",
+    "reading": "ぼうけん",
+    "meaning": "冒險",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01230",
+    "word": "方向",
+    "reading": "ほうこう",
+    "meaning": "方向",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01231",
+    "word": "防災",
+    "reading": "ぼうさい",
+    "meaning": "防災",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01232",
+    "word": "坊さん",
+    "reading": "ぼうさん",
+    "meaning": "和尚",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01233",
+    "word": "防止",
+    "reading": "ぼうし",
+    "meaning": "防止",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01234",
+    "word": "方針",
+    "reading": "ほうしん",
+    "meaning": "方針",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01235",
+    "word": "宝石",
+    "reading": "ほうせき",
+    "meaning": "寶石",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01236",
+    "word": "包装",
+    "reading": "ほうそう",
+    "meaning": "包裝",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01237",
+    "word": "法則",
+    "reading": "ほうそく",
+    "meaning": "法則；規則；定律",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01238",
+    "word": "包帯",
+    "reading": "ほうたい",
+    "meaning": "繃帶",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01239",
+    "word": "方程式",
+    "reading": "ほうていしき",
+    "meaning": "方程式",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01240",
+    "word": "防犯",
+    "reading": "ぼうはん",
+    "meaning": "防止犯罪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01241",
+    "word": "方面",
+    "reading": "ほうめん",
+    "meaning": "方面；,地區；領域",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01242",
+    "word": "訪問",
+    "reading": "ほうもん",
+    "meaning": "訪問；來訪",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01243",
+    "word": "坊や",
+    "reading": "ぼうや",
+    "meaning": "小男孩的愛稱；小男孩",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01244",
+    "word": "頬",
+    "reading": "ほお",
+    "meaning": "臉頰",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01245",
+    "word": "外",
+    "reading": "ほか",
+    "meaning": "另外；別的",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01246",
+    "word": "牧場",
+    "reading": "ぼくじょう",
+    "meaning": "牧場",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01247",
+    "word": "牧畜",
+    "reading": "ぼくちく",
+    "meaning": "畜牧",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01248",
+    "word": "保健",
+    "reading": "ほけん",
+    "meaning": "保健",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01249",
+    "word": "保険",
+    "reading": "ほけん",
+    "meaning": "保險",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01250",
+    "word": "誇り",
+    "reading": "ほこり",
+    "meaning": "自豪；驕傲；自尊心",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01251",
+    "word": "埃",
+    "reading": "ほこり",
+    "meaning": "灰塵；塵埃",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01252",
+    "word": "募集",
+    "reading": "ぼしゅう",
+    "meaning": "募集；招募",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01253",
+    "word": "保証",
+    "reading": "ほしょう",
+    "meaning": "保證",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01254",
+    "word": "保障",
+    "reading": "ほしょう",
+    "meaning": "保障",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01255",
+    "word": "保存",
+    "reading": "ほぞん",
+    "meaning": "保存",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01256",
+    "word": "北極",
+    "reading": "ほっきょく",
+    "meaning": "北極",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01257",
+    "word": "坊っちゃん",
+    "reading": "ぼっちゃん",
+    "meaning": "少爺；小少爺",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01258",
+    "word": "仏",
+    "reading": "ほとけ",
+    "meaning": "佛；佛像",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01259",
+    "word": "骨",
+    "reading": "ほね",
+    "meaning": "骨；骨灰",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01260",
+    "word": "炎",
+    "reading": "ほのお",
+    "meaning": "火焰",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01261",
+    "word": "堀",
+    "reading": "ほり",
+    "meaning": "溝；護城河",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01262",
+    "word": "ぼろ",
+    "reading": "ぼろ",
+    "meaning": "破布；破衣服；缺點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01263",
+    "word": "盆",
+    "reading": "ぼん",
+    "meaning": "盆；盂蘭盆節",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01264",
+    "word": "盆地",
+    "reading": "ぼんち",
+    "meaning": "盆地",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01265",
+    "word": "本部",
+    "reading": "ほんぶ",
+    "meaning": "總部",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01266",
+    "word": "本物",
+    "reading": "ほんもの",
+    "meaning": "真貨；真東西",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01267",
+    "word": "間",
+    "reading": "ま",
+    "meaning": "時間；空隙；停戰；房間",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01268",
+    "word": "迷子",
+    "reading": "まいご",
+    "meaning": "迷路的孩子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01269",
+    "word": "枚数",
+    "reading": "まいすう",
+    "meaning": "張數",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01270",
+    "word": "毎度",
+    "reading": "まいど",
+    "meaning": "每次；經常",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01271",
+    "word": "幕",
+    "reading": "まく",
+    "meaning": "幕；布幕",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01272",
+    "word": "枕",
+    "reading": "まくら",
+    "meaning": "枕頭",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01273",
+    "word": "摩擦",
+    "reading": "まさつ",
+    "meaning": "摩擦",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01274",
+    "word": "松",
+    "reading": "まつ",
+    "meaning": "松樹",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01275",
+    "word": "真似",
+    "reading": "まね",
+    "meaning": "模仿；舉止",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01276",
+    "word": "まぶた",
+    "reading": "まぶた",
+    "meaning": "眼皮；眼瞼",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01277",
+    "word": "豆",
+    "reading": "まめ",
+    "meaning": "豆；豆子",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01278",
+    "word": "稀",
+    "reading": "まれ",
+    "meaning": "稀少；稀奇",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01279",
+    "word": "回り道",
+    "reading": "まわりみち",
+    "meaning": "繞道",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01280",
+    "word": "満員",
+    "reading": "まんいん",
+    "meaning": "滿員；客滿",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01281",
+    "word": "身",
+    "reading": "み",
+    "meaning": "身體；自身",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01282",
+    "word": "実",
+    "reading": "み",
+    "meaning": "果實；內容",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01283",
+    "word": "見送り",
+    "reading": "みおくり",
+    "meaning": "送行；送別",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01284",
+    "word": "味方",
+    "reading": "みかた",
+    "meaning": "伙伴；我方",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01285",
+    "word": "三日月",
+    "reading": "みかづき",
+    "meaning": "新月",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01286",
+    "word": "岬",
+    "reading": "みさき",
+    "meaning": "岬；海角",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01287",
+    "word": "自ら",
+    "reading": "みずから",
+    "meaning": "親自；自己",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01288",
+    "word": "水着",
+    "reading": "みずぎ",
+    "meaning": "泳衣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01289",
+    "word": "店屋",
+    "reading": "みせや",
+    "meaning": "店舖；商鋪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01290",
+    "word": "道順",
+    "reading": "みちじゅん",
+    "meaning": "順路；順道",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01291",
+    "word": "身分",
+    "reading": "みぶん",
+    "meaning": "身分",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01292",
+    "word": "見舞い",
+    "reading": "みまい",
+    "meaning": "探望；慰問",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01293",
+    "word": "未満",
+    "reading": "みまん",
+    "meaning": "未滿",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01294",
+    "word": "名字",
+    "reading": "みょうじ",
+    "meaning": "姓",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01295",
+    "word": "魅力",
+    "reading": "みりょく",
+    "meaning": "魅力",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01296",
+    "word": "民間",
+    "reading": "みんかん",
+    "meaning": "民間；民營",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01297",
+    "word": "民主",
+    "reading": "みんしゅ",
+    "meaning": "民主",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01298",
+    "word": "民謡",
+    "reading": "みんよう",
+    "meaning": "民謠",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01299",
+    "word": "無",
+    "reading": "む",
+    "meaning": "無；沒有",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01300",
+    "word": "無視",
+    "reading": "むし",
+    "meaning": "無視",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01301",
+    "word": "無地",
+    "reading": "むじ",
+    "meaning": "素色",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01302",
+    "word": "虫歯",
+    "reading": "むしば",
+    "meaning": "蛀牙",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01303",
+    "word": "矛盾",
+    "reading": "むじゅん",
+    "meaning": "矛盾",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01304",
+    "word": "紫",
+    "reading": "むらさき",
+    "meaning": "紫色",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01305",
+    "word": "群れ",
+    "reading": "むれ",
+    "meaning": "群；群體",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01306",
+    "word": "芽",
+    "reading": "め",
+    "meaning": "芽；嫩芽",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01307",
+    "word": "姪",
+    "reading": "めい",
+    "meaning": "姪女；外甥女",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01308",
+    "word": "名作",
+    "reading": "めいさく",
+    "meaning": "名作",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01309",
+    "word": "迷信",
+    "reading": "めいしん",
+    "meaning": "",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01310",
+    "word": "名人",
+    "reading": "めいじん",
+    "meaning": "大師；專家",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01311",
+    "word": "目上",
+    "reading": "めうえ",
+    "meaning": "長輩；上司",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01312",
+    "word": "目覚まし",
+    "reading": "めざまし",
+    "meaning": "鬧鐘；叫醒",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01313",
+    "word": "目下",
+    "reading": "めした",
+    "meaning": "晚輩；部下",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01314",
+    "word": "目印",
+    "reading": "めじるし",
+    "meaning": "標記；記號",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01315",
+    "word": "めまい",
+    "reading": "めまい",
+    "meaning": "頭暈；眩暈",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01316",
+    "word": "目安",
+    "reading": "めやす",
+    "meaning": "目標；基準",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01317",
+    "word": "面",
+    "reading": "めん",
+    "meaning": "臉；面；表面",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01318",
+    "word": "綿",
+    "reading": "めん",
+    "meaning": "棉布；棉線",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01319",
+    "word": "免許",
+    "reading": "めんぎょ",
+    "meaning": "執照；許可證",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01320",
+    "word": "免税",
+    "reading": "めんぜい",
+    "meaning": "免稅",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01321",
+    "word": "毛布",
+    "reading": "もうふ",
+    "meaning": "毛毯",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01322",
+    "word": "木材",
+    "reading": "もくざい",
+    "meaning": "木材",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01323",
+    "word": "目次",
+    "reading": "もくじ",
+    "meaning": "目錄",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01324",
+    "word": "餅",
+    "reading": "もち",
+    "meaning": "年糕；麻糬",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01325",
+    "word": "元",
+    "reading": "もと",
+    "meaning": "本來；起源；以前",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01326",
+    "word": "基",
+    "reading": "もと",
+    "meaning": "基礎；根基",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01327",
+    "word": "素",
+    "reading": "もと",
+    "meaning": "原料；素材",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01328",
+    "word": "物置",
+    "reading": "ものおき",
+    "meaning": "儲藏室",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01329",
+    "word": "物音",
+    "reading": "ものおと",
+    "meaning": "聲音；響聲",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01330",
+    "word": "物差し",
+    "reading": "ものさし",
+    "meaning": "尺；尺度；標準",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01331",
+    "word": "紅葉",
+    "reading": "もみじ",
+    "meaning": "紅葉",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01332",
+    "word": "模様",
+    "reading": "もよう",
+    "meaning": "花樣；圖案；情況",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01333",
+    "word": "催し",
+    "reading": "もよおし",
+    "meaning": "活動；集會",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01334",
+    "word": "問答",
+    "reading": "もんどう",
+    "meaning": "問答",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01335",
+    "word": "役",
+    "reading": "やく",
+    "meaning": "角色；任務",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01336",
+    "word": "訳",
+    "reading": "やく",
+    "meaning": "翻譯",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01337",
+    "word": "役者",
+    "reading": "やくしゃ",
+    "meaning": "演員",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01338",
+    "word": "役所",
+    "reading": "やくしょ",
+    "meaning": "政府機關；公所",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01339",
+    "word": "役人",
+    "reading": "やくにん",
+    "meaning": "官員；公務員",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01340",
+    "word": "薬品",
+    "reading": "やくひん",
+    "meaning": "藥物",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01341",
+    "word": "役目",
+    "reading": "やくめ",
+    "meaning": "任務；職責",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01342",
+    "word": "役割",
+    "reading": "やくわり",
+    "meaning": "任務；職責",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01343",
+    "word": "火傷",
+    "reading": "やけど",
+    "meaning": "燒傷；燙傷",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01344",
+    "word": "夜行",
+    "reading": "やこう",
+    "meaning": "夜行；夜間運行",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01345",
+    "word": "矢印",
+    "reading": "やじるし",
+    "meaning": "箭頭；箭形符號",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01346",
+    "word": "薬局",
+    "reading": "やっきょく",
+    "meaning": "藥房；藥局",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01347",
+    "word": "宿",
+    "reading": "やど",
+    "meaning": "旅店；住宿處",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01348",
+    "word": "家主",
+    "reading": "やぬし",
+    "meaning": "房東；屋主",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01349",
+    "word": "屋根",
+    "reading": "やね",
+    "meaning": "屋頂",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01350",
+    "word": "唯一",
+    "reading": "ゆいいつ",
+    "meaning": "唯一",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01351",
+    "word": "勇気",
+    "reading": "ゆうき",
+    "meaning": "勇氣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01352",
+    "word": "友好",
+    "reading": "ゆうこう",
+    "meaning": "友好",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01353",
+    "word": "郵送",
+    "reading": "ゆうそう",
+    "meaning": "郵寄",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01354",
+    "word": "夕立",
+    "reading": "ゆうだち",
+    "meaning": "驟雨；午後雷陣雨",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01355",
+    "word": "夕日",
+    "reading": "ゆうひ",
+    "meaning": "夕陽",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01356",
+    "word": "床",
+    "reading": "ゆか",
+    "meaning": "地板",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01357",
+    "word": "行方",
+    "reading": "ゆくえ",
+    "meaning": "下落；去向",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01358",
+    "word": "湯気",
+    "reading": "ゆげ",
+    "meaning": "蒸氣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01359",
+    "word": "輸血",
+    "reading": "ゆけつ",
+    "meaning": "輸血",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01360",
+    "word": "輸送",
+    "reading": "ゆそう",
+    "meaning": "運輸；運送",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01361",
+    "word": "油断",
+    "reading": "ゆだん",
+    "meaning": "粗心大意；疏忽",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01362",
+    "word": "湯飲み",
+    "reading": "ゆのみ",
+    "meaning": "茶杯；茶碗",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01363",
+    "word": "夜",
+    "reading": "よ",
+    "meaning": "夜；夜間",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01364",
+    "word": "夜明け",
+    "reading": "よあけ",
+    "meaning": "黎明；天亮",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01365",
+    "word": "溶岩",
+    "reading": "ようがん",
+    "meaning": "熔岩",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01366",
+    "word": "容器",
+    "reading": "ようき",
+    "meaning": "容器",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01367",
+    "word": "要求",
+    "reading": "ようきゅう",
+    "meaning": "要求",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01368",
+    "word": "用語",
+    "reading": "ようご",
+    "meaning": "用語",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01369",
+    "word": "要旨",
+    "reading": "ようし",
+    "meaning": "要旨；大意；要點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01370",
+    "word": "幼児",
+    "reading": "ようじ",
+    "meaning": "幼兒",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01371",
+    "word": "容積",
+    "reading": "ようせき",
+    "meaning": "體積；容量",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01372",
+    "word": "要素",
+    "reading": "ようそ",
+    "meaning": "要素；因素",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01373",
+    "word": "用途",
+    "reading": "ようと",
+    "meaning": "用途",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01374",
+    "word": "洋品店",
+    "reading": "ようひんてん",
+    "meaning": "洋貨店",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01375",
+    "word": "養分",
+    "reading": "ようぶん",
+    "meaning": "養分",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01376",
+    "word": "羊毛",
+    "reading": "ようもう",
+    "meaning": "羊毛",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01377",
+    "word": "要領",
+    "reading": "ようりょう",
+    "meaning": "要點；要領",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01378",
+    "word": "予期",
+    "reading": "よき",
+    "meaning": "預期",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01379",
+    "word": "翌日",
+    "reading": "よくじつ",
+    "meaning": "翌日；隔天",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01380",
+    "word": "予算",
+    "reading": "よさん",
+    "meaning": "預算",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01381",
+    "word": "余所",
+    "reading": "よそ",
+    "meaning": "別處；別的地方",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01382",
+    "word": "四つ角",
+    "reading": "よつかど",
+    "meaning": "十字路口",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01383",
+    "word": "酔っ払い",
+    "reading": "よっぱらい",
+    "meaning": "醉漢；醉鬼",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01384",
+    "word": "世の中",
+    "reading": "よのなか",
+    "meaning": "世間；世上；時代",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01385",
+    "word": "予防",
+    "reading": "よぼう",
+    "meaning": "預防",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01386",
+    "word": "嫁",
+    "reading": "よめ",
+    "meaning": "新娘；媳婦",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01387",
+    "word": "余裕",
+    "reading": "よゆう",
+    "meaning": "餘裕；寬裕",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01388",
+    "word": "喜び",
+    "reading": "よろこび",
+    "meaning": "喜悅；高興",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01389",
+    "word": "来日",
+    "reading": "らいにち",
+    "meaning": "來日；到日本",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01390",
+    "word": "欄",
+    "reading": "らん",
+    "meaning": "欄；專欄",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01391",
+    "word": "利益",
+    "reading": "りえき",
+    "meaning": "利益；盈利",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01392",
+    "word": "理科",
+    "reading": "りか",
+    "meaning": "理科",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01393",
+    "word": "利害",
+    "reading": "りがい",
+    "meaning": "利害；得失",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01394",
+    "word": "陸",
+    "reading": "りく",
+    "meaning": "陸地",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01395",
+    "word": "理想",
+    "reading": "りそう",
+    "meaning": "理想",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01396",
+    "word": "率",
+    "reading": "りつ",
+    "meaning": "比率",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01397",
+    "word": "流域",
+    "reading": "りゅういき",
+    "meaning": "流域",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01398",
+    "word": "流行",
+    "reading": "りゅうこう",
+    "meaning": "流行",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01399",
+    "word": "量",
+    "reading": "りょう",
+    "meaning": "數量；份量",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01400",
+    "word": "両",
+    "reading": "りょう",
+    "meaning": "兩；兩個",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01401",
+    "word": "両替",
+    "reading": "りょうがえ",
+    "meaning": "兌換",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01402",
+    "word": "両側",
+    "reading": "りょうがわ",
+    "meaning": "兩側",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01403",
+    "word": "両国",
+    "reading": "りょうこく",
+    "meaning": "兩國",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01404",
+    "word": "漁師",
+    "reading": "りょうし",
+    "meaning": "漁民；漁夫",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01405",
+    "word": "領事",
+    "reading": "りょうじ",
+    "meaning": "領事",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01406",
+    "word": "臨時",
+    "reading": "りんじ",
+    "meaning": "臨時",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01407",
+    "word": "礼",
+    "reading": "れい",
+    "meaning": "禮；禮貌；敬禮",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01408",
+    "word": "例外",
+    "reading": "れいがい",
+    "meaning": "例外",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01409",
+    "word": "礼儀",
+    "reading": "れいぎ",
+    "meaning": "禮儀",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01410",
+    "word": "零点",
+    "reading": "れいてん",
+    "meaning": "零分；零點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01411",
+    "word": "冷凍",
+    "reading": "れいとう",
+    "meaning": "冷凍",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01412",
+    "word": "列",
+    "reading": "れつ",
+    "meaning": "列；隊列",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01413",
+    "word": "煉瓦",
+    "reading": "れんが",
+    "meaning": "磚；磚塊",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01414",
+    "word": "連合",
+    "reading": "れんごう",
+    "meaning": "聯合；聯盟",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01415",
+    "word": "連想",
+    "reading": "れんそう",
+    "meaning": "聯想",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01416",
+    "word": "連続",
+    "reading": "れんぞく",
+    "meaning": "連續",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01417",
+    "word": "老人",
+    "reading": "ろうじん",
+    "meaning": "老人",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01418",
+    "word": "蝋燭",
+    "reading": "ろうそく",
+    "meaning": "蠟燭",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01419",
+    "word": "労働",
+    "reading": "ろうどう",
+    "meaning": "勞動；工作",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01420",
+    "word": "論",
+    "reading": "ろん",
+    "meaning": "論；論點",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01421",
+    "word": "論争",
+    "reading": "ろんそう",
+    "meaning": "爭論",
+    "category": "名詞・サ變動詞"
+  },
+  {
+    "id": "n2v-01422",
+    "word": "輪",
+    "reading": "わ",
+    "meaning": "環；輪",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01423",
+    "word": "和",
+    "reading": "わ",
+    "meaning": "日本；和；和平",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01424",
+    "word": "和英",
+    "reading": "わえい",
+    "meaning": "日英",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01425",
+    "word": "脇",
+    "reading": "わき",
+    "meaning": "腋下；旁邊",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01426",
+    "word": "綿",
+    "reading": "わた",
+    "meaning": "棉；棉花",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01427",
+    "word": "話題",
+    "reading": "わだい",
+    "meaning": "話題",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01428",
+    "word": "悪口",
+    "reading": "わるくち",
+    "meaning": "壞話；誹謗",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01429",
+    "word": "湾",
+    "reading": "わん",
+    "meaning": "灣",
+    "category": "名詞"
+  },
+  {
+    "id": "n2v-01430",
+    "word": "碗",
+    "reading": "わん",
+    "meaning": "碗",
+    "category": "名詞"
+  }
+]

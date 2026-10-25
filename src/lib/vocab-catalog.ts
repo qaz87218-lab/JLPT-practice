@@ -9,7 +9,7 @@ export type VocabExample={ja:string;furigana?:string;meaningEn?:string;tatoebaId
 export type VocabEntry={
  id:string; word:string; reading:string; romaji:string; meaningsEn:string[];
  meaningZh:string|null; pos:string[]; levels:JlptLevel[]; jmdictId:number|null;
- otherForms:string[]; examples:VocabExample[]; sourceIds:string[]; sourceRefs:{id:string;level:JlptLevel}[]; source:'OpenJLPT'; reviewStatus:'source_unverified'
+ otherForms:string[]; examples:VocabExample[]; sourceIds:string[]; sourceRefs:{id:string;level:JlptLevel}[]; source:'OpenJLPT'|'Nihongo Quest'|'WordMaster'; reviewStatus:'source_unverified'
 }
 export type VocabImportResult={entries:VocabEntry[];rawCounts:Record<JlptLevel,number>;rawTotal:number;uniqueTotal:number;duplicatesMerged:number;perLevel:Record<JlptLevel,number>}
 export const VOCAB_LEVELS:JlptLevel[]=['N5','N4','N3','N2','N1']
