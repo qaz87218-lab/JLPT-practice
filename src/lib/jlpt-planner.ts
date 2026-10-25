@@ -1,15 +1,15 @@
 /** Personalisation logic as a pure helper. UI/job orchestration is a later integration step. */
 import type { JlptLearningSection } from '@/lib/types'
 
-export const LEARNING_SECTIONS: JlptLearningSection[] = ['vocabulary', 'grammar', 'reading', 'listening', 'speaking']
+export const LEARNING_SECTIONS: JlptLearningSection[] = ['vocabulary', 'grammar', 'reading', 'listening']
 export const DEFAULT_MINUTES: Record<JlptLearningSection,number> = {
-  vocabulary:15, grammar:15, reading:20, listening:25, speaking:15,
+  vocabulary:18, grammar:18, reading:24, listening:30,
 }
 export const REVIEW_INTERVAL_DAYS = [1,3,7,14,30] as const
 
 /**
  * Accuracy: a fraction in [0,1], higher = better. Self assessment: 1=weak, 5=strong.
- * Missing signals preserve default 15/15/20/25/15 at 90 minutes.
+ * Missing signals preserve the four-skill default 18/18/24/30 at 90 minutes.
  * Largest-remainder apportionment ensures exact total minutes.
  */
 export function recommendDailyMinutes(

@@ -29,11 +29,6 @@ export const JLPT_SECTION_META: Record<JlptSection, { title: string; description
     description: '逐句聽解、盲聽、跟讀與理解測驗（教材待匯入）',
     icon: '聴',
   },
-  speaking: {
-    title: '口說',
-    description: '朗讀、情境會話、自由回答與錄音（教材待匯入）',
-    icon: '話',
-  },
   mock: {
     title: '模擬試題',
     description: '完整模擬考或已收錄的歷年考試分項練習',
@@ -46,7 +41,6 @@ const emptyLevel = (): JlptLevelData => ({
   grammar: [],
   reading: [],
   listening: [],
-  speaking: [],
   mockTests: [],
 })
 
@@ -76,5 +70,5 @@ export function isJlptLevel(value: string): value is JlptLevel {
 }
 
 export function isJlptSection(value: string): value is JlptSection {
-  return value === 'vocabulary' || value === 'grammar' || value === 'reading' || value === 'listening' || value === 'speaking' || value === 'mock'
+  return value === 'vocabulary' || value === 'grammar' || value === 'reading' || value === 'listening' || value === 'mock'
 }

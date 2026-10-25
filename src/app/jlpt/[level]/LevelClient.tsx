@@ -8,7 +8,7 @@ import type { JlptSection } from '@/lib/types'
 import { getCatalogMeta,type CatalogMeta } from '@/lib/vocab-db'
 import {getCourseLessons,getCourseUnits} from '@/lib/grammar-courses'
 import {courseRecordKey} from '@/lib/local-store'
-const SECTIONS: JlptSection[]=['vocabulary','grammar','reading','listening','speaking','mock']
+const SECTIONS: JlptSection[]=['vocabulary','grammar','reading','listening','mock']
 export default function LevelClient() {
  const params=useParams<{level:string}>(),router=useRouter(),state=useLocalStudy()
  const [vocabMeta,setVocabMeta]=useState<CatalogMeta|null>(null)
@@ -21,7 +21,7 @@ export default function LevelClient() {
  if(!level) return <main className="center-screen"><button className="primary-button" onClick={()=>router.push('/jlpt')}>回總覽</button></main>
  return <main className="app-shell">
    <header className="topbar wide-topbar"><div className="breadcrumb-title"><button className="back-button" onClick={()=>router.push('/jlpt')}>←</button><div><p className="eyebrow">JLPT {level}</p><h1>{level} 學習區</h1><p className="muted small">本機版 · 無需帳號</p></div></div></header>
-   <section className="dashboard-container"><div className="level-hero"><span className="level-hero-code">{level}</span><div><h2>五大學習模組＋模擬試題</h2><p>文法可閱讀、收藏及筆記；單字可匯入後離線查閱。N2 已新增 2018 年 7 月書面試題 75 題（語彙、文法、讀解），可作答、看原卷與詳解。</p></div></div>
+   <section className="dashboard-container"><div className="level-hero"><span className="level-hero-code">{level}</span><div><h2>四項學習模組＋模擬試題</h2><p>文法可閱讀、收藏及筆記；單字可匯入後離線查閱。N2 已新增 2018 年 7 月書面試題 75 題（語彙、文法、讀解），可作答、看原卷與詳解。</p></div></div>
    <button className="course-entry" onClick={()=>router.push(`/jlpt/${level.toLowerCase()}/courses`)}>
       <div className="section-icon">課</div><div className="section-card-body"><div className="section-card-heading"><h3>系統課程（新）</h3><span>{getCourseUnits(level).length} 單元 · {getCourseLessons(level).length} 堂</span></div>
       <p>依你的 N5～N2 總整理改寫：依主題學習、例句、辨析及課後自測。</p><div className="section-mini-stats"><span>已完成 {getCourseLessons(level).filter(l=>{const p=state.courses[courseRecordKey(level,l.id)];return p?.readCompleted&&p?.quizPassed}).length} 堂</span><span>進度存本機</span></div></div><span className="level-arrow">→</span>

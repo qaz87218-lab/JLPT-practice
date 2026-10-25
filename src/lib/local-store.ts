@@ -49,7 +49,7 @@ function validateState(raw: unknown): LocalStudyState {
     throw new Error('檔案不是本機版 JLPT 學習紀錄。')
   }
   const levels = new Set(['N5','N4','N3','N2','N1'])
-  const sections = new Set(['vocabulary','grammar','reading','listening','speaking','mock'])
+  const sections = new Set(['vocabulary','grammar','reading','listening','mock'])
   const progress: LocalStudyState['progress'] = {}
   const bookmarks: LocalStudyState['bookmarks'] = {}
   const notes: LocalStudyState['notes'] = {}
@@ -58,6 +58,8 @@ function validateState(raw: unknown): LocalStudyState {
   if (Object.keys(raw.progress).length > 200000) throw new Error('學習紀錄筆數異常。')
   for (const [key, value] of Object.entries(raw.progress)) {
     if (!isRecord(value)) throw new Error('學習進度格式不正確。')
+    // v0.4.2 以前可能保存已移除的口說進度；舊備份仍可匯入，但不再載入舊模組。
+    if (/^N[1-5]:speaking:/.test(key) && value.section === 'speaking') continue
     const level = value.level, section = value.section, id = value.item_id
     if (typeof level !== 'string' || !levels.has(level) || typeof section !== 'string' || !sections.has(section) || typeof id !== 'string' || recordKey(level as JlptLevel, section as JlptSection, id) !== key || !['new','learning','mastered'].includes(String(value.status))) throw new Error('學習進度格式不正確。')
     progress[key] = {level: level as JlptLevel, section: section as JlptSection, item_id:id,
@@ -67,10 +69,10 @@ function validateState(raw: unknown): LocalStudyState {
       updated_at: typeof value.updated_at === 'string' ? value.updated_at : new Date().toISOString() }
   }
   for (const [key, value] of Object.entries(raw.bookmarks)) {
-    if (key.length < 512 && value === true) bookmarks[key] = true
+    if (key.length < 512 && value === true && !/^N[1-5]:speaking:/.test(key)) bookmarks[key] = true
   }
   for (const [key, value] of Object.entries(raw.notes)) {
-    if (key.length < 512 && typeof value === 'string') notes[key] = value.slice(0, 20000)
+    if (key.length < 512 && typeof value === 'string' && !/^N[1-5]:speaking:/.test(key)) notes[key] = value.slice(0, 20000)
   }
   // v0.3.5-v0.3.7 備份不含 readingAnswers；匯入時視為空資料，不影響舊紀錄。
   if (raw.readingAnswers !== undefined) {

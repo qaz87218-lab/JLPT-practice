@@ -6,7 +6,8 @@ import type {JlptLevel} from '@/lib/types'
 import {isJlptLevel} from '@/data/jlpt'
 import {getCatalogMeta,getVocabulary,importOpenJlptFiles,importOpenJlptOnline,type CatalogMeta} from '@/lib/vocab-db'
 import type {VocabEntry} from '@/lib/vocab-catalog'
-import {getNihongoLevel,getWordMasterN2,type NihongoLoad} from '@/lib/nihongo-vocab'
+import {getNihongoLevel,getWordMasterN2,importWordMasterJson,type NihongoLoad} from '@/lib/nihongo-vocab'
+import VocabArena from './VocabArena'
 import {recordKey,setLocalNote,setLocalStatus,toggleLocalBookmark,useLocalStudy} from '@/lib/local-store'
 
 type Filter='all'|'bookmarked'|'learning'|'mastered'
@@ -37,7 +38,7 @@ function WordCard({item,level,bookmarked,status,note,onError}:{item:VocabEntry;l
  {item.examples.length?item.examples.map((ex,i)=><div className="grammar-example" key={ex.tatoebaId??i}>
  <div className="grammar-japanese">{i+1}. <RubySentence plain={ex.ja} text={ex.furigana}/></div>
  {ex.meaningEn&&<div className="grammar-reading">英文原始譯文：{ex.meaningEn}</div>}
- <div className="small muted">繁體中文例句翻譯：待補{ex.tatoebaId?<>　｜　<a target="_blank" rel="noopener noreferrer" href={`https://tatoeba.org/sentences/show/${ex.tatoebaId}`}>Tatoeba #{ex.tatoebaId}</a></>:null}</div></div>):<p>原始資料尚無例句，不另行杜撰。</p>}
+ <div className="small muted">繁體中文例句：{ex.meaningZh??'待補'}{ex.tatoebaId?<>　｜　<a target="_blank" rel="noopener noreferrer" href={`https://tatoeba.org/sentences/show/${ex.tatoebaId}`}>Tatoeba #{ex.tatoebaId}</a></>:null}</div></div>):<p>原始資料尚無例句，不另行杜撰。</p>}
  <div className="study-actions"><button className="ghost-button bordered" onClick={()=>act(()=>toggleLocalBookmark(level,'vocabulary',item.id))}>{bookmarked?'★ 取消收藏':'☆ 收藏'}</button>
  <button className="ghost-button bordered" onClick={()=>act(()=>setLocalStatus(level,'vocabulary',item.id,'learning'))}>學習中</button>
  <button className="ghost-button bordered" onClick={()=>act(()=>setLocalStatus(level,'vocabulary',item.id,'mastered'))}>✓ 已掌握</button>
@@ -45,7 +46,7 @@ function WordCard({item,level,bookmarked,status,note,onError}:{item:VocabEntry;l
  <button className="ghost-button bordered" onClick={()=>{setNoteDraft(note);setNoteOpen(x=>!x)}}>{note?'編輯筆記':'新增筆記'}</button></div>
  {noteOpen&&<div className="note-editor"><label htmlFor={`vocab-note-${item.id}`}>我的本機筆記</label><textarea id={`vocab-note-${item.id}`} rows={3} maxLength={20000} value={noteDraft} onChange={e=>setNoteDraft(e.target.value)}/><div><button className="primary-button" onClick={()=>act(()=>{setLocalNote(level,'vocabulary',item.id,noteDraft);setNoteOpen(false)})}>儲存</button></div></div>}
  {!noteOpen&&note&&<p className="saved-note"><b>筆記：</b>{note}</p>}
- <p className="muted small">{item.source==='OpenJLPT'?'來源：OpenJLPT / JMdict / Jonathan Waller / Tatoeba（CC BY-SA 4.0）':item.source==='WordMaster'?'來源：WordMaster Word Lists（MIT）；部分詞義為英文或簡體中文，尚待繁中校訂。':'來源：Nihongo Quest 整理詞庫；中文詞義尚未完成教師終審。'} JLPT 詞彙分級非官方公告。</p>
+ <p className="muted small">{item.source==='OpenJLPT'?'來源：OpenJLPT / JMdict / Jonathan Waller / Tatoeba（CC BY-SA 4.0）':item.source==='WordMaster'?'來源：WordMaster Word Lists（請確認來源授權）；部分詞義為英文或簡體中文，尚待繁中校訂。':'來源：Nihongo Quest 整理詞庫；中文詞義尚未完成教師終審。'} JLPT 詞彙分級非官方公告。</p>
  </div></details></article>
 }
 export default function VocabularyClient(){
@@ -94,21 +95,23 @@ export default function VocabularyClient(){
  <p className="muted small">N5（520）、N2（1,430）內建日中單字；N2 原版 WordMaster 單字另設入口，不與個人校訂版互相覆蓋；N4、N3、N1 由 WordMaster 公開靜態資料載入，尚未完成逐筆繁中校訂。兩種來源分開顯示，收藏、筆記和學習進度都使用原 JLPT 的本機儲存，不覆蓋原有紀錄。</p>
  {source==='nihongo'&&<>
  {questLoading&&<p role="status">正在載入 {level} 單字…</p>}
- {questInfo&&<p className="small muted">實際載入 {questRows.length} 筆；英文原文待翻譯 {questInfo.englishCount} 筆、空白詞義 {questInfo.missingCount} 筆、同級重複合併 {questInfo.duplicateCount} 筆。{questInfo.origin==='remote'?'目前依賴連線到 WordMaster GitHub；不保證離線載入。':'這個等級的單字隨 App 一起提供。'}</p>}
+ {questInfo&&<p className="small muted">實際載入 {questRows.length} 筆；英文原文待翻譯 {questInfo.englishCount} 筆、空白詞義 {questInfo.missingCount} 筆、同級重複合併 {questInfo.duplicateCount} 筆。{questInfo.origin==='remote'?'已從公開來源載入並嘗試保存離線快取。':questInfo.origin==='cached'?'已從本機快取載入。':'這個等級的單字隨 App 一起提供。'} 已對照中文詞庫 {questInfo.reviewedCount} 筆；簡體自動轉換 {questInfo.automaticCount} 筆（未經人工審校）。</p>}
  {questMessage&&<p className="form-message" role="alert">{questMessage}（原有 OpenJLPT 與學習紀錄不受影響）</p>}
+ {level!=='N5'&&level!=='N2'&&<label className="small muted">或直接匯入本等級 WordMaster JSON（本機保存，無須部署）：<input type="file" accept=".json,application/json" onChange={async e=>{const f=e.target.files?.[0];if(!f||!level)return;try{const r=await importWordMasterJson(level,f);setQuestRows(r.entries);setQuestInfo(r);setQuestMessage('本機匯入成功');setPage(0)}catch(err){setQuestMessage(err instanceof Error?err.message:String(err))}finally{e.target.value=''}}}/></label>}
  </>}
  </div>
  {source==='wordmaster-n2'&&<>
  {wordmasterLoading&&<p role="status">正在讀取 WordMaster N2 原版單字…</p>}
- {wordmasterInfo&&<p className="small muted">載入 {wordmasterRows.length} 筆；英文詞義待翻譯 {wordmasterInfo.englishCount} 筆、空白詞義 {wordmasterInfo.missingCount} 筆、同級相同字形與讀音合併 {wordmasterInfo.duplicateCount} 筆。需連線到 GitHub；未完成繁體中文校訂。</p>}
+ {wordmasterInfo&&<p className="small muted">載入 {wordmasterRows.length} 筆；英文詞義待翻譯 {wordmasterInfo.englishCount} 筆、空白詞義 {wordmasterInfo.missingCount} 筆、同級相同字形與讀音合併 {wordmasterInfo.duplicateCount} 筆。可使用本機快取或預先封裝資料；仍有部分詞義未完成繁中校訂。</p>}
  {wordmasterMessage&&<p className="form-message" role="alert">{wordmasterMessage}；N2 1,430 筆內建版仍可使用。</p>}
+ <label className="small muted">從檔案匯入 WordMaster N2 JSON：<input type="file" accept=".json,application/json" onChange={async e=>{const f=e.target.files?.[0];if(!f||!level)return;try{const r=await importWordMasterJson('N2',f);setWordmasterRows(r.entries);setWordmasterInfo(r);setWordmasterMessage('N2 WordMaster 已保存到本機')}catch(err){setWordmasterMessage(err instanceof Error?err.message:String(err))}finally{e.target.value=''}}}/></label>
  </>}
  {source==='openjlpt'&&<div className="vocab-import-panel"><h2>OpenJLPT 單字資料</h2><p className="muted small">首次匯入需要網路；完成後單字與例句儲存在本機 IndexedDB，可離線查看。這是下載靜態資料檔，不使用既有 Supabase API。</p>
  <div className="local-tools-actions"><button disabled={busy} className="primary-button" onClick={()=>void runImport(()=>importOpenJlptOnline(setMessage))}>{busy?'匯入中…':meta?'重新下載／更新單字':'一次匯入 N5～N1 單字'}</button><button disabled={busy} className="ghost-button bordered" onClick={()=>picker.current?.click()}>從 JSON 匯入</button><input hidden multiple type="file" accept=".json,application/json" ref={picker} onChange={e=>{const f=e.target.files;if(f)void runImport(()=>importOpenJlptFiles(f,setMessage))}}/></div>
  {meta&&<p className="small muted">已保存 {meta.uniqueTotal} 個不同詞彙，原始筆數 {meta.rawTotal}，跨級合併 {meta.duplicatesMerged}；更新時間：{new Date(meta.importedAt).toLocaleString('zh-TW')}。</p>}
  {message&&<p className="form-message" role="status">{message}</p>}
  <p className="small muted">詞義目前保留 OpenJLPT 的英文原文；繁體中文釋義／譯句尚待授權來源與人工審校，不會自動偽造。<a href="https://github.com/evanclan/OpenJLPT" target="_blank" rel="noopener noreferrer">OpenJLPT</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a></p></div>}
- {(source==='nihongo'?Boolean(questInfo):source==='wordmaster-n2'?Boolean(wordmasterInfo):Boolean(meta))&&<><div className="study-toolbar"><input className="search-input" placeholder="搜尋日文、假名、中文、詞性或英文原文" value={query} onChange={e=>{setQuery(e.target.value);setPage(0)}}/><div className="filter-pills">{([['all','全部'],['bookmarked','收藏'],['learning','學習中'],['mastered','已掌握']] as const).map(([key,label])=><button key={key} className={`filter-pill ${filter===key?'active':''}`} onClick={()=>{setFilter(key);setPage(0)}}>{label}</button>)}</div></div>
+ {(source==='nihongo'?Boolean(questInfo):source==='wordmaster-n2'?Boolean(wordmasterInfo):Boolean(meta))&&<><VocabArena key={`${level}-${source}`} level={level} source={source} words={source==='nihongo'?questRows:source==='wordmaster-n2'?wordmasterRows:rows}/><div className="study-toolbar"><input className="search-input" placeholder="搜尋日文、假名、中文、詞性或英文原文" value={query} onChange={e=>{setQuery(e.target.value);setPage(0)}}/><div className="filter-pills">{([['all','全部'],['bookmarked','收藏'],['learning','學習中'],['mastered','已掌握']] as const).map(([key,label])=><button key={key} className={`filter-pill ${filter===key?'active':''}`} onClick={()=>{setFilter(key);setPage(0)}}>{label}</button>)}</div></div>
  <p className="muted small">{level}：符合條件 {filtered.length} 筆（頁次 {pageCount?Math.min(page+1,pageCount):0}/{pageCount}）</p>
  {display.length?<div className="content-list">{display.map(item=><WordCard key={item.id} item={item} level={level} bookmarked={!!study.bookmarks[recordKey(level,'vocabulary',item.id)]} status={study.progress[recordKey(level,'vocabulary',item.id)]?.status??'new'} note={study.notes[recordKey(level,'vocabulary',item.id)]??''} onError={setMessage}/>)}</div>:<div className="empty-module"><h2>沒有符合條件的單字</h2><p>可變更搜尋條件與篩選設定。</p></div>}
  {pageCount>1&&<div className="vocab-pagination"><button disabled={page===0} className="ghost-button bordered" onClick={()=>{setPage(v=>Math.max(0,v-1));window.scrollTo(0,0)}}>上一頁</button><span>{page+1} / {pageCount}</span><button disabled={page+1>=pageCount} className="ghost-button bordered" onClick={()=>{setPage(v=>v+1);window.scrollTo(0,0)}}>下一頁</button></div>}</>}

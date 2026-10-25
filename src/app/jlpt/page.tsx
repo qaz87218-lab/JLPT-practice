@@ -10,7 +10,7 @@ import { getCourseLessons } from '@/lib/grammar-courses'
 
 function totalItems(level: JlptLevel) {
   const d = JLPT_DATA[level]
-  return d.vocabulary.length+d.grammar.length+d.reading.length+d.listening.length+d.speaking.length+d.mockTests.length
+  return d.vocabulary.length+d.grammar.length+d.reading.length+d.listening.length+d.mockTests.length
 }
 export default function JlptHomePage() {
   const router=useRouter()
@@ -46,7 +46,7 @@ export default function JlptHomePage() {
         const total=totalItems(level)+(vocabMeta?.perLevel[level]??0),stat=summary[level],pct=total?Math.round(stat.mastered/total*100):0
         return <button key={level} className={`level-card level-${level.toLowerCase()}`} onClick={()=>router.push(`/jlpt/${level.toLowerCase()}`)}>
           <div className="level-card-top"><span className="level-code">{level}</span><span className="level-arrow">→</span></div>
-          <div className="level-card-copy"><strong>{level} 學習區</strong><span>單字・文法・文章・聽力・口說・模擬試題・課程</span></div>
+          <div className="level-card-copy"><strong>{level} 學習區</strong><span>單字・文法・文章・聽力・模擬試題・課程</span></div>
           <div className="progress-track"><span style={{width:`${pct}%`}} /></div>
           <div className="level-stats"><span>教材 {total}</span><span>學習中 {stat.learning}</span><span>已掌握 {stat.mastered}</span></div>
         </button>

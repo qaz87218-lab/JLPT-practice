@@ -843,14 +843,14 @@
     "id": "n2v-00121",
     "word": "籠",
     "reading": "かご",
-    "meaning": "籃；人籃",
+    "meaning": "籠子、籃子",
     "category": "名詞"
   },
   {
     "id": "n2v-00122",
     "word": "火口",
     "reading": "かこう",
-    "meaning": "次山口",
+    "meaning": "火山口、噴火口",
     "category": "名詞"
   },
   {
@@ -948,7 +948,7 @@
     "id": "n2v-00136",
     "word": "活用する",
     "reading": "かつようする",
-    "meaning": "有效利用；詞尾小化",
+    "meaning": "活用、有效利用；（語法）活用變化",
     "category": "名詞・サ變動詞"
   },
   {
@@ -997,7 +997,7 @@
     "id": "n2v-00143",
     "word": "過半数",
     "reading": "かはんすう",
-    "meaning": "迪半數",
+    "meaning": "過半數、超過一半",
     "category": "名詞"
   },
   {
@@ -1886,7 +1886,7 @@
     "id": "n2v-00270",
     "word": "句読点",
     "reading": "くとうてん",
-    "meaning": "（中文欄辨識不清）",
+    "meaning": "標點符號、句號與逗號",
     "category": "名詞"
   },
   {
@@ -8025,7 +8025,7 @@
     "id": "n2v-01147",
     "word": "表現",
     "reading": "ひょうげん",
-    "meaning": "",
+    "meaning": "表達、表現",
     "category": "名詞・サ變動詞"
   },
   {
@@ -9159,7 +9159,7 @@
     "id": "n2v-01309",
     "word": "迷信",
     "reading": "めいしん",
-    "meaning": "",
+    "meaning": "迷信",
     "category": "名詞"
   },
   {

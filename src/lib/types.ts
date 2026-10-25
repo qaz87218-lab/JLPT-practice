@@ -1,5 +1,5 @@
 export type JlptLevel = 'N5' | 'N4' | 'N3' | 'N2' | 'N1'
-export type JlptSection = 'vocabulary' | 'grammar' | 'reading' | 'listening' | 'speaking' | 'mock'
+export type JlptSection = 'vocabulary' | 'grammar' | 'reading' | 'listening' | 'mock'
 export type JlptLearningSection = Exclude<JlptSection, 'mock'>
 
 export type VocabularyItem = {
@@ -73,14 +73,12 @@ export type MockTest = {
 
 export type ListeningLine = { speaker?: string; startMs?: number; endMs?: number; ja: string; reading?: string; zh?: string }
 export type ListeningItem = { id: string; title: string; audioPath?: string; durationSeconds?: number; lines: ListeningLine[]; questions: ChoiceQuestion[] }
-export type SpeakingItem = { id: string; title: string; activityType: 'read_aloud' | 'roleplay' | 'free_answer'; promptJa: string; promptZh?: string; referenceAnswerJa?: string }
 
 export type JlptLevelData = {
   vocabulary: VocabularyItem[]
   grammar: GrammarItem[]
   reading: ReadingItem[]
   listening: ListeningItem[]
-  speaking: SpeakingItem[]
   mockTests: MockTest[]
 }
 

@@ -5,7 +5,7 @@ export type SourceWord = {
  id:string; word:string; reading:string; romaji?:string; meanings?:string[]; level:JlptLevel;
  pos?:string[]; jmdict_id?:number|null; other_forms?:string[]; examples?:SourceExample[]
 }
-export type VocabExample={ja:string;furigana?:string;meaningEn?:string;tatoebaId?:number}
+export type VocabExample={ja:string;furigana?:string;meaningEn?:string;tatoebaId?:number;meaningZh?:string}
 export type VocabEntry={
  id:string; word:string; reading:string; romaji:string; meaningsEn:string[];
  meaningZh:string|null; pos:string[]; levels:JlptLevel[]; jmdictId:number|null;

@@ -1,3 +1,5 @@
+> **歷史說明：此文件僅記錄 v0.4.5。最新版請先閱讀 README_V046_COMPLETE_INTEGRATION.md。**
+
 # JLPT Deep Practice v0.4.5 — Nihongo Quest 單字資料整合（部分可離線）
 
 這是**JLPT App** 的完整專案延伸版，不是 Nihongo Quest 改版。

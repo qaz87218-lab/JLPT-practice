@@ -1,6 +1,6 @@
 {
   "name": "jlpt-deep-practice-app",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -15,7 +15,11 @@
     "verify:deep": "node scripts/verify-deep-grammar.mjs",
     "verify:courses": "node scripts/verify-courses.mjs",
     "verify:archive": "node scripts/verify-n2-archive.mjs",
-    "verify:nihongo": "node scripts/verify-nihongo-vocab.mjs"
+    "verify:nihongo": "node scripts/verify-nihongo-vocab.mjs",
+    "prefetch:wordmaster": "node scripts/prefetch-wordmaster.mjs",
+    "verify:v046": "node scripts/verify-v046.mjs",
+    "verify:all": "npm run verify:data && npm run verify:2018 && npm run verify:deep && npm run verify:courses && npm run verify:archive && npm run verify:nihongo && npm run verify:v046 && npm run test:rpg",
+    "test:rpg": "node scripts/test-rpg.mjs"
   },
   "dependencies": {
     "next": "latest",

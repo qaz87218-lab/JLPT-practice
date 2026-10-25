@@ -1,0 +1,34 @@
+{
+  "version": "0.4.1",
+  "total_deep_notes": 101,
+  "by_level": {
+    "N5": 11,
+    "N4": 10,
+    "N3": 13,
+    "N2": 67
+  },
+  "n2_notes_added": 67,
+  "n2_notes_with_source_page": 65,
+  "n2_editorial_comparisons_without_new_pdf_page": 2,
+  "n2_verified_example_transcriptions": 25,
+  "limitations": [
+    "內容為助理修訂，非經認證的專業校對",
+    "N2 的兩份新文件尚未逐句完成全面校對，部分未對應文法項目保留在原檔中",
+    "未於本機執行完整 Next.js build 或 Vercel 部署測試"
+  ],
+  "original_data": [
+    "551 grammar",
+    "1102 preexisting examples",
+    "75 written mock questions 2018-07 N2"
+  ],
+  "change_scope": [
+    "src/data/grammar-deep-notes.json",
+    "src/app/jlpt/[level]/[section]/SectionClient.tsx",
+    "scripts/verify-deep-grammar.mjs",
+    "package.json",
+    "README.md",
+    "SOURCE_MATERIALS/N2總整理.pdf",
+    "SOURCE_MATERIALS/N2文法 (有例句).pdf"
+  ],
+  "baseline_content_changed": []
+}

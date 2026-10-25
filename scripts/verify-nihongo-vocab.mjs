@@ -9,5 +9,5 @@ for(const [level,n] of Object.entries(counts)) {
  console.log(`${level.toUpperCase()}: ${a.length} items; ${a.filter(x=>!x.meaning).length} items need Chinese translation review`)
 }
 const n2=JSON.parse(fs.readFileSync(new URL('../public/vocab/nihongo/n2.json',import.meta.url),'utf-8'))
-assert.equal(n2.filter(x=>!x.meaning).length,2,'N2 原始空白詞義數量變動')
+assert.equal(n2.filter(x=>!x.meaning).length,0,'N2 翻譯空白：已補充的 2 筆不應再次遺失')
 console.log('Nihongo vocabulary static-source checks passed')
